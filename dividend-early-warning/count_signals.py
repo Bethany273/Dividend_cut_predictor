@@ -1,90 +1,44 @@
-import os
+# compare_filings.py
 import re
+import os
 
-# Define your signal word lists
-WARNING_WORDS = [
-    "prudent", "flexible", "evaluate", "review", "uncertain", 
-    "challenging", "liquidity", "preserve", "suspension", 
-    "reduce", "modify", "capital allocation", "reassessment",
-    "difficult", "pressure", "risk", "uncertainty", "volatile"
-]
+def analyze_filing(mda_text, warning_words, safe_words):
+    text_lower = mda_text.lower()
+    warning_total = 0
+    safe_total = 0
+    
+    for word in warning_words:
+        warning_total += len(re.findall(r'\b' + re.escape(word) + r'\b', text_lower))
+    for word in safe_words:
+        safe_total += len(re.findall(r'\b' + re.escape(word) + r'\b', text_lower))
+    
+    ratio = warning_total/safe_total if safe_total > 0 else warning_total
+    improved = warning_total/(warning_total + safe_total) if (warning_total + safe_total) > 0 else 0
+    
+    return warning_total, safe_total, ratio, improved
 
-SAFE_WORDS = [
-    "committed", "growing", "increase", "sustainable", 
-    "long-term", "shareholder return", "confidence", 
-    "strong", "healthy", "improved", "optimistic"
-]
+warning_words = ["uncertain", "liquidity", "preserve", "reduce", "challenging", "flexible", "evaluate", "review", "suspension", "pressure", "risk", "volatile"]
+safe_words = ["committed", "confidence", "strong", "sustainable", "growing", "increase", "optimistic", "healthy"]
 
-def count_words(text, word_list):
-    """Count how many times words from a list appear in text"""
-    text_lower = text.lower()
-    counts = {}
-    total = 0
-    
-    for word in word_list:
-        # Count occurrences (word boundaries to avoid partial matches)
-        pattern = r'\b' + re.escape(word) + r'\b'
-        count = len(re.findall(pattern, text_lower))
-        if count > 0:
-            counts[word] = count
-            total += count
-    
-    return total, counts
+print("\n=== DISNEY DIVIDEND LANGUAGE TREND (2020) ===\n")
+print(f"{'Filing Date':<12} {'Warning':<8} {'Safe':<8} {'Ratio':<8} {'Improved':<8}")
+print("-" * 50)
 
-def analyze_filing(mda_text):
-    """Analyze a single filing and return signal scores"""
-    warning_total, warning_details = count_words(mda_text, WARNING_WORDS)
-    safe_total, safe_details = count_words(mda_text, SAFE_WORDS)
-    
-    # Calculate a "risk score" (higher = more likely to cut)
-    if safe_total > 0:
-        risk_score = warning_total / safe_total
-    else:
-        risk_score = warning_total if warning_total > 0 else 0
-    
-    return {
-        'warning_count': warning_total,
-        'safe_count': safe_total,
-        'risk_score': risk_score,
-        'warning_details': warning_details,
-        'safe_details': safe_details
-    }
+# Look for all MDA files
+for filename in sorted(os.listdir()):
+    if "disney_10q_" in filename and "_MDA.txt" in filename:
+        date = filename.replace("disney_10q_", "").replace("_MDA.txt", "")
+        
+        with open(filename, "r", encoding="utf-8") as f:
+            text = f.read()
+        
+        w, s, ratio, improved = analyze_filing(text, warning_words, safe_words)
+        
+        # Mark when dividend cut happened (May 2020)
+        cut_marker = " ← CUT HAPPENED" if date.startswith("2020-05") else ""
+        
+        print(f"{date:<12} {w:<8} {s:<8} {ratio:<8.2f} {improved:<8.2f}{cut_marker}")
 
-# Analyze all downloaded MDA files
-print("=== SIGNAL WORD ANALYSIS ===\n")
-
-mda_files = [f for f in os.listdir() if f.endswith("_MDA.txt")]
-
-results = []
-
-for filename in sorted(mda_files):
-    print(f"Analyzing: {filename}")
-    
-    with open(filename, "r", encoding="utf-8") as f:
-        mda_text = f.read()
-    
-    analysis = analyze_filing(mda_text)
-    
-    # Extract date from filename
-    date = filename.replace("disney_10q_", "").replace("_MDA.txt", "")
-    
-    results.append({
-        'date': date,
-        'filename': filename,
-        **analysis
-    })
-    
-    print(f"  Warning words: {analysis['warning_count']}")
-    print(f"  Safe words: {analysis['safe_count']}")
-    print(f"  Risk score: {analysis['risk_score']:.2f}")
-    
-    if analysis['warning_details']:
-        print(f"  Top warnings: {list(analysis['warning_details'].keys())[:3]}")
-    print()
-
-# Summary
-print("=== SUMMARY TABLE ===")
-print(f"{'Date':<12} {'Warning':<10} {'Safe':<10} {'Risk Score':<10}")
-print("-" * 45)
-for r in results:
-    print(f"{r['date']:<12} {r['warning_count']:<10} {r['safe_count']:<10} {r['risk_score']:<10.2f}")
+print("\n=== INTERPRETATION ===")
+print("If Improved Score goes UP from Feb → May → Aug: Language became more cautious")
+print("If Improved Score goes DOWN: Language became more confident after the cut")
