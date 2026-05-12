@@ -1,0 +1,1517 @@
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+WASHINGTON, D.C. 20549
+
+FORM10-Q
+
+(Mark One)
+
+  QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934  
+ ───────────────────────────────────────────────────────────────────────────────────────────
+
+For the quarterly period endedMarch 21, 2020(12 weeks)
+
+OR
+
+  TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934  
+ ────────────────────────────────────────────────────────────────────────────────────────────
+
+For the transition period from to
+
+Commission file number1-1183
+
+  PepsiCo, Inc.  
+
+(Exact Name of Registrant as Specified in its Charter)
+
+  North Carolina                       13-1584302           
+  (State or Other Jurisdiction of      (I.R.S. Employer     
+
+700 Anderson Hill Road, Purchase, New York10577
+
+  (Address of principal executive offices and Zip Code)  
+
+(914)253-2000
+
+  Registrant's telephone number, including area code  
+
+N/A
+
+  (Former Name, Former Address and Former Fiscal Year, if Changed Since Last Report)  
+ ──────────────────────────────────────────────────────────────────────────────────────
+
+Securities registered pursuant to Section 12(b) of the Securities Exchange Act of 1934:
+
+  Title of each class                                Trading Symbols      Name of each exchange on which registered  
+  Common Stock, par value 1-2/3 cents per share      PEP                  The Nasdaq Stock Market LLC                
+  2.500% Senior Notes Due 2022                       PEP22a               The Nasdaq Stock Market LLC                
+  1.750% Senior Notes Due 2021                       PEP21a               The Nasdaq Stock Market LLC                
+  2.625% Senior Notes Due 2026                       PEP26                The Nasdaq Stock Market LLC                
+  0.875% Senior Notes Due 2028                       PEP28                The Nasdaq Stock Market LLC                
+  0.750% Senior Notes Due 2027                       PEP27                The Nasdaq Stock Market LLC                
+  1.125% Senior Notes Due 2031                       PEP31                The Nasdaq Stock Market LLC                
+  0.875% Senior Notes Due 2039                       PEP39                The Nasdaq Stock Market LLC                
+ ─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. Yes x No¨
+
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files). Yes x No¨
+
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See the definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company,” and “emerging growth company” in Rule 12b-2 of the Exchange Act.
+
+  Large accelerated filer      Accelerated filer          
+  Non-accelerated filer        Smaller reporting company  
+ ──────────────────────────────────────────────────────────
+                               Emerging growth company    
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ¨
+
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes☐ No x
+
+Number of shares of Common Stock outstanding as ofApril 21, 2020 was1,387,500,433.
+
+Table of Contents
+
+PepsiCo, Inc. and Subsidiaries
+
+Table of Contents
+
+                                                                                                                                                          Page No.  
+  Part I Financial Information                                                                                                                                      
+  Item 1.                                                      Condensed Consolidated Financial Statements                                                       3  
+                                                               Condensed Consolidated Statement of Income –                                                      3  
+                                                               Condensed Consolidated Statement of Comprehensive Income –                                        4  
+                                                               Condensed Consolidated Statement of Cash Flows –                                                  5  
+                                                               Condensed Consolidated Balance Sheet –                                                            6  
+                                                               Condensed Consolidated Statement of Equity –                                                      7  
+                                                               Notes to the Condensed Consolidated Financial Statements                                          8  
+  Item 2.                                                      Management’s Discussion and Analysis of Financial Condition and Results of Operations            21  
+  Report of Independent Registered Public Accounting Firm                                                                                                       38  
+  Item 3.                                                      Quantitative and Qualitative Disclosures About Market Risk                                       39  
+  Item 4.                                                      Controls and Procedures                                                                          39  
+  Part II Other Information                                                                                                                                         
+  Item 1.                                                      Legal Proceedings                                                                                40  
+  Item 1A.                                                     Risk Factors                                                                                     40  
+  Item 2.                                                      Unregistered Sales of Equity Securities and Use of Proceeds                                      42  
+  Item 6.                                                      Exhibits                                                                                         42  
+
+
+PART I FINANCIAL INFORMATION
+
+ITEM 1. Condensed Consolidated Financial Statements.
+
+Condensed Consolidated Statement of Income
+
+PepsiCo, Inc. and Subsidiaries
+
+(in millions except per share amounts, unaudited)
+
+                                                                 12 Weeks Ended                                         
+                                                                 3/21/2020                       3/23/2019              
+ ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Net Revenue                                                    $                   13,881      $              12,884  
+  Cost of sales                                                                       6,127                      5,688  
+  Gross profit                                                                        7,754                      7,196  
+  Selling, general and administrative expenses                                        5,830                      5,188  
+  Operating Profit                                                                    1,924                      2,008  
+  Other pension and retiree medical benefits income              77                              64                     
+  Net interest expense and other                                 ( 290                           ( 204                  
+  Income before income taxes                                                          1,711                      1,868  
+  Provision for income taxes                                     360                             446                    
+  Net income                                                                          1,351                      1,422  
+  Less: Net income attributable to noncontrolling interests      13                              9                      
+  Net Income Attributable to PepsiCo                             $                    1,338      $               1,413  
+  Net Income Attributable to PepsiCo per Common Share                                                                   
+  Basic                                                          $                     0.96      $                1.01  
+  Diluted                                                        $                     0.96      $                1.00  
+  Weighted-average common shares outstanding                                                                            
+  Basic                                                                               1,390                      1,406  
+  Diluted                                                                             1,396                      1,413  
+
+See accompanying notes to the condensed consolidated financial statements.
+
+
+Condensed Consolidated Statement of Comprehensive Income
+
+PepsiCo, Inc. and Subsidiaries
+
+(in millions, unaudited)
+
+                                                                     12 Weeks Ended                                       
+                                                                          3/21/2020                 3/23/2019             
+ ──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Net income                                                                      $      1,351      $              1,422  
+  Other comprehensive (loss)/income, net of taxes:                                                                        
+  Net currency translation adjustment                                         ( 754                 473                   
+  Net change on cash flow hedges                                               ( 61                 ( 27                  
+  Net pension and retiree medical adjustments                                    57                 17                    
+  Other                                                                           1                 —                     
+                                                                              ( 757                 463                   
+  Comprehensive income                                                          594                                1,885  
+  Comprehensive income attributable to noncontrolling interests                ( 13                 ( 9                   
+  Comprehensive Income Attributable to PepsiCo                                    $        581      $              1,876  
+
+See accompanying notes to the condensed consolidated financial statements.
+
+
+Condensed Consolidated Statement of Cash Flows
+
+PepsiCo, Inc. and Subsidiaries
+
+(in millions, unaudited)
+
+                                                                                                              12 Weeks Ended                                           
+                                                                                                                   3/21/2020                   3/23/2019               
+ ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Operating Activities                                                                                                                                                 
+  Net income                                                                                                               $        1,351              $        1,422  
+  Depreciation and amortization                                                                                          533                         498               
+  Share-based compensation expense                                                                                        61                          57               
+  Restructuring and impairment charges                                                                                    38                          26               
+  Cash payments for restructuring charges                                                                               ( 60                        ( 52               
+  Pension and retiree medical plan expenses                                                                               40                          47               
+  Pension and retiree medical plan contributions                                                                       ( 234                       ( 260               
+  Deferred income taxes and other tax charges and credits                                                                 25                         216               
+  Net tax related to the Tax Cuts and Jobs Act (TCJ Act)                                                                   —                        ( 29               
+  Change in assets and liabilities:                                                                                                                                    
+  Accounts and notes receivable                                                                                        ( 784                       ( 406               
+  Inventories                                                                                                          ( 312                       ( 435               
+  Prepaid expenses and other current assets                                                                            ( 263                       ( 382               
+  Accounts payable and other current liabilities                                                                                  ( 1,419                     ( 1,207  
+  Income taxes payable                                                                                                   204                         120               
+  Other, net                                                                                                              71                          40               
+  Net Cash Used for Operating Activities                                                                               ( 749                       ( 345               
+  Investing Activities                                                                                                                                                 
+  Capital spending                                                                                                     ( 484                       ( 442               
+  Sales of property, plant and equipment                                                                                   5                           2               
+  Acquisition of SodaStream International Ltd. (SodaStream)                                                              ( 9                                  ( 1,807  
+  Other acquisitions and investments in noncontrolled affiliates                                                       ( 445                        ( 56               
+  Short-term investments, by original maturity - three months or less, net                                                 7                           9               
+  Other investing, net                                                                                                     1                         ( 6               
+  Net Cash Used for Investing Activities                                                                               ( 925                                  ( 2,300  
+  Financing Activities                                                                                                                                                 
+  Proceeds from issuances of long-term debt                                                                                         6,429                       1,122  
+  Payments of long-term debt                                                                                             ( 1                                  ( 1,851  
+  Short-term borrowings, by original maturity:                                                                                                                         
+  More than three months - proceeds                                                                                      164                           2               
+  More than three months - payments                                                                                      ( 2                           —               
+  Three months or less, net                                                                                                         2,794            115               
+  Cash dividends paid                                                                                                             ( 1,349                     ( 1,332  
+  Share repurchases - common                                                                                           ( 573                       ( 940               
+  Proceeds from exercises of stock options                                                                                78                         103               
+  Withholding tax payments on restricted stock units (RSUs) and performance stock units (PSUs) converted                ( 76                        ( 93               
+  Other financing                                                                                                        ( 2                         ( 2               
+  Net Cash Provided by/(Used for) Financing Activities                                                                              7,462                     ( 2,876  
+  Effect of exchange rate changes on cash and cash equivalents and restricted cash                                      ( 66                          57               
+  Net Increase/(Decrease) in Cash and Cash Equivalents and Restricted Cash                                                          5,722                     ( 5,464  
+  Cash and Cash Equivalents and Restricted Cash, Beginning of Year                                                                  5,570                      10,769  
+  Cash and Cash Equivalents and Restricted Cash, End of Period                                                             $       11,292              $        5,305  
+  Supplemental Non-Cash Activity                                                                                                                                       
+  Right-of-use assets obtained in exchange for lease obligations                                                           $          148              $           59  
+
+See accompanying notes to the condensed consolidated financial statements.
+
+
+Condensed Consolidated Balance Sheet
+
+PepsiCo, Inc. and Subsidiaries
+
+(in millions except per share amounts)
+
+                                                                                                                                                                         (Unaudited)                                              
+                                                                                                                                                                         3/21/2020                      12/28/2019                
+  ASSETS                                                                                                                                                                                                                          
+  Current Assets                                                                                                                                                                                                                  
+  Cash and cash equivalents                                                                                                                                              $                  11,089      $                  5,509  
+  Short-term investments                                                                                                                                                 158                            229                       
+  Accounts and notes receivable, less allowance: 3/20 - $228 and 12/19 - $105                                                                                                                8,477                         7,822  
+  Inventories:                                                                                                                                                                                                                    
+  Raw materials and packaging                                                                                                                                                                1,502                         1,395  
+  Work-in-process                                                                                                                                                        277                            200                       
+  Finished goods                                                                                                                                                                             1,821                         1,743  
+                                                                                                                                                                                             3,600                         3,338  
+  Prepaid expenses and other current assets                                                                                                                              944                            747                       
+  Total Current Assets                                                                                                                                                                      24,268                        17,645  
+  Property, plant and equipment                                                                                                                                                             42,696                        43,003  
+  Accumulated depreciation                                                                                                                                                                ( 23,716                      ( 23,698  
+  Property, Plant and Equipment, net                                                                                                                                                        18,980                        19,305  
+  Amortizable Intangible Assets, net                                                                                                                                                         1,443                         1,433  
+  Goodwill                                                                                                                                                                                  15,465                        15,501  
+  Other indefinite-lived intangible assets                                                                                                                                                  14,536                        14,610  
+  Indefinite-Lived Intangible Assets                                                                                                                                                        30,001                        30,111  
+  Investments in Noncontrolled Affiliates                                                                                                                                                    2,719                         2,683  
+  Deferred Income Taxes                                                                                                                                                                      4,357                         4,359  
+  Other Assets                                                                                                                                                                               3,294                         3,011  
+  Total Assets                                                                                                                                                           $                  85,062      $                 78,547  
+  LIABILITIES AND EQUITY                                                                                                                                                                                                          
+  Current Liabilities                                                                                                                                                                                                             
+  Short-term debt obligations                                                                                                                                            $                   5,882      $                  2,920  
+  Accounts payable and other current liabilities                                                                                                                                            16,196                        17,541  
+  Total Current Liabilities                                                                                                                                                                 22,078                        20,461  
+  Long-Term Debt Obligations                                                                                                                                                                35,361                        29,148  
+  Deferred Income Taxes                                                                                                                                                                      4,060                         4,091  
+  Other Liabilities                                                                                                                                                                         10,004                         9,979  
+  Total Liabilities                                                                                                                                                                         71,503                        63,679  
+  Commitments and contingencies                                                                                                                                                                                                   
+  PepsiCo Common Shareholders’ Equity                                                                                                                                                                                             
+  Common stock, par value 1 2 / 3 ¢ per share (authorized 3,600 shares; issued, net of repurchased common stock at par value: 1,389 and 1,391 shares, respectively)      23                             23                        
+  Capital in excess of par value                                                                                                                                                             3,741                         3,886  
+  Retained earnings                                                                                                                                                                         61,920                        61,946  
+  Accumulated other comprehensive loss                                                                                                                                                    ( 15,057                      ( 14,300  
+  Repurchased common stock, in excess of par value (478 and 476 shares, respectively)                                                                                                     ( 37,162                      ( 36,769  
+  Total PepsiCo Common Shareholders’ Equity                                                                                                                                                 13,465                        14,786  
+  Noncontrolling interests                                                                                                                                               94                             82                        
+  Total Equity                                                                                                                                                                              13,559                        14,868  
+  Total Liabilities and Equity                                                                                                                                           $                  85,062      $                 78,547  
+
+See accompanying notes to the condensed consolidated financial statements.
+
+
+Condensed Consolidated Statement of Equity
+
+PepsiCo, Inc. and Subsidiaries
+
+(in millions, except per share amounts, unaudited)
+
+                                                                 12 Weeks Ended                                                                     
+                                                                      3/21/2020                                3/23/2019                            
+                                                                         Shares      Amount                       Shares      Amount                
+ ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Common Stock                                                                                                                                      
+  Balance, beginning of period                                            1,391           $            23          1,409           $            23  
+  Change in repurchased common stock                                        ( 2           —                          ( 5           —                
+  Balance, end of period                                                  1,389          23                        1,404          23                
+  Capital in Excess of Par Value                                                                                                                    
+  Balance, beginning of period                                                                      3,886                                    3,953  
+  Share-based compensation expense                                                       62                                       57                
+  Stock option exercises, RSUs and PSUs converted                                     ( 131                                    ( 164                
+  Withholding tax on RSUs and PSUs converted                                           ( 76                                     ( 93                
+  Balance, end of period                                                                            3,741                                    3,753  
+  Retained Earnings                                                                                                                                 
+  Balance, beginning of period                                                                     61,946                                   59,947  
+  Cumulative effect of accounting changes                                              ( 34                                        8                
+  Net income attributable to PepsiCo                                                                1,338                                    1,413  
+  Cash dividends declared – common (a)                                                            ( 1,330                                  ( 1,308  
+  Balance, end of period                                                                           61,920                                   60,060  
+  Accumulated Other Comprehensive Loss                                                                                                              
+  Balance, beginning of period                                                                   ( 14,300                                 ( 15,119  
+  Other comprehensive (loss)/income attributable to PepsiCo                           ( 757                                      463                
+  Balance, end of period                                                                         ( 15,057                                 ( 14,656  
+  Repurchased Common Stock                                                                                                                          
+  Balance, beginning of period                                            ( 476                  ( 36,769          ( 458                  ( 34,286  
+  Share repurchases                                                         ( 4       ( 602                          ( 9       ( 971                
+  Stock option exercises, RSUs and PSUs converted                             2         209                            4         279                
+  Balance, end of period                                                  ( 478                  ( 37,162          ( 463                  ( 34,978  
+  Total PepsiCo Common Shareholders’ Equity                                                        13,465                                   14,202  
+  Noncontrolling Interests                                                                                                                          
+  Balance, beginning of period                                                           82                                       84                
+  Net income attributable to noncontrolling interests                                    13                                        9                
+  Other, net                                                                            ( 1                                        1                
+  Balance, end of period                                                                 94                                       94                
+  Total Equity                                                                            $        13,559                          $        14,296  
+
+  (a)      Cash dividends declared per common share were $ 0.955 and $ 0.9275 for the 12 weeks ended March 21, 2020 and March 23, 2019, respectively.  
+
+See accompanying notes to the condensed consolidated financial statements.
+
+
+Notes to the Condensed Consolidated Financial Statements
+
+Note 1 - Basis of Presentation and Our Divisions
+
+Basis of Presentation
+
+When used in this report, the terms “we,” “us,” “our,” “PepsiCo” and the “Company” mean PepsiCo, Inc. and its consolidated subsidiaries, collectively.
+
+The accompanying unaudited condensed consolidated financial statements have been prepared in accordance with U.S. Generally Accepted Accounting Principles (GAAP) for interim financial information and with the rules and regulations for reporting the Quarterly Report on Form 10-Q (Form 10-Q). Accordingly, they do not include all of the information and footnotes required by GAAP for complete financial statements. The condensed consolidated balance sheet atDecember 28, 2019 has been derived from the
+audited consolidated financial statements at that date, but does not include all of the information and footnotes required by GAAP for complete financial statements. These financial statements have been prepared on a basis that is substantially consistent with the accounting principles applied in our Annual Report on Form 10-K for the fiscal year ended December 28, 2019 (2019 Form 10-K), as modified to reflect the adoption of the recently issued accounting pronouncement disclosed in Note 2 in 
+this Form 10-Q. This report should be read in conjunction with our2019 Form 10-K. In our opinion, these financial statements include all normal and recurring adjustments necessary for a fair presentation. The results for the12 weeks endedMarch 21, 2020 are not necessarily indicative of the results expected for any future period or the full year.
+
+While our financial results in the United States and Canada (North America) are reported on a 12-week basis, substantially all of our international operations report on a monthly calendar basis for which the months of January and February are reflected in our results for the12 weeks ended March 21, 2020.
+
+Our significant interim accounting policies include the recognition of a pro rata share of certain estimated annual sales incentives and certain advertising and marketing costs in proportion to revenue or volume, as applicable, and the recognition of income taxes using an estimated annual effective tax rate. Raw materials, direct labor and plant overhead, as well as purchasing and receiving costs, costs directly related to production planning, inspection costs and raw materials handling 
+facilities, are included in cost of sales. The costs of moving, storing and delivering finished product, including merchandising activities, are included in selling, general and administrative expenses.
+
+Unless otherwise noted, tabular dollars are in millions, except per share amounts. All per share amounts reflect common per share amounts, assume dilution unless otherwise noted, and are based on unrounded amounts.
+
+Our Divisions
+
+As previously disclosed in our 2019 Form 10-K, during the fourth quarter of 2019, we realigned certain of our reportable segments to be consistent with a recent strategic realignment of our organizational structure and how our Chief Executive Officer assesses the performance of, and allocates resources to, our reportable segments. Our historical segment reporting presented in this report has been retrospectively revised to reflect the new organizational structure. These changes did not impact 
+our consolidated financial results. See Note 1 to our consolidated financial statements in our2019 Form 10-K for further information.
+
+We are organized into seven reportable segments (also referred to as divisions), as follows:
+
+  Frito-Lay North America (FLNA), which includes our branded food and snack businesses in the United States and Canada;  
+
+  Quaker Foods North America (QFNA), which includes our cereal, rice, pasta and other branded food businesses in the United States and Canada;  
+
+
+  PepsiCo Beverages North America (PBNA), which includes our beverage businesses in the United States and Canada;  
+
+  Latin America (LatAm), which includes all of our beverage, food and snack businesses in Latin America;  
+
+  Europe, which includes all of our beverage, food and snack businesses in Europe;  
+
+  Africa, Middle East and South Asia (AMESA), which includes all of our beverage, food and snack businesses in Africa, the Middle East and South Asia; and  
+
+  Asia Pacific, Australia and New Zealand and China region (APAC), which includes all of our beverage, food and snack businesses in Asia Pacific, Australia and New Zealand, and China region.  
+
+Net revenue and operating profit of each division are as follows:
+
+                       12 Weeks Ended                                         
+  Net Revenue (a)      3/21/2020                       3/23/2019              
+ ──────────────────────────────────────────────────────────────────────────────
+  FLNA                 $                    4,074      $               3,815  
+  QFNA                 634                             594                    
+  PBNA                                      4,838                      4,510  
+  LatAm                                     1,310                      1,241  
+  Europe                                    1,839                      1,620  
+  AMESA                631                             579                    
+  APAC                 555                             525                    
+  Total                $                   13,881      $              12,884  
+
+  (a)      Our primary performance obligation is the distribution and sales of beverage, food and snack products to our customers. For the 12 weeks ended March 21, 2020 and March 23, 2019, our food and sn...  
+ ─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+                                      12 Weeks Ended                                       
+  Operating Profit                    3/21/2020                      3/23/2019             
+ ───────────────────────────────────────────────────────────────────────────────────────────
+  FLNA (a)                            $                   1,202      $              1,159  
+  QFNA (a)                            150                            138                   
+  PBNA (a)                            297                            389                   
+  LatAm                               231                            230                   
+  Europe (a)                          146                            115                   
+  AMESA                               134                            105                   
+  APAC (a)                            142                            106                   
+  Total division                      $                   2,302      $              2,242  
+  Corporate unallocated expenses      ( 378                          ( 234                 
+  Total                               $                   1,924      $              2,008  
+
+  (a)      In the 12 weeks ended March 21, 2020, operating profit includes $ 143 million of certain charges taken as a result of the novel coronavirus ( COVID-19) pandemic, including $ 68 million of incre...  
+
+
+Note 2 - Recently Issued Accounting Pronouncements
+
+Adopted
+
+In 2016, the Financial Accounting Standards Board (FASB) issued guidance that changes the impairment model used to measure credit losses for most financial assets. For our trade receivables, certain other receivables and certain other financial instruments, we are required to use a new forward-looking expected credit loss model that replaced the existing incurred credit loss model. The new model generally results in earlier recognition of allowances for credit losses. We adopted this guidance 
+prospectively in the first quarter of 2020 and the adoption did not have a material impact on our condensed consolidated financial statements or disclosures. We recorded an after-tax cumulative effect decrease to retained earnings of$34million($44million pre-tax) as of the beginning of 2020 and, during the first quarter of 2020, we increased our allowance for expected credit losses and recorded a pre-tax charge of$68million. This increase in allowance reflects the forward-looking expected impact
+of the global economic uncertainty caused by COVID-19, leveraging estimates of credit worthiness, default and recovery rates for certain of our customers, including foodservice and vending businesses.
+
+Not Yet Adopted
+
+In 2019, the FASB issued guidance to simplify the accounting for income taxes. The guidance primarily addresses how to (1) recognize a deferred tax liability after we transition to or from the equity method of accounting, (2) evaluate if a step-up in the tax basis of goodwill is related to a business combination or is a separate transaction, (3) recognize all of the effects of a change in tax law in the period of enactment, including adjusting the estimated annual tax rate, and (4) include the 
+amount of tax based on income in the income tax provision and any incremental amount as a tax not based on income for hybrid tax regimes. The guidance is effective in the first quarter of 2021 with early adoption permitted. We are currently evaluating the impact of this guidance on our financial statements and the timing of adoption.
+
+Note 3 - Restructuring and Impairment Charges
+
+2019 Multi-Year Productivity Plan
+
+We publicly announced a multi-year productivity plan on February 15, 2019 (2019 Productivity Plan) that will leverage new technology and business models to further simplify, harmonize and automate processes; re-engineer our go-to-market and information systems, including deploying the right automation for each market; and simplify our organization and optimize our manufacturing and supply chain footprint. In connection with this plan, we expect to incur pre-tax charges of 
+approximately$2.5billion and cash expenditures of approximately$1.6billion. These pre-tax charges are expected to consist of approximately70% of severance and other employee-related costs,15% for asset impairments (all non-cash) resulting from plant closures and related actions, and15% for other costs associated with the implementation of our initiatives. We expect to complete this plan by 2023.
+
+The total expected plan pre-tax charges are expected to be incurred by division approximately as follows:
+
+  FLNA      QFNA      PBNA      LatAm      Europe      AMESA      APAC      Corporate  
+ ───────────────────────────────────────────────────────────────────────────────────────
+    11         2        30         10          25          8         5              9  
+
+
+A summary of our 2019 Productivity Plan charges is as follows:
+
+                                                                   12 Weeks Ended                                     
+                                                                   3/21/2020                     3/23/2019            
+ ──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Cost of sales                                                    $                      2      $                 8  
+  Selling, general and administrative expenses                     30                            23                   
+  Other pension and retiree medical benefits expense/(income)      6                             ( 5                  
+  Total restructuring and impairment charges                       $                     38      $                26  
+  After-tax amount                                                 $                     32      $                23  
+  Net income attributable to PepsiCo per common share              $                   0.02      $              0.02  
+
+                                                           12 Weeks Ended                          Plan to Date           
+                                                           3/21/2020           3/23/2019      through 3/21/2020           
+  FLNA                                                     $                   $                              $       58  
+ ──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  QFNA                                                     1                   —                              8           
+  PBNA                                                     3                   6                             94           
+  LatAm                                                    5                   —                             76           
+  Europe                                                   8                   6                            113           
+  AMESA                                                    2                   8                             43           
+  APAC                                                     —                   3                             49           
+  Corporate                                                8                   8                             62           
+                                                           32                  31                           503           
+  Other pension and retiree medical benefits expense/      6                   ( 5                           43           
+  Total                                                    $                   $                              $      546  
+
+  (a)      Income amount represents adjustments for changes in estimates of previously recorded amounts.  
+ ──────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+                                              12 Weeks Ended                                      Plan to Date                
+                                              3/21/2020                   3/23/2019               through 3/21/2020           
+ ──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Severance and other employee costs (a)      $                   22      $              ( 3      $                      308  
+  Asset impairments                           1                           8                       93                          
+  Other costs (b)                             15                          21                      145                         
+  Total                                       $                   38      $               26      $                      546  
+
+  (a)      Income amount represents adjustments for changes in estimates of previously recorded amounts.  
+ ──────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+  (b)      Includes other costs associated with the implementation of our initiatives, including contract termination costs, consulting and other professional fees.  
+
+A summary of our 2019 Productivity Plan activity for the12 weeks ended March 21, 2020 is as follows:
+
+                                         Severance and Other Employee Costs               Asset            Other Costs              Total           
+                                                                                          Impairments                                               
+ ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Liability as of December 28, 2019      $                                       128      $                $                21      $          149  
+  2020 restructuring charges             22                                               1                15                       38              
+  Cash payments                          ( 31                                             —                ( 29                     ( 60            
+  Non-cash charges and translation       ( 9                                              ( 1              4                        ( 6             
+  Liability as of March 21, 2020         $                                       110      $                $                11      $          121  
+
+Substantially all of the restructuring accrual atMarch 21, 2020 is expected to be paid by the end of2020.
+
+
+Other Productivity Initiatives
+
+There were no material charges related to other productivity and efficiency initiatives outside the scope of the 2019 Productivity Plan.
+
+We regularly evaluate different productivity initiatives beyond the productivity plan and other initiatives described above.
+
+Note 4 - Intangible Assets
+
+A summary of our amortizable intangible assets is as follows:
+
+                                      3/21/2020                                                        12/28/2019                                         
+                                      Gross                     Accumulated Amortization      Net      Gross           Accumulated Amortization      Net  
+ ──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Acquired franchise rights           $                829      $                             $        $               $                             $    
+  Reacquired franchise rights         105                       ( 105                         —        106             ( 105                         1    
+  Brands                                             1,307                                    249                                                    260  
+  Other identifiable intangibles      850                       ( 328                         522      810             ( 326                         484  
+  Total                               $              3,091      $                             $        $               $                             $    
+
+
+The change in the book value of indefinite-lived intangible assets is as follows:
+
+                                            Balance                  Acquisitions/                Translation        Balance              
+                                         12/28/2019                  (Divestitures)                 and Other      3/21/2020              
+ ──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  FLNA (a)                                                                                                                                
+  Goodwill                                        $         299      $                   162                $              $         450  
+  Brands                                        162                  176                                  ( 2            336              
+  Total                                         461                  338                                 ( 13            786              
+  QFNA                                                                                                                                    
+  Goodwill                                      189                  —                                      —            189              
+  Brands                                         11                  —                                      —             11              
+  Total                                         200                  —                                      —            200              
+  PBNA (b)                                                                                                                                
+  Goodwill                                                9,898      21                                  ( 39                      9,880  
+  Reacquired franchise rights                             7,089      —                                   ( 66                      7,023  
+  Acquired franchise rights                               1,517      —                                   ( 13                      1,504  
+  Brands                                        763                  —                                      —            763              
+  Total                                                  19,267      21                                 ( 118                     19,170  
+  LatAm                                                                                                                                   
+  Goodwill                                      501                  —                                   ( 26            475              
+  Brands                                        125                  —                                    ( 8            117              
+  Total                                         626                  —                                   ( 34            592              
+  Europe (c)                                                                                                                              
+  Goodwill                                                3,961      ( 3                                ( 131                      3,827  
+  Reacquired franchise rights                   505                  —                                   ( 20            485              
+  Acquired franchise rights                     157                  —                                    ( 3            154              
+  Brands                                                  4,181      —                                  ( 131                      4,050  
+  Total                                                   8,804      ( 3                                ( 285                      8,516  
+  AMESA                                                                                                                                   
+  Goodwill                                      446                  —                                      1            447              
+  Total                                         446                  —                                      1            447              
+  APAC                                                                                                                                    
+  Goodwill                                      207                  —                                   ( 10            197              
+  Brands                                        100                  —                                    ( 7             93              
+  Total                                         307                  —                                   ( 17            290              
+  Total goodwill                                         15,501      180                                ( 216                     15,465  
+  Total reacquired franchise rights                       7,594      —                                   ( 86                      7,508  
+  Total acquired franchise rights                         1,674      —                                   ( 16                      1,658  
+  Total brands                                            5,342      176                                ( 148                      5,370  
+  Total                                           $      30,111      $                   356                $              $      30,001  
+
+  (a)      The change from December 28, 2019 to March 21, 2020 primarily reflects our acquisition of BFY Brands, Inc. (BFY Brands).  
+ ─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+  (b)      The change in translation and other primarily reflects the depreciation of the Canadian dollar.  
+ ────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+  (c)      The change in translation and other primarily reflects the depreciation of the Russian ruble.  
+ ──────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+Note 5 - Income Taxes
+
+Tax Cuts and Jobs Act
+
+During the fourth quarter of 2017, the TCJ Act was enacted in the United States. The related provisional measurement period allowed by the U.S. Securities and Exchange Commission (SEC) ended in the fourth quarter of 2018. While our accounting for the recorded impact of the TCJ Act was deemed to be complete, additional guidance issued by the Internal Revenue Service ( IRS) impacted our recorded amounts after December 29, 2018.
+
+There were no tax amounts recognized in the12 weeks ended March 21, 2020 related to the TCJ Act. In the 12 weeks endedMarch 23, 2019, we recognized tax benefits of$29million($0.02 per share) related to the TCJ Act.
+
+Other Tax Matters
+
+On May 19, 2019, a public referendum held in Switzerland passed theFederal Act on Tax Reform and AHV Financing (TRAF), effective January 1, 2020. There were no income tax adjustments recorded in the 12 weeks ended March 21, 2020 related to the TRAF. Enactment of additional TRAF provisions subsequent to March 21, 2020 is expected to result in adjustments to our financial statements and related disclosures in future periods. The future impact of the TRAF cannot currently be reasonably estimated; 
+we will continue to monitor and assess the impact the TRAF may have on our business and financial results.
+
+For further information and discussion of the impacts of the TCJ Act and the TRAF, refer to Note 5 to our consolidated financial statements in our2019 Form 10-K.
+
+Subsequent to the end of our first quarter,
+the Coronavirus Aid, Relief, and Economic Security Act (CARES Act)
+was enacted on March 27, 2020 in the United States. The CARES Act and related notices include several significant provisions, including delaying certain payroll tax payments, mandatory transition tax payments under the TCJ Act, and estimated income tax payments that we expect to defer to future periods. We do not currently expect the CARES Act to have a material impact on our financial results, including on our annual estimated effective tax rate, or on our liquidity. We will continue to monitor
+and assess the impact the CARES Act and similar legislation in other countries may have on our business and financial results.
+
+Note 6 - Share-Based Compensation
+
+The following table summarizes our total share-based compensation expense:
+
+                                                           12 Weeks Ended                                 
+                                                           3/21/2020                   3/23/2019          
+ ──────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Share-based compensation expense - equity awards         $                   61      $              57  
+  Share-based compensation expense - liability awards      3                           1                  
+  Restructuring charges                                    1                           —                  
+  Total (a)                                                $                   65      $              58  
+
+  (a)      Primarily recorded in selling, general and administrative expenses.  
+
+
+The following table summarizes share-based awards granted under the terms of the PepsiCo, Inc. Long-Term Incentive Plan:
+
+                     12 Weeks Ended                                                                                                               
+                     3/21/2020                                                         3/23/2019                                                  
+                     Granted (a)         Weighted-Average Grant Price                  Granted (a)      Weighted-Average Grant Price              
+ ──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Stock options      1.6                 $                                 131.25      1.1              $                                 116.00  
+  RSUs and PSUs      2.4                 $                                 131.28      2.7              $                                 115.98  
+
+  (a)      In millions. All grant activity is disclosed at target.  
+
+We granted long-term cash awards to certain executive officers and other senior executives with an aggregate target value of$18million and$15million during the12 weeks ended March 21, 2020 and March 23, 2019, respectively.
+
+Our weighted-average Black-Scholes fair value assumptions are as follows:
+
+12 Weeks Ended
+3/21/2020 3/23/2019
+Expected life 6 years 5 years
+──────────────────────────────────────────────────────────────
+Risk-free interest rate 1.0 2.6
+Expected volatility 14 14
+Expected dividend yield 3.5 3.1
+
+Note 7 - Pension and Retiree Medical Benefits
+
+The components of net periodic benefit cost for pension and retiree medical plans are as follows:
+
+                                                                    12 Weeks Ended                                                                                                
+ ──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+                                                                    Pension                                                                       Retiree Medical                 
+                                                                    U.S.                                        International                                                     
+                                                                    3/21/2020                    3/23/2019      3/21/2020          3/23/2019      3/21/2020            3/23/2019  
+  Service cost                                                      $                   100      $              $                  $              $                    $          
+  Other pension and retiree medical benefits expense/(income):                                                                                                                    
+  Interest cost                                                     100                          125            16                 17             6                    8          
+  Expected return on plan assets                                    ( 214                        ( 206          ( 37               ( 33           ( 4                  ( 4        
+  Amortization of prior service cost/(credits)                      3                            2              —                  —              ( 3                  ( 4        
+  Amortization of net losses/(gains)                                45                           37             10                 5              ( 5                  ( 6        
+  Special termination benefits (a)                                  6                            ( 5            —                  —              —                    —          
+  Total other pension and retiree medical benefits income           ( 60                         ( 47           ( 11               ( 11           ( 6                  ( 6        
+  Total                                                             $                    40      $              $                  $              $                    $          
+
+  (a)      Income amount represents adjustments for changes in estimates of previously recorded amounts.  
+ ──────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+We continue to monitor the impact of the COVID-19 pandemic and related global economic conditions and uncertainty on the net unfunded status of our pension and retiree medical plans. We also regularly evaluate opportunities to reduce risk and volatility associated with our pension and retiree medical plans. In the 12
+
+
+weeks ended March 21, 2020, we made a discretionary contribution of$150million to the PepsiCo Employees Retirement Plan A (Plan A) in the United States. In the 12 weeks ended March 23, 2019, we made discretionary contributions of$150million to Plan A in the United States and$17million to our international plans.
+
+Note 8 - Debt Obligations
+
+In the12 weeks ended March 21, 2020, we issued the following senior notes:
+
+  Interest Rate      Maturity Date      Amount (a)  
+ ────────────────────────────────────────────────────
+          2.250      March 2025             $1,500  
+          2.625      March 2027               $500  
+          2.750      March 2030             $1,500  
+          3.500      March 2040               $750  
+          3.625      March 2050             $1,500  
+          3.875      March 2060               $750  
+
+  (a)      Represents gross proceeds from issuances of long-term debt excluding debt issuance costs, discounts and premiums.  
+
+The net proceeds from the issuances of the above notes will be used for general corporate purposes, including the repayment of commercial paper.
+
+In the12 weeks endedMarch 21, 2020, there were no maturities or prepayments of senior notes.
+
+As ofMarch 21, 2020, we had$2.8billion of commercial paper outstanding.
+
+On March 12, 2020, one of our international consolidated subsidiaries borrowed21.7billion South African rand, or approximately$1.3billion, from our two unsecured bridge loan facilities (Bridge Loan Facilities) to fund our acquisition of Pioneer Food Group Ltd. (Pioneer Foods). These borrowings are subject to a weighted-average initial annual interest rate of7.5%, which resets every month, have maturity dates within one year and can be prepaid at any time. No further borrowings under these Bridge
+Loan Facilities are permitted. On April 14, 2020, we repaid6.6billion South African rand, or approximately$360million, with no gain or loss recorded, and we have initiated repayment of the remaining outstanding borrowings and therefore expect these Bridge Loan Facilities to be fully repaid in the second quarter of 2020.
+
+Note 9 - Financial Instruments
+
+We are exposed to market risks arising from adverse changes in:
+
+  commodity prices, affecting the cost of our raw materials and energy;  
+
+  foreign exchange rates and currency restrictions; and  
+ ─────────────────────────────────────────────────────────
+
+  interest rates.  
+
+There have been no material changes during the12 weeks endedMarch 21, 2020 with respect to our risk management policies or strategies and valuation techniques used in measuring the fair value of the financial assets or liabilities disclosed in Note 9 to our consolidated financial statements in our2019 Form 10-K.
+
+Certain of our agreements with our counterparties require us to post full collateral on derivative instruments in a net liability position if our credit rating is at A2 (Moody’s Investors Service, Inc.) or A (S&P Global Ratings), and we have been placed on credit watch for possible downgrade or if our credit rating falls below these levels. The fair value of all derivative instruments with credit-risk-related contingent features that were in a net liability position as of March 21, 2020 
+was$672million. We have posted no collateral under these contracts and no credit-risk-related contingent features were triggered as of March 21, 2020.
+
+
+The notional amounts of our financial instruments used to hedge the above risks as ofMarch 21, 2020 and December 28, 2019 are as follows:
+
+                          Notional Amounts (a)                  
+                          3/21/2020                 12/28/2019  
+  Commodity               $1.2                            $1.1  
+  Foreign exchange        $1.8                            $1.9  
+  Interest rate           $5.0                            $5.0  
+  Net investment (b)      $2.4                            $2.5  
+
+  (a)      In billions.  
+
+  (b)      The total notional of our net investment hedge consists of non-derivative debt instruments.  
+
+As ofMarch 21, 2020, approximately14% of total debt, after the impact of the related interest rate derivative instruments, was subject to variable rates, compared to approximately9% as of December 28, 2019.
+
+Fair Value Measurements
+
+The fair values of our financial assets and liabilities as ofMarch 21, 2020 and December 28, 2019 are categorized as follows:
+
+                                                                 3/21/2020                                                12/28/2019                                
+                                                                 Assets (a)               Liabilities (a)                 Assets (a)      Liabilities (a)           
+  Short-term investments (b)                                     $               158      $                        —      $               $                      —  
+  Prepaid forward contracts (c)                                  $                13      $                        —      $               $                      —  
+  Deferred compensation (d)                                      $                 —      $                      379      $               $                    468  
+ ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Derivatives designated as fair value hedging instruments:                                                                                                         
+  Interest rate (e)                                              $                 7      $                        1      $               $                      5  
+  Derivatives designated as cash flow hedging instruments:                                                                                                          
+  Foreign exchange (f)                                           $                53      $                       13      $               $                     32  
+  Interest rate (f)                                              —                        613                             —               390                       
+  Commodity (g)                                                  —                        31                              2               5                         
+  Commodity (h)                                                  —                        30                              2               5                         
+                                                                 $                53      $                      687      $               $                    432  
+  Derivatives not designated as hedging instruments:                                                                                                                
+  Foreign exchange (f)                                           $                 8      $                        1      $               $                      2  
+  Commodity (g)                                                  1                        111                             23              7                         
+  Commodity (h)                                                  5                        40                              6               24                        
+                                                                 $                14      $                      152      $               $                     33  
+  Total derivatives at fair value (i)                            $                74      $                      840      $               $                    470  
+  Total                                                          $               245      $                    1,219      $               $                    938  
+
+  (a)      Unless otherwise noted, financial assets are classified on our balance sheet within prepaid expenses and other current assets and other assets. Financial liabilities are classified on our balan...  
+
+  (b)      Based on the price of index funds. These investments are classified as short-term investments and are used to manage a portion of market risk arising from our deferred compensation liability.  
+
+  (c)      Based primarily on the price of our common stock.  
+
+  (d)      Based on the fair value of investments corresponding to employees’ investment elections.  
+
+  (e)      Based on LIBOR forward rates. The carrying amount of hedged fixed-rate debt was $ 2.2 billion as of March 21, 2020 and December 28, 2019, and classified on our balance sheet within short-term a...  
+ ─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+$42million loss and a$49million loss, respectively, which is being amortized over the remaining life of the related debt obligations.
+
+  (f)      Based on recently reported market transactions of spot and forward rates.  
+
+  (g)      Based on quoted contract prices on futures exchange markets.  
+ ─────────────────────────────────────────────────────────────────────────
+
+  (h)      Based on recently reported market transactions of swap arrangements.  
+
+  (i)      Derivative assets and liabilities are presented on a gross basis on our balance sheet. Amounts subject to enforceable master netting arrangements or similar agreements which are not offset on t...  
+ ─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+The carrying amounts of our cash and cash equivalents approximate fair value due to their short-term maturity. The fair value of our debt obligations as of March 21, 2020 and December 28, 2019 was$43billion and$34billion, respectively, based upon prices of similar instruments in the marketplace, which are considered Level 2 inputs.
+
+Losses/(gains) on our hedging instruments are categorized as follows:
+
+                        12 Weeks Ended                                                                                                                                       
+ ─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+                        Fair Value/Non-                                    Cash Flow and Net Investment Hedges                                                               
+                        Losses/(Gains)                                     Losses/(Gains)                                          Losses/(Gains)                            
+                        3/21/2020                           3/23/2019      3/21/2020                                3/23/2019      3/21/2020                      3/23/2019  
+  Foreign exchange      $                         ( 11      $              $                                        $              $                              $          
+  Interest rate         ( 11                                ( 28           223                                      ( 7            150                            ( 11       
+  Commodity             166                                 ( 42           64                                       ( 4            3                              1          
+  Net investment        —                                   —              ( 84                                     ( 10           —                              —          
+  Total                 $                          144      $              $                                        $              $                              $          
+
+  (a)      Foreign exchange derivative losses/gains are primarily included in selling, general and administrative expenses. Interest rate derivative losses/gains are primarily from fair value hedges and a...  
+
+  (b)      Foreign exchange derivative losses/gains are included in cost of sales. Interest rate derivative losses/gains are included in net interest expense and other. Commodity derivative losses/gains a...  
+
+Based on current market conditions, we expect to reclassify net losses of$46million related to our cash flow hedges from accumulated other comprehensive loss into net income during the next 12 months.
+
+Note 10 - Net Income Attributable to PepsiCo per Common Share
+
+The computations of basic and diluted net income attributable to PepsiCo per common share are as follows:
+
+                                                                   12 Weeks Ended                                                                       
+                                                                   3/21/2020                                      3/23/2019                             
+                                                                   Income                         Shares (a)      Income                    Shares (a)  
+ ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Basic net income attributable to PepsiCo per common share        $                    0.96                      $               1.01                  
+  Net income available for PepsiCo common shareholders             $                   1,338           1,390      $              1,413           1,406  
+  Dilutive securities:                                                                                                                                  
+  Stock options, RSUs, PSUs and other (b)                          —                                       6      —                                  7  
+  Diluted                                                          $                   1,338           1,396      $              1,413           1,413  
+  Diluted net income attributable to PepsiCo per common share      $                    0.96                      $               1.00                  
+
+  (a)      Weighted-average common shares outstanding (in millions).  
+ ──────────────────────────────────────────────────────────────────────
+
+
+  (b)      The dilutive effect of these securities is calculated using the treasury stock method.  
+
+Out-of-the-money options excluded from the calculation of diluted earnings per common share are as follows:
+
+                                         12 Weeks Ended                             
+                                         3/21/2020           3/23/2019              
+ ────────────────────────────────────────────────────────────────────────────────────
+  Out-of-the-money options (a)           —                   1.2                    
+  Average exercise price per option      $                   $              115.98  
+
+  (a)      In millions.  
+
+Note 11 - Accumulated Other Comprehensive Loss Attributable to PepsiCo
+
+The changes in the balances of each component of accumulated other comprehensive loss attributable to PepsiCo are as follows:
+
+                                                                      Currency Translation Adjustment                    Cash Flow Hedges                Pension and Retiree Medical      Other      Accumulated Other Comprehensive Loss Attributable to PepsiCo  
+  Balance as of December 28, 2019 (a)                                 $                                    ( 11,290      $                      ( 3      $                                $          $                                                             
+  Other comprehensive (loss)/income before reclassifications (b)      ( 735                                              ( 236                           21                               1          ( 949                                                         
+  Amounts reclassified from accumulated other comprehensive loss      —                                                  157                             50                               —          207                                                           
+  Net other comprehensive (loss)/income                               ( 735                                              ( 79                            71                               1          ( 742                                                         
+  Tax amounts                                                         ( 19                                               18                              ( 14                             —          ( 15                                                          
+  Balance as of March 21, 2020 (a)                                    $                                    ( 12,044      $                     ( 64      $                                $          $                                                             
+
+  (a)      Pension and retiree medical amounts are net of taxes of $ 1,370 million as of December 28, 2019 and $ 1,356 million as of March 21, 2020.  
+ ──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+  (b)      Currency translation adjustment primarily reflects depreciation of the Russian ruble, Canadian dollar and Mexican peso.  
+
+                                                                      Currency Translation Adjustment                    Cash Flow Hedges      Pension and Retiree Medical                             Accumulated Other Comprehensive Loss Attributable to PepsiCo  
+  Balance as of December 29, 2018 (a)                                 $                                    ( 11,918      $                     $                                ( 3,271      ( 17      $                                                             
+  Other comprehensive (loss)/income before reclassifications (b)      475                                                ( 20                  ( 16                                                    439                                                           
+  Amounts reclassified from accumulated other comprehensive loss      —                                                  ( 15                  34                                                      19                                                            
+  Net other comprehensive (loss)/income                               475                                                ( 35                  18                                                      458                                                           
+  Tax amounts                                                         ( 2                                                8                     ( 1                                                     5                                                             
+  Balance as of March 23, 2019 (a)                                    $                                    ( 11,445      $                     $                                ( 3,254      ( 17      $                                                             
+
+  (a)      Pension and retiree medical amounts are net of taxes of $ 1,466 million as of December 29, 2018 and $ 1,465 million as of March 23, 2019.  
+ ──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+  (b)      Currency translation adjustment primarily reflects appreciation of the Russian ruble, Mexican peso and Pound sterling.  
+
+
+The reclassifications from accumulated other comprehensive loss to the income statement are summarized as follows:
+
+                                                 12 Weeks Ended                                                                                           
+                                                 3/21/2020                    3/23/2019                Affected Line Item in the Income Statement         
+ ──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Cash flow hedges:                                                                                                                                       
+  Foreign exchange contracts                     $                     4      $               ( 5      Cost of sales                                      
+  Interest rate derivatives                      150                          ( 11                     Net interest expense and other                     
+  Commodity contracts                            3                            1                        Cost of sales                                      
+  Net losses/(gains) before tax                  157                          ( 15                                                                        
+  Tax amounts                                    ( 39                         4                                                                           
+  Net losses/(gains) after tax                   $                   118      $              ( 11                                                         
+  Pension and retiree medical items:                                                                                                                      
+  Amortization of prior service credits          $                     —      $               ( 2      Other pension and retiree medical benefits income  
+  Amortization of net losses                     50                           36                       Other pension and retiree medical benefits income  
+  Net losses before tax                          50                           34                                                                          
+  Tax amounts                                    ( 11                         ( 7                                                                         
+  Net losses after tax                           $                    39      $                27                                                         
+  Total net losses reclassified, net of tax      $                   157      $                16                                                         
+
+Note 12 - Acquisitions and Divestitures
+
+Acquisition of Pioneer Food Group Ltd.
+
+On March 23, 2020, we acquired all of the outstanding shares of Pioneer Foods, a food and beverage company in South Africa with exports to countries across the globe, for110.00 South African rand per share in cash. The total consideration transferred was approximately$1.2billion( or$1.2billion, net of cash and cash equivalents acquired), and was funded by the Bridge Loan Facilities entered into by one of our international consolidated subsidiaries. See Note 8 for further information.
+
+We will account for the transaction as a business combination in the second quarter of 2020. We will recognize and measure the identifiable assets acquired and liabilities assumed at their estimated fair values on the date of acquisition, primarily in our AMESA segment. The assets acquired and liabilities assumed in Pioneer Foods as of the acquisition date, which primarily include goodwill and other intangible assets and property, plant and equipment, will be based on preliminary estimates that 
+are subject to revisions and may result in adjustments to preliminary values as valuations are finalized. We expect to finalize these amounts as soon as possible, but no later than the second quarter of 2021.
+
+Acquisition of Rockstar Energy Beverages (Rockstar)
+
+On April 24, 2020, we acquired Rockstar, a manufacturer, distributor and marketer of energy beverages and related products, for an upfront cash payment of approximately$3.85billion and contingent consideration related to future tax benefits associated with the acquisition of approximately$0.7billion. The contingent consideration will be paid over up to15years, with an option to accelerate, and is measured based on discounted future cash flows with estimated maximum payments of 
+approximately$1.1billion using current tax rates. The purchase price will also be adjusted for net working capital amounts as of the acquisition date compared to targeted amounts set forth in the acquisition agreement.
+
+
+We will account for the transaction as a business combination in the second quarter of 2020. We will recognize and measure the identifiable assets acquired and liabilities assumed at their estimated fair values on the date of acquisition, primarily in our PBNA segment. The assets acquired and liabilities assumed in Rockstar as of the acquisition date, which primarily include goodwill and other intangible assets, and the contingent consideration liability will be based on preliminary estimates 
+that are subject to revisions and may result in adjustments to preliminary values as valuations are finalized. We expect to finalize these amounts as soon as possible, but no later than the second quarter of 2021.
+
+In addition to our acquisition of Rockstar, as part of our overall energy strategy, we entered into an agreement with Vital Pharmaceuticals, Inc. for us and our bottlers to exclusively distribute Bang Energy drinks in the United States.
+
+Acquisition of Hangzhou Haomusi Food Co., Ltd. (Be & Cheery)
+
+On February 21, 2020, we entered into an agreement to acquire all of the outstanding shares of Be & Cheery, one of the largest online snacks companies in China, from Haoxiangni Health Food Co., Ltd. for$705million. The purchase price will be adjusted for net working capital and net debt amounts as of the acquisition date compared to targeted amounts set forth in the acquisition agreement. The transaction is subject to certain regulatory approvals and other customary closing conditions and will 
+be recorded in our APAC segment. The transaction is expected to close in the second half of 2020.
+
+Acquisition of SodaStream International Ltd.
+
+On December 5, 2018, we acquired all of the outstanding shares of SodaStream, a manufacturer and distributor of sparkling water makers, for
+$144.00
+per share in cash, in a transaction valued at approximately
+$3.3billion. The total consideration transferred was
+$3.3billion
+(or
+$3.2billion, net of cash and cash equivalents acquired). The purchase price allocation was finalized in the fourth quarter of 2019. See Note 14 to our consolidated financial statements in our 2019 Form 10-K for further information.
+
+Inventory Fair Value Adjustments and Merger and Integration Charges
+
+In the 12 weeks ended March 21, 2020, we recorded merger and integration charges of$25million($22million after-tax or $0.02 per share), including$23million in our FLNA segment related to our acquisition of BFY Brands and$2million in our AMESA segment related to our acquisition of Pioneer Foods. These charges primarily relate to contract termination and employee-related costs and are recorded in selling, general and administrative expenses.
+
+In the 12 weeks ended March 23, 2019, we recorded inventory fair value adjustments and merger and integration charges of$15million($0.01 per share) in our Europe segment, primarily related to fair value adjustments to the acquired inventory included in SodaStream’s balance sheet at acquisition date recorded in cost of sales.
+
+Item 2. Management’s Discussion and Analysis of Financial Condition and Results of Operations.
+
+FINANCIAL REVIEW
+
+Our discussion and analysis is intended to help the reader understand our results of operations and financial condition and is provided as an addition to, and should be read in connection with, our condensed consolidated financial statements and the accompanying notes. Also refer to Note 1 of our condensed consolidated financial statements. Unless otherwise noted, tabular dollars are presented in millions, except per share amounts. All per share amounts reflect common stock per share amounts, 
+assume dilution unless otherwise noted, and are based on unrounded amounts. Percentage changes are based on unrounded amounts.
+
+
+Our Critical Accounting Policies
+
+The critical accounting policies below should be read in conjunction with those outlined in our2019 Form 10-K.
+
+Total Marketplace Spending
+
+We offer sales incentives and discounts through various programs to customers and consumers. Total marketplace spending includes sales incentives, discounts, advertising and other marketing activities. Sales incentives and discounts are primarily accounted for as a reduction of revenue. A number of our sales incentives, such as bottler funding to independent bottlers and customer volume rebates, are based on annual targets, and accruals are established during the year, as products are delivered,
+for the expected payout, which may occur after year-end once reconciled and settled.
+
+These accruals are based on contract terms and our historical experience with similar programs and require management judgment with respect to estimating customer and consumer participation and performance levels. Differences between estimated expense and actual incentive costs are normally insignificant and are recognized in earnings in the period such differences are determined. In addition, certain advertising and marketing costs are also based on annual targets and recognized during the year
+as incurred.
+
+For interim reporting, our policy is to allocate our forecasted full-year sales incentives for most of our programs to each of our interim reporting periods in the same year that benefits from the programs. The allocation methodology is based on our forecasted sales incentives for the full year and the proportion of each interim period’s actual gross revenue or volume, as applicable, to our forecasted annual gross revenue or volume, as applicable. Based on our review of the forecasts at each 
+interim period, any changes in estimates and the related allocation of sales incentives are recognized beginning in the interim period that they are identified. In addition, we apply a similar allocation methodology for interim reporting purposes for certain advertising and other marketing activities.
+
+Income Taxes
+
+In determining our quarterly provision for income taxes, we use an estimated annual effective tax rate which is based on our expected annual income, statutory tax rates and tax planning strategies and transactions, including transfer pricing arrangements, available to us in the various jurisdictions in which we operate. Significant judgment is required in determining our annual tax rate and in evaluating our tax positions. Subsequent recognition, derecognition and measurement of a tax position 
+taken in a previous period are separately recognized in the quarter in which they occur.
+
+Our Business Risks
+
+This Form 10-Q contains statements reflecting our views about our future performance that constitute “forward-looking statements” within the meaning of the Private Securities Litigation Reform Act of 1995 (Reform Act). Statements that constitute forward-looking statements within the meaning of the Reform Act are generally identified through the inclusion of words such as “aim,” “anticipate,” “believe,” “drive,” “estimate,” “expect,” “expressed confidence,” “forecast,” “future,” “goal,” 
+“guidance,” “intend,” “may,” “objective,” “outlook,” “plan,” “position,” “potential,” “project,” “seek,” “should,” “strategy,” “target,” “will” or similar statements or variations of such words and other similar expressions. All statements addressing our future operating performance, and statements addressing events and developments that we expect or anticipate will occur in the future, are forward-looking statements within the meaning of the Reform Act. These forward-looking statements are 
+based on currently available information, operating plans and projections about future events and trends. They inherently involve risks and uncertainties that could cause actual results to differ materially from those predicted in any such forward-looking statement. Such risks and uncertainties include, but are not limited to: the impact of the spread of COVID-19; future demand for PepsiCo’s products, as a result of changes in consumer preferences or otherwise; changes in laws related
+
+
+to the use or disposal of plastics or other packaging of PepsiCo’s products; changes in, or failure to comply with, applicable laws and regulations; imposition or proposed imposition of new or increased taxes aimed at PepsiCo’s products; imposition of labeling or warning requirements on PepsiCo’s products; PepsiCo’s ability to compete effectively; failure to realize anticipated benefits from PepsiCo’s productivity or reinvestment initiatives or operating model; political conditions, civil unrest
+or other developments and risks in the markets where PepsiCo’s products are made, manufactured, distributed or sold; PepsiCo’s ability to grow its business in developing and emerging markets; uncertain or unfavorable economic conditions in the countries in which PepsiCo operates; the ability to protect information systems against, or effectively respond to, a cybersecurity incident or other disruption; increased costs, disruption of supply or shortages of raw materials and other supplies; water 
+scarcity; business disruptions; product contamination or tampering or issues or concerns with respect to product quality, safety and integrity; damage to PepsiCo’s reputation or brand image; failure to successfully complete, integrate or manage acquisitions and joint ventures into PepsiCo’s existing operations or to complete or manage divestitures or refranchisings; changes in estimates and underlying assumptions regarding future performance that can result in an impairment charge; increase in 
+income tax rates, changes in income tax laws, including as a result of enactment and implementation of the TRAF, or disagreements with tax authorities; PepsiCo’s ability to recruit, hire or retain key employees or a highly skilled and diverse workforce; loss of, or a significant reduction in sales to, any key customer; disruption to the retail landscape, including rapid growth in e-commerce channel and hard discounters; any downgrade or potential downgrade of PepsiCo’s credit ratings; PepsiCo’s 
+ability to implement shared services or utilize information technology systems and networks effectively; fluctuations or other changes in exchange rates; climate change or legal, regulatory or market measures to address climate change; failure to successfully negotiate collective bargaining agreements, or strikes or work stoppages; failure to adequately protect our intellectual property rights or infringement of intellectual property rights of others; potential liabilities and costs from 
+litigation, claims, legal or regulatory proceedings, inquiries or investigations; and other factors that may adversely affect the price of PepsiCo’s publicly traded securities and financial performance including those described in “Item 1A. Risk Factors” and “Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations - Our Business Risks,” included in our2019 Form 10-K and in “Item 2. Management’s Discussion and Analysis of Financial Condition and Results of 
+Operations - Our Business Risks” and “Item 1A. Risk Factors” of this Form 10-Q. Investors are cautioned not to place undue reliance on any such forward-looking statements, which speak only as of the date they are made. We undertake no obligation to update any forward-looking statement, whether as a result of new information, future events or otherwise.
+
+COVID-19
+
+Our global operations expose us to risks associated with the COVID-19 pandemic, which has resulted in challenging operating environments. COVID-19 has spread across the globe to almost all of the countries in which our products are made, manufactured, distributed or sold. Authorities in many of these markets have implemented numerous measures to stall the spread of COVID-19, including travel bans and restrictions, quarantines, curfews, shelter in place orders, and business shutdowns. These 
+measures have impacted and will further impact us, our customers (including our foodservice customers), consumers, employees, bottlers, contract manufacturers, distributors, joint venture partners, suppliers and other third parties with whom we do business. There is considerable uncertainty regarding how these measures and future measures in response to the pandemic will impact our business, including whether they will result in further changes in demand for our products, further increases in 
+operating costs (whether as a result of changes to our supply chain or increases in employee costs or otherwise), how they will further impact our supply chain and whether they will result in further reduced availability of air or other commercial transport, port closures or border restrictions, each or all of which can impact our ability to make, manufacture, distribute and sell our products. In addition, measures that impact our ability to access our offices, plants, warehouses, distribution 
+centers or other facilities, or that impact the ability of our customers (including our foodservice customers),
+
+
+consumers, employees, bottlers, contract manufacturers, distributors, joint venture partners, suppliers and other third parties to do the same, may impact the availability of our and their employees, many of whom are not able to perform their job functions remotely. We have implemented safety protocols at our facilities and have been working and will continue to work closely with our business partners on contingency planning in an effort to maintain supply. To date, we have not experienced a 
+material disruption to our operations or supply chain, although we can reasonably envision that possibility.
+
+Public concern regarding the risk of contracting COVID-19 impacts demand from consumers, including due to consumers not leaving their homes or otherwise shopping in a different manner than they historically have or because some of our consumers have lower discretionary income due to unemployment or reduced or limited work as a result of measures taken in response to the pandemic. As we sell a wide variety of beverages, foods and snacks in more than 200 countries and territories, the profile of 
+the products we sell and the amount of revenue attributable to such products varies by jurisdiction and changes in demand as a result of COVID-19 will vary in scope and timing across these markets. In addition, changes in consumer purchasing and consumption patterns may increase demand for our products in one quarter, resulting in decreased consumer demand for our products in subsequent quarters, or in one sales channel resulting in potentially reduced profit from sales of our products. For 
+example, to date, we have seen a shift in product and channel preferences, including an increase in at-home consumption and a decrease in immediate consumption and away-from-home channels, such as convenience and gas and foodservice, which negatively impacts our beverage businesses. Any reduced demand for our products or change in consumer purchasing and consumption patterns, as well as continued economic uncertainty, can adversely affect our customers’ and business partners’ financial 
+condition, resulting in an inability to pay for our products, reduced or canceled orders of our products, closing of restaurants, stores, entertainment or sports complexes or other venues in which our products are sold, or our business partners’ inability to supply us with ingredients or other items necessary for us to make, manufacture, distribute or sell our products. Such adverse changes in our customers’ or business partners’ financial condition may also result in our recording additional 
+impairment charges for our inability to recover or collect any accounts receivable, owned or leased assets, including certain foodservice and vending and other equipment, or prepaid expenses. In addition, economic uncertainty associated with the COVID-19 pandemic has resulted in volatility in the global capital and credit markets which can impair our ability to access these markets on terms commercially acceptable to us, or at all.
+
+While we have developed and implemented and continue to develop and implement health and safety protocols, business continuity plans and crisis management protocols in an effort to try to mitigate the negative impact of COVID-19 to our employees and our business, the extent of the impact of the pandemic on our business and financial results will depend on numerous evolving factors that we are not able to accurately predict and which all will vary by market, including the duration and scope of 
+the pandemic, global economic conditions during and after the pandemic, governmental actions that have been taken, or may be taken in the future, in response to the pandemic and changes in consumer behavior in response to the pandemic, some of which may be more than just temporary.
+
+Coronavirus Aid, Relief, and Economic Security Act
+
+Subsequent to the end of our first quarter, the CARES Act was enacted on March 27, 2020 in the United States. The CARES Act and related notices include several significant provisions, including delaying certain payroll tax payments, mandatory transition tax payments under the TCJ Act, and estimated income tax payments that we expect to defer to future periods. We do not currently expect the CARES Act to have a material impact on our financial results, including on our annual estimated effective 
+tax rate, or on our liquidity. We will continue to monitor and assess the impact the CARES Act and similar legislation in other countries may have on our business and financial results. Refer to the COVID-19 discussion above for further information.
+
+See Note 5 to our condensed consolidated financial statements for further information.
+
+
+Risks Associated with International Operations
+
+In the12 weeks endedMarch 21, 2020, substantially all of our financial results outside of North America reflect the months of January and February. In the12 weeks endedMarch 21, 2020, our operations outside of the United States generated35% of our consolidated net revenue, with Mexico, Canada, Russia, China, the United Kingdom and Brazil comprising approximately19% of our consolidated net revenue. As a result, we are exposed to foreign exchange risks in the international markets in which our 
+products are made, manufactured, distributed or sold. In the12 weeks endedMarch 21, 2020, unfavorable foreign exchange had a net nominal impact on net revenue growth primarily due to declines in the Brazilian real and euro, offset by appreciation in the Russian ruble. Currency declines against the U.S. dollar which are not offset could adversely impact our future financial results.
+
+In addition, volatile economic, political and social conditions and civil unrest in certain markets in which our products are made, manufactured, distributed or sold, including in Argentina, Brazil, China, Mexico, the Middle East, Russia and Turkey and currency controls or fluctuations in certain of these international markets, continue to, and the threat or imposition of tariffs in or related to these international markets may, result in challenging operating environments.
+
+We continue to monitor the economic and political developments related to the United Kingdom’s withdrawal from the European Union, including how the United Kingdom will interact with other European Union countries following its departure, as well as the economic, operating and political environment in Russia and the potential impact for the Europe segment and our other businesses.
+
+See Note 9 to our condensed consolidated financial statements in this Form 10-Q for the fair values of our financial instruments as ofMarch 21, 2020 andDecember 28, 2019 and Note 9 to our consolidated financial statements in our2019 Form 10-K for a discussion of these items. Cautionary statements included above and in “Item 1A. Risk Factors” in this Form 10-Q, and in “Item 1A. Risk Factors” and in “Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations - 
+Our Business Risks” in our2019 Form 10-K should be considered when evaluating our trends and future results.
+
+Imposition of Taxes and Regulations on our Products
+
+Certain jurisdictions in which our products are made, manufactured, distributed or sold have either imposed, or are considering imposing, new or increased taxes or regulations on the manufacture, distribution or sale of our products or their packaging, ingredients or substances contained in, or attributes of, our products or their packaging, commodities used in the production of our products or their packaging or the recyclability or recoverability of our packaging. These taxes and regulations 
+vary in scope and form. For example, some taxes apply to all beverages, including non-caloric beverages, while others apply only to beverages with a caloric sweetener (e.g., sugar). In addition, some regulations apply to all products using certain types of packaging (e.g., plastic), while others are designed to increase the sustainability of packaging, encourage waste reduction and increased recycling rates or facilitate the waste management process or restrict the sale of products in certain 
+packaging.
+
+We sell a wide variety of beverages, foods and snacks in more than200 countries and territories and the profile of the products we sell, the amount of revenue attributable to such products and the type of packaging used varies by jurisdiction. Because of this, we cannot predict the scope or form potential taxes, regulations or other limitations on our products or their packaging may take, and therefore cannot predict the impact of such taxes, regulations or limitations on our financial results. 
+In addition, taxes, regulations and limitations may impact us and our competitors differently. We continue to monitor existing and proposed taxes and regulations in the jurisdictions in which our products are made, manufactured, distributed and sold and to consider actions we may take to potentially mitigate the unfavorable impact, if any, of such taxes, regulations or limitations, including advocating alternative measures with respect to the imposition, form and scope of any such taxes, 
+regulations or limitations.
+
+
+Tax Cuts and Jobs Act
+
+During the fourth quarter of 2017, the TCJ Act was enacted in the United States. The related provisional measurement period allowed by the SEC ended in the fourth quarter of 2018. While our accounting for the recorded impact of the TCJ Act was deemed to be complete, additional guidance issued by the IRSimpacted our recorded amounts after December 29, 2018. For further information on the impact of the TCJ Act, see Note 5 to our condensed consolidated financial statements and “Our Liquidity and 
+Capital Resources” in this Form 10-Q, as well as Note 5 to our consolidated financial statements in our2019 Form 10-K.
+
+Other Tax Matters
+
+On May 19, 2019, a public referendum held in Switzerland passed theTRAF, effective January 1, 2020. There were no income tax adjustments recorded in the 12 weeks ended March 21, 2020 related to the TRAF. Enactment of additional TRAF provisions subsequent to March 21, 2020 is expected to result in adjustments to our financial statements and related disclosures in future periods. The future impact of the TRAF cannot currently be reasonably estimated; we will continue to monitor and assess the 
+impact the TRAF may have on our business and financial results.
+
+See Note 5 to our condensed consolidated financial statements for further information.
+
+Retail Landscape
+
+Additionally, our industry continues to be affected by disruption of the retail landscape, including the rapid growth in sales through e-commerce websites and mobile commerce applications, including through subscription services, the integration of physical and digital operations among retailers and the international expansion of hard discounters. We continue to monitor changes in the retail landscape, including as a result of the impact of the COVID-19 pandemic, and seek to identify actions we 
+may take to build our global e-commerce and digital capabilities, distribute our products effectively through all existing and emerging channels of trade and potentially mitigate any unfavorable impacts on our future results.
+
+Results of Operations - Consolidated Review
+
+Consolidated Results
+
+Volume
+
+Volume is one of the key metrics management uses internally to make operating and strategic decisions, including the preparation of our annual operating plan and the evaluation of our business performance. We believe volume provides additional information to facilitate the comparison of our historical operating performance and underlying trends, and provides additional transparency on how we evaluate our business because it measures demand for our products at the consumer level. Refer to “Item 
+7. Management’s Discussion and Analysis of Financial Condition and Results of Operations - Our Financial Results - Volume” included in our2019 Form 10-K for further information on volume.
+
+We report substantially all of our international beverage volume on a monthly calendar basis. The12 weeks endedMarch 21, 2020 include beverage volume outside of North America for the months of January and February.
+
+Our divisions’ physical volume measures are converted into servings based on U.S. Food and Drug Administration (FDA) recommended guidelines for single-serving sizes of food and beverage products. The FDA revised the guidelines on recommended serving size for beverage products, effective January 1, 2020. Previously, FDA guidelines recommended a serving size of 8 fluid ounces for all beverages. The revised guidelines recommend a serving size of 8 fluid ounces for beverages that consist of milk, 
+fruit juices, nectars and fruit drinks and 12 fluid ounces for other beverages. No changes were recommended to the serving size of food products. For the 12 weeks endedMarch 21, 2020, total servings increased 6%, which reflects the impact of the revised guidelines on our prior-year servings.
+
+
+Consolidated Net Revenue and Operating Profit
+
+                               12 Weeks Ended                                                     
+                               3/21/2020                       3/23/2019                  Change  
+ ──────────────────────────────────────────────────────────────────────────────────────────────────
+  Net revenue                  $                   13,881      $              12,884           8  
+  Operating profit             $                    1,924      $               2,008          (4  
+  Operating profit margin      13.9                            15.6                         (1.7  
+
+See “Results of Operations - Division Review” for a tabular presentation and discussion of key drivers of net revenue.
+
+We estimate that changes in consumer consumption patterns arising from the COVID-19 pandemic contributed approximately 2 percentage points to net revenue and organic revenue growth. This estimate of the COVID-19 impact to reported net revenue and organic revenue growth is based on our internal analysis of expected revenue performance as reflected in our internal records before and after when we believe, based on information currently available to us, the primary markets in each segment appear to
+have experienced changes in consumer patterns in response to the spread of COVID-19.
+
+Operating profit decreased4% and operating profit margin decreased1.7 percentage points. Operating profit performance was primarily driven by a 10-percentage-point impact of an unfavorable mark-to-market net impact on commodity derivatives, primarily related to fuel-related derivatives, included in corporate unallocated expenses (see “Items Affecting Comparability”). Net revenue growth and productivity savings positively contributed to operating profit performance and were partially offset by 
+certain operating cost increases and higher advertising and marketing expenses. Additionally, certain charges taken in connection with COVID-19 negatively impacted operating profit performance by 7 percentage points.
+
+Results of Operations - Division Review
+
+As previously disclosed in our 2019 Form 10-K, our historical segment reporting presented in this report has been retrospectively revised to reflect the new organizational structure. These changes did not impact our consolidated financial results.
+
+While our financial results in North America are reported on a 12-week basis, substantially all of our international operations report on a monthly calendar basis for which the months of January and February are reflected in our results for the12 weeks endedMarch 21, 2020.
+
+See “Non-GAAP Measures” and “Items Affecting Comparability” for a discussion of items to consider when evaluating our results and related information regarding measures not in accordance with GAAP.
+
+In the discussions of net revenue and operating profit below, “effective net pricing” reflects the year-over-year impact of discrete pricing actions, sales incentive activities and mix resulting from selling varying products in different package sizes and in different countries, and “net pricing” reflects the year-over-year combined impact of list price changes, weight changes per package, discounts and allowances. Additionally, “acquisitions and divestitures” reflect all mergers and 
+acquisitions activity, including the impact of acquisitions, divestitures and changes in ownership or control in consolidated subsidiaries and nonconsolidated equity investees.
+
+
+Net Revenue and Organic Revenue Growth
+
+Organic revenue growth is a non-GAAP financial measure. For further information on this measure see “Non-GAAP Measures.”
+
+              12 Weeks Ended 3/21/2020                                                                                                                   
+ ─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+                                            Impact of                                                              Impact of                             
+                              Reported      Foreign exchange translation                             Organic      Volume (b)      Effective net pricing  
+  FLNA                               7      —                                                              7               5                          2  
+  QFNA                               7      —                                                              7               8                         (2  
+  PBNA                               7      —                                                              6               7                       (0.5  
+  LatAm                              6      2                                                              8               3                          5  
+  Europe                            14      —                                                             14              10                          3  
+  AMESA                              9      (1.5                                                          14              10                          3  
+  APAC                               6      2                                                              7               1                          7  
+  Total                              8      —                                                              8               6                          2  
+
+  (a)      Amounts may not sum due to rounding.  
+ ─────────────────────────────────────────────────
+
+  (b)      Excludes the impact of acquisitions and divestitures. In certain instances, volume growth varies from the amounts disclosed in the following divisional discussions due to nonconsolidated joint ...  
+
+Operating Profit, Operating Profit Adjusted for Items Affecting Comparability and Operating Profit Growth Adjusted for Items Affecting Comparability on a Constant Currency Basis
+
+Operating profit adjusted for items affecting comparability and operating profit growth adjusted for items affecting comparability on a constant currency basis are both non-GAAP financial measures. For further information on these measures see “Non-GAAP Measures” and “Items Affecting Comparability.”
+
+Operating Profit and Operating Profit Adjusted for Items Affecting Comparability
+
+                                      12 Weeks Ended 3/21/2020                                                                                                                                                                   
+                                                                               Items Affecting Comparability (a)                                                                                                                 
+                                        Reported, GAAP Measure                 Mark-to-market net impact              Restructuring and impairment charges      Merger and integration charges                 Core,             
+                                                                                                                                                                                                    Non-GAAP Measure             
+ ─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  FLNA (b)                                                   $      1,202      $                                      $                                         $                                                  $      1,230  
+  QFNA (b)                                                 150                 —                                      1                                         —                                                151             
+  PBNA (b)                                                 297                 —                                      3                                         —                                                300             
+  LatAm                                                    231                 —                                      5                                         —                                                236             
+  Europe (b)                                               146                 —                                      8                                         —                                                154             
+  AMESA                                                    134                 —                                      2                                         2                                                138             
+  APAC (b)                                                 142                 —                                      —                                         —                                                142             
+  Corporate unallocated expenses                          (378                 142                                    8                                         —                                               (228             
+  Total                                                      $      1,924      $                                      $                                         $                                                  $      2,123  
+
+  (a)      See “Items Affecting Comparability.”  
+ ─────────────────────────────────────────────────
+
+  (b)      In the 12 weeks ended March 21, 2020, reported and core operating profit includes $143 million of certain charges taken as a result of the COVID-19 pandemic, including $68 million of incrementa...  
+
+
+                                      12 Weeks Ended 3/23/2019                                                                                                                                                                                                        
+                                                                               Items Affecting Comparability (a)                                                                                                                                                      
+                                                     Reported,                 Mark-to-market net impact              Restructuring and impairment charges      Inventory fair value adjustments and merger and integration charges                 Core,             
+                                                  GAAP Measure                                                                                                                                                                           Non-GAAP Measure             
+  FLNA                                                       $      1,159      $                                      $                                         $                                                                                       $      1,159  
+ ──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  QFNA                                                     138                 —                                      —                                         —                                                                                     138             
+  PBNA                                                     389                 —                                      6                                         —                                                                                     395             
+  LatAm                                                    230                 —                                      —                                         —                                                                                     230             
+  Europe                                                   115                 —                                      6                                         15                                                                                    136             
+  AMESA                                                    105                 —                                      8                                         —                                                                                     113             
+  APAC                                                     106                 —                                      3                                         —                                                                                     109             
+  Corporate unallocated expenses                          (234                 (60                                    8                                         —                                                                                    (286             
+  Total                                                      $      2,008      $                                      $                                         $                                                                                       $      1,994  
+
+  (a)      See “Items Affecting Comparability.”  
+ ─────────────────────────────────────────────────
+
+Operating Profit Growth and Operating Profit Growth Adjusted for Items Affecting Comparability on a Constant Currency Basis
+
+                                             12 Weeks Ended 3/21/2020                                                                                                                                                                                                                                                                    
+                                                                           Impact of Items Affecting Comparability (a)                                                                                                                                                             Impact of                                             
+ ─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+                                      Reported % Change, GAAP Measure      Mark-to-market net impact                        Restructuring and impairment charges      Inventory fair value adjustments and merger and integration charges                                Core      Foreign exchange              Core Constant Currency  
+  FLNA                                                              4      —                                                —                                         2                                                                                                     6      —                                                  6  
+  QFNA                                                              8      —                                                0.5                                       —                                                                                                     9      —                                                  9  
+  PBNA                                                            (24      —                                                —                                         —                                                                                                   (24      —                                                (24  
+  LatAm                                                             1      —                                                2                                         —                                                                                                     3      —                                                  3  
+  Europe                                                           28      —                                                1                                         (15                                                                                                  13      —                                                 13  
+  AMESA                                                            26      —                                                (8                                        3                                                                                                    21      (1                                                20  
+  APAC                                                             33      —                                                (3                                        —                                                                                                    31      1                                                 32  
+  Corporate unallocated expenses                                   61      (82                                              —                                         —                                                                                                   (20      —                                                (20  
+  Total                                                            (4      10                                               —                                         0.5                                                                                                   6      —                                                  6  
+
+  (a)      See “Items Affecting Comparability” for further information.  
+ ─────────────────────────────────────────────────────────────────────────
+
+  (b)      Amounts may not sum due to rounding.  
+ ─────────────────────────────────────────────────
+
+FLNA
+
+Net revenue grew 7% and volume grew 5%. The net revenue growth was primarily driven by the volume growth and effective net pricing. The volume growth primarily reflects double-digit growth in trademark Cheetos and Tostitos, and in variety packs, partially offset by a high-single-digit decline in trademark Santitas. The COVID-19 pandemic drove an increase in consumer demand, which had a positive impact on both net revenue and volume growth.
+
+Operating profit increased 4%, primarily reflecting the net revenue growth and productivity savings, partially offset by certain operating cost increases, including a 2-percentage-point impact of certain charges taken as a result of the COVID-19 pandemic. Merger and integration charges related to our acquisition of BFY Brands reduced operating profit growth by 2 percentage points.
+
+
+QFNA
+
+Net revenue grew 7% and volume grew 8%. The net revenue growth reflects the volume growth, partially offset by unfavorable net pricing and mix. The volume growth was broad-based across our product portfolio, and was primarily driven by double-digit growth in oatmeal, ready-to-eat cereals and trademark Roni. The COVID-19 pandemic drove an increase in consumer demand, which had a positive impact on both net revenue and volume growth.
+
+Operating profit grew 8%, reflecting the volume growth and productivity savings, partially offset by certain operating cost increases, unfavorable net pricing and higher advertising and marketing expenses.
+
+PBNA
+
+Net revenue grew 7%, driven by an increase in volume, partially offset by unfavorable net pricing. Volume increased 6%, driven by a 14% increase in non-carbonated beverage (NCB) volume and a slight increase in carbonated soft drink volume. The NCB volume increase primarily reflected double-digit increases in both our overall water portfolio and Gatorade sports drinks and a mid-single-digit increase in Lipton ready-to-drink teas. The COVID-19 pandemic drove an increase in consumer demand, which 
+had a positive impact on both net revenue and volume growth. In addition, acquisitions contributed 1 percentage point to the net revenue growth.
+
+Operating profit decreased 24%, primarily reflecting a 27-percentage-point impact of certain charges taken as a result of the COVID-19 pandemic. The positive impact of the COVID-19 pandemic on consumer demand partially offset the decline in operating profit performance. In addition, o perating cost increases, including incremental information technology costs, as well as higher advertising and marketing expenses were partially offset by the volume growth and productivity savings.
+
+LatAm
+
+Net revenue increased 6%, reflecting effective net pricing and volume growth, partially offset by a 2-percentage-point impact of unfavorable foreign exchange.
+
+Snacks volume grew 2.5%, reflecting mid-single-digit growth in Mexico, partially offset by a low-single-digit decline in Brazil.
+
+Beverage volume grew 5%, reflecting double-digit growth in Chile and mid-single-digit growth in Mexico, partially offset by a mid-single-digit decline in Colombia and a low-single-digit decline in Honduras. Additionally, Brazil and Guatemala each experienced low-single-digit growth and Argentina experienced mid-single-digit growth.
+
+Operating profit increased 1%, reflecting the net revenue growth and productivity savings, partially offset by certain operating cost increases, higher advertising and marketing expenses and a 3-percentage-point impact of higher commodity costs. Additionally, the impact of a prior-year insurance settlement recovery related to the 2017 earthquake in Mexico reduced operating profit growth by 14 percentage points. Higher restructuring charges reduced operating profit by 2 percentage points.
+
+Europe
+
+Net revenue increased 14%, reflecting volume growth and effective net pricing. SodaStream contributed 6 percentage points to net revenue growth, which included the benefit of an extra month of sales as we aligned SodaStream’s reporting calendar with that of the Europe division. Since being acquired in the fourth quarter of 2018, SodaStream had been reporting on a one-month lag.
+
+Snacks volume grew 5%, reflecting high-single-digit growth in the United Kingdom and France, double-digit growth in Turkey and mid-single-digit growth in Poland, partially offset by a low-single-digit decline
+
+
+in Russia. Additionally, the Netherlands experienced slight growth and Spain experienced low-single-digit growth.
+
+Beverage volume grew 13%, reflecting double-digit growth in France, Germany and Turkey, partially offset by a low-single-digit decline in Russia. Additionally, Poland experienced mid-single-digit growth and the United Kingdom experienced high-single-digit growth.
+
+Operating profit increased 28%, reflecting the net revenue growth, productivity savings, a 15-percentage-point impact of the prior-year inventory fair value adjustments and merger and integration charges associated with our SodaStream acquisition and an 8-percentage-point impact of lower commodity costs, largely due to transaction-related foreign exchange. These impacts were partially offset by certain operating cost increases, higher advertising and marketing expenses and a 14-percentage-point 
+impact of a prior-year insurance settlement recovery in Russia.
+
+AMESA
+
+Net revenue increased 9%, reflecting volume growth and effective net pricing, partially offset by a 6-percentage-point impact of a prior-year refranchising of a portion of our beverage business in India.
+
+Snacks volume grew 13%, reflecting double-digit growth in India and Pakistan. Additionally, the Middle East experienced double-digit growth and South Africa experienced mid-single-digit growth.
+
+Beverage volume grew 11%, reflecting double-digit growth in India and Nigeria. Additionally, Pakistan and the Middle East each experienced high-single-digit growth.
+
+Operating profit increased 26%, reflecting the net revenue growth, productivity savings and a 5-percentage-point impact of the prior-year refranchising of a portion of our beverage business in India. These impacts were partially offset by certain operating cost increases and higher advertising and marketing expenses. Lower restructuring and impairment charges contributed 8 percentage points to operating profit growth.
+
+APAC
+
+Net revenue increased 6%, reflecting effective net pricing and net volume growth, partially offset by a 2-percentage-point impact of unfavorable foreign exchange.
+
+Snacks volume grew 3.5%, reflecting double-digit growth in Indonesia and mid-single-digit growth in Australia, partially offset by a low-single-digit decline in China and a slight decline in Taiwan. Additionally, Thailand experienced low-single-digit growth.
+
+Beverage volume declined 2%, reflecting a mid-single-digit decline in China, partially offset by double-digit growth in the Philippines, mid-single-digit growth in Vietnam and low-single-digit growth in Thailand.
+
+Operating profit increased 33%, reflecting the net revenue growth, productivity savings and a 3-percentage- point impact of lower commodity costs, partially offset by certain operating cost increases. Lower restructuring and impairment charges contributed 3 percentage points to operating profit growth.
+
+
+Other Consolidated Results
+
+                                                                                                                                        12 Weeks Ended                                                            
+                                                                                                                                        3/21/2020                      3/23/2019                 Change           
+ ──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Other pension and retiree medical benefits income                                                                                     $                      77      $                 64      $            13  
+  Net interest expense and other                                                                                                        $                    (290      $               (204      $           (86  
+  Tax rate                                                                                                                              21.0                           23.9                                       
+  Net income attributable to PepsiCo                                                                                                    $                   1,338      $              1,413      (5               
+  Net income attributable to PepsiCo per common share – diluted                                                                         $                    0.96      $               1.00      (4               
+  Mark-to-market net impact                                                                                                             0.08                           (0.03                                      
+  Restructuring and impairment charges                                                                                                  0.02                           0.02                                       
+  Inventory fair value adjustments and merger and integration charges                                                                   0.02                           0.01                                       
+  Net tax related to the TCJ Act                                                                                                        —                              (0.02                                      
+  Net income attributable to PepsiCo per common share – diluted, excluding above items (a)                                              $                    1.07      $               0.97      10               
+  Impact of foreign exchange translation                                                                                                                                                         —                
+  Growth in net income attributable to PepsiCo per common share – diluted, excluding above items, on a constant currency basis (a)                                                               10               
+
+  (a)      See “Non-GAAP Measures.”  
+
+  (b)      Does not sum due to rounding.  
+
+Other pension and retiree medical benefits income increased$13 million, reflecting the recognition of fixed income gains on plan assets and the impact of approved plan contributions, partially offset by the decrease in discount rates.
+
+Net interest expense and other increased$86 million, reflecting losses on the market value of investments used to economically hedge a portion of our deferred compensation liability, as well as lower interest income due to lower interest rates on average cash balances. These impacts were partially offset by lower interest expense due to lower interest rates on average debt balances.
+
+The reported tax rate decreased 2.9 percentage points, primarily reflecting the prior-year increase in reserves for uncertain tax positions in foreign jurisdictions. This impact was partially offset by the prior-year net tax related to the TCJ Act, which increased the current-year reported tax rate by 1.5 percentage points.
+
+Net income attributable to PepsiCo decreased5% and net income attributable to PepsiCo per common share decreased4%. Items affecting comparability (see “Items Affecting Comparability”) negatively impacted net income attributable to PepsiCo performance by 14 percentage points and net income attributable to PepsiCo per common share performance by 15 percentage points.
+
+Non-GAAP Measures
+
+Certain financial measures contained in this Form 10-Q adjust for the impact of specified items and are not in accordance with U.S. GAAP. We use non-GAAP financial measures internally to make operating and strategic decisions, including the preparation of our annual operating plan, evaluation of our overall business performance and as a factor in determining compensation for certain employees. We believe presenting non-GAAP financial measures in this Form 10-Q provides additional information to 
+facilitate comparison of our historical operating results and trends in our underlying operating results, and provides additional transparency on how we evaluate our business. We also believe presenting these measures in this Form 10-Q allows investors to view our performance using the same measures that we use in evaluating our financial and business performance and trends.
+
+
+We consider quantitative and qualitative factors in assessing whether to adjust for the impact of items that may be significant or that could affect an understanding of our ongoing financial and business performance or trends. Examples of items for which we may make adjustments include: amounts related to mark-to-market gains or losses (non-cash); charges related to restructuring plans; amounts associated with mergers, acquisitions, divestitures and other structural changes; pension and retiree 
+medical related items; charges or adjustments related to the enactment of new laws, rules or regulations, such as significant tax law changes; amounts related to the resolution of tax positions; tax benefits related to reorganizations of our operations; debt redemptions, cash tender or exchange offers; asset impairments (non-cash); and remeasurements of net monetary assets. See below and “Items Affecting Comparability” for a description of adjustments to our U.S. GAAP financial measures in this 
+Form 10-Q.
+
+Non-GAAP information should be considered as supplemental in nature and is not meant to be considered in isolation or as a substitute for the related financial information prepared in accordance with U.S. GAAP. In addition, our non-GAAP financial measures may not be the same as or comparable to similar non-GAAP measures presented by other companies.
+
+The following non-GAAP financial measures contained in this Form 10-Q are discussed below:
+
+Cost of sales, gross profit, selling, general and administrative expenses, other pension and retiree medical benefits income, provision for income taxes and net income attributable to PepsiCo, each adjusted for items affecting comparability, operating profit, adjusted for items affecting comparability and net income attributable to PepsiCo per common share - diluted, adjusted for items affecting comparability, and the corresponding constant currency growth rates
+
+These measures exclude the net impact of mark-to-market gains and losses on centrally managed commodity derivatives that do not qualify for hedge accounting, restructuring and impairment charges related to our 2019 Productivity Plan, inventory fair value adjustments and merger and integration charges associated with our acquisitions and net tax related to the TCJ Act (see “Items Affecting Comparability” for a detailed description of each of these items). We also evaluate performance on operating
+profit, adjusted for items affecting comparability and net income attributable to PepsiCo per common share - diluted, adjusted for items affecting comparability, each on a constant currency basis, which measure our financial results assuming constant foreign currency exchange rates used for translation based on the rates in effect for the comparable prior-year period. In order to compute our constant currency results, we multiply or divide, as appropriate, our current-year U.S. dollar results by
+the current-year average foreign exchange rates and then multiply or divide, as appropriate, those amounts by the prior-year average foreign exchange rates. We believe these measures provide useful information in evaluating the results of our business because they exclude items that we believe are not indicative of our ongoing performance.
+
+Organic revenue growth
+
+We define organic revenue growth as net revenue growth adjusted for the impact of foreign exchange translation, as well as the impact from acquisitions, divestitures and other structural changes. We believe organic revenue growth provides useful information in evaluating the results of our business because it excludes items that we believe are not indicative of ongoing performance or that we believe impact comparability with the prior year.
+
+See “Net Revenue and Organic Revenue Growth” in “Results of Operations - Division Review” for further information.
+
+Free cash flow
+
+We define free cash flow as net cash used for operating activities less capital spending, plus sales of property, plant and equipment. Since net capital spending is essential to our product innovation initiatives and
+
+
+maintaining our operational capabilities, we believe that it is a recurring and necessary use of cash. As such, we believe investors should also consider net capital spending when evaluating our cash from operating activities. Free cash flow is used by us primarily for financing activities, including debt repayments, dividends and share repurchases. Free cash flow is not a measure of cash available for discretionary expenditures since we have certain non-discretionary obligations such as debt 
+service that are not deducted from the measure.
+
+See “Free Cash Flow” in “Our Liquidity and Capital Resources” for further information.
+
+Items Affecting Comparability
+
+Our reported financial results in this Form 10-Q are impacted by the following items in each of the following periods:
+
+                                            12 Weeks Ended 3/21/2020                                                                                                                                                                                   
+                                            Cost of sales                            Gross profit      Selling, general and administrative expenses      Operating profit      Provision for income taxes (a)      Net income attributable to PepsiCo  
+ ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Reported, GAAP Measure                    $                             6,127      $                 $                                                 $                     $                                   $                                   
+  Items Affecting Comparability                                                                                                                                                                                                                        
+  Mark-to-market net impact                 (38                                      38                (104                                              142                   35                                  107                                 
+  Restructuring and impairment charges      (2                                       2                 (30                                               32                    6                                   32                                  
+  Merger and integration charges            —                                        —                 (25                                               25                    3                                   22                                  
+  Core, Non-GAAP Measure                    $                             6,087      $                 $                                                 $                     $                                   $                                   
+
+                                                                           12 Weeks Ended 3/23/2019                                                                                                                                                                                   
+                                                                           Cost of sales                            Gross profit      Selling, general and administrative expenses      Operating profit      Provision for income taxes (a)      Net income attributable to PepsiCo  
+ ──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Reported, GAAP Measure                                                   $                             5,688      $                 $                                                 $                     $                                   $                                   
+  Items Affecting Comparability                                                                                                                                                                                                                                                       
+  Mark-to-market net impact                                                19                                       (19               41                                                (60                   (14                                 (46                                 
+  Restructuring and impairment charges                                     (8                                       8                 (23                                               31                    3                                   23                                  
+  Inventory fair value adjustments and merger and integration charges      (14                                      14                (1                                                15                    2                                   13                                  
+  Net tax related to the TCJ Act                                           —                                        —                 —                                                 —                     29                                  (29                                 
+  Core, Non-GAAP Measure                                                   $                             5,685      $                 $                                                 $                     $                                   $                                   
+
+  (a)      Provision for income taxes is the expected tax charge/benefit on the underlying item based on the tax laws and income tax rates applicable to the underlying item in its corresponding tax jurisd...  
+
+Mark-to-Market Net Impact
+
+We centrally manage commodity derivatives on behalf of our divisions. These commodity derivatives includeenergy, agricultural products and metals. Commodity derivatives that do not qualify for hedge accounting treatment are marked to market each period with the resulting gains and losses recorded in corporate unallocated expenses as either cost of sales or selling, general and administrative expenses, depending on the underlying commodity. These gains and losses are subsequently reflected in 
+division results when the divisions recognize the cost of the underlying commodity in operating profit. Therefore, the divisions realize the economic effects of the derivative without experiencing any resulting mark-to-market volatility, which remains in corporate unallocated expenses.
+
+
+Restructuring and Impairment Charges
+
+2019 Multi-Year Productivity Plan
+
+In connection with our 2019 Productivity Plan, we expect to incur pre-tax charges of approximately $2.5 billion, of which we have incurred$546 million plan to date throughMarch 21, 2020 and cash expenditures of approximately $1.6 billion, of which we have incurred approximately$321 million plan to date throughMarch 21, 2020. We expect to incur pre-tax charges of approximately $400 million and cash expenditures of approximately $350 million for the remainder of2020, with the balance to be 
+reflected in our 2021 through 2023 financial results. These charges will be funded primarily through cash from operations. We expect to incur the majority of the remaining pre-tax charges and cash expenditures in our 2020 and 2021 results.
+
+See Note 3 to our condensed consolidated financial statements in this Form 10-Q, as well as Note 3 to our consolidated financial statements in our2019 Form 10-K for further information related to our 2019 Productivity Plan.
+
+We regularly evaluate productivity initiatives beyond the productivity plan and other initiatives discussed above and in Note 3 to our condensed consolidated financial statements.
+
+Inventory Fair Value Adjustments and Merger and Integration Charges
+
+In the12 weeks endedMarch 21, 2020, we recorded merger and integration charges of$25 million($22 million after-tax or $0.02 per share), including$23 million in our FLNA segment related to our acquisition of BFY Brands and$2 million in our AMESA segment related to our acquisition of Pioneer Foods. These charges primarily relate to contract termination and employee-related costs.
+
+In the 12 weeks ended March 23, 2019, we recorded inventory fair value adjustments and merger and integration charges of$15 million($0.01 per share) in our Europe segment, primarily related to fair value adjustments to the acquired inventory included in SodaStream’s balance sheet at acquisition date.
+
+Net Tax Related to the TCJ Act
+
+During the fourth quarter of 2017, the TCJ Act was enacted in the United States. We recognized tax benefits of $29 million ($0.02 per share) in the12 weeks endedMarch 23, 2019 related to the TCJ Act.
+
+See Note 5 to our condensed consolidated financial statements for further information.
+
+Our Liquidity and Capital Resources
+
+We believe that our cash generating capability and financial condition, together with our revolving credit facilities, bridge loan facilities, working capital lines and other available methods of debt financing, such as commercial paper borrowings and long-term debt financing, will be adequate to meet our operating, investing and financing needs. Our primary sources of cash available to fund cash outflows, such as our anticipated share repurchases, dividend payments, debt repayments, payments 
+for acquisitions and the transition tax liability under the TCJ Act, include cash from operations, proceeds obtained from issuances of commercial paper, bridge loan facilities and long-term debt, and cash and cash equivalents. Our sources and uses of cash were not materially impacted by COVID-19 in the 12 weeks ended March 21, 2020 and, to date, we have not identified any material liquidity deficiencies as a result of the COVID-19 pandemic. Based on the information currently available to us, we 
+do not expect the impact of COVID-19 to have a material impact on our liquidity. We will continue to monitor and assess the impact COVID-19 may have on our business and financial results. See “Item 1A. Risk Factors,” “Our Business Risks” and Note 8 to our condensed consolidated financial statements included in this Form 10-Q and “Item 1A. Risk Factors” and “Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations - Our Business Risks,” as well as Note 8 to 
+our consolidated financial statements included in our2019 Form 10-K for further information.
+
+
+As ofMarch 21, 2020, cash, cash equivalents and short-term investments in our consolidated subsidiaries subject to currency controls or currency exchange restrictions were not material.
+
+The TCJ Act imposed a mandatory one-time transition tax on undistributed international earnings. As ofMarch 21, 2020, our mandatory transition tax liability was $3.3 billion, which must be paid through 2026 under the provisions of the TCJ Act. See Note 5 to our condensed consolidated financial statements for further discussion of the TCJ Act.
+
+The CARES Act was enacted during our second quarter of 2020 and includes several significant provisions, including delaying certain payroll tax payments, mandatory transition tax payments under the TCJ Act, and estimated income tax payments that we expect to defer to future periods. We do not currently expect this legislation to have a material detrimental impact on our liquidity. We will continue to monitor and assess the impact the CARES Act and similar legislation in other countries may have 
+on our business and financial results.
+
+Operating Activities
+
+During the12 weeks endedMarch 21, 2020, net cash used for operating activities was$0.7 billion, compared to net cash used for operating activities of$0.3 billion in the prior-year period. The operating cash flow performance primarily reflects unfavorable working capital comparisons to 2019.
+
+Investing Activities
+
+During the12 weeks endedMarch 21, 2020, net cash used for investing activities was$0.9 billion, primarily reflecting net capital spending of $0.5 billion and acquisitions of $0.5 billion.
+
+In light of the potential impact of the COVID-19 pandemic on our business, we are currently reviewing our plans with respect to net capital spending.
+
+Financing Activities
+
+During the12 weeks endedMarch 21, 2020, net cash provided by financing activities was$7.5 billion, primarily reflecting proceeds from issuances of long-term debt of $6.4 billion and net proceeds of short-term borrowings of $3.0 billion, partially offset by the return of operating cash flow to our shareholders through dividend payments and share repurchases of $1.9 billion.
+
+We annually review our capital structure with our Board of Directors, including our dividend policy and share repurchase activity. On February 13, 2018, we announced the 2018 share repurchase program providing for the repurchase of up to $15.0 billion of PepsiCo common stock which commenced on July 1, 2018 and will expire on June 30, 2021. On February 13, 2020, we announced a 7% increase in our annualized dividend to $4.09 per share from $3.82 per share, effective with the dividend expected to 
+be paid in June2020. We expect to return a total of approximately $7.5 billion to shareholders in2020 through share repurchases of approximately $2 billion and dividends of approximately $5.5 billion. See Part II, “Item 2. Unregistered Sales of Equity Securities and Use of Proceeds” for a description of our share repurchase program.
+
+
+Free Cash Flow
+
+The table below reconciles net cash used for operating activities, as reflected on our cash flow statement, to our free cash flow. Free cash flow is a non-GAAP financial measure. For further information on free cash flow see “Non-GAAP Measures.”
+
+                                                            12 Weeks Ended                                       
+                                                            3/21/2020                       3/23/2019            
+  Net cash used for operating activities, GAAP measure      $                     (749      $              (345  
+ ─────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Capital spending                                          (484                            (442                 
+  Sales of property, plant and equipment                    5                               2                    
+  Free cash flow, non-GAAP measure                          $                   (1,228      $              (785  
+
+We use free cash flow primarily for financing activities, including debt repayments, dividends and share repurchases. We expect to continue to return free cash flow to our shareholders through dividends and share repurchases while maintaining Tier 1 commercial paper access, which we believe will facilitate appropriate financial flexibility and ready access to global capital and credit markets at favorable interest rates. See “Our Business Risks” included in this Form 10-Q and “Item 1A. Risk 
+Factors” and “Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations - Our Business Risks,” included in our2019 Form 10-K, for certain factors that may impact our credit ratings or our operating cash flows.
+
+Any downgrade of our credit ratings by a credit rating agency, especially any downgrade to below investment grade, whether or not as a result of our actions or factors which are beyond our control, could increase our future borrowing costs and impair our ability to access capital and credit markets on terms commercially acceptable to us, or at all. In addition, any downgrade of our current short-term credit ratings could impair our ability to access the commercial paper market with the same 
+flexibility that we have experienced historically, and therefore require us to rely more heavily on more expensive types of debt financing. See Note 8 to our condensed consolidated financial statements, “Item 1A. Risk Factors” and “Our Business Risks” included in this Form 10-Q, as well as “Item 1A. Risk Factors” and “Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations - Our Business Risks” included in our2019 Form 10-K for further information.
+
+
+Report of Independent Registered Public Accounting Firm
+
+To the Shareholders and Board of Directors
+
+PepsiCo, Inc.:
+
+Results of Review of Interim Financial Information
+
+We have reviewed the Condensed Consolidated Balance Sheet of PepsiCo, Inc. and subsidiaries (the Company) as ofMarch 21, 2020, the related Condensed Consolidated Statements of Income, Comprehensive Income, Cash Flows and Equity for the 12 weeks endedMarch 21, 2020 andMarch 23, 2019, and the related notes (collectively, the consolidated interim financial information). Based on our reviews, we are not aware of any material modifications that should be made to the consolidated interim financial 
+information for it to be in conformity with U.S. generally accepted accounting principles.
+
+We have previously audited, in accordance with the standards of the Public Company Accounting Oversight Board (United States) (PCAOB), the Consolidated Balance Sheet of the Company as ofDecember 28, 2019, and the related Consolidated Statements of Income, Comprehensive Income, Cash Flows and Equity for the year then ended (not presented herein); and in our report dated February 13, 2020, we expressed an unqualified opinion on those consolidated financial statements. In our opinion, the 
+information set forth in the accompanying Condensed Consolidated Balance Sheet as ofDecember 28, 2019, is fairly stated, in all material respects, in relation to the Consolidated Balance Sheet from which it has been derived.
+
+Basis for Review Results
+
+This consolidated interim financial information is the responsibility of the Company’s management. We are a public accounting firm registered with the PCAOB and are required to be independent with respect to the Company in accordance with the U.S. federal securities laws and the applicable rules and regulations of the Securities and Exchange Commission and the PCAOB.
+
+We conducted our reviews in accordance with the standards of the PCAOB. A review of consolidated interim financial information consists principally of applying analytical procedures and making inquiries of persons responsible for financial and accounting matters. It is substantially less in scope than an audit conducted in accordance with the standards of the PCAOB, the objective of which is the expression of an opinion regarding the financial statements taken as a whole. Accordingly, we do not 
+express such an opinion.
+
+/s/ KPMG LLP
+
+New York, New York
+
+April 28, 2020
+
+
+ITEM 3. Quantitative and Qualitative Disclosures About Market Risk.
+
+See “Item 1A. Risk Factors” and “Item 2. Management’s Discussion and Analysis of Financial Condition and Results of Operations - Our Business Risks.” In addition, see “Item 1A. Risk Factors,” “Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations - Our Business Risks” and Note 9 to our consolidated financial statements in our2019 Form 10-K.
+
+ITEM 4. Controls and Procedures.
+
+As of the end of the period covered by this report, we carried out an evaluation under the supervision and with the participation of our management, including our Chief Executive Officer and Chief Financial Officer, of the effectiveness of the design and operation of our disclosure controls and procedures, as such term is defined in Rules 13a-15(e) and 15d-15(e) of the Securities Exchange Act of 1934, as amended (the Exchange Act). Based upon that evaluation, our Chief Executive Officer and 
+Chief Financial Officer concluded that as of the end of the period covered by this report our disclosure controls and procedures were effective to ensure that information required to be disclosed by us in reports we file or submit under the Exchange Act is (1) recorded, processed, summarized and reported within the time periods specified in SEC rules and forms, and (2) accumulated and communicated to our management, including our Chief Executive Officer and Chief Financial Officer, as 
+appropriate, to allow timely decisions regarding required disclosure.
+
+There were no changes in our internal control over financial reporting during our first quarter of2020 that have materially affected, or are reasonably likely to materially affect, our internal control over financial reporting.
+
+During our first quarter of2020, we continued migrating certain of our financial processing systems to an enterprise-wide systems solution. These systems implementations are part of our ongoing global business transformation initiative, and we plan to continue implementing such systems throughout other parts of our businesses. In addition, in connection with our 2019 Productivity Plan, we continue to migrate to shared business models across our operations to further simplify, harmonize and 
+automate processes. In connection with these implementations and resulting business process changes, we continue to enhance the design and documentation of our internal control over financial reporting processes to maintain effective controls over our financial reporting. These transitions have not materially affected, and we do not expect them to materially affect, our internal control over financial reporting.
+
+
+PART II OTHER INFORMATION
+
+ITEM 1. Legal Proceedings.
+
+The following information should be read in conjunction with the discussion set forth under Part I, “Item 3. Legal Proceedings” in our2019 Form 10-K.
+
+We and our subsidiaries are party to a variety of litigation, claims, legal or regulatory proceedings, inquiries and investigations. While the results of such litigation, claims, legal or regulatory proceedings, inquiries and investigations cannot be predicted with certainty, management believes that the final outcome of the foregoing will not have a material adverse effect on our financial condition, results of operations or cash flows. See also “Item 1A. Risk Factors” in this Form 10-Q and 
+“Item 1. Business - Regulatory Matters” and “Item 1A. Risk Factors” in our2019 Form 10-K.
+
+ITEM 1A. Risk Factors.
+
+The following additional risk factor relating to COVID-19 should be read in conjunction with the risk factors set forth under “Item 1A. Risk Factors” in our2019 Form 10-K. The developments described in this additional risk factor have heightened, or in some cases manifested, certain of the risks disclosed in the risk factor section of our 2019 Form 10-K, and such risk factors are further qualified by the information relating to COVID-19 that is described in this Form 10-Q, including in the 
+additional risk factor below. Except as described herein, there have been no material changes with respect to the risk factors disclosed in our 2019 Form 10-K.
+
+You should carefully consider the risks described below and in our 2019 Form 10-K in addition to the other information set forth in this Form 10-Q and in our 2019 Form 10-K, including the Management’s Discussion and Analysis of Financial Condition and Results of Operations sections and the consolidated financial statements and related notes. These risks, some of which have occurred and any of which may occur in the future, can have a material adverse effect on our business, financial condition, 
+results of operations or the prices of our publicly traded securities. The risks described below and in our 2019 Form 10-K are not the only risks we face. Additional risks and uncertainties not currently known to us, or that we currently deem to be immaterial, may occur or become material in the future and adversely affect our business, reputation, financial condition, results of operations or the prices of our publicly traded securities. Therefore, historical operating results, financial and 
+business performance, events and trends are often not a reliable indicator of future operating results, financial and business performance, events or trends.
+
+The impact of the spread of COVID-19 is creating significant uncertainty for our business, financial condition and results of operations and for the prices of our publicly traded securities.
+
+The extent of the impact of the COVID-19 pandemic on our business and financial results will depend on numerous evolving factors that we are not able to accurately predict and which all will vary by market, including the duration and scope of the pandemic, global economic conditions during and after the pandemic, governmental actions that have been taken, or may be taken in the future, in response to the pandemic, and changes in consumer behavior in response to the pandemic, some of which may be
+more than just temporary.
+
+Our global operations expose us to risks associated with the COVID-19 pandemic, which has resulted in challenging operating environments. COVID-19 has spread across the globe to almost all of the countries in which our products are made, manufactured, distributed or sold. Authorities in many of these markets have implemented numerous measures to stall the spread of COVID-19, including travel bans and restrictions, quarantines, curfews, shelter in place orders, and business shutdowns. These 
+measures have impacted and will further impact us, our customers (including our foodservice customers), consumers, employees, bottlers, contract manufacturers, distributors, joint venture partners, suppliers and other third parties with whom we do business. There is considerable uncertainty regarding how these measures and future measures in response
+
+
+to the pandemic will impact our business, including whether they will result in further changes in demand for our products, further increases in operating costs (whether as a result of changes to our supply chain or increases in employee costs or otherwise), how they will further impact our supply chain and whether they will result in further reduced availability of air or other commercial transport, port closures or border restrictions, each or all of which can impact our ability to make, 
+manufacture, distribute and sell our products. In addition, measures that impact our ability to access our offices, plants, warehouses, distribution centers or other facilities, or that impact the ability of our customers (including our foodservice customers), consumers, employees, bottlers, contract manufacturers, distributors, joint venture partners, suppliers and other third parties to do the same, may impact the availability of our and their employees, many of whom are not able to perform 
+their job functions remotely. If a significant percentage of our or our business partners’ workforce is unable to work, including because of illness, facility closures, quarantine, curfews, shelter in place orders, travel restrictions or other governmental restrictions, our operations will be negatively impacted. Any sustained interruption in our or our business partners’ operations, distribution network or supply chain or any significant continuous shortage of raw materials or other supplies as
+a result of these measures, restrictions or disruptions can impair our ability to make, manufacture, distribute or sell our products. Compliance with governmental measures imposed in response to COVID-19 has caused and may continue to cause us to incur additional costs, and any inability to comply with such measures can subject us to restrictions on our business activities, fines, and other penalties, any of which can adversely affect our business. In addition, the increase in certain of our 
+employees working remotely has amplified certain risks to our business, including increased demand on our information technology resources and systems, increased phishing and other cybersecurity attacks as cybercriminals try to exploit the uncertainty surrounding the COVID-19 pandemic, and an increase in the number of points of potential attack, such as laptops and mobile devices (both of which are now being used in increased numbers), to be secured, and any failure to effectively manage these 
+risks, including to timely identify and appropriately respond to any cyberattacks, may adversely affect our business.
+
+Public concern regarding the risk of contracting COVID-19 impacts demand from consumers, including due to consumers not leaving their homes or otherwise shopping in a different manner than they historically have or because some of our consumers have lower discretionary income due to unemployment or reduced or limited work as a result of measures taken in response to the pandemic. As we sell a wide variety of beverages, foods and snacks in more than 200 countries and territories, the profile of 
+the products we sell and the amount of revenue attributable to such products varies by jurisdiction and changes in demand as a result of COVID-19 will vary in scope and timing across these markets. In addition, changes in consumer purchasing and consumption patterns may increase demand for our products in one quarter, resulting in decreased consumer demand for our products in subsequent quarters, or in one sales channel resulting in potentially reduced profit from sales of our products. For 
+example, to date, we have seen a shift in product and channel preferences, including an increase in at-home consumption and a decrease in immediate consumption and away-from-home channels, such as convenience and gas and foodservice, which negatively impacts our beverage businesses. Any reduced demand for our products or change in consumer purchasing and consumption patterns, as well as continued economic uncertainty, can adversely affect our customers’ and business partners’ financial 
+condition, resulting in an inability to pay for our products, reduced or canceled orders of our products, closing of restaurants, stores, entertainment or sports complexes or other venues in which our products are sold, or our business partners’ inability to supply us with ingredients or other items necessary for us to make, manufacture, distribute or sell our products. Such adverse changes in our customers’ or business partners’ financial condition may also result in our recording additional 
+impairment charges for our inability to recover or collect any accounts receivable, owned or leased assets, including certain foodservice and vending and other equipment, or prepaid expenses. In addition, economic uncertainty associated with the COVID-19 pandemic has resulted in volatility in the global capital and credit markets which can impair our ability to access these markets on terms commercially acceptable to us, or at all.
+
+
+While we have developed and implemented and continue to develop and implement health and safety protocols, business continuity plans and crisis management protocols in an effort to try to mitigate the negative impact of COVID-19 on our employees and our business, there can be no assurance that we will be successful in our efforts, and as a result, our business, financial condition and results of operations and the prices of our publicly traded securities may be adversely affected.
+
+ITEM 2. Unregistered Sales of Equity Securities and Use of Proceeds.
+
+A summary of our common stock repurchases (in millions, except average price per share) during the first quarter of2020 is set forth in the table below.
+
+Issuer Purchases of Common Stock
+
+  Period                                Total      Average Price                       Total Number      Maximum                             
+                                    Number of      Paid Per Share                         of Shares      Number (or                          
+                                       Shares                                          Purchased as      Approximate                         
+                              Repurchased (a)                                      Part of Publicly      Dollar Value) of                    
+                                                                                          Announced      Shares That May Yet Be              
+                                                                                           Plans or      Purchased                           
+                                                                                           Programs      Under the Plans                     
+                                                                                                         or Programs                         
+  12/29/2019 - 1/25/2020                  1.4      $                   137.58                   1.4      (193                                
+ ─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  12/28/2019                                                                                             $                           11,084  
+                                                                                                                                     10,891  
+  1/26/2020 - 2/22/2020                   1.0      $                   143.47                   1.0      (144                                
+                                                                                                                                     10,747  
+  2/23/2020 - 3/21/2020                   2.1      $                   128.00                   2.1      (265                                
+  Total                                   4.5      $                   134.47                   4.5      $                           10,482  
+
+  (a)      All shares were repurchased in open market transactions pursuant to the $15 billion share repurchase program authorized by our Board of Directors and publicly announced on February 13, 2018, wh...  
+ ─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+ITEM 6. Exhibits.
+
+  See “Index to Exhibits” on page 43.  
+
+
+INDEX TO EXHIBITS
+
+ITEM 6
+
+  EXHIBIT                                                                                                                                                                                                                 
+  Exhibit 3.1       Amended and Restated Articles of Incorporation of PepsiCo, Inc., effective as of May 1, 2019, which are incorporated herein by reference to Exhibit 3.1 to PepsiCo, Inc.’s Current Report on Form...  
+  Exhibit 3.2       By-Laws of PepsiCo, Inc., as amended and restated, effective as of April 15, 2020, which are incorporated herein by reference to Exhibit 3.2 to PepsiCo, Inc.’s Current Report on Form 8-K filed ...  
+  Exhibit 10.1      Form of Annual Long-Term Incentive Agreement.                                                                                                                                                         
+  Exhibit 15        Letter re: Unaudited Interim Financial Information.                                                                                                                                                   
+  Exhibit 31        Certifications of Chief Executive Officer and Chief Financial Officer pursuant to Section 302 of the Sarbanes-Oxley Act of 2002.                                                                      
+  Exhibit 32        Certifications of Chief Executive Officer and Chief Financial Officer pursuant to Section 906 of the Sarbanes-Oxley Act of 2002.                                                                      
+  Exhibit 101       The following materials from PepsiCo, Inc.’s Quarterly Report on Form 10-Q for the quarter ended March 21, 2020 formatted in iXBRL (Inline eXtensible Business Reporting Language): (i) the Conde...  
+  Exhibit 104       The cover page from the Company’s Quarterly Report on Form 10-Q for the quarter ended March 21, 2020, formatted in iXBRL and contained in Exhibit 101.                                                
+
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
+
+                                 PepsiCo, Inc.                                                                          
+                                 (Registrant)                                                                           
+  Date:      April 28, 2020      /s/ Marie T. Gallagher                                                                 
+                                 Marie T. Gallagher                                                                     
+                                 Senior Vice President and Controller                                                   
+                                 (Principal Accounting Officer)                                                         
+  Date:      April 28, 2020      /s/ David Yawman                                                                       
+                                 David Yawman                                                                           
+                                 Executive Vice President, Government Affairs, General Counsel and Corporate Secretary  
+                                 (Duly Authorized Officer)                                                              
+
+44

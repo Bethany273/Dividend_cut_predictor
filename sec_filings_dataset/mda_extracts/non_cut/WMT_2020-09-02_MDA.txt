@@ -1,0 +1,466 @@
+Item 2. Management's Discussion and Analysis of Financial Condition and Results of Operations
+
+Overview
+
+This discussion, which presents Walmart Inc.'s ("Walmart," the "Company," "our," or "we") results for periods occurring in the fiscal year endingJanuary 31, 2021("fiscal2021") and the fiscal year endedJanuary 31, 2020("fiscal 2020"), should be read in conjunction with our Condensed Consolidated Financial Statements as of and for the three and six months ended July 31, 2020, and the accompanying notes included inPart I, Item 1 of this Quarterly Report on Form 10-Q, as well as our Consolidated 
+Financial Statements as of and for the year endedJanuary 31, 2020, the accompanying notes and the related Management's Discussion and Analysis of Financial Condition and Results of Operations, contained in our Annual Report on Form 10-K for the year endedJanuary 31, 2020.
+
+We intend for this discussion to provide the reader with information that will assist in understanding our financial statements, the changes in certain key items in those financial statements from period to period and the primary factors that accounted for those changes. We also discuss certain performance metrics that management uses to assess the Company's performance. Additionally, the discussion provides information about the financial results of each of the three segments of our business to
+provide a better understanding of how each of those segments and its results of operations affect the financial condition and results of operations of the Company as a whole.
+
+Throughout this Management's Discussion and Analysis of Financial Condition and Results of Operations, we discuss segment operating income, comparable store and club sales and other measures. Management measures the results of the Company's segments using each segment's operating income, including certain corporate overhead allocations, as well as other measures. From time to time, we revise the measurement of each segment's operating income and other measures as determined by the information 
+regularly reviewed by our chief operating decision maker.
+
+Comparable store and club sales, or comparable sales, is a metric that indicates the performance of our existing stores and clubs by measuring the change in sales for such stores and clubs, including eCommerce sales, for a particular period from the corresponding prior year period. Walmart's definition of comparable sales includes sales from stores and clubs open for the previous 12 months, including remodels, relocations, expansions and conversions, as well as eCommerce sales. We measure the 
+eCommerce sales impact by including all sales initiated digitally and those initiated through mobile applications, including omni-channel transactions which are fulfilled through our stores and clubs. Sales at a store that has changed in format are excluded from comparable sales when the conversion of that store is accompanied by a relocation or expansion that results in a change in the store's retail square feet of more than five percent. Additionally, sales related to acquisitions are excluded
+until such acquisitions have been owned for 12 months. Comparable sales are also referred to as "same-store" sales by others within the retail industry. The method of calculating comparable sales varies across the retail industry. As a result, our calculation of comparable sales is not necessarily comparable to similarly titled measures reported by other companies.
+
+In discussing our operating results, the term currency exchange rates refers to the currency exchange rates we use to convert the operating results for countries where the functional currency is not the U.S. dollar into U.S. dollars or for countries experiencing hyperinflation. We calculate the effect of changes in currency exchange rates as the difference between current period activity translated using the current period’s currency exchange rates and the comparable prior year period’s currency
+exchange rates. Additionally, no currency exchange rate fluctuations are calculated for non-USD acquisitions until owned for 12 months. Throughout our discussion, we refer to the results of this calculation as the impact of currency exchange rate fluctuations. Volatility in currency exchange rates may impact the results, including net sales and operating income, of the Company and the Walmart International segment in the future.
+
+Each of our segments contributes to the Company's operating results differently. Each, however, has generally maintained a consistent contribution rate to the Company's net sales and operating income in recent years other than minor changes to the contribution rate for the Walmart International segment due to fluctuations in currency exchange rates.
+
+We operate in the highly competitive omni-channel retail industry in all of the markets we serve. We face strong sales competition from other discount, department, drug, dollar, variety and specialty stores, warehouse clubs and supermarkets, as well as eCommerce businesses. Many of these competitors are national, regional or international chains or have a national or international omni-channel or eCommerce presence. We compete with a number of companies for attracting and retaining quality 
+employees ("associates"). We, along with other retail companies, are influenced by a number of factors including, but not limited to: catastrophic events and global health epidemics including the recent COVID-19 pandemic, weather, competitive pressures, consumer disposable income, consumer debt levels and buying patterns, consumer credit availability, cost of goods, currency exchange rate fluctuations, customer preferences, deflation, inflation, fuel and energy prices, general economic 
+conditions, insurance costs, interest rates, labor costs, tax rates, the imposition of tariffs, cybersecurity attacks and unemployment. Further information on the factors that can affect our operating results and on certain risks to our Company and an investment in our securities can be found herein under "Item 5. Other Information."
+
+
+COVID-19 Updates
+
+Our strategy is to make every day easier for busy families, operate with discipline, sharpen our culture, become more digital, and make trust a competitive advantage. These areas of focus are fundamental in running our business every day, and even more so now as Walmart plays an important role during the current COVID-19 pandemic.
+
+Supporting our associates. We remain focused on our strategy while also prioritizing the physical safety, financial health and emotional well-being of our associates. In the U.S., we provided extra pay and benefits, including special cash bonuses to store associates and the introduction of a COVID-19 Emergency Leave Policy. We have also done similar things in some of our international markets to support and reward associates.
+
+Serving our customers. From an operational standpoint, stores continued to operate at reduced hours to allow for additional cleaning and sanitizing, posted social-distancing decals, implemented protocols for temperature checks, began metering the number of customers in a store or club at any one time, and installed sneeze guards at pharmacies and checkouts. Stores, clubs, and facilities received masks and gloves, and associates and customers are required to wear face coverings to protect both 
+associates and our customers. Globally, we hired more than 500,000 associates through August 2020, many of whom are temporary.
+
+Helping others. We increased our giving to community organizations and continued food donations from our stores and distribution centers. We supported tenants in various markets by waiving or discounting rent for in-store tenants during April 2020, which continued through May 2020.
+
+Managing the business and driving our long-term strategy. As we take care of associates, customers and communities, we continue to manage the business and drive our long-term strategy. We are maintaining our everyday low-price discipline and our omni-channel offering continues to resonate with customers around the world who are increasingly seeking convenience.
+
+The COVID-19 pandemic resulted in broad challenges globally in the first half fiscal 2021, including new and varying government regulations, stretching our supply chain, and introducing significant sales volatility as well as channel and mix shifts due to changing consumer habits. Increased demand led to strong growth in net sales, including eCommerce growth acceleration, and higher operating expenses during the six months ended July 31, 2020. Although gross margin rates were flat for the six 
+months ended July 31, 2020, gross margin rates significantly improved in the second quarter of fiscal 2021 as compared to the first quarter of fiscal 2021. For a detailed discussion on results of operations by reportable segment, refer to "Results of Operations" below.
+
+We expect continued uncertainty in our business and the global economy due to the duration and intensity of the COVID - 19 pandemic; the duration and extent of economic stimulus; the length and impact of any stay - at - home orders or government mandates; and volatility in employment trends and consumer confidence which will impact our results in the short term.
+
+In the current environment, we believe cash flows from operations, our current cash position and access to capital markets will continue to be sufficient to meet our anticipated operating cash needs, which include funding seasonal buildups in merchandise inventories and funding our capital expenditures, acquisitions, dividend payments and share repurchases. See "Liquidity and Capital Resources" for additional information.
+
+Company Performance Metrics
+
+We are committed to helping customers save money and live better through everyday low prices, supported by everyday low costs. At times, we adjust our business strategies to maintain and strengthen our competitive positions in the countries in which we operate. We define our financial framework as:
+
+  strong, efficient growth;  
+
+  consistent operating discipline; and  
+
+  strategic capital allocation.  
+
+As we execute on this financial framework, we believe our returns on capital will improve over time.
+
+The COVID-19 pandemic led to increased demand and overall net sales growth through the first two quarters of fiscal 2021. As our Company continues to respond to the COVID-19 pandemic, we have prioritized our focus on associate care, including extra pay and benefits as well as masks and gloves; increased cleaning and sanitation measures; customer safety; and new associate hiring. Additionally, we've reduced capital spending, delayed certain consulting projects, and reduced marketing and travel in
+response to the COVID-19 pandemic.
+
+
+Strong, Efficient Growth
+
+Our objective of prioritizing strong, efficient growth means we will focus on the most productive growth opportunities, increasing comparable store and club sales, accelerating eCommerce sales growth and expansion of omni-channel initiatives while slowing the rate of growth of new stores and clubs. At times, we make strategic investments which are focused on the long-term growth of the Company.
+
+Comparable sales is a metric that indicates the performance of our existing stores and clubs by measuring the change in sales for such stores and clubs, including eCommerce sales, for a particular period over the corresponding period in the previous year. The retail industry generally reports comparable sales using the retail calendar (also known as the 4-5-4 calendar). To be consistent with the retail industry, we provide comparable sales using the retail calendar in our quarterly earnings 
+releases. However, when we discuss our comparable sales below, we are referring to our calendar comparable sales calculated using our fiscal calendar. As our fiscal calendar differs from the retail calendar, our fiscal calendar comparable sales also differ from the retail calendar comparable sales provided in our quarterly earnings releases. Calendar comparable sales, as well as the impact of fuel, for the three and six months ended July 31, 2020 and 2019, were as follows:
+
+  Three Months Ended July 31,                                           Six Months Ended July 31,                                       
+                         2020      2019             2020      2019                           2020      2019             2020      2019  
+                    With Fuel                Fuel Impact                                With Fuel                Fuel Impact            
+ ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+                          9.7       2.9             (0.2       0.0                           10.1       3.1             (0.3       0.0  
+                          8.8       1.7             (4.7       0.6                            9.2       1.6             (4.0       0.8  
+                          9.6       2.7             (0.8       0.0                           10.0       2.8             (0.7       0.0  
+
+Comparable sales in the U.S., including fuel, increased9.6% and10.0% for the three and six months ended July 31, 2020, respectively, when compared to the same period in the previous fiscal year. The Walmart U.S. segment had comparable sales growth of9.7% and10.1% for the three and six months ended July 31, 2020, respectively, driven by growth in average ticket primarily resulting from increased demand due to the COVID-19 pandemic, partially offset by a decline in transactions as customers 
+consolidated shopping trips. With the shift in purchasing behavior, Walmart U.S. segment's eCommerce sales positively contributed approximately6.0% and5.0% to comparable sales for the three and six months ended July 31, 2020, respectively, and was primarily driven by store pickup and delivery and walmart.com.
+
+Comparable sales at the Sam's Club segment were8.8% and9.2% for the three and six months ended July 31, 2020, respectively. The Sam's Club segment's comparable sales benefited from growth in transactions and average ticket resulting from the COVID-19 pandemic, partially offset by lower fuel sales and our decision to remove tobacco from certain club locations. The Sam's Club segment's eCommerce sales positively contributed approximately2.0% and1.9% to comparable sales for the three and six months
+endedJuly 31, 2020, respectively.
+
+Consistent Operating Discipline
+
+We operate with discipline by managing expenses and optimizing the efficiency of how we work and creating an environment in which we have sustainable lowest cost to serve. We invest in technology and process improvements to increase productivity, manage inventory and reduce costs. We measure operating discipline through expense leverage, which we define as net sales growing at a faster rate than operating, selling, general and administrative ("operating") expenses.
+
+                                                                                            Three Months Ended July 31,                                          Six Months Ended July 31,                         
+  (Amounts in millions)                                                                     2020                                          2019                   2020                                        2019  
+ ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Net sales                                                                                 $                                136,824      $         129,388      $                              270,496      $     
+  Percentage change from comparable period                                                  5.7                                           1.8                    7.2                                         1.5   
+  Operating, selling, general and administrative expenses                                   $                                 28,994      $          26,871      $                               56,366      $     
+  Percentage change from comparable period                                                  7.9                                           0.6                    6.7                                         0.5   
+  Operating, selling, general and administrative expenses as a percentage of net sales      21.2                                          20.8                   20.8                                        20.9  
+
+Despite the increase in net sales from the strong demand resulting from the COVID-19 pandemic for the three months ended July 31, 2020, operating expenses as a percentage of net sales increased by42 basis points when compared to the same period in the previous fiscal year. The increase was primarily the result of $1.5 billion of incremental expenses related to associate care and customer safety during the COVID-19 pandemic which included special bonuses, additional cleaning and supplies, 
+emergency leave pay and other similar charges, as well as a $0.4 billion business restructuring charge in Walmart U.S.
+
+For thesix months ended July 31, 2020 we leveraged operating expenses, decreasing operating expenses as a percentage of net sales by 9 basis points when compared to the same period in the previous fiscal year. The primary driver of the expense leverage was due to our growth in comparable store sales driven by strong demand resulting from the COVID-19 pandemic, which was partially offset by $2.4 billion of incremental expenses described above during the COVID-19 pandemic as well as a $0.4 billion
+business restructuring charge in Walmart U.S.
+
+
+Strategic Capital Allocation
+
+Our strategy includes improving our customer-facing initiatives in stores and clubs and creating a seamless omni-channel experience for our customers. In recent years, we have allocated more capital to eCommerce, technology, supply chain, and store remodels and less to new store and club openings. We will continue to remain disciplined with our capital spending in light of the COVID-19 pandemic. Total capital expenditures for the
+
+six months ended July 31, 2020
+
+decreased compared to the prior year due to the COVID-19 pandemic which impacted the timing of store remodeling and front-end technology transformation activities in Walmart U.S.; the following table provides additional detail:
+
+  (Amounts in millions)                                           Six Months Ended July 31,                                  
+  Allocation of Capital Expenditures                              2020                                      2019             
+ ─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  eCommerce, technology, supply chain and other                   $                              1,814      $         2,327  
+  Store remodels                                                  822                                                 1,310  
+  New stores and clubs, including expansions and relocations      43                                        41               
+  Total U.S.                                                                                     2,679                3,678  
+  Walmart International                                           890                                                 1,193  
+  Total Capital Expenditures                                      $                              3,569      $         4,871  
+
+Returns
+
+As we execute our financial framework, we believe our return on capital will improve over time. We measure return on capital with our return on investment and free cash flow metrics. In addition, we provide returns in the form of share repurchases and dividends, which are discussed in theLiquidity and Capital Resources section.
+
+Return on Assets and Return on Investment
+
+We include Return on Assets ("ROA"), the most directly comparable measure based on our financial statements presented in accordance with generally accepted accounting principles in the U.S. ("GAAP"), and Return on Investment ("ROI") as metrics to assess returns on assets. While ROI is considered a non-GAAP financial measure, management believes ROI is a meaningful metric to share with investors because it helps investors assess how effectively Walmart is deploying its assets. Trends in ROI can 
+fluctuate over time as management balances long-term strategic initiatives with possible short-term impacts. ROA was7.7% and6.0% for the trailing twelve months endedJuly 31, 2020 and 2019, respectively. The increase in ROA was primarily due to the increase in consolidated net income primarily driven by the change in fair value of the investment in JD.com, partially offset by the increase in average total assets due to the acquisition of Flipkart. ROI was13.5% and14.3% for the trailing twelve 
+months endedJuly 31, 2020 and 2019, respectively. The decrease in ROI was primarily due to the increase in average total assets due to the acquisition of Flipkart.
+
+We define ROI as adjusted operating income (operating income plus interest income, depreciation and amortization, and rent expense) for the trailing 12 months divided by average invested capital during that period. We consider average invested capital to be the average of our beginning and ending total assets, plus average accumulated depreciation and average amortization, less average accounts payable and average accrued liabilities for that period. For the trailing twelve months endedJuly 31, 
+2019, lease related assets and associated accumulated amortization are included in the denominator at their carrying amount as of that balance sheet date, rather than averaged, because they are not directly comparable to the prior year calculation which included rent for the trailing 12 months multiplied by a factor of 8. A two-point average was used for leased assets beginning in fiscal 2021, after one full year from the date of adoption of Accounting Standards Update 2016-02, Leases (Topic 
+842)("ASU 2016-02").
+
+Our calculation of ROI is considered a non-GAAP financial measure because we calculate ROI using financial measures that exclude and include amounts that are included and excluded in the most directly comparable GAAP financial measure. For example, we exclude the impact of depreciation and amortization from our reported operating income in calculating the numerator of our calculation of ROI. As mentioned above, we consider ROA to be the financial measure computed in accordance with generally 
+accepted accounting principles most directly comparable to our calculation of ROI. ROI differs from ROA (which is consolidated net income for the period divided by average total assets for the period) because ROI: adjusts operating income to exclude certain expense items and adds interest income; adjusts total assets for the impact of accumulated depreciation and amortization, accounts payable and accrued liabilities to arrive at total invested capital. Because of the adjustments mentioned 
+above, we believe ROI more accurately measures how we are deploying our key assets and is more meaningful to investors than ROA. Although ROI is a standard financial measure, numerous methods exist for calculating a company's ROI. As a result, the method used by management to calculate our ROI may differ from the methods used by other companies to calculate their ROI.
+
+
+The calculation of ROA and ROI, along with a reconciliation of ROI to the calculation of ROA, the most comparable GAAP financial measure, is as follows:
+
+                                                                    For the Trailing Twelve Months Ending July 31,                                      
+  (Amounts in millions)                                             2020                                                             2019               
+ ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  CALCULATION OF RETURN ON ASSETS                                                                                                                       
+  Numerator                                                                                                                                             
+  Consolidated net income                                           $                                                    18,128      $          13,216  
+  Denominator                                                                                                                                           
+  Average total assets (1)                                          $                                                   236,122      $         220,462  
+  Return on assets (ROA)                                            7.7                                                              6.0                
+  CALCULATION OF RETURN ON INVESTMENT                                                                                                                   
+  Numerator                                                                                                                                             
+  Operating income                                                  $                                                    21,323      $          21,581  
+  + Interest income                                                 151                                                              227                
+  + Depreciation and amortization                                                                                        11,113                 10,782  
+  + Rent                                                                                                                  2,679                  2,809  
+  = ROI operating income                                            $                                                    35,266      $          35,399  
+  Denominator                                                                                                                                           
+  Average total assets (1),(2)                                      $                                                   236,122      $         227,557  
+  + Average accumulated depreciation and amortization (1), (2)                                                           93,418                 86,003  
+  - Average accounts payable (1)                                                                                         46,099                 44,500  
+  - Average accrued liabilities (1)                                                                                      22,230                 21,769  
+  = Average invested capital                                        $                                                   261,211      $         247,291  
+  Return on investment (ROI)                                        13.5                                                             14.3               
+
+                                                                        As of July 31,                                         
+ ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Certain Balance Sheet Data                                                                                                   
+  Total assets                                                          $                   237,382      234,861      206,062  
+  Leased assets, net                                                    NP                                21,188        6,998  
+  Total assets without leased assets, net                               NP                               213,673      199,064  
+  Accumulated depreciation and amortization                                                  97,023       89,813       84,052  
+  Accumulated amortization on leased assets                             NP                                 3,686        5,547  
+  Accumulated depreciation and amortization, without leased assets      NP                                86,127       78,505  
+  Accounts payable                                                                           46,326       45,871       43,128  
+  Accrued liabilities                                                                        23,768       20,691       22,846  
+
+1 The average is based on the addition of the account balance at the end of the current period to the account balance at the end of the corresponding prior period and dividing by 2. Average total assets as used in ROA includes the average impact of the adoption of ASU 2016-02.
+
+2 For the twelve months ended July 31, 2019, as a result of adopting ASU 2016-02, average total assets is based on the average of total assets without leased assets, net plus leased assets, net as of July 31, 2019. Average accumulated depreciation and amortization is based on the average of accumulated depreciation and amortization, without leased assets plus accumulated amortization on leased assets as of July 31, 2019.
+
+NP = Not provided
+
+
+Free Cash Flow
+
+Free cash flow is considered a non-GAAP financial measure. Management believes, however, that free cash flow, which measures our ability to generate cash from our business operations, is an important financial measure for use in evaluating the Company's financial performance. Free cash flow should be considered in addition to, rather than as a substitute for, consolidated net income as a measure of our performance and net cash provided by operating activities as a measure of our liquidity. 
+SeeLiquidity and Capital Resources for discussions of GAAP metrics including net cash provided by operating activities, net cash used in investing activities and net cash used in financing activities.
+
+We define free cash flow as net cash provided by operating activities in a period minus payments for property and equipment made in that period. We had net cash provided by operating activities of$19.0 billion for the six months endedJuly 31, 2020, which increased when compared to$11.2 billion for the six months endedJuly 31,2019 primarily due to the impact of the global health crisis which accelerated inventory sell-through, as well as the timing and payment of inventory purchases, incremental 
+COVID-19 related expenses and certain benefit payments. We generated free cash flow of$15.4 billion for the six months endedJuly 31, 2020, which increased when compared to$6.3 billion for the six months endedJuly 31,2019 due to the same reasons as the increase in net cash provided by operating activities, as well as $1.3 billion in decreased capital expenditures due to impacts from the COVID-19 pandemic which impacted the timing of store remodeling and front-end technology transformation 
+activities in Walmart U.S.
+
+Walmart's definition of free cash flow is limited in that it does not represent residual cash flows available for discretionary expenditures due to the fact that the measure does not deduct the payments required for debt service and other contractual obligations or payments made for business acquisitions. Therefore, we believe it is important to view free cash flow as a measure that provides supplemental information to our Condensed Consolidated Statements of Cash Flows.
+
+Although other companies report their free cash flow, numerous methods may exist for calculating a company's free cash flow. As a result, the method used by management to calculate our free cash flow may differ from the methods used by other companies to calculate their free cash flow.
+
+The following table sets forth a reconciliation of free cash flow, a non-GAAP financial measure, to net cash provided by operating activities, which we believe to be the GAAP financial measure most directly comparable to free cash flow, as well as information regarding net cash used in investing activities and net cash used in financing activities.
+
+                                                 Six Months Ended July 31,                                    
+  (Amounts in millions)                          2020                                       2019              
+ ──────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Net cash provided by operating activities      $                              18,956      $         11,185  
+  Payments for property and equipment                                           (3,569                (4,871  
+  Free cash flow                                 $                              15,387      $          6,314  
+  Net cash used in investing activities (1)      $                              (3,634      $         (3,824  
+  Net cash used in financing activities                                         (7,814                (5,531  
+
+(1) "Net cash used in investing activities" includes payments for property and equipment, which is also included in our computation of free cash flow.
+
+
+Results of Operations
+
+Consolidated Results of Operations
+
+                                                        Three Months Ended July 31,                             Six Months Ended July 31,                                      
+  (Amounts in millions, except unit counts)             2020                                          2019      2020                                        2019               
+ ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Total revenues                                        $                                137,742      $         $                              272,364      $         254,302  
+  Percentage change from comparable period              5.6                                           1.8       7.1                                         1.4                
+  Net sales                                             $                                136,824      $         $                              270,496      $         252,337  
+  Percentage change from comparable period              5.7                                           1.8       7.2                                         1.5                
+  Total U.S. calendar comparable sales increase         9.6                                           2.7       10.0                                        2.8                
+  Gross profit margin as a percentage of net sales      24.9                                          24.3      24.3                                        24.3               
+  Operating income                                      $                                  6,059      $         $                               11,283      $          10,528  
+  Operating income as a percentage of net sales         4.4                                           4.3       4.2                                         4.2                
+  Other (gains) and losses                              $                                 (3,222      $         $                               (3,943      $            (752  
+  Consolidated net income                               $                                  6,439      $         $                               10,513      $           7,586  
+  Unit counts at period end                                                               11,496                                                11,496                 11,389  
+  Retail square feet at period end                                                         1,127                                                 1,127                  1,127  
+
+Our total revenues, which are mostly comprised of net sales, but also include membership and other income, increased$7.4 billion or5.6% and$18.1 billion or7.1% for the three and six months ended July 31, 2020, respectively, when compared to the same periods in the previous fiscal year. These increases in revenue were due to increases in net sales, which were primarily due to strong positive comparable sales for the Walmart U.S. and Sam's Club segments resulting from strong demand due to the 
+COVID-19 pandemic, along with positive comparable sales in majority of our international markets, despite operating limitations in several markets due to government regulations and precautionary measures taken as a result of the COVID-19 pandemic. These increases were partially offset by a$2.4 billion and$3.7 billion negative impact of fluctuations in currency exchange rates for the three and six months ended July 31, 2020, respectively.
+
+As the COVID-19 pandemic spread to the U.S in late February, we saw the mix of sales shift heavily toward food and consumables as consumers initiated stock-up trips. Toward the end of the first quarter of fiscal 2021 and throughout the second quarter of fiscal 2021, sales increased in several general merchandise categories which were heavily influenced by stimulus dollars in the U.S. eCommerce sales remained strong throughout the first half of fiscal 2021 as more customers gravitated toward and 
+continued using store pickup and delivery.
+
+Gross profit as a percentage of net sales ("gross profit rate") increased63 basis points for the three months ended July 31, 2020 when compared to the same period in the previous fiscal year. The increase was primarily the result of strong sales in higher-margin general merchandise categories, which in the U.S. was aided by government stimulus, lower markdowns, and better fuel margins.
+
+The gross profit rate was flat for thesix months ended July 31, 2020 when compared to the same period in the previous fiscal year. The increase in the gross profit rate for the three months ended July 31, 2020, as described above, was offset in the Walmart U.S. segment by carryover of prior year price investments as well the temporary closure of our Auto Care Centers and Vision Centers in response to the COVID-19 pandemic.
+
+Despite the increase in net sales, operating expenses as a percentage of net sales increased42 basis points for the three months ended July 31, 2020 when compared to the same period in the previous fiscal year primarily due to $1.5 billion of incremental costs related to the COVID-19 pandemic and a $0.4 billion business restructuring charge in the Walmart U.S. segment.
+
+Operating expenses as a percentage of net sales decreased9 basis points for the six months ended July 31, 2020 when compared to the same period in the previous fiscal year, primarily due to strong sales, partially offset by$2.4 billion of incremental costs related to the COVID-19 pandemic as well as a $0.4 billion business restructuring charge in the Walmart U.S. segment.
+
+Other gains and losses consisted of a gain of$3.2 billion and a loss of$0.1 billion for the three months ended July 31, 2020 and 2019, respectively, and a gain of$3.9 billion and$0.8 billion for the six months ended July 31, 2020 and 2019, respectively, primarily representing the fair value change of our JD.com investment.
+
+Our effective income tax rate was25.5% and25.1% for the three and six months ended July 31, 2020, respectively, compared to25.1% and24.7% for the same periods in the previous fiscal year. Our effective income tax rate may fluctuate from quarter to quarter as a result of factors including changes in our assessment of certain tax contingencies, valuation allowances, changes in tax law, outcomes of administrative audits, the impact of discrete items and the mix and size of earnings among our U.S. 
+operations and international operations, which are subject to statutory rates that may be different than the U.S. statutory rate.
+
+
+As a result of the factors discussed above, consolidated net income increased$2.8 billion and$2.9 billion for the three and six months ended July 31, 2020, respectively, when compared to the same periods in the previous fiscal year. Accordingly, diluted net income per common share attributable to Walmart was$2.27 and$3.67 for the three and six months ended July 31, 2020, respectively, which represents an increase of$1.01 and$1.08 when compared to the same periods, respectively, in the previous 
+fiscal year.
+
+Walmart U.S. Segment
+
+                                                     Three Months Ended July 31,                                        Six Months Ended July 31,                         
+  (Amounts in millions, except unit counts)                                 2020                  2019                                       2020                   2019  
+ ──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Net sales                                                                    $      93,282         $      85,200                              $      182,025         $  
+  Percentage change from comparable period                                   9.5                   2.9                                       10.0                    3.1  
+  Calendar comparable sales increase                                         9.7                   2.9                                       10.1                    3.1  
+  Operating income                                                             $       5,057         $       4,659                              $        9,359         $  
+  Operating income as a percentage of net sales                              5.4                   5.5                                        5.1                    5.3  
+  Unit counts at period end                                                            4,754                 4,759                                       4,754            
+  Retail square feet at period end                                           703                   704                                        703                    704  
+
+Net sales for the Walmart U.S. segment increased$8.1 billion or9.5% and$16.5 billion or10.0% for the three and six months ended July 31, 2020, respectively, when compared to the same periods in the previous fiscal year. The increases were due to comparable sales of9.7% and10.1% for the three and six months ended July 31, 2020, respectively, driven by growth in average ticket primarily resulting from increased demand due to economic conditions and government stimulus initiatives related to the 
+COVID-19 pandemic. Customers continued consolidating shopping trips and purchasing larger baskets which contributed to the growth in average ticket while transactions decreased. Stimulus funds resulting from the COVID-19 pandemic tapered off contributing to slower growth in comparable sales towards the end of the second quarter. With the shift in purchasing behavior, Walmart U.S. eCommerce sales positively contributed approximately6.0% and5.0% to comparable sales during the three and six months 
+ended July 31, 2020, respectively, and was primarily driven by store pickup and delivery and walmart.com.
+
+Gross profit rate increased42 basis points for the three months ended July 31, 2020, when compared to the same period in the previous fiscal year due to increased sales of higher-margin general merchandise categories, fewer markdowns, and improvements in walmart.com's contribution to gross margin rates. Gross profit rate decreased33 basis points for the six months ended July 31, 2020, when compared to the same period in the previous fiscal year due to carryover of prior year price investments as
+well the temporary closure of our Auto Care Centers and Vision Centers in response to the COVID-19 pandemic, partially offset by the gross profit rate increase during the three months ended July 31, 2020.
+
+Despite the increase in net sales, operating expenses as a percentage of net sales increased41 basis points for the three months ended July 31, 2020 when compared to the same period in the previous fiscal year primarily due to $1.2 billion of incremental costs related to the COVID-19 pandemic, including special bonuses for store associates, additional costs associated with outfitting our associates with masks and gloves, expanded cleaning practices, and expanded sick and emergency leave pay, as 
+well as a $0.4 billion business restructuring charge resulting from changes to Walmart U.S. support teams to better support its omni-channel strategy.
+
+Operating expenses as a percentage of net sales decreased22 basis points for the six months ended July 31, 2020 when compared to the same period in the previous fiscal year, primarily due to strong sales, which were partially offset by $1.9 billion of incremental costs related to the COVID-19 pandemic as well as the $0.4 billion business restructuring charge described above.
+
+As a result of the factors discussed above, operating income increased$0.4 billion and$0.6 billion for the three and six months ended July 31, 2020, respectively, when compared to the same periods in the previous fiscal year.
+
+Walmart International Segment
+
+                                                     Three Months Ended July 31,                                        Six Months Ended July 31,                        
+  (Amounts in millions, except unit counts)          2020                                         2019                  2020                                       2019  
+ ─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Net sales                                          $                                27,167      $         29,139      $                              56,933      $     
+  Percentage change from comparable period           (6.8                                         (1.1                  (1.7                                       (3.0  
+  Operating income                                   $                                   812      $            893      $                               1,618      $     
+  Operating income as a percentage of net sales      3.0                                          3.1                   2.8                                        2.8   
+  Unit counts at period end                                                            6,143                 6,031                                      6,143            
+  Retail square feet at period end                   344                                          343                   344                                        343   
+
+Net sales for the Walmart International segment decreased$2.0 billion or6.8% and$1.0 billion or1.7% for the three and six months endedJuly 31, 2020, respectively, when compared to the same periods in the previous fiscal year. The decreases were primarily due to negative fluctuations in currency exchange rates of$2.4 billion and$3.7 billion for the three and six months
+
+
+endedJuly 31, 2020, respectively, which were partially offset by positive comparable sales growth in the majority of our markets driven by changes in consumer behavior in response to the COVID-19 pandemic.
+
+Beginning in March, we experienced significant economic pressure, channel shift and mix shifts in our major markets as customers focused on pantry stock-ups and reduced purchases of non-essential products. Through April and into May, we experienced extensive store and operational closures in several markets such as India, South Africa and Central America as government mandates limited or restricted the sale of certain products. By the end of the second quarter, most of our closed stores and 
+warehouses had resumed operations.
+
+Gross profit rate increased74 and39 basis points for the three and six months endedJuly 31, 2020, respectively, when compared to the same periods in the previous fiscal year. The increases in gross profit rate for the three and six months endedJuly 31, 2020 were due to reduced fuel sales in the U.K. and limited operations in our Flipkart business during the second quarter of fiscal 2021.
+
+Operating expenses as a percentage of net sales increased65 and24 basis points for the three and six months endedJuly 31, 2020, respectively, when compared to the same periods in the previous fiscal year. The increases were primarily due to $0.2 billion and $0.3 billion of incremental costs related to the COVID-19 pandemic for the three and six months endedJuly 31, 2020, respectively, including additional costs related to customer and associate health as well as increased cleaning practices, 
+expanded sick and emergency leave pay, and bonuses for store associates. The incremental costs associated with the COVID-19 pandemic were partially offset by the current period impact of a twelve-month property tax abatement in the U.K.
+
+As a result of the factors discussed above, operating income decreased for the three and six months endedJuly 31, 2020, when compared to the same periods in the previous fiscal year.
+
+Sam's Club Segment
+
+                                                     Three Months Ended July 31,                                        Six Months Ended July 31,                        
+  (Amounts in millions, except unit counts)          2020                                         2019                  2020                                       2019  
+ ─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Including Fuel                                                                                                                                                         
+  Net sales                                          $                                16,375      $         15,049      $                              31,538      $     
+  Percentage change from comparable period           8.8                                          1.8                   9.2                                        1.6   
+  Calendar comparable sales increase                 8.8                                          1.7                   9.2                                        1.6   
+  Operating income                                   $                                   592      $            480      $                               1,086      $     
+  Operating income as a percentage of net sales      3.6                                          3.2                   3.4                                        3.2   
+  Unit counts at period end                          599                                          599                   599                                        599   
+  Retail square feet at period end                   80                                           80                    80                                         80    
+  Excluding Fuel (1)                                                                                                                                                     
+  Net sales                                          $                                15,264      $         13,451      $                              29,333      $     
+  Percentage change from comparable period           13.5                                         1.2                   13.2                                       0.9   
+  Operating income                                   $                                   527      $            424      $                                 925      $     
+  Operating income as a percentage of net sales      3.5                                          3.2                   3.2                                        3.3   
+
+(1) We believe the "Excluding Fuel" information is useful to investors because it permits investors to understand the effect of the Sam's Club segment's fuel sales on its results of operations, which are impacted by the volatility of fuel prices. Volatility in fuel prices may continue to impact the operating results of the Sam's Club segment in the future.
+
+Net sales for the Sam's Club segment increased$1.3 billion or8.8% and$2.7 billion or9.2% for the three and six months endedJuly 31, 2020, respectively, when compared to the same periods in the previous fiscal year. The increases were primarily due to comparable sales, including fuel, of8.8% and9.2% for the three and six months endedJuly 31, 2020, respectively. Comparable sales benefited from growth in transactions and average ticket resulting from the COVID-19 pandemic and partially offset by 
+lower fuel sales and our decision to remove tobacco from certain club locations. Sam's Club eCommerce sales positively contributed approximately2.0% and1.9% to comparable sales for the three and six months endedJuly 31, 2020, respectively.
+
+Gross profit rate increased105 basis points for the three months ended July 31, 2020, when compared to the same period in the previous fiscal year due to higher fuel margins, lower markdowns, and improvements in inventory losses. The increase in the gross profit rate for the three months ended July 31, 2020, was partially offset by investments in price and higher eCommerce fulfillment costs.
+
+Gross profit rate increased64 basis points for the six months endedJuly 31, 2020, when compared to the same period in the previous fiscal year due to higher fuel margins, improvements in inventory losses, and reduction in the sale of tobacco, which has lower margins. The increase in the gross profit rates for the six months endedJuly 31, 2020, was partially offset by investments in price and higher eCommerce fulfillment costs.
+
+Membership and other income increased4.0% and4.8% for the three and six months endedJuly 31, 2020, respectively, when compared to the same periods in the previous fiscal year. The increases for the three and six months endedJuly 31, 2020 were due to increases in total members, overall renewal rates, and Plus penetration rate as a result of the COVID-19 pandemic.
+
+
+Despite the increase in net sales from the strong demand resulting from the COVID-19 pandemic, operating expenses as a percentage of segment net sales increased52 and32 basis points for the three and six months endedJuly 31, 2020, respectively, when compared to the same periods in the previous fiscal year. The increases were primarily the result of $0.1 billion and $0.2 billion of incremental costs related to the COVID-19 pandemic for the three and six months endedJuly 31, 2020, respectively, 
+including additional costs such as special bonuses for club associates, expanded security and cleaning practices, outfitting our associates with masks and gloves, and expanded sick and emergency leave pay. Additionally, the increases in operating expense as a percentage of segment net sales were affected by reduced fuel and tobacco sales.
+
+As a result of the factors discussed above, operating income increased$112 million and$155 million for the three and six months endedJuly 31, 2020, respectively, when compared to the same periods in the previous fiscal year.
+
+Liquidity and Capital Resources
+
+Liquidity
+
+The strength and stability of our operations have historically supplied us with a significant source of liquidity. Our cash flows provided by operating activities, supplemented with our long-term debt and short-term borrowings, have been sufficient to fund our operations while allowing us to invest in activities that support the long-term growth of our operations. Generally, some or all of the remaining available cash flow has been used to fund the dividends on our common stock and share 
+repurchases. In the current environment, we believe our sources of liquidity will continue to be adequate to fund operations, finance our global investment and expansion activities, pay dividends and fund our share repurchases for the foreseeable future.
+
+Net Cash Provided by Operating Activities
+
+                                                 Six Months Ended July 31,                                    
+  (Amounts in millions)                          2020                                       2019              
+ ──────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Net cash provided by operating activities      $                              18,956      $         11,185  
+
+Net cash provided by operating activities was$19.0 billion and$11.2 billion for the six months endedJuly 31, 2020 and2019, respectively. The increase in cash provided by operating activities for the six months endedJuly 31, 2020, was primarily due to the impact of the global health crisis which accelerated inventory sell-through, as well as the timing and payment of inventory purchases, incremental COVID-19 related expenses and certain benefit payments.
+
+Cash Equivalents and Working Capital Deficit
+
+Cash and cash equivalents were$16.9 billion and$9.3 billion atJuly 31, 2020 and 2019, respectively. We maintained more cash at July 31, 2020 compared to July 31, 2019 in order to provide us with enhanced financial flexibility due to the uncertainties related to the COVID-19 pandemic. Our working capital deficit was$17.0 billion atJuly 31, 2020, which decreased when compared to$18.9 billion atJuly 31, 2019. We generally operate with a working capital deficit due to our efficient use of cash in 
+funding operations, consistent access to the capital markets and returns provided to our shareholders in the form of payments of cash dividends and share repurchases.
+
+As ofJuly 31, 2020 andJanuary 31, 2020, cash and cash equivalents of$1.9 billion and$2.3 billion, respectively, may not be freely transferable to the U.S. due to local laws or other restrictions. Of the$1.9 billion atJuly 31, 2020, approximately $0.4 billion can only be accessed through dividends or intercompany financing arrangements subject to approval of the Flipkart minority shareholders; however, this cash is expected to be utilized to fund the operations of Flipkart.
+
+Net Cash Used in Investing Activities
+
+                                             Six Months Ended July 31,                                    
+  (Amounts in millions)                      2020                                       2019              
+  Net cash used in investing activities      $                              (3,634      $         (3,824  
+ ──────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+Net cash used in investing activities was$3.6 billion and$3.8 billion for the six months endedJuly 31, 2020 and2019, respectively. Net cash used in investing activities decreased$0.2 billion for the six months endedJuly 31, 2020, primarily as a result of decreased capital expenditures, partially offset by lapping net proceeds received from the sale of our banking operations in Walmart Canada in fiscal 2020.
+
+
+Net Cash Used in Financing Activities
+
+                                             Six Months Ended July 31,                                    
+  (Amounts in millions)                      2020                                       2019              
+  Net cash used in financing activities      $                              (7,814      $         (5,531  
+ ──────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+Net cash used in financing activities generally consists of transactions related to our short-term and long-term debt, dividends paid and the repurchase of Company stock. Transactions with noncontrolling interest shareholders are also classified as cash flows from financing activities. Net cash used in financing activities was$7.8 billion and$5.5 billion for the six months endedJuly 31, 2020 and2019, respectively. The increase is primarily due to the timing of issuances and repayments of 
+long-term debt, partially offset by a reduction in share repurchases and short-term borrowings as we manage our financial position during the current economic environment.
+
+In April 2020, the Company renewed and extended its existing 364-day revolving credit facility of$10.0 billion. In total, we had committed lines of credit in the U.S. of$15.0 billion atJuly 31, 2020, all undrawn.
+
+Long-term Debt
+
+The following table provides the changes in our long-term debt for the
+
+six months ended
+
+July 31, 2020
+
+:
+
+  (Amounts in millions)                    Long-term debt due within one year                  Long-term debt                  Total              
+ ──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Balances as of February 1, 2020          $                                        5,362      $                   43,714      $          49,076  
+  Repayments of long-term debt                                                     (2,937      —                                          (2,937  
+  Reclassifications of long-term debt                                               3,125                          (3,125      —                  
+  Other                                    3                                                   370                             373                
+  Balances as of July 31, 2020             $                                        5,553      $                   40,959      $          46,512  
+
+Dividends
+
+OnFebruary 18, 2020, the Board of Directors approved the fiscal2021 annual dividend of $2.16 per share, an increase over the fiscal2020 annual dividend of$2.12 per share. For fiscal2021, the annual dividend was or will be paid in four quarterly installments of$0.54 per share, according to the following record and payable dates:
+
+  Record Date            Payable Date       
+  March 20, 2020         April 6, 2020      
+  May 8, 2020            June 1, 2020       
+  August 14, 2020        September 8, 2020  
+  December 11, 2020      January 4, 2021    
+
+The dividend installments payable onApril 6, 2020 andJune 1, 2020 were paid as scheduled.
+
+Company Share Repurchase Program
+
+From time to time, the Company repurchases shares of its common stock under share repurchase programs authorized by the Company's Board of Directors. All repurchases made during the six months ended July 31, 2020 were made under the current$20 billion share repurchase program approved in October 2017, which has no expiration date or other restrictions limiting the period over which the Company can make share repurchases. As ofJuly 31, 2020, authorization for$5.0 billion of share repurchases 
+remained under the share repurchase program. Any repurchased shares are constructively retired and returned to an unissued status.
+
+
+We continue to review our share repurchase activity in light of the COVID-19 pandemic and consider several factors in determining when to execute share repurchases, including, among other things, current cash needs, capacity for leverage, cost of borrowings, our results of operations and the market price of our common stock. We anticipate that a majority of the ongoing share repurchase program will be funded through the Company's free cash flow. The following table provides, on a settlement date
+basis, share repurchase information for the
+
+six months ended
+
+July 31, 2020
+
+and
+
+
+:
+
+                                                    Six Months Ended July 31,                                    
+  (Amounts in millions, except per share data)      2020                                       2019              
+ ─────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Total number of shares repurchased                6.3                                        36.6              
+  Average price paid per share                      $                              114.73      $         101.26  
+  Total amount paid for share repurchases           $                                 723      $          3,707  
+
+Capital Resources
+
+We believe cash flows from operations, our current cash position and access to capital markets will continue to be sufficient to meet our anticipated operating cash needs, which include funding seasonal increases in merchandise inventories, our capital expenditures, acquisitions, dividend payments and share repurchases.
+
+We have strong commercial paper and long-term debt ratings that have enabled and should continue to enable us to refinance our debt as it becomes due at favorable rates in the capital markets. We also have $15.0 billion in various committed lines of credit in the U.S., all of which currently remains undrawn. AtJuly 31, 2020, the ratings assigned to our commercial paper and rated series of our outstanding long-term debt were as follows:
+
+  Rating agency                  Commercial paper      Long-term debt  
+  Standard & Poor's              A-1+                  AA              
+  Moody's Investors Service      P-1                   Aa2             
+  Fitch Ratings                  F1+                   AA              
+ ───────────────────────────────────────────────────────────────────────
+
+Credit rating agencies review their ratings periodically and, therefore, the credit ratings assigned to us by each agency may be subject to revision at any time. Accordingly, we are not able to predict whether our current credit ratings will remain consistent over time. Factors that could affect our credit ratings include changes in our operating performance, the general economic environment, conditions in the retail industry, our financial position, including our total debt and capitalization, 
+and changes in our business strategy. Any downgrade of our credit ratings by a credit rating agency could increase our future borrowing costs or impair our ability to access capital and credit markets on terms commercially acceptable to us. In addition, any downgrade of our current short-term credit ratings could impair our ability to access the commercial paper markets with the same flexibility that we have experienced historically, potentially requiring us to rely more heavily on more 
+expensive types of debt financing. The credit rating agency ratings are not recommendations to buy, sell or hold our commercial paper or debt securities. Each rating may be subject to revision or withdrawal at any time by the assigning rating organization and should be evaluated independently of any other rating. Moreover, each credit rating is specific to the security to which it applies.
+
+Other Matters
+
+InNote 6 to our Condensed Consolidated Financial Statements, which is captioned "Contingencies" and appears in Part I of this Quarterly Report on Form 10-Q under the caption "Item 1. Financial Statements," we discuss, under the sub-caption "ASDA Equal Value Claims," certain existing employment claims against Asda including certain risks arising therefrom. In thatNote 6, we also discuss, under the sub-caption "Prescription Opiate Litigation and Other Matters," the Prescription Opiate Litigation 
+and other matters, including certain risks arising therefrom. We also discuss various legal proceedings related to the ASDA Equal Value Claims, and the Prescription Opiate Litigation in

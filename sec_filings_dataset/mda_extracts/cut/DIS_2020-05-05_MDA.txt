@@ -1,0 +1,93 @@
+Item 2: Management’s Discussion and Analysis of Financial Condition and Results of Operations
+
+ORGANIZATION OF INFORMATION
+
+Management’s Discussion and Analysis provides a narrative of the Company’s financial performance and condition that should be read in conjunction with the accompanying financial statements. It includes the following sections:
+
+• Consolidated Results
+
+• Significant Developments
+
+•Current Quarter Results Compared to Prior-Year Quarter
+
+•Current Period Results Compared to Prior-Year Period
+
+• Seasonality
+
+• Business Segment Results
+
+• Corporate and Unallocated Shared Expenses
+
+• Restructuring in Connection with the Acquisition of TFCF
+
+• Financial Condition
+
+• Supplemental Guarantor Financial Information
+
+• Commitments and Contingencies
+
+• Other Matters
+
+• Market Risk
+
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF
+
+FINANCIAL CONDITION AND RESULTS OF OPERATIONS - (continued)
+
+CONSOLIDATED RESULTS
+
+Our summary consolidated results are presented below:
+
+                                                                                                                               Quarter Ended                                  % Change       Six Months Ended                              
+  (in millions, except per share data)                                                                                         March 28,          March 30,      Better/      March 28,      March 30,                            Better/  
+                                                                                                                               2020                    2019      (Worse)      2020           2019                                 (Worse)  
+ ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Revenues:                                                                                                                                                                                                                                
+  Services                                                                                                                     $                          $           24      $              $                        25,877           32  
+  Products                                                                                                                                                           (4)                                               4,348            6  
+  Total revenues                                                                                                                                                      21                                              30,225           29  
+  Costs and expenses:                                                                                                                                                                                                                      
+  Cost of services (exclusive of depreciation and amortization)                                                                                    ( 7,167)         (49)                                           ( 14,731)         (50)  
+  Cost of products (exclusive of depreciation and amortization)                                                                ( 1,254)            ( 1,209)          (4)      ( 2,893)       ( 2,646)                                 (9)  
+  Selling, general, administrative and other                                                                                   ( 3,388)            ( 2,330)         (45)      ( 7,091)       ( 4,482)                                (58)  
+  Depreciation and amortization                                                                                                ( 1,333)              ( 828)         (61)      ( 2,631)       ( 1,560)                                (69)  
+  Total costs and expenses                                                                                                                                          (44)                                            (23,419)         (48)  
+  Restructuring and impairment charges                                                                                         ( 145)                ( 662)           78      ( 295)         ( 662)                                    55  
+  Other income                                                                                                                 —                                   (100)      —                                        4,963        (100)  
+  Interest expense, net                                                                                                        ( 300)                ( 143)       >(100)      ( 583)         ( 206)                                >(100)  
+  Equity in the income / (loss) of investees                                                                                   135                   ( 309)           nm      359            ( 233)                                    nm  
+  Income from continuing operations before income taxes                                                                                                             (85)                                              10,668         (65)  
+  Income taxes on continuing operations                                                                                        ( 525)              ( 1,647)           68      ( 984)         ( 2,292)                                  57  
+  Net income from continuing operations                                                                                        535                                  (90)                                               8,376         (68)  
+  Income (loss) from discontinued operations, net of income tax benefit/(expense) of $5, ($5), $13 and ($5), respectively      ( 15)                     21           nm      ( 41)          21                                        nm  
+  Net income                                                                                                                   520                                  (91)                                               8,397         (68)  
+  Net income from continuing operations attributable to noncontrolling interests                                               ( 60)                 ( 159)           62      ( 100)         ( 157)                                    36  
+  Net income attributable to Disney                                                                                            $                          $         (92)      $              $                         8,240         (69)  
+  Diluted earnings per share from continuing operations attributable to Disney                                                 $                          $         (93)      $              $                          5.42         (73)  
+
+SIGNIFICANT DEVELOPMENTS
+
+COVID-19
+
+The impact of COVID-19 and measures to prevent its spread are affecting our businesses in a number of ways. We have closed our theme parks and retail stores; suspended our cruise ship sailings, stage play performances and guided tours; delayed or, in some cases, shortened or cancelled theatrical distribution of films both domestically and internationally; and seen adverse advertising sales and supply chain impacts. Many of our businesses have been closed or suspended consistent with government 
+mandates or guidance. We have experienced disruptions in the production and availability of content, including the cancellation or deferral of certain sports events and suspension of production of most film and television content. We have continued to pay for certain sports rights, even during these cancellations and deferrals. The impacts to our content have resulted in decreased viewership and advertising revenues, and demands for affiliate fee reductions related to certain of our television 
+networks. These impacts are likely to be exacerbated the longer such content is not available. Other of our offerings could be exposed to additional financial impacts in the event of future significant unavailability of content. We have experienced increased returns and refunds and customer requests for payment deferrals, reduced usage of certain of our products and services and decreased merchandise licensing royalties.
+
+We have taken a number of mitigation efforts in response. We have significantly increased cash balances through the issuance of commercial paper, as well as, the issuance of senior notes in March 2020. In addition, we entered into an additional $5.0 billion credit facility in April 2020. The Company (or our Board of Directors) has also elected to not declare a dividend payable in July 2020 with respect to the first half of fiscal year 2020; suspended certain capital projects; reduced certain 
+discretionary expenditures (such as spending on marketing); temporarily reduced management compensation; temporarily
+
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF
+
+FINANCIAL CONDITION AND RESULTS OF OPERATIONS - (continued)
+
+eliminated Board of Director retainers and committee fees; and furloughed over 120,000 of our employees (who will continue to receive Company provided medical benefits). We may take additional mitigation actions in the future such as raising additional financing; not declaring future dividends; reducing, or not making, certain payments, such as some contributions to our pension and postretirement medical plans; further suspending capital spending, reducing film and television content 
+investments; or implementing additional furloughs or reductions in force. Some of these measures may have an adverse impact on our businesses.
+
+The most significant impact of COVID-19 during the current quarter was at our Parks, Experiences and Products segment, which we estimate was an adverse impact on operating income of approximately $1.0 billion primarily due to revenue lost as a result of the closures. We estimate the COVID-19 impact on our current quarter income from continuing operations before income taxes across all of our businesses including the Parks, Experiences and Products segment, was as much as $1.4 billion. Impacts at
+our other segments include lower advertising revenue at Media Networks and Direct-to-Consumer & International driven by a decrease in viewership in the current quarter reflecting COVID-19’s impact on live sports events and higher bad debt expense and an impact on revenue at Studio Entertainment due to theater and stage play closures. The estimated impact in the current quarter is net of approximately $150 million in employee retention credits pursuant to the Coronavirus Aid, Relief, and Economic
+Security Act (“CARES Act”). We expect more extensive COVID-19 impacts in the third quarter.
+
+The impact of these disruptions and the extent of their adverse impact on our financial and operational results will be dictated by the length of time that such disruptions continue, which will, in turn, depend on the currently unknowable duration of the impacts of COVID-19, and among other things the impact of governmental actions imposed in response to the pandemic and individuals’ and companies’ risk tolerance regarding health matters going forward. With the unknown duration of the pandemic 
+and yet to be determined timing of the phased reopening of our businesses, it is not possible to precisely estimate the impact in future quarters.
+
+Additionally, see 

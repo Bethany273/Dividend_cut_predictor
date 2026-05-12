@@ -1,0 +1,659 @@
+Item 2. Management’s Discussion and Analysis of Financial Condition and Results of Operations.
+
+Cautionary Note Concerning Factors That May Affect Future Results
+
+Some of the statements, estimates or projections contained in this document are “forward-looking statements” that involve risks, uncertainties and assumptions with respect to us, including some statements concerning future results, operations, outlooks, plans, goals, reputation, cash flows, liquidity and other events which have not yet occurred. These statements are intended to qualify for the safe harbors from liability provided by Section 27A of the Securities Act of 1933 and Section 21E of 
+the Securities Exchange Act of 1934. All statements other than statements of historical facts are statements that could be deemed forward-looking. These statements are based on current expectations, estimates, forecasts and projections about our business and the industry in which we operate and the beliefs and assumptions of our management. We have tried, whenever possible, to identify these statements by using words like “will,” “may,” “could,” “should,” “would,” “believe,” “depends,” “expect,”
+“goal,” “anticipate,” “forecast,” “project,” “future,” “intend,” “plan,” “estimate,” “target,” “indicate,” “outlook,” and similar expressions of future intent or the negative of such terms.
+
+Forward-looking statements include those statements that relate to our outlook and financial position including, but not limited to, statements regarding:
+
+  • Net revenue yields                                                  • Estimates of ship depreciable lives and residual values                                                  
+  • Booking levels                                                      • Goodwill, ship and trademark fair values                                                                 
+  • Pricing and occupancy                                               • Liquidity                                                                                                
+  • Interest, tax and fuel expenses                                     • Adjusted earnings per share                                                                              
+  • Currency exchange rates                                             • Impact of the COVID-19 coronavirus global pandemic on our financial condition and results of operations  
+  • Net cruise costs, excluding fuel per available lower berth day                                                                                                                 
+
+Because forward-looking statements involve risks and uncertainties, there are many factors that could cause our actual results, performance or achievements to differ materially from those expressed or implied by our forward-looking statements. This note contains important cautionary statements of the known factors that we consider could materially affect the accuracy of our forward looking statements and adversely affect our business, results of operations and financial position. Additionally, 
+many of these risks and uncertainties are currently amplified by and will continue to be amplified by, or in the future may be amplified by, the COVID-19 outbreak. It is not possible to predict or identify all such risks. There may be additional risks that we consider immaterial or which are unknown. These factors include, but are not limited to, the following:
+
+• COVID-19 has had, and is expected to continue to have, a significant impact on our financial condition and operations, which impacts our ability to obtain acceptable financing to fund resulting reductions in cash from operations. The current, and uncertain future, impact of the COVID-19 outbreak, including its effect on the ability or desire of people to travel (including on cruises), is expected to continue to impact our results, operations, outlooks, plans, goals, growth, reputation, cash 
+flows, liquidity, and stock price
+
+• As a result of the COVID-19 outbreak, we have paused our global fleet cruise operations, and if we are unable to re-commence normal operations in the near-term, we may be out of compliance with a maintenance covenant in certain of our debt facilities
+
+• World events impacting the ability or desire of people to travel may lead to a decline in demand for cruises
+
+• Incidents concerning our ships, guests or the cruise vacation industry as well as adverse weather conditions and other natural disasters may impact the satisfaction of our guests and crew and lead to reputational damage
+
+• Changes in and non-compliance with laws and regulations under which we operate, such as those relating to health, environment, safety and security, data privacy and protection, anti-corruption, economic sanctions, trade protection and tax may lead to litigation, enforcement actions, fines, penalties, and reputational damage
+
+• Breaches in data security and lapses in data privacy as well as disruptions and other damages to our principal offices, information technology operations and system networks and failure to keep pace with developments in technology may adversely impact our business operations, the satisfaction of our guests and crew and lead to reputational damage
+
+• Ability to recruit, develop and retain qualified shipboard personnel who live away from home for extended periods of time may adversely impact our business operations, guest services and satisfaction
+
+• Increases in fuel prices, changes in the types of fuel consumed and availability of fuel supply may adversely impact our scheduled itineraries and costs
+
+
+• Fluctuations in foreign currency exchange rates may adversely impact our financial results
+
+• Overcapacity and competition in the cruise and land-based vacation industry may lead to a decline in our cruise sales, pricing and destination options
+
+• Geographic regions in which we try to expand our business may be slow to develop or ultimately not develop how we expect
+
+• Inability to implement our shipbuilding programs and ship repairs, maintenance and refurbishments may adversely impact our business operations and the satisfaction of our guests
+
+The ordering of the risk factors set forth above is not intended to reflect our indication of priority or likelihood.
+
+Forward-looking statements should not be relied upon as a prediction of actual results. Subject to any continuing obligations under applicable law or any relevant stock exchange rules, we expressly disclaim any obligation to disseminate, after the date of this document, any updates or revisions to any such forward-looking statements to reflect any change in expectations or events, conditions or circumstances on which any such statements are based.
+
+Recent Developments
+
+COVID-19
+
+The spread of novel coronavirus (COVID-19) and the recent developments surrounding the global pandemic are having material negative impacts on all aspects of our business. In particular:
+
+• Numerous passengers and crew onDiamond Princess were diagnosed with COVID-19 and the ship was quarantined at a port in Japan. As of the time of disembarkation, a substantial portion of the passengers and crew were diagnosed with COVID-19 and subsequently several passengers died due to the disease. Additionally, numerous passengers and crew onGrand Princess were diagnosed with COVID-19, some of whom subsequently died due to the disease.
+
+•Numerous passengers and crew on other ships, including Zaandam, Costa Luminosa, Ruby Princess, Costa Magica and Costa Favolosa, have been diagnosed with COVID-19. Numerous passengers and crew on Zandaam are currently experiencing flu-like symptoms, and some have died. Costa Magica and C osta Favolosa are currently working with the U.S. Coast Guard to facilitate medical evacuations, and both vessels are anchored near the port of Miami.
+
+• On March 13, 2020, we announced voluntary pauses of our global fleet cruise operations by our continental European and North American brands. Subsequently, we implemented a voluntary pause of our global fleet cruise operations across all brands. Each brand has separately announced the duration of its pause, but we expect such pauses to be extended (and some extensions have already been announced) and any such extensions may be prolonged. The pauses will be dependent in part on various travel 
+restrictions and travel bans issued by various countries around the world.
+
+•As of April 1, 2020:
+
+◦ Substantially all our ships have disembarked their passengers. There are approximately 6,000 passengers onboard ships still at sea that are expected to disembark their passengers by the end of April. Some of our crew is unable to return home, and we will be providing them with food and housing.
+
+◦ We have updated our cancellation policies, the terms of which vary widely by brand and sailing date, to permit cruisers to cancel certain upcoming cruises and elect to receive refunds in cash or future cruise credits. As an incentive to accept the future cruise credits, our brands have offerings which vary widely in terms but generally increase the value of the future cruise credits or onboard credits (credits that can be used as onboard spending money on a future sailing). The volume and pace
+of cash refunds could have a material adverse effect on our liquidity and capital resources.
+
+Significant events affecting travel, including COVID-19, typically have an impact on booking patterns, with the full extent of the impact generally determined by the length of time the event influences travel decisions. We believe the ongoing effects of COVID-19 on our operations and global bookings have had, and will continue to have, a material negative impact on our financial results and liquidity, and such negative impact may continue well beyond the containment of such outbreak. In 
+particular:
+
+• For the seven week period beginning January 26, 2020 and ending March 15, 2020, booking volumes for the remainder of 2020 were significantly behind the prior year on a comparable basis as a result of the effects of COVID-19. As of March 15, 2020, cumulative advanced bookings for the remainder of 2020 were meaningfully lower
+
+
+than the prior year and at prices that are considerably lower than the prior year on a comparable basis. As noted above, all of our global fleet operations are subject to voluntary pauses that we expect to be extended. Due to the unknown length of the pauses, booking volume data for 2020 may not be informative. In addition, because of our updated cancellation policies, booking volumes may not be representative of actual cruise revenues.
+
+• For the first half of 2021, booking volumes since mid-December 2019 through March 1, 2020, were running slightly higher than the prior year. In contrast, for the first half of 2021 and during the two weeks ended March 15, 2020, we booked 546,000 Occupied Lower Berth Days, which was considerably behind the prior year pace. As of March 15, 2020, cumulative advanced bookings for the first half of 2021 were slightly lower than the prior year.
+
+As of February 29, 2020, we had a total of 16 cruise ships scheduled to be delivered through 2025, including four during the remainder of fiscal 2020. We believe the effects of COVID-19 on the shipyards where our ships are under construction will result in delays in ship deliveries, which we cannot predict and may be prolonged.
+
+In March and April 2020, Moody’s and S&P Global downgraded our long-term issuer and senior unsecured debt ratings. In addition, our long-term ratings were placed on review for further downgrade by both rating agencies. Our short-term commercial paper credit ratings were downgraded and also placed on review for further downgrade.
+
+On March 13, 2020, we fully drew down our $3.0 billion Existing Multicurrency Facility. On March 24, 2020, we settled derivatives in a net gain position of approximately $200 million. Consequently, as of the date hereof, our principal source of immediate liquidity includes our available cash and cash equivalents. Given the impact of COVID-19 on bookings, which are meaningfully reduced from the prior year comparative pace, and the pause of our global fleet cruise operations, which we expect to be
+extended, we are pursuing additional financing, including, but not limited to, the April 1 financing transactions
+
+described in the next paragraph.
+
+On April 1, 2020, we announced the pricing of the private offerings of $4.0 billion first-priority senior secured notes due 2023 (“Secured Notes”) and $1.75 billion senior convertible notes due 2023 ($2.0125 billion if the initial purchasers exercise their option to purchase additional notes) (“Convertible Notes”), and a public offering of $500 million of common stock ($575 million if the underwriters exercise their option to purchase additional shares in full) of Carnival Corporation (“Public 
+Equity Offering”), collectively referred to within this document as the “April 1 financing transactions”. The closings of these offerings are subject to customary conditions and are expected to occur in early April. The net proceeds from the offering of Secured Notes will be deposited in to a segregated escrow account, pending the releases in accordance with certain collateral perfection thresholds.
+
+In addition, we had$2.8 billion from four committed export credit facilities that are available to fund the originally planned ship deliveries for the remainder of 2020 and $5.9 billion from committed export credit facilities that are available to fund ship deliveries originally planned in 2021 and beyond.
+
+To enhance our liquidity, as well as comply with the dividend restrictions contained in the Secured Notes, we have suspended the payment of dividends on, and the repurchase of, the common stock of Carnival Corporation and the ordinary shares of Carnival plc.
+
+We cannot assure you that our assumptions used to estimate our liquidity requirements will be correct because we have never previously experienced a complete cessation of our cruising operations, and as a consequence, our ability to be predictive is uncertain. However, based on our assumptions and estimates with respect to the pause in our global fleet cruise operations and our financial condition, we believe that the liquidity described in the preceding paragraphs will be sufficient to fund our
+liquidity requirements over at least the next twelve months. We estimate our liquidity requirements, which include our ongoing ship and administrative operating costs, cash refunds of customer deposits, debt maturities and interest, expected capital improvements, and new ship growth capital not addressed by committed export credit facilities, to be approximately, on average, $1.0 billion per month. In particular:
+
+•Ongoing ship and administrative operating costs- During the pause in our global fleet cruise operations, certain of our ships will be in warm ship layup where the ship will be manned by a full crew and certain of our ships will be in a prolonged ship layup where the ship will be manned by a limited crew. We estimate the cost per warm ship layup is approximately $2 million to $3 million per month and the cost per prolonged ship layup is approximately $1 million per month. We will decide whether 
+each vessel in our global fleet will be in a warm ship layup or a prolonged ship layup depending on the circumstances, including the length of pause, which we expect to be extended and may be prolonged. We currently estimate the substantial majority of our fleet will be in prolonged ship layup. In addition, we expect to incur ongoing selling and administrative expenses, and incremental COVID-related costs associated with sanitizing our ships and defending lawsuits, although we anticipate 
+substantially reducing our advertising spend during
+
+
+the pause in operations. After transitioning to a prolonged pause, we anticipate estimated ongoing ship and administrative operating costs to range from $200 million to $300 million per month.
+
+•Cash refunds of customer deposits- During the pause in our global fleet cruise operations, we expect to be required to pay cash refunds of customer deposits with respect to a portion of our cancelled cruises. The current portion of our customer deposits was $4.7 billion as of February 29, 2020. Depending on the length of the pause and level of guest acceptance of future cruise credits, we may be required to provide cash refunds for a substantial portion of the balance. For the two weeks ended 
+March 15, 2020, and on a weighted average basis based on available lower berth days (“ALBD”), approximately 45% of the guests who have contacted us have accepted future cruise credits in lieu of cash refunds for cancelled voyages. We continue to take future bookings for 2020 and 2021, receiving customer deposits on those bookings.
+
+•Debt maturities and interest- As of February 29, 2020, the current portion of our long-term debt was $2.2 billion. The current portion of our long-term debt as of February 29, 2020 that was maturing on or prior to November 30, 2020 was $1.5 billion. In addition, on March 13, 2020 we fully drew down our $3.0 billionExisting Multicurrency Facility, which amounts are currently due in September 2020 and which we currently expect to repay and redraw, in whole or in part. Our approximately $200 
+million per year interest expense for the year ended November 30, 2019 will be increased by the additional interest accrued under the $4.0 billion of Secured Notes and $1.75 billion of Convertible Notes.
+
+In addition to pursuing additional financing, we are taking additional actions to improve our liquidity, including capital expenditure and operating expense reductions. In particular, we have identified approximately $1.0 billion of reduction opportunities from our previously disclosed estimated fiscal 2020 capital expenditures (which reduction does not take into account the impact on timing of payments in connection with new ship build as a result of the delays in ship deliveries discussed 
+above). We have also identified various projects and initiatives within our selling and administrative expenses for reduction or elimination, which we expect will result in reduced cash outflows and cost savings. While we cannot guarantee an outcome, we also intend to pursue deferrals of existing debt maturities, including through available government programs.
+
+We have never previously experienced a complete cessation of our cruising operations, and as a consequence, our ability to be predictive regarding the impact of such a cessation on our brands and future prospects is uncertain. In addition, the magnitude, duration and speed of the global pandemic is uncertain. As a consequence, we cannot estimate the impact on our business, financial condition or near- or longer-term financial or operational results with certainty, but we expect a net loss on 
+both a U.S. GAAP and adjusted basis for the fiscal year ending November 30, 2020.
+
+Refer to “Risk Factors” - " COVID-19 has had, and is expected to continue to have, a materially adverse impact on our financial condition and operations, which impacts our ability to obtain acceptable financing to fund any resulting shortfalls in cash from operations. The current, and uncertain future, impact of the COVID-19 outbreak, including its effect on the ability or desire of people to travel (including on cruises), is expected to continue to impact our results, operations, outlooks, 
+plans, goals, growth, reputation, cash flows, liquidity, and stock price".
+
+New Accounting Pronouncements
+
+Refer to our consolidated financial statements for further information on New Accounting Pronouncements.
+
+Critical Accounting Estimates
+
+For a discussion of our critical accounting estimates, see “Management’s Discussion and Analysis of Financial Condition and Results of Operations” that is included in the Form 10-K. A discussion of our impairment charges recognized during the first quarter of 2020 for goodwill and ship impairment is included in the accompanying consolidated financial statements.
+
+Refer to Note 11 - “Subsequent Events” in our consolidated financial statements.
+
+Seasonality
+
+Our passenger ticket revenues are seasonal. Historically, demand for cruises has been greatest during our third quarter, which includes the Northern Hemisphere summer months. This higher demand during the third quarter results in higher ticket prices and occupancy levels and, accordingly, the largest share of our operating income is earned during this period. The seasonality of our results also increases due to ships being taken out-of-service for maintenance, which we schedule during non-peak 
+demand periods. In addition, substantially all of Holland America Princess Alaska Tours’ revenue and net income (loss) is generated from May through September in conjunction with Alaska's cruise season.
+
+
+Statistical Information
+
+                                                                   Three Months Ended February 29/28,                                     
+                                                                   2020                                                2019               
+  Available Lower Berth Days (“ALBDs”) (in thousands) (a) (b)                                              21,977                 21,299  
+ ──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Occupancy percentage (c)                                         104.3                                               104.8              
+  Passengers carried (in thousands)                                                                         3,063                  2,937  
+  Fuel consumption in metric tons (in thousands)                   831                                                 830                
+  Fuel consumption in metric tons per thousand ALBDs               37.8                                                38.9               
+  Fuel cost per metric ton consumed                                $                                          477      $             459  
+  Currencies (USD to 1)                                                                                                                   
+  AUD                                                              $                                         0.68      $            0.72  
+  CAD                                                              $                                         0.76      $            0.75  
+  EUR                                                              $                                         1.10      $            1.14  
+  GBP                                                              $                                         1.31      $            1.28  
+  RMB                                                              $                                         0.14      $            0.15  
+
+(a) ALBD is a standard measure of passenger capacity for the period that we use to approximate rate and capacity variances, based on consistently applied formulas that we use to perform analyses to determine the main non-capacity driven factors that cause our cruise revenues and expenses to vary. ALBDs assume that each cabin we offer for sale accommodates two passengers and is computed by multiplying passenger capacity by revenue-producing ship operating days in the period.
+
+(b) For the three months ended February 29, 2020 compared to the three months ended February 28, 2019, we had a 3.2% capacity increase in ALBDs comprised of a 1.4% capacity increase in our NAA segment and a 6.3% capacity increase in our EA segment.
+
+Our NAA segment’s capacity increase was caused by the impacts of:
+
+•One Holland America Line 2,670-passenger capacity ship that entered into service in December 2018
+
+•One Princess Cruises 3,660-passenger capacity ship that entered into service in October 2019
+
+•One Carnival Cruise Line 4,010-passenger capacity ship that entered into service in December 2019
+
+The increase in our NAA segment’s capacity was partially offset by the impacts of:
+
+•One P&O Cruises (Australia) 1,680-passenger capacity ship removed from service in March 2019
+
+•One P&O Cruises (Australia) 1,260-passenger capacity ship removed from service in April 2019
+
+•One Holland America Line 840-passenger capacity ship removed from service in July 2019
+
+•Five ships out of service related to the ongoing COVID-19 outbreak in February 2020
+
+Our EA segment’s capacity increase was caused by the impacts of:
+
+•One AIDA 5,230-passenger capacity ship that entered into service in December 2018
+
+•One Costa Cruises 4,200-passenger capacity ship that entered into service in March 2019
+
+•One Costa Cruises 5,220-passenger capacity ship that entered into service in December 2019
+
+The increase in our EA segment’s capacity was partially offset by the impacts of:
+
+•One P&O UK 1,880-passenger capacity ship removed from service in August 2019
+
+•Six ships out of service related to the ongoing COVID-19 outbreak in February 2020
+
+(c) In accordance with cruise industry practice, occupancy is calculated using a denominator of ALBDs, which assumes two passengers per cabin even though some cabins can accommodate three or more passengers. Percentages in excess of 100% indicate that on average more than two passengers occupied some cabins.
+
+
+Three Months Ended February 29, 2020 (“2020”) Compared to Three Months Ended February 28, 2019 (“2019”)
+
+Revenues
+
+Consolidated
+
+Passenger ticket revenues made up 68% of our 2020 total revenues. Passenger ticket revenues increased by $35 million, or 1.1%, to $3.2 billion in 2020 from $3.2 billion in 2019.
+
+This increase was caused by:
+
+•$102 million - 3.2% capacity increase in ALBDs, net of $78 million as a result of cancelled voyages and other voyage disruptions directly related to COVID-19
+
+•$32 million - increase in other revenues
+
+•$15 million - increase in air transportation revenues
+
+These increases were partially offset by:
+
+•$91 million - decrease in cruise ticket revenues, primarily driven by sourcing in Continental Europe and net unfavorable foreign currency transactional impact
+
+•$24 million - net unfavorable foreign currency translational impact
+
+Onboard and other revenues made up 32% of our 2020 total revenues. Onboard and other revenues increased by $82 million, or 5.5%, to $1.6 billion in 2020 from $1.5 billion in 2019.
+
+This increase was caused by:
+
+•$46 million - 3.2% capacity increase in ALBDs, net of $41 million as a result of cancelled voyages and other voyage disruptions directly related to COVID-19
+
+•$29 million - higher onboard spending by our guests
+
+•$26 million - increase in sales of Advanced Air Quality Systems to third parties
+
+Concession revenues, which are included in onboard and other revenues, increased by $2 million, or 0.7%, to $257 million in 2020 from $255 million in 2019.
+
+NAA Segment
+
+Passenger ticket revenues made up 65% of our NAA segment’s 2020 total revenues. Passenger ticket revenues increased by $39 million, or 1.9%, to $2.1 billion in 2020 from $2.0 billion in 2019.
+
+This increase was caused by:
+
+•$29 million - 1.4% capacity increase in ALBDs, net of $34 million as a result of cancelled voyages and other voyage disruptions directly related to COVID-19
+
+•$24 million - increase in other revenues
+
+These increases were partially offset by $14 million decrease in cruise ticket revenues, primarily driven by net unfavorable foreign currency transactional impact
+
+The remaining 35% of our NAA segment’s 2020 total revenues were comprised of onboard and other revenues, which increased by $25 million, or 2.3%, to $1.1 billion in 2020 compared to $1.1 billion in 2019.
+
+This increase was caused by:
+
+•$15 million - 1.4% capacity increase in ALBDs, net of $19 million as a result of cancelled voyages and other voyage disruptions directly related to COVID-19
+
+•$13 million - higher onboard spending by our guests
+
+Concession revenues, which are included in onboard and other revenues, increased by $1 million, or 0.8%, to $183 million in 2020 from $182 million in 2019.
+
+
+EA Segment
+
+Passenger ticket revenues made up 78% of our EA segment’s 2020 total revenues. Passenger ticket revenues increased by $16 million, or 1.3%, to $1.2 billion in 2020 compared to $1.2 billion in 2019.
+
+This increase was caused by:
+
+•$75 million - 6.3% capacity increase in ALBDs, net of $41 million, as a result of cancelled voyages and other voyage disruptions directly related to COVID-19
+
+•$9 million - increase in air transportation revenues
+
+These increases were partially offset by:
+
+•$36 million - decrease in cruise ticket revenues, primarily driven by sourcing in Continental Europe
+
+•$22 million - net unfavorable foreign currency translational impact
+
+•$17 million - decrease in occupancy primarily related to the effects of COVID-19
+
+The remaining 22% of our EA segment’s 2020 total revenues were comprised of onboard and other revenues, which increased by $10 million, or 3%, to $339 million in 2020 from $329 million in 2019. This increase was caused by $21 million, or 6.3% capacity increase in ALBDs, net of $15 million as a result of cancelled voyages and other voyage disruptions directly related to COVID-19.
+
+Concession revenues, which are included in onboard and other revenues, was $73 million in 2020 and 2019.
+
+Costs and Expenses
+
+Consolidated
+
+Operating costs and expenses increased by $381 million, or 12%, to $3.5 billion in 2020 from $3.1 billion in 2019.
+
+This increase was caused by:
+
+•$330 million - impairment of ships, resulting from the effects of COVID-19 on our expected future operating cash flows
+
+•$99 million - 3.2% capacity increase in ALBDs
+
+•$46 million - increase in commissions, transportation and other expenses which includes expenses incurred as a result of cancelled voyages and other voyage disruptions directly related to COVID-19
+
+•$45 million - changes in fuel mix
+
+•$35 million - voyage related operating costs incurred in connection with disrupted voyages directly related to COVID-19
+
+•$26 million - higher cruise payroll and related expenses
+
+These increases were partially offset by:
+
+•$132 million - gains on ship sales in 2020, net of gains on ship sales in 2019
+
+•$30 million - lower fuel prices
+
+•$29 million - net favorable foreign currency translational impact
+
+•$16 million - lower dry-dock expenses and repair and maintenance expenses
+
+•$11 million - lower fuel consumption per ALBD
+
+Selling and administrative expenses increased by $49 million, or 7.9%, to $678 million in 2020 from $629 million in 2019.
+
+Depreciation and amortization expenses increased by $54 million, or 10%, to $570 million in 2020 from $516 million in 2019. This increase was caused by an increase in the net book value of ships in service.
+
+Goodwill impairment charges of $731 million recognized during the first quarter of 2020, resulting from the effects of COVID-19 on our expected future operating cash flows.
+
+
+NAA Segment
+
+Operating costs and expenses increased by $264 million, or 13%, to $2.3 billion in 2020 from $2.0 billion in 2019.
+
+This increase was caused by:
+
+•$172 million - impairment of ships, resulting from the effects of COVID-19 on our expected future operating cash flows
+
+•$37 million - voyage related operating costs incurred in connection with disrupted voyages directly related to COVID-19
+
+•$29 million - 1.4% capacity increase in ALBDs
+
+•$22 million - increase in commissions, transportation and other expenses which includes expenses incurred as a result of cancelled voyages and other voyage disruptions directly related to COVID-19
+
+•$21 million - changes in fuel mix
+
+•$11 million - higher cruise payroll and related expenses
+
+These increases were partially offset by $18 million of lower fuel prices.
+
+Selling and administrative expenses increased by $47 million, or 13%, to $400 million in 2020 from $353 million in 2019.
+
+This increase was driven by:
+
+•$18 million - increase in administrative expenses
+
+•$14 million - increase in advertising and promotional expenses
+
+Depreciation and amortization expenses increased by $36 million, or 11%, to $364 million in 2020 from $328 million in 2019. This increase was caused by an increase in the net book value of ships in service.
+
+Goodwill impairment charges of $300 million recognized during the first quarter of 2020, resulting from the effects of COVID-19 on our expected future operating cash flows.
+
+EA Segment
+
+Operating costs and expenses increased by $241 million, or 22%, to $1.3 billion in 2020 from $1.1 billion in 2019.
+
+This increase was caused by:
+
+•$158 million - impairment of ships, resulting from the effects of COVID-19 on our expected future operating cash flows
+
+•$67 million - 6.3% capacity increase in ALBDs
+
+•$19 million - increase in commissions, transportation and other expenses which includes expenses incurred as a result of cancelled voyages and other voyage disruptions directly related to COVID-19
+
+•$17 million - changes in fuel mix
+
+•$15 million - higher cruise payroll and related expenses
+
+These increases were partially offset by net favorable foreign currency translational impact of $25 million.
+
+Selling and administrative expenses increased by $1 million, or 0.7%, to $207 million in 2020 from $205 million in 2019.
+
+Depreciation and amortization expenses increased by $14 million, or 10%, to $166 million in 2020 from $152 million in 2019. This increase was caused by an increase in the net book value of ships in service.
+
+Goodwill impairment charges of $431 million recognized during the first quarter of 2020, resulting from the effects of COVID-19 on our expected future operating cash flows.
+
+Operating Income (Loss)
+
+Our consolidated operating income (loss) decreased by $1.1 billion to $(0.7) billion in 2020 from $0.4 billion in 2019. Our NAA segment’s operating income (loss) decreased by $583 million to $(0.2) billion in 2020 compared to $0.4 billion in 2019, and our EA segment’s operating income (loss) decreased by $662 million to $(569) million in 2020 from $93 million in 2019. These changes were primarily due to the reasons discussed above.
+
+
+Explanations of Non-GAAP Financial Measures
+
+Non-GAAP Financial Measures
+
+We use net cruise revenues per ALBD (“net revenue yields”), net cruise costs excluding fuel per ALBD, adjusted net income and adjusted earnings per share as non-GAAP financial measures of our cruise segments’ and the company’s financial performance. These non-GAAP financial measures are provided along with U.S. GAAP gross cruise revenues per ALBD (“gross revenue yields”), gross cruise costs per ALBD and U.S. GAAP net income (loss) and U.S. GAAP diluted earnings per share.
+
+Net revenue yields and net cruise costs excluding fuel per ALBD enable us to separate the impact of predictable capacity or ALBD changes from price and other changes that affect our business. We believe these non-GAAP measures provide useful information to investors and expanded insight to measure our revenue and cost performance as a supplement to our U.S. GAAP consolidated financial statements.
+
+We believe that gains and losses on ship sales, impairment charges, restructuring costs and other gains and expenses are not part of our core operating business and are not an indication of our future earnings performance. Therefore, we believe it is more meaningful for these items to be excluded from our net income (loss) and earnings per share and, accordingly, we present adjusted net income and adjusted earnings per share excluding these items.
+
+The presentation of our non-GAAP financial information is not intended to be considered in isolation from, as substitute for, or superior to the financial information prepared in accordance with U.S. GAAP. It is possible that our non-GAAP financial measures may not be exactly comparable to the like-kind information presented by other companies, which is a potential risk associated with using these measures to compare us to other companies.
+
+Net passenger ticket revenues reflect gross passenger ticket revenues, net of commissions, transportation and other costs.
+
+Net onboard and other revenues reflect gross cruise onboard and other revenues, net of onboard and other costs.
+
+Net revenue yields is a combination of net passenger ticket revenues and net onboard and other revenues divided by ALBDs. Net revenue yields are commonly used in the cruise industry to measure a company’s cruise segment revenue performance and for revenue management purposes. We believe that net cruise revenues is a more meaningful measure in determining revenue yield than gross cruise revenues because it reflects the cruise revenues earned net of our most significant variable cost, which are 
+travel agent commissions, costs of air and other transportation, certain other costs that are directly associated with onboard and other revenues and credit and debit card fees.
+
+Net cruise costs excluding fuel reflect gross cruise operating expenses as well as cruise selling and administrative expenses, and excludes fuel expenses as well as the same variable costs that are included in the calculation of net passenger ticket revenues and net onboard and other revenues to avoid duplicating these variable costs in our non-GAAP financial measures. Substantially all of our net cruise costs excluding fuel are largely fixed, except for the impact of changing prices, once the 
+number of ALBDs has been determined.
+
+Net cruise costs excluding fuel per ALBD is the measure we use to monitor our ability to control our cruise segments’ costs and is calculated as net cruise cost excluding fuel divided by ALBDs.
+
+Reconciliation of Forecasted Data
+
+We have not provided a reconciliation of forecasted gross cruise revenues to forecasted net cruise revenues or forecasted gross cruise costs to forecasted net cruise costs without fuel or forecasted U.S. GAAP net income (loss) to forecasted adjusted net income (loss) or forecasted U.S. GAAP diluted earnings per share to forecasted adjusted earnings per share because preparation of meaningful U.S. GAAP forecasts of gross cruise revenues, gross cruise costs, net income (loss) and earnings per 
+share would require unreasonable effort. We are unable to predict, without unreasonable effort, the future movement of foreign exchange rates and fuel prices. We are unable to determine the future impact of gains or losses on ships sales, restructuring expenses and other non-core gains and charges.
+
+
+Constant Currency
+
+Our operations primarily utilize the U.S. dollar, Australian dollar, euro and sterling as functional currencies to measure results and financial condition. Functional currencies other than the U.S. dollar subject us to foreign currency translational risk. Our operations also have revenues and expenses that are in currencies other than their functional currency, which subject us to foreign currency transactional risk.
+
+•Translational Risk: The translation of our operations with functional currencies other than U.S. dollar to our U.S. dollar reporting currency results in decreases in reported U.S. dollar revenues and expenses if the U.S. dollar strengthens against these foreign currencies and increases in reported U.S. dollar revenues and expenses if the U.S. dollar weakens against these foreign currencies.
+
+•Transactional Risk: Our operations have revenue and expense transactions in currencies other than their functional currency. If their functional currency strengthens against these other currencies, it reduces the functional currency revenues and expenses. If the functional currency weakens against these other currencies, it increases the functional currency revenues and expenses.
+
+Constant currency reporting removes the impact of changes in exchange rates on the translation of our operations plus the transactional impact of changes in exchange rates from revenues and expenses that are denominated in a currency other than the functional currency.
+
+We report net revenue yields, net passenger revenue yields, net onboard and other revenue yields and net cruise costs excluding fuel per ALBD on a “constant currency” basis assuming the 2020 periods’ currency exchange rates have remained constant with the 2019 periods’ rates. This metric facilitates a comparative view for the changes in our business in an environment with fluctuating exchange rates.
+
+
+Consolidated gross and net revenue yields were computed by dividing the gross and net cruise revenues by ALBDs as follows:
+
+                                             Three Months Ended February 29/28,                                                                           
+  (dollars in millions, except yields)       2020                                                    2020                          2019                   
+                                                                                                     Constant                                             
+                                                                                                     Currency                                             
+ ──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Passenger ticket revenues                  $                                            3,234                                    $               3,199  
+  Onboard and other revenues                                                              1,556                                                    1,474  
+  Less: Tour and other revenues              (52)                                                                                  (29)                   
+  Gross cruise revenues                                                                   4,737                                                    4,645  
+  Less cruise costs                                                                                                                                       
+  Commissions, transportation and other      (766)                                                                                 (709)                  
+  Onboard and other                          (471)                                                                                 (467)                  
+                                                                                        (1,238)                                                  (1,177)  
+  Net cruise revenues                        $                                            3,499      $                  3,537      $               3,468  
+  Net passenger ticket revenues              $                                            2,467      $                  2,497      $               2,490  
+  Net onboard and other revenues             $                                            1,032      $                  1,039      $                 978  
+  ALBDs                                                                              21,977,115                    21,977,115                 21,299,196  
+  Gross revenue yields                       $                                           215.53                                    $              218.06  
+  % increase (decrease)                      (1.2)                                                                                                        
+  Net revenue yields                         $                                           159.22      $                 160.93      $              162.82  
+  % increase (decrease)                      (2.2)                                                   (1.2)                                                
+  Net passenger ticket revenue yields        $                                           112.26      $                 113.64      $              116.90  
+  % increase (decrease)                      (4.0)                                                   (2.8)                                                
+  Net onboard and other revenue yields       $                                            46.96      $                  47.30      $               45.92  
+  % increase (decrease)                      2.3                                                     3.0                                                  
+
+
+Consolidated gross and net cruise costs and net cruise costs excluding fuel per ALBD were computed by dividing the gross and net cruise costs and net cruise costs excluding fuel by ALBDs as follows:
+
+                                                    Three Months Ended February 29/28,                                                                           
+  (dollars in millions, except costs per ALBD)      2020                                                    2020                          2019                   
+                                                                                                            Constant                                             
+                                                                                                            Currency                                             
+ ─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Operating expenses                                $                                            3,523                                    $               3,142  
+  Selling and administrative expenses               678                                                                                   629                    
+  Less tour and other expenses                      (26)                                                                                  (34)                   
+  Gross cruise costs                                                                             4,175                                                    3,736  
+  Less cruise costs                                                                                                                                              
+  Commissions, transportation and other             (766)                                                                                 (709)                  
+  Onboard and other                                 (471)                                                                                 (467)                  
+  Gains (losses) on ship sales and impairments      (221)                                                                                 (2)                    
+  Restructuring expenses                            —                                                                                     —                      
+  Other                                             —                                                                                     —                      
+  Net cruise costs                                                                               2,716                                                    2,558  
+  Less fuel                                         (396)                                                                                 (381)                  
+  Net cruise costs excluding fuel                   $                                            2,320      $                  2,340      $               2,177  
+  ALBDs                                                                                     21,977,115                    21,977,115                 21,299,196  
+  Gross cruise costs per ALBD                       $                                           189.96                                    $              175.40  
+  % increase (decrease)                             8.3                                                                                                          
+  Net cruise costs excluding fuel per ALBD          $                                           105.57      $                 106.46      $              102.21  
+  % increase (decrease)                             3.3                                                     4.2                                                  
+
+
+Adjusted earnings per share was computed as follows:
+
+                                                    Three Months Ended                                  
+                                                    February 29/28,                                     
+  (in millions, except per share data)              2020                                2019            
+ ────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Net income (loss)                                                                                     
+  U.S. GAAP net income (loss)                       $                        (781)      $          336  
+  (Gains) losses on ship sales and impairments      928                                 2               
+  Restructuring expenses                            —                                   —               
+  Other                                             3                                   —               
+  Adjusted net income                               $                          150      $          338  
+  Weighted-average shares outstanding               684                                 695             
+  Earnings per share                                                                                    
+  U.S. GAAP diluted earnings per share              $                       (1.14)      $         0.48  
+  (Gains) losses on ship sales and impairments      1.36                                —               
+  Restructuring expenses                            —                                   —               
+  Other                                             0.01                                —               
+  Adjusted earnings per share                       $                         0.22      $         0.49  
+
+Net cruise revenues increased by $31 million, or 0.9%, to $3.5 billion in 2020 compared to $3.5 billion in 2019.
+
+The increase was caused by a 3.2% capacity increase in ALBDs of $110 million, net of 2.8% of ALBDs as a result of cancelled voyages and other voyage disruptions directly related to COVD-19
+
+This increase was partially offset by:
+
+•$41 million - 1.2% decrease in constant currency net revenue yields, including impacts of COVID-19 as a result of cancelled voyages and other voyage disruptions
+
+•$38 million - net unfavorable foreign currency impacts (including both the foreign currency translational and transactional impacts)
+
+The 1.2% decrease in constant currency net revenue yields was due to a 2.8% decrease in constant currency net passenger ticket revenue yields, partially offset by a 3.0% increase in constant currency net onboard and other revenue yields.
+
+This 2.8% decrease in net passenger ticket revenue yields was driven by sourcing in Continental Europe. This 2.8% decrease in net passenger ticket revenue was comprised of a 5.8% decrease from our EA segment, offset by a 0.3% increase from our NAA segment.
+
+The 3.0% increase in net onboard and other revenue yields was comprised of a 1.5% increase from our NAA segment, a 0.6% increase from our EA segment and an increase to Cruise Support segment revenue.
+
+Net cruise costs excluding fuel increased by $143 million, or 6.6%, to $2.3 billion in 2020 from $2.2 billion in 2019.
+
+The increase was caused by:
+
+•$93 million - 4.2% increase in constant currency net cruise costs excluding fuel, including incremental impacts of COVID-19 as a result of cancelled voyages and other voyage disruptions
+
+•$69 million - 3.2% capacity increase in ALBDs, net of 2.8% of ALBDs as a result of cancelled voyages and other voyage disruptions directly related to COVID-19
+
+These increases were partially offset by:
+
+•$20 million - net favorable foreign currency impacts (including both the foreign currency translational and transactional impacts)
+
+Fuel costs increased by $16 million, or 4.2%, to $396 million in 2020 from $381 million in 2019.
+
+This increase was caused by:
+
+•$45 million - changes in fuel mix
+
+•$12 million - 3.2% capacity increase in ALBDs
+
+These increases were partially offset by:
+
+•$30 million - lower fuel prices
+
+
+•$11 million - lower fuel consumption per ALBD
+
+Liquidity, Financial Condition and Capital Resources
+
+Due to the spread of COVID-19 and the effects of growing port restrictions around the world, we previously announced a voluntary pause of our global fleet cruise operations. Significant events affecting travel, including COVID-19, typically have an impact on booking patterns, with the full extent of the impact generally determined by the length of time the event influences travel decisions. We believe the ongoing effects of COVID-19 on our operations and global bookings have had, and will 
+continue to have a material negative impact on our financial results and liquidity, and such negative impact may continue well beyond the containment of such outbreak.
+
+As of February 29, 2020, we had $3.0 billion of immediate liquidity, which consisted of available cash and cash equivalents and available borrowings under our Existing Multicurrency Facility. In addition, we had $2.8 billion from four committed export credit facilities that are available to fund the originally planned ship deliveries for the remainder of this year and $5.9 billion from committed export credit facilities that are available to fund ship deliveries originally planned in 2021 and 
+beyond. On March 13, 2020, we fully drew down our $3.0 billion Existing Multicurrency Facility, which amounts are currently due in September 2020. We borrowed under the Existing Multicurrency Facility in order to increase our cash position and preserve financial flexibility in light of the impact of the COVID-19 outbreak on our results of operations and liquidity.
+
+We cannot assure you that our assumptions used to estimate our liquidity requirements will be correct because we have never previously experienced a complete cessation of our cruising operations, and as a consequence, our ability to be predictive is uncertain. In addition, the magnitude, duration and speed of the global pandemic is uncertain. As a consequence, we cannot estimate the impact on our business, financial condition or near- or longer-term financial or operational results with 
+certainty, but we expect a net loss on both a U.S. GAAP and adjusted basis for the fiscal year ending November 30, 2020.
+
+We are taking further actions to improve our liquidity, including capital expenditure and operating expense reductions, suspending dividend payments on, and the repurchase of, the common stock of Carnival Corporation and the ordinary shares of Carnival plc and pursuing additional financing. Based on these actions and assumptions regarding the impact of COVID-19, we have concluded that we will be able to generate sufficient liquidity to satisfy our obligations and remain in compliance with our 
+existing debt covenants for the next twelve months prior to giving effect to any additional financing that may occur.
+
+At February 29, 2020, we were in compliance with all of our debt covenants. After considering the effect of COVID-19 on our consolidated EBITDA, the actions we have taken and the other options available to us, we expect to remain in compliance with our current minimum debt service coverage ratio in certain of our debt instruments that requires a minimum of 3:1 ratio of EBITDA to Consolidated Net Interest Charges. If we expected to be out of compliance, we would seek waivers from the lenders 
+prior to any covenant violation. Any covenant waiver may lead to increased costs, increased interest rates, additional restrictive covenants and other available lender protections that would be applicable. There can be no assurance that we would be able to obtain waivers in a timely manner, or on acceptable terms at all. If we were not able to obtain waivers or repay the debt facilities, this would lead to an event of default and potential acceleration of amounts due under all of our outstanding
+debt and derivative contract payables. As a result, the failure to obtain waivers would have a material adverse effect on us. Refer to "Risk Factors - As a result of the COVID-19 outbreak, we have paused our global fleet cruise operations, and if we unable to re-commence normal operations in the near-term, we may be out compliance with a maintenance covenant in certain of our debt facilities.”
+
+In March and April 2020, Moody’s and S&P Global downgraded our long-term issuer and senior unsecured debt ratings. In addition, our long-term ratings were placed on review for further downgrade by both rating agencies. Our short-term commercial paper credit ratings were downgraded and also placed on review for further downgrade.
+
+On April 1, 2020, we announced the pricing terms of offerings of $4.0 billion of the Secured Notes, $1.75 billion of Convertible Notes and a public offering of $500 million of common stock in the Public Equity Offering. In connection with the Convertible Notes offering, we granted the initial purchasers of the Convertible Notes an option to purchase on or before April 18, 2020, up to an additional $262.5 million aggregate principal amount of Convertible Notes. In connection with the Public 
+Equity Offering, we granted the underwriters an option to purchase up to 9,375,000 of additional shares of common stock, which option must be exercised on or before May 1, 2020.
+
+The Secured Notes will pay interest semi-annually on April 1 and October 1 of each year, beginning on October 1, 2020, at a rate of 11.5% per year. The Secured Notes will mature on April 1, 2023. The Convertible Notes will pay interest semi-annually on April 1 and October 1 of each year, beginning on October 1, 2020, at a rate of 5.75% per year. The Convertible Notes will mature on April 1, 2023, unless earlier converted, redeemed or repurchased. The initial conversion rate per $1,000 principal
+
+
+amount of Convertible Notes is equivalent to 100 shares of common stock of the Corporation, which is equivalent to a conversion price of approximately $10 per share, subject to adjustment in certain circumstances.
+
+The Public Equity Offering consists of 62,500,000 shares of common stock, par value $0.01 per share, of Carnival Corporation, at a price of $8 per share.
+
+The Public Equity Offering, the Convertible Notes offering and the Secured Notes offering are expected to be completed
+
+in early April, subject to customary closing conditions. The net proceeds from the offering of Secured Notes will be deposited
+
+in to a segregated escrow account, pending the releases in accordance with certain collateral perfection thresholds. None of the closings of the Public Equity Offering and the offerings of the Secured Notes or the Convertible Notes is conditioned upon the closing of any of the other offerings or vice versa.
+
+We had a working capital deficit of $7.8 billion as of February 29, 2020 compared to a working capital deficit of $7.1 billion as of November 30, 2019. The increase in working capital deficit was caused by an increase in short-term debt and an increase in the current portion of long-term debt partially offset by an increase in cash and cash equivalents. We operate with a substantial working capital deficit. This deficit is mainly attributable to the fact that, under our business model, 
+substantially all of our passenger ticket receipts are collected in advance of the applicable sailing date. These advance passenger receipts remain a current liability until the sailing date. The cash generated from these advance receipts is used interchangeably with cash on hand from other sources, such as our borrowings and other cash from operations. The cash received as advanced receipts can be used to fund operating expenses, pay down our debt, make long-term investments or any other use of
+cash. Included within our working capital deficit are $4.7 billion of customer deposits as of February 29, 2020 and November 30, 2019. In addition, we have a relatively low-level of accounts receivable and limited investment in inventories. We expect that we will continue to have working capital deficits in the future.
+
+Sources and Uses of Cash
+
+Operating Activities
+
+Our business provided $916 million of net cash from operations during the three months ended February 29, 2020, a decrease of $199 million, or 18%, compared to $1.1 billion for the same period in 2019.
+
+Investing Activities
+
+During the three months ended February 29, 2020, net cash used in investing activities was $1.2 billion. This was substantially due to the following:
+
+•Capital expenditures of $861 million for our ongoing new shipbuilding program
+
+• Capital expenditures of $399 million for ship improvements and replacements, information technology and buildings and improvements
+
+•Proceeds from sales of ships of $226 million
+
+•Purchase of minority interest of $83 million
+
+During the three months ended February 28, 2019, net cash used in investing activities was $2.1 billion. This was caused by the following:
+
+•Capital expenditures of $1.7 billion for our ongoing new shipbuilding program
+
+• Capital expenditures of $428 million for ship improvements and replacements, information technology and buildings and improvements
+
+Financing Activities
+
+During the three months ended February 29, 2020, net cash provided by financing activities of $1.1 billion was caused by the following:
+
+• Net proceeds from short-term borrowings of $779 million in connection with our availability of, and needs for, cash at various times throughout the period
+
+•Repayments of $132 million of long-term debt
+
+•Issuances of $823 million of long-term debt
+
+•Payments of cash dividends of $344 million
+
+• Purchases of $12 million of Carnival plc ordinary shares in open market transactions under our Repurchase Program
+
+
+During the three months ended February 28, 2019, net cash provided by financing activities of $612 million was caused by the following:
+
+• Net repayments of short-term borrowings of $81 million in connection with our availability of, and needs for, cash at various times throughout the period
+
+•Repayments of $95 million of long-term debt
+
+•Issuances of $1.4 billion of long-term debt
+
+•Payments of cash dividends of $348 million
+
+• Purchases of $274 million of Carnival Corporation common stock and Carnival plc ordinary shares in open market transactions under our Repurchase Program
+
+Capital Expenditure and Capacity Forecast
+
+Our annual capital expenditure forecast consists of contracted new ship growth capital, estimated payments for planned new ship growth capital and capital improvements.
+
+  (in billions)                                2020               2021               2022           
+ ────────────────────────────────────────────────────────────────────────────────────────────────────
+  Annual capital expenditure forecast (a)      $         7.0      $         5.8      $         5.2  
+
+(a) As of February 29, 2020. The annual capital expenditure forecast does not reflect any changes as a result of capital expenditures reductions discussed in Note 1 - “General - Liquidity and Management's Plans.”
+
+Our annual capacity forecast consists of contracted new ships and announced dispositions.
+
+                                    2020      2021      2022  
+ ──────────────────────────────────────────────────────────────
+  Annual capacity increase (a)       4.3       7.3       5.1  
+
+(a) As of February 29, 2020. The capacity forecast does not reflect any changes in capacity resulting from our voluntary pause in operations.
+
+Funding Sources
+
+As of February 29, 2020, we had $3.0 billion of immediate liquidity, which consisted of available cash and cash equivalents and available borrowings under our Existing Multicurrency Facility, which is scheduled to mature in 2024. In addition, we had $2.8 billion from four committed export credit facilities that are available to fund the originally planned ship deliveries for the remainder of this year and $5.9 billion from committed export credit facilities that are available to fund ship 
+deliveries originally planned in 2021 and beyond. These commitments are from numerous large and well-established banks and export credit agencies, which we believe will honor their contractual agreements with us.
+
+  (in billions)                                                        2020               2021               2022               2023  
+ ──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Availability of committed future financing at February 29, 2020      $         2.8      $         2.7      $         2.3      $     
+
+Substantially all of our debt agreements contain financial covenants as described in Note 5 - “Unsecured Debt” in the annual consolidated financial statements, which are included within our Form 10-K. At February 29, 2020, we were in compliance with our debt covenants.
+
+Off-Balance Sheet Arrangements
+
+We are not a party to any off-balance sheet arrangements, including guarantee contracts, retained or contingent interests, certain derivative instruments and variable interest entities that either have, or are reasonably likely to have, a current or future material effect on our consolidated financial statements.
+

@@ -1,0 +1,322 @@
+Item 2. Management’s Discussion and Analysis of Financial Condition and Results of Operations (Continued)
+
+NON-GAAP FINANCIAL MEASURES THAT SUPPLEMENT GAAP MEASURES
+
+We use both generally accepted accounting principles (“GAAP”) and non-GAAP financial measures for operational and financial decision making, and to assess Company and segment business performance. The non-GAAP measures listed below are intended to be considered by users as supplemental information to their equivalent GAAP measures, to aid investors in better understanding our financial results. We believe that these non-GAAP measures provide useful perspective on underlying business results and 
+trends, and a means to assess our period-over-period results. These non-GAAP measures should not be considered as a substitute for, or superior to, measures of financial performance prepared in accordance with GAAP. These non-GAAP measures may not be the same as similarly titled measures used by other companies due to possible differences in method and in items or events being adjusted.
+
+  Company Adjusted EBIT (Most Comparable GAAP Measure: Net Income Attributable to Ford) – Earnings before interest and taxes (EBIT) excludes interest on debt (excl. Ford Credit Debt), taxes and p...  
+
+  Company Adjusted EBIT Margin (Most Comparable GAAP Measure: Company Net Income Margin) – Company Adjusted EBIT margin is Company adjusted EBIT divided by Company revenue. This non-GAAP measure ...  
+
+  Adjusted Earnings Per Share (Most Comparable GAAP Measure: Earnings Per Share) – Measure of Company’s diluted net earnings per share adjusted for impact of pre-tax special items (described abov...  
+
+  Adjusted Effective Tax Rate (Most Comparable GAAP Measure: Effective Tax Rate) – Measure of Company’s tax rate excluding pre-tax special items (described above) and tax special items. The measu...  
+
+  Company Adjusted Free Cash Flow (Most Comparable GAAP Measure: Net Cash Provided By / (Used In) Operating Activities) – Measure of Company’s operating cash flow excluding Ford Credit’s operatin...  
+
+Item 2. Management’s Discussion and Analysis of Financial Condition and Results of Operations (Continued)
+
+  Adjusted Free Cash Flow Conversion (Most Comparable GAAP Measure: Net Cash Provided By / (Used In) Operating Activities divided by Net Income Attributable to Ford) – Adjusted Free Cash Flow Con...  
+
+  Adjusted ROIC – Calculated as the sum of adjusted net operating profit after cash tax from the last four quarters, divided by the average invested capital over the last four quarters. Adjusted ...  
+ ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+  Ford Credit Managed Receivables (Most Comparable GAAP Measure: Net Finance Receivables plus Net Investment in Operating Leases) – Measure of Ford Credit’s total net receivables, excluding unear...  
+
+  Ford Credit Managed Leverage (Most Comparable GAAP Measure: Financial Statement Leverage) – Ford Credit’s debt-to-equity ratio adjusted (i) to exclude cash, cash equivalents, and marketable sec...  
+
+Item 2. Management’s Discussion and Analysis of Financial Condition and Results of Operations (Continued)
+
+Non-GAAP Financial Measure Reconciliations
+
+The following tables show our Non-GAAP financial measure reconciliations. The GAAP reconciliation for Ford Credit Managed Leverage can be found in the Ford Credit Segment section of “Liquidity and Capital Resources.”
+
+Net Income Reconciliation to Adjusted EBIT ($M)
+
+                                                              First Quarter                                   
+                                                              2019                          2020              
+ ──────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Net income/(loss) attributable to Ford (GAAP)               $                  1,146      $         (1,993  
+  Income/(Loss) attributable to noncontrolling interests      37                            —                 
+  Net income/(loss)                                           $                  1,183      $         (1,993  
+  Less: (Provision for)/Benefit from income taxes             (427                          (847              
+  Income/(Loss) before income taxes                           $                  1,610      $         (1,146  
+  Less: Special items pre-tax                                 (592                          (287              
+  Income/(Loss) before special items pre-tax                  $                  2,202      $           (859  
+  Less: Interest on debt                                      (245                          (227              
+  Adjusted EBIT (Non-GAAP)                                    $                  2,447      $           (632  
+  Memo:                                                                                                       
+  Revenue ($B)                                                $                   40.3      $           34.3  
+  Net income/(loss) margin (%)                                2.8                           (5.8              
+  Adjusted EBIT margin (%)                                    6.1                           (1.8              
+
+Earnings per Share Reconciliation to Adjusted Earnings per Share
+
+                                                                                  First Quarter                                    
+                                                                                  2019                          2020               
+ ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Diluted After-Tax Results ($M)                                                                                                   
+  Diluted after-tax results (GAAP)                                                $                  1,146      $          (1,993  
+  Less: Impact of pre-tax and tax special items                                   (585                                     (1,074  
+  Less: Noncontrolling interests impact of Russia restructuring                   (35                           —                  
+  Adjusted net income/(loss) – diluted (Non-GAAP)                                 $                  1,766      $            (919  
+  Basic and Diluted Shares (M)                                                                                                     
+  Basic shares (average shares outstanding)                                                          3,973                  3,963  
+  Net dilutive options, unvested restricted stock units and restricted stock      24                            —                  
+  Diluted shares                                                                                     3,997                  3,963  
+  Earnings per share – diluted (GAAP)                                             $                   0.29      $           (0.50  
+  Less: Net impact of adjustments                                                 (0.15                         (0.27              
+  Adjusted earnings per share – diluted (Non-GAAP)                                $                   0.44      $           (0.23  
+
+Item 2. Management’s Discussion and Analysis of Financial Condition and Results of Operations (Continued)
+
+Effective Tax Rate Reconciliation to Adjusted Effective Tax Rate
+
+                                                                       First Quarter                                                             
+                                                                       2019                          2020                   Memo:                
+ ─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Pre-Tax Results ($M)                                                                                                                           
+  Income / (Loss) before income taxes (GAAP)                           $                  1,610      $          (1,146      $              (640  
+  Less: Impact of special items                                        (592                          (287                                (5,999  
+  Adjusted earnings before taxes (Non-GAAP)                            $                  2,202      $            (859      $             5,359  
+  Taxes ($M)                                                                                                                                     
+  (Provision for) / Benefit from income taxes (GAAP)                   $                   (427      $            (847      $               724  
+  Less: Impact of special items                                        7                             (787                                 1,323  
+  Adjusted (provision for) / benefit from income taxes (Non-GAAP)      $                   (434      $             (60      $              (599  
+  Tax Rate (%)                                                                                                                                   
+  Effective tax rate (GAAP)                                            26.5                          (73.9                  113.1                
+  Adjusted effective tax rate (Non-GAAP)                               19.7                          (7.0                   11.2                 
+
+Net Cash Provided by/(Used in) Operating Activities Reconciliation to Company Adjusted Free Cash Flow ($M)
+
+                                                                              First Quarter                                    
+                                                                              2019                           2020              
+ ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Net cash provided by / (used in) operating activities (GAAP)                $                   3,544      $           (473  
+  Less: Items not included in Company Adjusted Free Cash Flows                                                                 
+  Ford Credit operating cash flows                                            $                   1,118      $            133  
+  Funded pension contributions                                                (294                           (175              
+  Global Redesign (including separations)                                     (136                           (172              
+  Ford Credit tax payments / (refunds) under tax sharing agreement            98                             475               
+  Other, net                                                                  (120                           (15               
+  Add: Items included in Company Adjusted Free Cash Flows                                                                      
+  Automotive and Mobility capital spending                                    $                  (1,620      $         (1,770  
+  Ford Credit distributions                                                   675                            275               
+  Settlement of derivatives                                                   (26                            (28               
+  Company adjusted free cash flow (Non-GAAP)                                  $                   1,907      $         (2,242  
+  Cash conversion (GAAP) (Trailing four quarters)                             488                            (441              
+  Adjusted free cash flow conversion (Non-GAAP) (Trailing four quarters)      24                             (41               
+
+Item 2. Management’s Discussion and Analysis of Financial Condition and Results of Operations (Continued)
+
+Ford Credit Net Receivables Reconciliation to Managed Receivables ($B)
+
+                                                                      March 31, 2019                 December 31, 2019                 March 31,             
+ ─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Ford Credit finance receivables, net (GAAP) *                       $                   109.8      $                      107.4      $              106.0  
+  Net investment in operating leases (GAAP) *                         27.6                           27.6                              27.0                  
+  Consolidating adjustments **                                        9.5                            7.0                               4.8                   
+  Total net receivables                                               $                   146.9      $                      142.0      $              137.8  
+  Held-for-sale receivables (GAAP)                                    $                       —      $                        1.5      $                  —  
+  Ford Credit unearned interest supplements and residual support      6.8                            6.7                               6.3                   
+  Allowance for credit losses                                         0.5                            0.5                               1.2                   
+  Other, primarily accumulated supplemental depreciation              1.1                            1.0                               1.1                   
+  Total managed receivables (Non-GAAP)                                $                   155.3      $                      151.7      $              146.4  
+
+__________
+
+  Includes finance receivables (retail and wholesale) sold for legal purposes and net investment in operating leases included in securitization transactions that do not satisfy the requirements f...  
+
+  Primarily includes Automotive segment receivables purchased by Ford Credit which are classified to Trade and other receivables on our consolidated balance sheet. Also includes eliminations of i...  
+
+  Note: Numbers may not sum due to rounding.  
+ ──────────────────────────────────────────────
+
+Item 2. Management’s Discussion and Analysis of Financial Condition and Results of Operations (Continued)
+
+SUPPLEMENTAL INFORMATION
+
+The tables below provide supplemental consolidating financial information, other financial information, and U.S. sales by type. Company excluding Ford Credit includes our Automotive and Mobility reportable segments, Corporate Other, Interest on Debt, and Special Items. Eliminations, where presented, primarily represent eliminations of intersegment transactions and deferred tax netting.
+
+Selected Cash Flow Information. The following tables provide supplemental cash flow information (in millions):
+
+                                                                                 For the period ended March 31, 2020                                                                                           
+                                                                                                       First Quarter                                                                                           
+  Cash flows from operating activities                                                 Company excluding Ford Credit                  Ford Credit                  Eliminations      Consolidated              
+  Net income/(loss)                                                                                                $      (2,014      $                    21      $                            $      (1,993  
+ ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Depreciation and tooling amortization                                                                                    1,384                        1,060      —                                    2,444  
+  Other amortization                                                                                               8                  (310                         —                         (302              
+  Held-for-sale impairment charges                                                                                 3                  —                            —                            3              
+  Provision for credit and insurance losses                                                                        6                  592                          —                          598              
+  Pension and OPEB expense/(income)                                                                             (178                  —                            —                         (178              
+  Equity investment dividends received in excess of (earnings)/losses                                            124                  (6                           —                          118              
+  Foreign currency adjustments                                                                                   362                  (24                          —                          338              
+  Net (gain)/loss on changes in investments in affiliates                                                        (20                  5                            —                          (15              
+  Stock compensation                                                                                              37                  1                            —                           38              
+  Provision for deferred income taxes                                                                            974                  (272                         —                          702              
+  Decrease/(Increase) in finance receivables (wholesale and other)                                                 —                                   (1,080      —                                   (1,080  
+  Decrease/(Increase) in intersegment receivables/payables                                                       488                  (488                         —                            —              
+  Decrease/(Increase) in accounts receivable and other assets                                                     16                  23                           —                           39              
+  Decrease/(Increase) in inventory                                                                                        (1,177      —                            —                                   (1,177  
+  Increase/(Decrease) in accounts payable and accrued and other liabilities                                      478                  (284                         —                          194              
+  Other                                                                                                         (278                  76                           —                         (202              
+  Interest supplements and residual value support to Ford Credit                                                (819                  819                          —                            —              
+  Net cash provided by/(used in) operating activities                                                              $        (606      $                   133      $                            $        (473  
+
+  Cash flows from investing activities                                     Company excluding Ford Credit                  Ford Credit                   Eliminations      Consolidated               
+  Capital spending                                                         $                                  (1,770      $                    (10      $                 $                  (1,780  
+  Acquisitions of finance receivables and operating leases                 —                                                               (12,184      —                                   (12,184  
+ ─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Collections of finance receivables and operating leases                  —                                                                12,709      —                                    12,709  
+  Proceeds from sale of business                                           —                                                                 1,340      —                                     1,340  
+  Purchases of marketable and other investments                                                               (7,564      (680                          —                                    (8,244  
+  Sales and maturities of marketable securities and other investments                                          3,463                         1,535      —                                     4,998  
+  Settlements of derivatives                                               (28                                            159                           —                 131                        
+  Other                                                                    (83                                            (1                            —                 (84                        
+  Investing activity (to)/from other segments                              275                                            (10                           (265              —                          
+  Net cash provided by/(used in) investing activities                      $                                  (5,707      $                  2,858      $                 $                  (3,114  
+
+  Cash flows from financing activities                                                Company excluding Ford Credit                  Ford Credit                   Eliminations      Consolidated               
+  Cash payments for dividends and dividend equivalents                                $                                    (596      $                      —      $                 $                    (596  
+  Purchases of common stock                                                           —                                              —                             —                 —                          
+ ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Net changes in short-term debt                                                      282                                            (904                          —                 (622                       
+  Proceeds from issuance of long-term debt                                                                               15,068                        11,623      —                                    26,691  
+  Principal payments on long-term debt                                                (296                                                            (12,652      —                                   (12,948  
+  Other                                                                               (50                                            (21                           —                 (71                        
+  Financing activity to/(from) other segments                                         10                                             (275                          265               —                          
+  Net cash provided by/(used in) financing activities                                 $                                  14,418      $                 (2,229      $                 $                  12,454  
+  Effect of exchange rate changes on cash, cash equivalents, and restricted cash      $                                    (196      $                   (252      $                 $                    (448  
+
+Item 2. Management’s Discussion and Analysis of Financial Condition and Results of Operations (Continued)
+
+Selected Income Statement Information. The following table provides supplemental income statement information (in millions):
+
+                                                                    For the period ended March 31, 2020                                                                                       
+                                                                    First Quarter                                                                                                             
+ ──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+                                                                    Company excluding Ford Credit                                                                                             
+                                                                    Automotive                               Mobility      Other (a)      Subtotal                  Consolidated              
+  Revenues                                                          $                                        $             $              $             31,353      $                 34,320  
+  Total costs and expenses                                                                                   381           467                          32,954                        35,878  
+  Operating income/(loss)                                           (766                                     (368          (467                         (1,601                        (1,558  
+  Interest expense on Automotive debt                               —                                        —             214            214                       214                       
+  Interest expense on Other debt                                    —                                        —             13             13                        13                        
+  Other income/(loss), net                                          636                                      34            29             699                       680                       
+  Equity in net income/(loss) of affiliated companies               (47                                      —             —              (47                       (41                       
+  Income/(Loss) before income taxes                                 (177                                     (334          (665                         (1,176                        (1,146  
+  Provision for/(Benefit from) income taxes                         221                                      (80           697            838                       847                       
+  Net income/(loss)                                                 (398                                     (254                                       (2,014                        (1,993  
+  Less: Income/(Loss) attributable to noncontrolling interests      —                                        —             —              —                         —                         
+  Net income/(loss) attributable to Ford Motor Company              $                                        $             $              $             (2,014      $                 (1,993  
+
+__________
+
+(a) Other includes Corporate Other, Interest on Debt, and Special Items.
+
+Item 2. Management’s Discussion and Analysis of Financial Condition and Results of Operations (Continued)
+
+Selected Balance Sheet Information. The following tables provide supplemental balance sheet information (in millions):
+
+                                                    March 31, 2020                                                                                                       
+ ─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Assets                                            Company excluding Ford Credit                   Ford Credit                   Eliminations                           
+  Cash and cash equivalents                         $                                   16,343      $                  9,628      $                      —       25,971  
+  Marketable securities                                                                 17,946                         2,453      —                              20,399  
+  Ford Credit finance receivables, net              —                                                                 54,889      —                              54,889  
+  Trade and other receivables, net                                                       3,128                         3,497      —                               6,625  
+  Inventories                                                                           11,312      —                             —                              11,312  
+  Assets held for sale                              664                                             36                            —                                      
+  Other assets                                                                           2,689                         1,691      —                               4,380  
+  Receivable from other segments                    21                                                                 2,673                        (2,694               
+  Total current assets                                                                  52,103                        74,867                        (2,694      124,276  
+  Ford Credit finance receivables, net              —                                                                 51,141      —                              51,141  
+  Net investment in operating leases                                                     1,509                        27,005      —                              28,514  
+  Net property                                                                          35,082      212                           —                              35,294  
+  Equity in net assets of affiliated companies                                           2,159      116                           —                               2,275  
+  Deferred income taxes                                                                 12,607      168                                             (1,853       10,922  
+  Other assets                                                                           8,860                         2,868      —                              11,728  
+  Receivable from other segments                    9                                               16                            (25                                    
+  Total assets                                      $                                  112,329      $                156,393      $                 (4,572      264,150  
+
+  Liabilities                                   Company excluding Ford Credit                               Eliminations                  Consolidated               
+  Payables                                      $                                  17,449          990      $                      —      $                  18,439  
+  Other liabilities and deferred revenue                                           21,225        1,449      —                                                22,674  
+  Automotive debt payable within one year                                           1,609                   —                                                 1,609  
+  Ford Credit debt payable within one year      —                                               51,303      —                                                51,303  
+  Other debt payable within one year            —                                                           —                             —                          
+  Liabilities held for sale                     469                                                         —                             469                        
+  Payable to other segments                                                         2,694                                     (2,694      —                          
+  Total current liabilities                                                        43,446       53,742                        (2,694                         94,494  
+  Other liabilities and deferred revenue                                           23,757        1,348      —                                                25,105  
+  Automotive long-term debt                                                        28,411                   —                                                28,411  
+  Ford Credit long-term debt                    —                                               85,533      —                                                85,533  
+  Other long-term debt                          470                                                         —                             470                        
+  Deferred income taxes                         67                                               2,225                        (1,853      439                        
+  Payable to other segments                     25                                                          (25                           —                          
+  Total liabilities                             $                                  96,176      142,848      $                 (4,572      $                 234,452  
+
+Item 2. Management’s Discussion and Analysis of Financial Condition and Results of Operations (Continued)
+
+Selected Other Information.
+
+Equity. At March 31, 2020, total equity attributable to Ford was $29.7 billion, a decrease of $3.5 billion compared with December 31, 2019. The detail for this change is shown below (in billions):
+
+                                        Increase/             
+                                        (Decrease)            
+  Net income                            $               (2.0  
+ ──────────────────────────────────────────────────────────────
+  Shareholder distributions             (0.6                  
+  Adoption of accounting standards      (0.2                  
+  Other comprehensive income            (0.7                  
+  Total                                 $               (3.5  
+
+U.S. Sales by Type. The following table shows first quarter 2020 U.S. sales volume and U.S. wholesales segregated by truck, SUV, and car sales. U.S. sales volume reflects transactions with (i) retail and fleet customers (as reported by dealers), (ii) governments, and (iii) Ford management. U.S. wholesales reflect sales to dealers.
+
+                      U.S. Sales      U.S. Wholesales  
+  Trucks                 263,757              265,966  
+  SUVs                   189,720              194,013  
+  Cars                    62,853               73,896  
+  Total Vehicles         516,330              533,875  
+
+Item 2. Management’s Discussion and Analysis of Financial Condition and Results of Operations (Continued)
+
+CRITICAL ACCOUNTING ESTIMATES
+
+As a result of the January 1, 2020 adoption of the current expected credit loss (“CECL”) standard (ASU 2016-13, Credit Losses - Measurement of Credit Losses on Financial Instruments), we are updating the Critical Accounting Estimate disclosure in our 2019 Form 10-K Report as follows:
+
+Allowance for Credit Losses
+
+The allowance for credit losses represents Ford Credit’s estimate of the expected lifetime credit losses inherent in finance receivables as of the balance sheet date. The adequacy of the allowance for credit losses is assessed quarterly and the assumptions and models used in establishing the allowance are evaluated regularly. Because credit losses can vary substantially over time, estimating credit losses requires a number of assumptions about matters that are uncertain. Changes in assumptions 
+affectFord Credit interest, operating, and other expenses on our consolidated income statement and the allowance for credit losses contained withinFord Credit finance receivables, net on our consolidated balance sheet. For additional information regarding the allowance for credit losses, seeNote 8 of our Notes to the Financial Statements.
+
+Assumptions Used. The allowance for credit losses is based on Ford Credit’s assumptions regarding:
+
+  Probability of default. The expected probability of payment and time to default which include assumptions about macroeconomic factors and recent performance. Macroeconomic factors used in the m...  
+
+  Loss given default. The percentage of the expected balance due at default that is not recoverable. The loss given default takes into account the expected collateral value and future recoveries.  
+
+Sensitivity Analysis.
+
+Changes in the assumptions used to derive probability of default and loss given default would affect the allowance for credit losses. The effect of the indicated increase / decrease in the assumptions for Ford Credit’s U.S. Ford and Lincoln brand retail financing is as follows (in millions):
+
+  Assumption                             Basis Point Change      Increase / (Decrease)  
+  Probability of default (lifetime)      +/- 100                 $200/$(200)            
+  Loss given default                     +/- 100                 $20/$(20)              
+ ────────────────────────────────────────────────────────────────────────────────────────
+
+ACCOUNTING STANDARDS ISSUED BUT NOT YET ADOPTED
+
+The Financial Accounting Standards Board (“FASB”) has issued the following Accounting Standards Updates (“ASU”) which are not expected to have a material impact to our financial statements or financial statement disclosures. For additional information, seeNote 2 of the Notes to the Financial Statements.
+
+  ASU                                                                                           Effective Date (a)  
+  2020-04      Facilitation of the Effects of Reference Rate Reform on Financial Reporting      April 1, 2020       
+  2019-12      Simplifying the Accounting for Income Taxes                                      January 1, 2021     
+  2018-12      Targeted Improvements to the Accounting for Long Duration Contracts              January 1, 2022     
+
+__________
+
+  (a)      Early adoption for each of the standards is permitted.  
+

@@ -1,0 +1,314 @@
+Item 2. Management's Discussion and Analysis of Financial Condition and Results of Operations
+
+Management's Discussion and Analysis of Financial Condition and Results of Operations (MD&A) should be read in conjunction with the condensed consolidated financial statements included in "Item 1. Financial Statements" contained herein.
+
+EXECUTIVE OVERVIEW
+
+Organization
+
+We are one of the world's largest providers of products and services to the energy industry. We help our customers maximize value throughout the lifecycle of the reservoir - from locating hydrocarbons and managing geological data, to drilling and formation evaluation, well construction and completion, and optimizing production throughout the life of the asset. Activity levels within our operations are significantly impacted by spending on upstream exploration, development and production programs
+by major, national and independent oil and natural gas companies. We report our results under two segments, the Completion and Production segment and the Drilling and Evaluation segment:
+
+• our Completion and Production segment delivers cementing, stimulation, intervention, pressure control, specialty chemicals, artificial lift, and completion products and services. The segment consists of Production Enhancement, Cementing, Completion Tools, Production Solutions, Multi-Chem, Artificial Lift, and Pipeline and Process Services.
+
+• our Drilling and Evaluation segment provides field and reservoir modeling, drilling, evaluation and precise wellbore placement solutions that enable customers to model, measure, drill and optimize their well construction activities. The segment consists of Baroid, Sperry Drilling, Wireline and Perforating, Drill Bits and Services, Landmark Software and Services, Testing and Subsea, and Project Management.
+
+The business operations of our segments are organized around four primary geographic regions: North America, Latin America, Europe/Africa/CIS and Middle East/Asia. We have manufacturing operations in various locations, the most significant of which are located in the United States, Malaysia, Singapore and the United Kingdom. With approximately 50,000 employees, we operate in more than 80 countries around the world, and our corporate headquarters are in Houston, Texas.
+
+The following charts depict the company's revenue split between our two operating segments and our four primary geographic regions for the three months ended March 31, 2020.
+
+COVID-19 pandemic and market conditions update
+
+The COVID-19 pandemic and related economic repercussions have created significant volatility, uncertainty, and turmoil in the oil and gas industry. Oil demand has significantly deteriorated as a result of the virus outbreak and corresponding preventative measures taken around the world to mitigate the spread of the virus. In the midst of the ongoing COVID-19 pandemic, the Organization of Petroleum Exporting Countries and other oil producing nations (OPEC+) were initially unable to reach an 
+agreement on production levels for crude oil, at which point Saudi Arabia and Russia initiated efforts to aggressively increase production. The convergence of these events created the unprecedented dual impact of a massive decline in the demand for oil coupled with the risk of a substantial increase in supply. While OPEC+ agreed in April to cut production, downward pressure on commodity prices has remained and could continue for the foreseeable future. While we experienced some impact in the 
+first quarter, we expect a significant decline in activity, particularly in North America, coupled with downward pricing pressure and corresponding reductions in revenue and profitability for the remainder of 2020.
+
+HAL Q1 2020 FORM 10-Q | 12
+
+  T able of Contents      Part I. Item 2 | Executive Overview  
+ ───────────────────────────────────────────────────────────────
+
+Financial results
+
+The pandemic and the disruption in the oil and gas industry has negatively affected and is expected to continue to negatively affect our business. The financial results for the first quarter of 2020 reflect some of the reduced activity experienced towards the latter part of the quarter in various locations around the world. The following graph illustrates our revenue and operating margins for each operating segment for the first quarter of 2019 and 2020.
+
+During the first quarter of 2020, we generated total company revenue of $5.0 billion, a 12% decrease as compared to the first quarter of 2019. We reported an operating loss of $571 million during the first quarter of 2020 driven by $1.1 billion of impairments and other charges. This compares to operating income of $365 million during the first quarter of 2019, which includes $61 million of impairments and other charges. Our Completion and Production segment revenue decreased 19% from the first 
+quarter of 2019, primarily driven by lower pressure pumping activity and pricing and reduced completion tool sales in North America. Our Drilling and Evaluation segment revenue was flat compared to the first quarter of 2019, as increased activity for drilling-related services in the North Sea and Asia was offset by reduced activity and pricing for multiple product service lines in North America land. Operating margins in both of our operating segments improved as we implemented initiatives in 
+late 2019 to lower our cost of service delivery and achieve other cost savings.
+
+In North America, our revenue decreased 25% in the first quarter of 2020, as compared to the first quarter of 2019, driven by reduced activity and pricing in North America land, primarily associated with pressure pumping services, well construction and completion tool sales. North America activity is declining as a result of lower oil prices caused by the pandemic and the precipitous decline in the demand for oil. As a result, customers continue to revise their capital budgets in order to adjust
+spending levels in response to the lower commodity prices. The average U.S. land rig count fell by approximately 25% compared to the first quarter of 2019, and has continued to decline into April.
+
+Revenue in our international markets increased 5% in the first quarter of 2020, as compared to the first quarter of 2019, primarily driven by increased well construction activity in the North Sea and Russia. Additionally, the first quarter of 2020 marked the eleventh consecutive quarter of year over year revenue increases for our international business. While COVID-19 had minimal impact on our international operations in the first quarter, certain international customers are reducing capital 
+spending, deferring exploration and appraisal activity and looking to reduce costs on major ongoing projects. Furthermore, significant operational disruptions are expected at least through the second quarter due to the pandemic. We are experiencing restricted movements within countries, quarantining requirements for rotational staff, logistics delays due to third-party personnel reductions, and some country closures.
+
+Business outlook
+
+Demand for our products and services will continue to decline as our customers revise their capital budgets downwards and adjust their operations in response to lower oil prices. As operators in North America and the international markets look for ways to reduce spending, we will work to improve efficiencies that help both our customers and our company optimize costs. We are currently evaluating our cost structure and plan to implement significant cost containment measures to our organization in
+the near-term, including reducing headcount, consolidating our facilities, removing another layer of operations management in North America, reducing our technology budget, and eliminating discretionary spending across the business. We cannot predict the length of time that the market disruptions resulting from the COVID-19 pandemic and efforts to mitigate its effects will continue, the ultimate impact on our business, or the pace or extent of any subsequent recovery. Nevertheless, we will 
+maintain our commitment to safety and service quality for our customers and continue to focus on generating returns and cash flow.
+
+HAL Q1 2020 FORM 10-Q | 13
+
+  T able of Contents      Part I. Item 2 | Executive Overview  
+ ───────────────────────────────────────────────────────────────
+
+In North America, we expect activity to further decline in the second quarter of 2020 across all basins, which will impact both our operating segments. At a minimum, we expect this reduced activity to continue through the end of the year. We restructured our North America organization in 2019 and plan to implement additional measures that will further reduce our costs and improve our cash flow, including an acceleration of our service delivery improvement strategy. We also expect to continue 
+deploying new technologies that reduce our operating costs and improve margins.
+
+Internationally, we expect activity to slow down and continue to decline, at a minimum, through the end of 2020. International projects and contract structures tend to be longer-term oriented. However, in the face of these unprecedented circumstances, our customers are reassessing their priorities, with some reacting more swiftly than others. We believe the activity changes internationally will not be uniform across all markets and anticipate that the least affected markets will be the OPEC 
+countries in the Middle East, while offshore Africa and Latin America may see a more significant decline. OPEC+ production decisions and compliance, as well as the duration of pandemic-related demand and activity disruptions will ultimately determine how much international spending will decline in 2020. Our second quarter results will also be impacted by customer project suspensions and delays internationally. We will continue to focus on our artificial lift and specialty chemicals growth, which
+we believe will give us exposure to a longer-term, later-cycle market with significant growth potential.
+
+During the first three months of 2020, we had $213 million of capital expenditures, a decrease of 51% from the first quarter of 2019, as we adjusted to current market conditions. We have adjusted our expected full year 2020 capital expenditures down to approximately $800 million, a 48% decrease from 2019. The reductions are geared towards both our North America business and to uncommitted projects internationally. We believe this level of spend will still allow us to invest in our key strategic 
+areas, while continuing to rationalize our business to current market conditions. We will continue to maintain capital discipline and monitor the rapidly changing market dynamics and adjust our capital expenditures accordingly.
+
+Under the adverse market conditions we are facing in 2020, we are taking swift actions that we believe will not only temper the impact of the activity declines on our financial performance, but also ensure that we are in a strong position, financially and structurally, to take advantage of the market's eventual recovery. We plan to continue executing the following strategies through the end of 2020:
+
+• collaborating with, and engineering solutions to maximize asset value for, our customers;
+
+• leveraging our broad technology offerings to provide value to our customers and enable them to more efficiently drill and complete their wells;
+
+• directing capital and resources that differentiate our service and product offerings into strategic markets around the world;
+
+• deploying technology that will help our customers reduce reservoir uncertainty, increase operational efficiency and improve well productivity and helps us reduce our operating costs;
+
+• improving working capital and managing our balance sheet to maximize our financial flexibility;
+
+• seeking additional ways to be one of the most cost-efficient service providers in the industry by optimizing costs, maintaining capital discipline and leveraging our scale and breadth of operations; and
+
+• striving to achieve superior returns and cash flow generation for our shareholders.
+
+Our operating performance and business outlook are described in more detail in “Business Environment and Results of Operations.”
+
+Financial markets, liquidity, and capital resources
+
+We believe we have invested our cash balances conservatively and secured sufficient financing to help mitigate any near-term negative impact on our operations from adverse market conditions. During the first quarter of 2020, we retired $500 million in total debt and extended the maturity for $1.0 billion of senior notes out to 2030. We have focused on debt reduction over the last few years, reducing total debt by approximately $2.6 billion since 2016. We believe we have a very manageable debt 
+maturity profile, with approximately $1.3 billion coming due through 2024. As of March 31, 2020, we had $1.4 billion of cash and equivalents and $3.5 billion of available committed bank credit under our revolving credit facility. We believe this provides us with sufficient liquidity to address the challenges and opportunities of the current market. For additional information on market conditions, see “Liquidity and Capital Resources” and “Business Environment and Results of Operations.”
+
+HAL Q1 2020 FORM 10-Q | 14
+
+  Table of Contents      Part I. Item 2 | Liquidity and Capital Resources  
+ ───────────────────────────────────────────────────────────────────────────
+
+LIQUIDITY AND CAPITAL RESOURCES
+
+As of March 31, 2020, we had $1.4 billion of cash and equivalents, compared to $2.3 billion of cash and equivalents at December 31, 2019.
+
+Significant sources and uses of cash during the first three months of 2020
+
+Sources of cash:
+
+• Cash flows from operating activities were $225 million. This included a negative impact from the primary components of our working capital (receivables, inventories and accounts payable) of a net $200 million, primarily associated with higher customer receivables.
+
+Uses of cash:
+
+• In March 2020, we executed two transactions resulting in a reduction of net debt by $500 million. We issued $1.0 billion aggregate principal amount of senior notes and used the net proceeds from issuance along with cash on hand to repurchase $1.5 billion aggregate principal amount of senior notes. Inclusive of the tender premium and fees, these transactions resulted in a net payment of approximately $654 million.
+
+• Capital expenditures were $213 million.
+
+• We paid $158 million in dividends to our shareholders.
+
+• We repurchased approximately 7.4 million shares of our common stock in early March, largely before the significant decline in oil prices, under our share repurchase program at a total cost of $100 million.
+
+Future sources and uses of cash
+
+We manufacture most of our own equipment, which allows us flexibility to increase or decrease our capital expenditures based on market conditions. Capital spending for the full year 2020 is currently expected to be approximately $800 million, a decrease of 48% from 2019. We believe this level of spend will still allow us to invest in our key strategic areas, while continuing to rationalize our business to current market conditions. We will continue to maintain capital discipline and monitor the 
+rapidly changing market dynamics and adjust our capital spend accordingly.
+
+Currently, our quarterly dividend rate is $0.18 per common share, or approximately $158 million. Based on our market outlook and valuations, our Board of Directors and management will review the dividend quarterly and will make adjustments, if necessary, for the long-term success of our business. Our Board of Directors has authorized a program to repurchase our common stock from time to time. Approximately $5.1 billion remained authorized for repurchases as of March 31, 2020 and may be used for 
+open market and other share purchases.
+
+Other factors affecting liquidity
+
+Financial position in current market. As of March 31, 2020, we had $1.4 billion of cash and equivalents and $3.5 billion of available committed bank credit under our revolving credit facility. Furthermore, we have no financial covenants or material adverse change provisions in our bank agreements, and our debt maturities extend over a long period of time. We believe our cash on hand, cash flows generated from operations and our available credit facility will provide sufficient liquidity to 
+address the challenges and opportunities of the current market and our global cash needs, including capital expenditures; working capital investments; dividends, if any; and contingent liabilities.
+
+Guarantee agreements. In the normal course of business, we have agreements with financial institutions under which approximately $2.0 billion of letters of credit, bank guarantees or surety bonds were outstanding as of March 31, 2020. Some of the outstanding letters of credit have triggering events that would entitle a bank to require cash collateralization.
+
+Credit ratings. Our credit ratings with Standard & Poor’s (S&P) are BBB+ for our long-term debt and A-2 for our short-term debt, with a negative outlook. Our credit ratings with Moody’s Investors Service (Moody's) remain Baa1 for our long-term debt and P-2 for our short-term debt, with a negative outlook.
+
+HAL Q1 2020 FORM 10-Q | 15
+
+  Table of Contents      Part I. Item 2 | Liquidity and Capital Resources  
+ ───────────────────────────────────────────────────────────────────────────
+
+Customer receivables. In line with industry practice, we bill our customers for our services in arrears and are, therefore, subject to our customers delaying or failing to pay our invoices. In weak economic environments, we may experience increased delays and failures to pay our invoices due to, among other reasons, a reduction in our customers’ cash flow from operations and their access to the credit markets as well as unsettled political conditions. Given the nature and significance of the 
+pandemic and disruption in the oil and gas industry, we could experience delayed customer payments and payment defaults associated with customer liquidity issues and bankruptcies. If our customers delay paying or fail to pay us a significant amount of our outstanding receivables, it could have a material adverse effect on our liquidity, consolidated results of operations and consolidated financial condition.
+
+HAL Q1 2020 FORM 10-Q | 16
+
+  T able of Contents      Part I. Item 2 | Business Environment and Results of Operations  
+ ───────────────────────────────────────────────────────────────────────────────────────────
+
+BUSINESS ENVIRONMENT AND RESULTS OF OPERATIONS
+
+We operate in more than 80 countries throughout the world to provide a comprehensive range of services and products to the energy industry. Our revenue is generated from the sale of services and products to major, national, and independent oil and natural gas companies worldwide. The industry we serve is highly competitive with many substantial competitors in each segment of our business. During the first three months of 2020, based upon the location of the services provided and products sold, 
+47% of our consolidated revenue was from the United States, compared to 55% of consolidated revenue from the United States in the first three months of 2019. No other country accounted for more than 10% of our revenue.
+
+Operations in some countries may be adversely affected by unsettled political conditions, acts of terrorism, civil unrest, force majeure, war or other armed conflict, sanctions, expropriation or other governmental actions, inflation, changes in foreign currency exchange rates, foreign currency exchange restrictions and highly inflationary currencies, as well as other geopolitical factors. We believe the geographic diversification of our business activities reduces the risk that an interruption 
+of operations in any one country, other than the United States, would be materially adverse to our consolidated results of operations.
+
+Activity within our business segments is significantly impacted by spending on upstream exploration, development and production programs by our customers. Also impacting our activity is the status of the global economy, which impacts oil and natural gas consumption. The COVID-19 pandemic and efforts to mitigate its effect has had a substantial negative impact on the global economy and demand for oil.
+
+Some of the more significant determinants of current and future spending levels of our customers are oil and natural gas prices and our customers' expectations about future prices, global oil supply and demand, completions intensity, the world economy, the availability of credit, government regulation and global stability, which together drive worldwide drilling and completions activity. Additionally, many of our customers in North America have shifted their strategy from production growth to 
+operating within cash flow and generating returns. Lower oil and natural gas prices usually translate into lower exploration and production budgets and lower rig count, while the opposite is usually true for higher oil and natural gas prices. Our financial performance is therefore significantly affected by oil and natural gas prices and worldwide rig activity, which are summarized in the tables below.
+
+The table below shows the average oil and natural gas prices for West Texas Intermediate (WTI), United Kingdom Brent crude oil, and Henry Hub natural gas. Commodity prices dramatically decreased towards the latter part of the first quarter of 2020 following the dual impact of the COVID-19 pandemic and the inability of OPEC+ to agree on production cuts.
+
+                                                                                                   Three Months Ended                        
+                                                                                                                 2020       2019       2019  
+ ─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Oil price - WTI (1)                                                                                               $          $          $  
+  Oil price - Brent (1)                                                                                         50.44      63.17      64.36  
+  Natural gas price - Henry Hub (2)                                                                              1.91       2.92       2.54  
+  (1) Oil spot price measured in dollars per barrel.                                                                                         
+
+The historical average rig counts based on the weekly Baker Hughes rig count data were as follows:
+
+                       Three Months Ended                                                       
+                                     2020                 2019                 2019             
+ ────────────────────────────────────────────────────────────────────────────────────────────────
+  U.S. Land                           764                           1,022       920             
+  U.S. Offshore                        21                   21                   23             
+  Canada                              196                  183                  134             
+  North America                       981                           1,226                1,077  
+  International                                1,074                1,030                1,098  
+  Worldwide total                              2,055                2,256                2,175  
+
+HAL Q1 2020 FORM 10-Q | 17
+
+  T able of Contents      Part I. Item 2 | Business Environment and Results of Operations  
+ ───────────────────────────────────────────────────────────────────────────────────────────
+
+The COVID-19 pandemic and related economic repercussions have created significant volatility, uncertainty, and turmoil in the oil and gas industry. Oil demand has significantly deteriorated as a result of the virus outbreak and corresponding preventative measures taken around the world to mitigate the spread of the virus. In the midst of the ongoing COVID-19 pandemic, OPEC+ was initially unable to reach an agreement on production levels for crude oil, at which point Saudi Arabia and Russia 
+initiated efforts to aggressively increase production. The convergence of these events created the unprecedented dual impact of a global oil demand decline coupled with a resulting oversupply.
+
+As a result of these events, crude oil prices significantly declined during the first quarter of 2020. WTI oil spot prices decreased from a high of $63 per barrel in early January to a low of $14 per barrel in late March, a level which had not been experienced since March 1999. The gap between paper market trades and physical barrels has widened to multi-decade highs, as WTI crude oil futures traded just above $20 per barrel in late March. The physical markets have shown signs of distress as 
+spot prices have been negatively impacted by the lack of available storage capacity. This has significantly increased the volatility in commodity prices. Brent crude oil spot prices also deteriorated during the first quarter, from a high of $70 per barrel in early January to a low of $15 per barrel in late March, a level which had not been experienced since June 1999. While OPEC+ agreed in April to cut production, downward pressure on commodity prices has continued and could continue for the 
+foreseeable future, particularly given concerns over available storage capacity.
+
+In the United States Energy Information Administration (EIA) April 2020 "Short Term Energy Outlook," the EIA projects WTI prices to average $20 per barrel in the second quarter of 2020 and $29 per barrel for the full year 2020, with a further increase to $41 per barrel in 2021. Brent prices are projected to average $23 per barrel during the second quarter of 2020 before increasing to $30 per barrel in the second half of the year, resulting in a full year 2020 average price of $33 per barrel. The
+EIA forecasts that average Brent prices will rise to an average of $46 per barrel in 2021, as a return to declining global oil inventories is expected to create upward pressure on prices.
+
+The EIA projects crude oil production in the United States to average 11.8 million barrels per day in 2020, a 4% decrease from 2019, and an average of 11.1 million barrels per day in 2021. The International Energy Agency's (IEA) April 2020 "Oil Market Report" forecasts global oil supply to be significantly reduced by 12 million barrels per day in May, after OPEC+ agreed to cut production by 9.7 million barrels per day from an agreed baseline level. The IEA forecasts global demand to average 
+approximately 90.5 million barrels per day in 2020, which is down 9.3 million barrels per day, or 9%, from 2019 demand. This is driven by demand damage created by the COVID-19 pandemic across all regions, primarily in North America, as a growing number of countries have imposed strict containment measures. Approximately 187 countries and territories have implemented such policies, of which 98 have asked their citizens to stay at home. In total, over 4 billion people are under containment as of 
+April 2020.
+
+The Henry Hub natural gas spot price averaged $1.91 per MMBtu in the first quarter of 2020, a decrease of $1.01 per MMBtu, or 35%, from the first quarter of 2019. The EIA April 2020 “Short Term Energy Outlook” projects Henry Hub natural gas prices to average $2.11 per MMBtu in 2020 and $2.98 per MMBtu in 2021.
+
+North America operations
+
+During the first quarter of 2020, the average United States land rig count decreased 25%, as compared to the first quarter of 2019. The pandemic and disruption in the oil and gas industry has particularly affected the North America market as the U.S. rig count continues to decline into April. Customers continue to revise their capital budgets in order to adjust spending levels in response to the lower commodity prices. At a minimum, we expect activity to continue to decline through the end of 
+2020.
+
+International operations
+
+The average international rig count for the first quarter of 2020 was up 4% compared to the first quarter of 2019. While COVID-19 had minimal impact on our international operations in the first quarter, certain international customers are also reducing capital spending, deferring exploration and appraisal activity and looking to reduce costs on major ongoing projects, which we expect will have a substantial negative impact on the demand for our products and services. Furthermore, significant 
+operational disruptions are expected at least through the second quarter due to the pandemic. We are experiencing restricted movements within countries, quarantining requirements for rotational staff, logistics delays due to third-party personnel reductions, and some country closures. We expect international activity to slow down and continue to decline, at a minimum, through the end of 2020. International projects and contract structures tend to be longer-term oriented. However, in the face of 
+these unprecedented circumstances, our customers are reassessing their priorities, with some reacting more swiftly than others. We believe the activity changes internationally will not be uniform across all markets and anticipate that the least affected markets will be the OPEC countries in the Middle East, while offshore Africa and Latin America may see a more significant decline.
+
+HAL Q1 2020 FORM 10-Q | 18
+
+  T able of Contents      Part I. Item 2 | Business Environment and Results of Operations  
+ ───────────────────────────────────────────────────────────────────────────────────────────
+
+Venezuela. The general license issued by the Office of Foreign Assets Control (OFAC) of the U.S. Department of Treasury, which allows us to continue operating in Venezuela despite OFAC sanctions imposed against the Venezuelan energy industry, was set to expire in July 2019 and had been extended several times. In April 2020, OFAC issued an updated general license. Effective April 21, 2020, the license prohibits us from performing the majority of our operations in the country. In particular, we 
+are prohibited from performing activities associated with: (a) the drilling, lifting, or processing of, purchase or sale of, or transport or shipping of any Venezuelan-origin petroleum or petroleum products; and (b) the design, construction, installation, repair, or improvement of any wells or other facilities or infrastructure in Venezuela or the purchasing or provision of any goods or services, except as required for safety. Through December 1, 2020, we are only permitted to perform certain 
+transactions and activities necessary for safety or the preservation of assets in Venezuela, along with other administrative activities. Consequently, we will cease our primary operations in Venezuela in order to comply with the sanctions. It is unlikely that we will be able to remove our assets that remain in Venezuela and those assets may be expropriated. Since we have previously written down all of our investment in Venezuela and have maintained limited operations in this country during the 
+general license period, we do not expect the expiration of the license to have a material adverse effect on our business, consolidated results of operations and consolidated financial condition.
+
+HAL Q1 2020 FORM 10-Q | 19
+
+  T able of Contents      Part I. Item 2 | Results of Operations in 2020 Compared to 2019  
+ ───────────────────────────────────────────────────────────────────────────────────────────
+
+RESULTS OF OPERATIONS IN 2020 COMPARED TO 2019
+
+Three Months Ended March 31, 2020 Compared with Three Months Ended March 31, 2019
+
+  Revenue:                       Three Months Ended                                                                    Favorable  
+  Millions of dollars            2020                               2019                 (Unfavorable)                    Change  
+ ──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Completion and Production      $                       2,962      $         3,662      $                  (700)           (19)  
+  Drilling and Evaluation                                2,075                2,075      —                                     —  
+  Total revenue                  $                       5,037      $         5,737      $                  (700)           (12)  
+  By geographic region:                                                                                                           
+  North America                  $                       2,460      $         3,275      $                  (815)           (25)  
+  Latin America                  516                                587                  (71)                               (12)  
+  Europe/Africa/CIS              831                                748                  83                                   11  
+  Middle East/Asia                                       1,230                1,127      103                                   9  
+  Total revenue                  $                       5,037      $         5,737      $                  (700)           (12)  
+
+  Operating income (loss):           Three Months Ended                                                                      Favorable  
+  Millions of dollars                2020                                 2019               (Unfavorable)                   Change     
+ ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Completion and Production          $                           345         $      368      $                     (23)      (6)        
+  Drilling and Evaluation            217                                   123               94                              76         
+  Total                              562                                   491               71                              14         
+  Corporate and other                (60)                                 (65)               5                               8          
+  Impairments and other charges                              (1,073)      (61)                                  (1,012)      n/m        
+  Total operating income (loss)      $                         (571)         $      365      $                    (936)      n/m        
+  n/m = not meaningful                                                                                                                  
+
+Consolidated revenue was $5.0 billion in the first quarter of 2020, a decrease of $700 million, or 12%, as compared to the first quarter of 2019. These results were driven by reduced activity and pricing in North America land, primarily associated with pressure pumping and well construction. This decline was partially offset by higher activity for drilling-related services in the Eastern Hemisphere. Revenue from North America was 49% of consolidated revenue in the first quarter of 2020 compared 
+to 57% of consolidated revenue in the first quarter of 2019. We reported an operating loss of $571 million during the first quarter of 2020 driven by $1.1 billion of impairments and other charges. This compares to operating income of $365 million during the first quarter of 2019, which includes $61 million of impairments and other charges. See Note 2 to the condensed consolidated financial statements for further discussion on these charges.
+
+Operating Segments
+
+Completion and Production
+
+Completion and Production revenue in the first quarter of 2020 was $3.0 billion, a decrease of $700 million, or 19%, when compared to the first quarter of 2019, while operating income was $345 million, a decrease of $23 million, or 6%. These results were primarily due to lower pressure pumping activity and pricing and reduced completion tool sales in North America, partially offset by increased cementing activity and completion tool sales in the Eastern Hemisphere.
+
+Drilling and Evaluation
+
+Drilling and Evaluation revenue in the first quarter of 2020 was $2.1 billion, which was flat from the first quarter of 2019, while operating income was $217 million, an increase of $94 million, or 76%. Higher activity for drilling-related services in the North Sea and Asia were offset by reduced activity and pricing for multiple product service lines in North America land and lower fluids activity in Latin America. Additionally, operating margins improved as a result of lower costs, primarily 
+associated with changes in our North America cost structure, improved cost absorption in the North Sea and favorable changes in activity mix related to drilling-related services in the Eastern Hemisphere.
+
+HAL Q1 2020 FORM 10-Q | 20
+
+  T able of Contents      Part I. Item 2 | Results of Operations in 2020 Compared to 2019  
+ ───────────────────────────────────────────────────────────────────────────────────────────
+
+Geographic Regions
+
+North America
+
+North America revenue in the first quarter of 2020 was $2.5 billion, a 25% decrease compared to the first quarter of 2019. This decline was mainly due to reduced activity and pricing in North America land, primarily associated with pressure pumping, well construction, and completion tool sales. This decline was partially offset by increased artificial lift activity and specialty chemicals sales in North America land, and stimulation activity in the Gulf of Mexico.
+
+Latin America
+
+Latin America revenue in the first quarter of 2020 was $516 million, a 12% decrease compared to the first quarter of 2019, resulting primarily from reduced fluids activity and stimulation services across the region, particularly in Argentina, coupled with decreased activity in multiple product service lines in Brazil, Ecuador and Colombia. These declines were partially offset by increased activity across multiple product service lines in Mexico and Guyana.
+
+Europe/Africa/CIS
+
+Europe/Africa/CIS revenue in the first quarter of 2020 was $831 million, an 11% increase compared to the first quarter of 2019, resulting primarily from increased drilling-related activity in the North Sea, improved well construction activity in Russia, and increased completions activity in Algeria, partially offset by reduced activity in multiple product service lines in Ghana.
+
+Middle East/Asia
+
+Middle East/Asia revenue in the first quarter of 2020 was $1.2 billion, a 9% increase compared to the first quarter of 2019, largely resulting from increased activity in the majority of product service lines in the United Arab Emirates, Indonesia, and Malaysia, partially offset by lower project management activity in India.
+
+Other Operating Items
+
+Impairments and other charges. During the three months ended March 31, 2020, we recognized $1.1 billion of impairments and other charges to further adjust our cost structure to current market conditions. These charges consisted primarily of asset impairments, mostly associated with pressure pumping equipment, as well as severance and other costs. See Note 2 to the condensed consolidated financial statements for further discussion on the first quarter charges. This compares to $61 million of 
+impairments and other charges in the three months ended March 31, 2019, primarily related to an impairment of fixed assets.
+
+Nonoperating Items
+
+Loss on early extinguishment of debt. During the three months ended March 31, 2020, we recorded a $168 million loss on the early extinguishment of debt, which included a tender premium, unamortized discounts and costs on the retired notes, and tender fees. SeeNote 6 to the condensed consolidated financial statements for further information.
+
+Effective tax rate. During the three months ended March 31, 2020, we recorded a total income tax provision of $119 million on a pre-tax loss of $896 million, resulting in an effective tax rate of -13.3%. See Note 7 to the condensed consolidated financial statements for further information. During the three months ended March 31, 2019, we recorded a total income tax provision of $40 million on pre-tax income of $192 million, resulting in an effective tax rate of 20.9%.
+
+HAL Q1 2020 FORM 10-Q | 21
+
+  Table of Contents      Part I. Item 2 | Forward-Looking Information  
+ ───────────────────────────────────────────────────────────────────────
+
+FORWARD-LOOKING INFORMATION
+
+The Private Securities Litigation Reform Act of 1995 provides safe harbor provisions for forward-looking information. Forward-looking information is based on projections and estimates, not historical information. Some statements in this Form 10-Q are forward-looking and use words like “may,” “may not,” “believe,” “do not believe,” “plan,” “estimate,” “intend,” “expect,” “do not expect,” “anticipate,” “do not anticipate,” “should,” “likely” and other expressions. We may also provide oral or 
+written forward-looking information in other materials we release to the public. Forward-looking information involves risk and uncertainties and reflects our best judgment based on current information. Our results of operations can be affected by inaccurate assumptions we make or by known or unknown risks and uncertainties. In addition, other factors may affect the accuracy of our forward-looking information. As a result, no forward-looking information can be guaranteed. Actual events and the 
+results of our operations may vary materially.
+
+We do not assume any responsibility to publicly update any of our forward-looking statements regardless of whether factors change as a result of new information, future events or for any other reason. You should review any additional disclosures we make in our press releases and Forms 10-K, 10-Q and 8-K filed with or furnished to the SEC. We also suggest that you listen to our quarterly earnings release conference calls with financial analysts.
+

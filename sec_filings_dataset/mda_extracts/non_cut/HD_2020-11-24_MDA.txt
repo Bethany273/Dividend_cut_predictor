@@ -1,0 +1,295 @@
+Item 2. Management's Discussion and Analysis of Financial Condition and Results of Operations.
+
+Our MD&A includes the following sections:
+
+• Executive Summary
+
+•Results of Operations and Non-GAAP Financial Measures
+
+• Liquidity and Capital Resources
+
+• Critical Accounting Policies
+
+Executive Summary
+
+Quarter to date and year to date highlights of our financial performance follow:
+
+  dollars in millions, except per share data                       Three Months Ended                              Nine Months Ended                                           
+                                                                   November 1,                                     November 1,                        November 3,              
+                                                                   2020                                            2020                               2019                     
+ ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Net sales                                                        $                       33,536      27,223      $                      99,849      $                84,443  
+  Net earnings                                                                              3,432       2,769                             10,009                        8,761  
+  Diluted earnings per share                                       $                         3.18        2.53      $                        9.28      $                  7.96  
+  Net cash provided by operating activities                                                                        $                      17,415      $                10,793  
+  Proceeds from long-term debt, net of discounts and premiums                                                                              4,960                        1,404  
+  Repayments of long-term debt                                                                                                             1,836                        1,046  
+  Repurchases of common stock                                                                                      791                                                  3,909  
+
+We reported net sales of $33.5 billion in the third quarter of fiscal 2020. Net earnings were $3.4 billion, or $3.18 per diluted share. For the first nine months of fiscal 2020, net sales were $99.8 billion and net earnings were $10.0 billion, or $9.28 per diluted share.
+
+We opened one store in the U.S. and one store in Mexico during the third quarter of fiscal 2020, resulting in a total store count of 2,295 at the end of the quarter. As of November 1, 2020, a total of 309 of our stores, or 13.5%, were located in Canada and Mexico. For the third quarter of fiscal 2020, total sales per retail square foot were $552.85. Our inventory turnover ratio was 5.9 times, up from 5.0 times last year, driven by a significant increase in customer demand across all of our 
+merchandising departments.
+
+We generated $17.4 billion of cash flow from operations and issued $5.0 billion of long-term debt, net of discounts, during the first nine months of fiscal 2020. These funds, together with cash on hand, were used to pay $4.8 billion of dividends, repay an aggregate of $1.8 billion of senior notes that matured in June 2020 and that were scheduled to mature in September 2020, fund $1.5 billion in capital expenditures, repay $974 million of net short-term borrowings, and fund cash payments of $791 
+million for share repurchases before we suspended share repurchases in March 2020. In February 2020, we announced a 10% increase in our quarterly cash dividend to $1.50 per share.
+
+Our ROIC for the trailing twelve-month period was 41.6% at the end of the third quarter of fiscal 2020 and 45.1% at the end of the third quarter of fiscal 2019. See the "Non-GAAP Financial Measures" section below for our definition and calculation of ROIC, as well as a reconciliation of NOPAT, a non-GAAP financial measure, to net earnings (the most comparable GAAP financial measure). The decrease in ROIC from the third quarter of fiscal 2019 primarily reflects our decision to temporarily enhance
+our liquidity position, including the suspension of share repurchases.
+
+On November 16, 2020, we announced that we have entered into a definitive agreement to acquire HD Supply, a leading national distributor of MRO products in the multi-family and hospitality sectors. Under the terms of the merger agreement, a subsidiary of Home Depot will commence a cash tender offer to purchase all outstanding shares of HD Supply common stock for $56 per share, for a total enterprise value (including net cash) of approximately $8 billion. The completion of the acquisition is 
+subject to customary closing conditions, including regulatory approvals and the tender of a majority of the shares of HD Supply common stock then outstanding (on a fully diluted basis), and is expected to be completed during our fiscal fourth quarter, which ends on January 31, 2021. The transaction is expected to be funded through cash on hand and debt.
+
+
+COVID-19
+
+The outbreak of the novel coronavirus COVID-19, which was declared a global pandemic by the World Health Organization on March 11, 2020, has led to adverse impacts on the U.S. and global economies and has impacted and continues to impact our supply chain, operations, and customer demand. Even though the Company has taken measures to adapt to operating in this challenging environment, the pandemic could further affect our operations and the operations of our suppliers and vendors as a result of 
+additional shelter-in-place or other governmental orders; restrictions and limitations on travel, logistics and other business activities; potential product and labor shortages; limitations on store or facility operations up to and including closures; and other governmental, business or consumer actions. As circumstances have evolved, our focus has been and continues to be on two key priorities: the safety and well-being of our associates and customers, and providing our customers and 
+communities with the products and services that they need.
+
+As we adapted to operations in a COVID-19 environment during fiscal 2020, we took a number of actions to promote social and physical distancing. At the beginning of the pandemic, we implemented a change to store operating hours, and we took measures to limit the number of customers in stores, which included canceling or modifying certain annual merchandising events and rolling out curbside pickup at our stores. We also shifted store support operations to remote or virtual. As we have continued 
+to adapt and refine our approach, we have adjusted our response to reduce constriction and better manage growing demand in the stores, including adopting a more localized approach on limits to the number of customers in stores and expanding store hours while still focusing on promoting a safe shopping environment. In addition, masks or facial coverings are now required for all associates and customers in our U.S. stores and other facilities.
+
+The impact of COVID-19 and the actions we have taken in response to it had varying effects on our results of operations throughout the first nine months of fiscal 2020. Overall we saw a significant acceleration in sales with strong performance across most of our departments during the first nine months of fiscal 2020. This acceleration in sales growth was due to customers’ focus on home improvement projects and repairs, which continued during the third quarter of fiscal 2020. As our customers 
+continued to seek alternative methods for obtaining the products they needed, online sales grew by approximately 80% in the third quarter of fiscal 2020, and approximately 87% in the first nine months of fiscal 2020.
+
+The increase in customer demand for certain products together with the impact of COVID-19 on our supply chain has put pressure on our ability to maintain inventory in-stock levels, particularly for certain high demand products. We have been able to mitigate some of the impact, however, due to the benefits from our strategic investments as well as through such actions as working cross-functionally and partnering with our suppliers to make real-time adjustments to our product assortments, 
+introducing alternative products or reducing assortments to the most popular selections in certain product categories.
+
+Given these ongoing demands and the complexity of the current environment, we have continued to focus on taking care of our associates by investing in additional pay and benefits, including expanded paid time off for all hourly associates to use at their discretion and the implementation of a temporary weekly bonus program. These enhanced pay and benefits resulted in additional expense of $354 million for the third quarter of fiscal 2020, and $1.7 billion for the first nine months of fiscal 
+2020, which increased SG&A in fiscal 2020 compared to fiscal 2019. To continue to support our associates we have announced that we have transitioned away from these temporary programs, and we are implementing permanent compensation enhancements for frontline, hourly associates. This will result in approximately $1 billion of incremental compensation expense on an annualized basis.
+
+Although we cannot estimate the future impact of COVID-19, we believe our existing liquidity will be sufficient to continue to run our business effectively. We also believe that the investments we have made in recent years in our stores, interconnected and digital assets, associates, supply chain, and merchandising organization have allowed us to quickly adapt to shifts in customer needs and behaviors and the fluid circumstances created by COVID-19. We continue to actively monitor our business 
+and operations and may take further actions as may be required by federal, state or local authorities or that we determine are in the best interests of our associates, customers, suppliers, vendors and shareholders.
+
+
+Results of Operations and Non-GAAP Financial Measures
+
+The tables and discussion below should be read in conjunction with our consolidated financial statements and related notes included in this report and in the 2019 Form 10-K and with our MD&A included in the 2019 Form 10-K. The following table displays the percentage relationship between net sales and major categories in our Consolidated Statements of Earnings, as well as the percentage change in the associated dollar amounts.
+
+Fiscal 2020 and Fiscal 2019 Three Month Comparisons
+
+                                                  Three Months Ended                                                                         
+  dollars in millions                             $                                        % of      $                                 % of  
+                                                                                      Net Sales                                   Net Sales  
+ ─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+                                                  November 1,                                        November 3,                             
+  Net sales                                       $                       33,536                     $                27,223                 
+  Gross profit                                                            11,456           34.2                        9,387           34.5  
+  Operating expenses:                                                                                                                        
+  Selling, general and administrative                                      6,076           18.1                        4,942           18.2  
+  Depreciation and amortization                   528                                       1.6      498                                1.8  
+  Total operating expenses                                                 6,604           19.7                        5,440           20.0  
+  Operating income                                                         4,852           14.5                        3,947           14.5  
+  Interest and other (income) expense:                                                                                                       
+  Interest and investment income                  (11)                                        —      (22)                             (0.1)  
+  Interest expense                                340                                       1.0      302                                1.1  
+  Interest and other, net                         329                                       1.0      280                                1.0  
+  Earnings before provision for income taxes                               4,523           13.5                        3,667           13.5  
+  Provision for income taxes                                               1,091            3.3      898                                3.3  
+  Net earnings                                    $                        3,432           10.2      $                 2,769           10.2  
+
+- - - - -
+
+Note: Certain percentages may not sum to totals due to rounding.
+
+                                                       Three Months Ended                                                         
+ ──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Selected financial and sales data:                   November 1,                         November 3,                  % Change  
+  Comparable sales (% change)                          24.1                                3.6                          N/A       
+  Comparable customer transactions (% change) (1)      13.0                                1.8                          N/A       
+  Comparable average ticket (% change) (1)             10.0                                1.8                          N/A       
+  Customer transactions (in millions) (1)              453.2                               400.9                        13.0      
+  Average ticket (1) (2)                               $                        72.98      $                 66.36      10.0      
+  Sales per retail square foot (1) (3)                 $                       552.85      $                449.17      23.1      
+  Diluted earnings per share                           $                         3.18      $                  2.53      25.7      
+
+- - - - -
+
+(1) Does not include results for the legacy Interline Brands business, now operating as a part of The Home Depot Pro.
+
+(2) Average ticket represents the average price paid per transaction and is used by management to monitor the performance of the Company, as it represents a primary driver in measuring sales performance.
+
+(3) Sales per retail square foot represents sales divided by the retail store square footage. Sales per retail square foot is a measure of the efficiency of sales based on the total square footage of our stores and is used by management to monitor the performance of the Company as an indicator of the productivity of owned and leased square footage for retail operations.
+
+Sales. We assess our sales performance by evaluating both net sales and comparable sales.
+
+Net Sales. Net sales for the third quarter of fiscal 2020 increased 23.2% to $33.5 billion from $27.2 billion for the third quarter of fiscal 2019. The increase in net sales for the third quarter of fiscal 2020 primarily reflected the impact of positive comparable sales driven by an increase in comparable customer transactions and comparable average ticket. Online sales, which consist of sales generated online through our websites for products picked up at our stores or delivered to customer 
+locations, represented 13.0% of net sales and grew by approximately 80% during
+
+
+the third quarter of fiscal 2020. The increase in online sales for the third quarter of fiscal 2020 was driven in large part by the impact of COVID-19, with customers continuing to turn online for their shopping needs. A stronger U.S. dollar negatively impacted sales growth by $99 million in the third quarter of fiscal 2020.
+
+Comparable Sales. Comparable sales is a measure that highlights the performance of our existing locations and websites by measuring the change in net sales for a period over the comparable prior-period of equivalent length. Comparable sales includes sales at all locations, physical and online, open greater than 52 weeks (including remodels and relocations) and excludes permanently closed stores. Retail stores become comparable on the Monday following their 52nd week of operation. Acquisitions, 
+digital or otherwise, are included in comparable sales after they are owned for more than 52 weeks. Comparable sales is intended only as supplemental information and is not a substitute for net sales presented in accordance with GAAP.
+
+Total comparable sales increased 24.1% for the third quarter of fiscal 2020, reflecting a 10.0% increase in comparable average ticket and a 13.0% increase in comparable customer transactions. The increase in comparable sales reflected a number of factors, including increased consumer demand across our core categories and the execution of our strategic efforts to drive an enhanced interconnected experience in both the physical and digital worlds. The increase in comparable average ticket and 
+comparable customer transactions was driven by strong customer traffic both physically and digitally, commodity price inflation primarily from lumber, and mix of product sold.
+
+All of our merchandising departments posted double-digit positive comparable sales in the third quarter of fiscal 2020.
+
+Gross Profit. Gross profit for the third quarter of fiscal 2020 increased 22.0% to $11.5 billion from $9.4 billion for the third quarter of fiscal 2019. Gross profit as a percentage of net sales, or gross profit margin, was 34.2% for the third quarter of fiscal 2020 compared to 34.5% for the third quarter of fiscal 2019. The decrease in gross profit margin was primarily driven by changes in the mix of products sold and pressure from shrink, offset slightly by the benefit of reduced promotional 
+events during the quarter.
+
+Operating Expenses. Our operating expenses are composed of SG&A and depreciation and amortization.
+
+Selling, General & Administrative. SG&A for the third quarter of fiscal 2020 increased 22.9% to $6.1 billion from $4.9 billion for the third quarter of fiscal 2019. As a percentage of net sales, SG&A was 18.1% for the third quarter of fiscal 2020 compared to 18.2% for the third quarter of fiscal 2019. The decrease in SG&A as a percentage of sales was primarily driven by leverage resulting from a positive comparable sales environment, partially offset by an additional $354 million of expense 
+related to the expansion of our associate pay and benefits as part of our COVID-19 response to support our associates and an additional $59 million of operational COVID-related expenses.
+
+Depreciation and Amortization. Depreciation and amortization increased 6.0% to $528 million for the third quarter of fiscal 2020 from $498 million for the third quarter of fiscal 2019. As a percentage of net sales, depreciation and amortization was 1.6% for the third quarter of fiscal 2020 compared to 1.8% for the third quarter of fiscal 2019. The decrease in depreciation and amortization as a percentage of net sales primarily reflected leverage resulting from a positive comparable sales 
+environment and timing of asset additions, partially offset by strategic investments in the business.
+
+Interest and Other, net. Interest and other, net, was $329 million for the third quarter of fiscal 2020 compared to $280 million for the third quarter of fiscal 2019. Interest and other, net, as a percentage of net sales was 1.0% for the third quarter of both fiscal 2020 and fiscal 2019, and primarily reflected higher interest expense resulting from higher debt balances offset by leverage resulting from a positive comparable sales environment.
+
+Provision for Income Taxes. Our combined effective income tax rate was 24.1% for the third quarter of fiscal 2020 compared to 24.5% for the third quarter of fiscal 2019.
+
+Diluted Earnings per Share. Diluted earnings per share were $3.18 for the third quarter of fiscal 2020 compared to $2.53 for the third quarter of fiscal 2019. The increase in diluted earnings per share for the third quarter of fiscal 2020 reflected the impact of a positive comparable sales environment, partially offset by the additional expenses incurred in response to COVID-19.
+
+
+Fiscal 2020 and Fiscal 2019 Nine Month Comparisons
+
+                                                  Nine Months Ended                                                                         
+  dollars in millions                             $                                       % of      $                                 % of  
+                                                                                     Net Sales                                   Net Sales  
+ ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+                                                  November 1,                                       November 3,                             
+  Net sales                                       $                      99,849                     $                84,443                 
+  Gross profit                                                           34,022           34.1                       28,836           34.1  
+  Operating expenses:                                                                                                                       
+  Selling, general and administrative                                    18,260           18.3                       14,926           17.7  
+  Depreciation and amortization                                           1,567            1.6                        1,470            1.7  
+  Total operating expenses                                               19,827           19.9                       16,396           19.4  
+  Operating income                                                       14,195           14.2                       12,440           14.7  
+  Interest and other (income) expense:                                                                                                      
+  Interest and investment income                  (37)                                       —      (56)                             (0.1)  
+  Interest expense                                                        1,010            1.0      892                                1.1  
+  Interest and other, net                         973                                      1.0      836                                1.0  
+  Earnings before provision for income taxes                             13,222           13.2                       11,604           13.7  
+  Provision for income taxes                                              3,213            3.2                        2,843            3.4  
+  Net earnings                                    $                      10,009           10.0      $                 8,761           10.4  
+
+- - - - -
+
+Note: Certain percentages may not sum to totals due to rounding.
+
+                                                       Nine Months Ended                                                              
+  Selected financial and sales data:                   November 1, 2020                   November 3, 2019                  % Change  
+ ──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Comparable sales (% change)                          18.3%                              3.0%                              N/A       
+  Comparable customer transactions (% change) (1)      7.4%                               1.1%                              N/A       
+  Comparable average ticket (% change) (1)             10.3%                              1.9%                              N/A       
+  Customer transactions (in millions) (1)              1,339.5                            1,246.4                           7.5%      
+  Average ticket (1) (2)                               $                       73.90      $                      67.00      10.3%     
+  Sales per retail square foot (1) (3)                 $                      549.26      $                     464.68      18.2%     
+  Diluted earnings per share                           $                        9.28      $                       7.96      16.6%     
+
+- - - - -
+
+(1) Does not include results for the legacy Interline Brands business, now operating as a part of The Home Depot Pro.
+
+(2) Average ticket represents the average price paid per transaction and is used by management to monitor the performance of the Company, as it represents a primary driver in measuring sales performance.
+
+(3) Sales per retail square foot represents sales divided by the retail store square footage. Sales per retail square foot is a measure of the efficiency of sales based on the total square footage of our stores and is used by management to monitor the performance of the Company as an indicator of the productivity of owned and leased square footage for retail operations.
+
+Sales. We assess our sales performance by evaluating both net sales and comparable sales.
+
+Net Sales. For the first nine months of fiscal 2020, net sales increased 18.2% to $99.8 billion from $84.4 billion for the first nine months of fiscal 2019. The increase in net sales for the first nine months of fiscal 2020 primarily reflected the impact of positive comparable sales driven by an increase in comparable average ticket and comparable customer transactions. Online sales, which consist of sales generated online through our websites for products picked up in our stores or delivered to
+customer locations, represented 14.0% of net sales and grew 87.0% during the first nine months of fiscal 2020. The increase in online sales for the first nine months of fiscal 2020 was driven in large part by the impact of COVID-19, with customers turning online for their shopping needs. A stronger U.S. dollar negatively impacted sales growth by $356 million for the first nine months of fiscal 2020.
+
+Comparable Sales. For the first nine months of fiscal 2020, total comparable sales increased 18.3%, consisting of a 10.3% increase in comparable average ticket and a 7.4% increase in comparable customer transactions. This
+
+
+increase reflected a number of factors, including increased consumer demand across our core categories and the execution of our strategic efforts to drive an enhanced interconnected experience in both the physical and digital worlds. The increase in comparable average ticket and comparable customer transactions for the first nine months of fiscal 2020 was primarily driven by an increase in the number of products sold per transaction and stronger online customer engagement.
+
+During the first nine months of fiscal 2020, 11 of our 14 merchandising departments posted double-digit positive comparable sales, while Kitchen and Bath, Plumbing, and Flooring posted mid-to-high single-digit positive comparable sales when compared to last year.
+
+Gross Profit. For the first nine months of fiscal 2020, gross profit increased 18.0% to $34.0 billion from $28.8 billion for the first nine months of fiscal 2019. Gross profit as a percentage of net sales, or gross profit margin, was 34.1% for the first nine months of both fiscal 2020 and fiscal 2019, reflecting the benefit from lower promotional activity as we cancelled or modified certain annual merchandising events in response to COVID-19; this benefit was partially offset by higher shrink, 
+supply chain expense and a change in product mix.
+
+Operating Expenses. Our operating expenses are composed of SG&A and depreciation and amortization.
+
+Selling, General & Administrative. SG&A increased 22.3% to $18.3 billion for the first nine months of fiscal 2020 from $14.9 billion for the first nine months of fiscal 2019. As a percentage of net sales, SG&A was 18.3% for the first nine months of fiscal 2020 compared to 17.7% for the first nine months of fiscal 2019. The increase in SG&A as a percentage of net sales for the first nine months of fiscal 2020 was primarily driven by an additional $1.7 billion of expense related to expanded 
+associate pay and benefits offered in response to COVID-19 and an additional $183 million of operational expense related to COVID-19, partially offset by leverage resulting from a positive comparable sales environment.
+
+Depreciation and Amortization. Depreciation and amortization increased 6.6% to $1.6 billion for the first nine months of fiscal 2020 from $1.5 billion for the first nine months of fiscal 2019. As a percentage of net sales, depreciation and amortization was 1.6% for the first nine months of fiscal 2020 compared to 1.7% for the first nine months of fiscal 2019. The decrease in depreciation and amortization as a percentage of net sales primarily reflected leverage resulting from a positive 
+comparable sales environment and timing of asset additions, partially offset by strategic investments in the business.
+
+Interest and Other, net. Interest and other, net was $973 million for the first nine months of fiscal 2020, compared to $836 million for the first nine months of fiscal 2019. As a percentage of net sales, interest and other, net was 1.0% for the first nine months of both fiscal 2020 and fiscal 2019, primarily reflecting increased interest expense resulting from higher debt balances offset by leverage resulting from a positive comparable sales environment.
+
+Provision for Income Taxes. Our combined effective income tax rate was 24.3% for the first nine months of fiscal 2020 compared to 24.5% for the first nine months of fiscal 2019.
+
+Diluted Earnings per Share. Diluted earnings per share were $9.28 for the first nine months of fiscal 2020, compared to $7.96 for the first nine months of fiscal 2019. The increase in diluted earnings per share for the first nine months of fiscal 2020 reflected the impact of a positive comparable sales environment, partially offset by the additional expenses incurred in response to COVID-19.
+
+Non-GAAP Financial Measures
+
+To provide clarity, internally and externally, about our operating performance, we supplement our reporting with certain non-GAAP financial measures. However, this supplemental information should not be considered in isolation or as a substitute for the related GAAP measures. Non-GAAP financial measures presented herein may differ from similar measures used by other companies.
+
+Return on Invested Capital. We believe ROIC is meaningful for investors and management because it measures how effectively we deploy our capital base. We define ROIC as NOPAT, a non-GAAP financial measure, for the most recent twelve-month period, divided by average debt and equity. We define average debt and equity as the average of beginning and ending long-term debt (including current installments) and equity for the most recent twelve-month period.
+
+
+The calculation of ROIC, together with a reconciliation of NOPAT to net earnings (the most comparable GAAP measure), follows:
+
+                                  Twelve Months Ended                                             
+  dollars in millions             November 1,                           November 3,               
+                                  2020                                  2019                      
+ ──────────────────────────────────────────────────────────────────────────────────────────────────
+  Net earnings                    $                         12,490      $                 11,105  
+  Interest and other, net                                    1,265                         1,101  
+  Provision for income taxes                                 3,843                         3,612  
+  Operating income                                          17,598                        15,818  
+  Income tax adjustment (1)                                (4,252)                       (3,845)  
+  NOPAT                           $                         13,346      $                 11,973  
+  Average debt and equity         $                         32,095      $                 26,520  
+  ROIC                            41.6                                  45.1                      
+
+- - - - -
+
+(1) Income tax adjustment is defined as operating income multiplied by our effective tax rate for the trailing twelve months.
+
+Additional Information
+
+For information on accounting pronouncements that have impacted or are expected to materially impact our consolidated financial position, results of operations or cash flows, seeNote 1 to our consolidated financial statements.
+
+Liquidity and Capital Resources
+
+Cash and Cash Equivalents
+
+At November 1, 2020, we had $14.7 billion in cash and cash equivalents, of which $1.5 billion was held by our foreign subsidiaries. We currently believe that our current cash position, access to the long-term debt capital markets, cash flow generated from operations, and funds available under our commercial paper programs should be sufficient not only for our operating requirements but also to enable us to complete our capital expenditure programs, fund dividend payments and any required 
+long-term debt payments through the next several fiscal years, and complete the acquisition of HD Supply. In addition, we believe that we have the ability to obtain alternative sources of financing, if necessary.
+
+We remain committed to our strategic investment program. However, given the current uncertainty related to COVID-19 and the priority around safety, as well as the complexities of the current operating environment, we have decided to postpone some of our in-store investments. As a result, we now expect that our capital expenditures for fiscal 2020 will be less than initially planned and that some spending originally planned for fiscal 2020 will move to fiscal 2021. In addition, we may further 
+adjust our capital expenditures as necessary or appropriate to support the operations of the business.
+
+Debt and Derivatives
+
+In March 2020, we expanded our commercial paper programs from $3.0 billion to $6.0 billion. All of our short-term borrowings in the first nine months of fiscal 2020 were under these commercial paper programs, and the maximum amount outstanding at any time was $1.0 billion. In connection with these programs, we have back-up credit facilities with a consortium of banks for borrowings up to $6.5 billion, which consist of (1) a 364-day $3.5 billion credit facility that we entered into in March 2020 
+in connection with the expanded commercial paper program and is scheduled to expire in March 2021, (2) a five-year $2.0 billion credit facility scheduled to expire in December 2022, and (3) a 364-day $1.0 billion credit facility scheduled to expire in December 2020. We may enter into additional credit facilities or other debt financing.
+
+At November 1, 2020, we were in compliance with all of the covenants contained in the credit facilities, and none of these covenants are expected to impact our liquidity or capital resources. At November 1, 2020, there were no outstanding borrowings under our commercial paper programs. We also issued $5.0 billion of senior notes in March 2020. SeeNote 4 to our consolidated financial statements for further discussion of our senior notes issuances. We issue senior notes from time to time as part 
+of our capital management strategy.
+
+
+We use derivative and nonderivative financial instruments in the management of our exposure to fluctuations in foreign currency exchange rates and interest rates on certain long-term debt. SeeNote 4 to our consolidated financial statements for further discussion of these financial instruments.
+
+Share Repurchases
+
+In February 2019, our Board of Directors authorized $15.0 billion in share repurchases, of which approximately $7.7 billion remained available as of November 1, 2020. In the first nine months of fiscal 2020, we had cash payments of $791 million for repurchases of our common stock through open market purchases. On March 13, 2020, we suspended our share repurchases until such time as we deem appropriate. We currently expect to resume share repurchases in fiscal 2021.
+
+Cash Flows Summary
+
+Operating Activities. Cash flow generated from operations provides us with a significant source of liquidity. Our operating cash flows result primarily from cash received from our customers, offset by cash payments we make for products and services, associate compensation, operations, and occupancy costs.
+
+Cash provided by or used in operating activities is also subject to changes in working capital. Working capital at any point in time is subject to many variables, including seasonality, inventory management and category expansion, the timing of cash receipts and payments, vendor payment terms, and fluctuations in foreign exchange rates.
+
+Net cash provided by operating activities increased by $6.6 billion in the first nine months of fiscal 2020 compared to the first nine months of fiscal 2019 and was primarily driven by an increase in net earnings and changes in working capital associated with accounts payable and accrued expenses and merchandise inventories.
+
+Investing Activities. Cash used in investing activities decreased by $429 million in the first nine months of fiscal 2020 compared to the first nine months of fiscal 2019, primarily as the result of decreased capital expenditures given the current uncertainty related to COVID-19 and our decision to postpone certain of our strategic investments.
+
+Financing Activities. Cash used in financing activities in the first nine months of fiscal 2020 primarily reflected $5.0 billion of net proceeds from long-term debt, offset by $4.8 billion of cash dividends paid, $1.8 billion of repayments of long-term debt, $974 million of net repayments of short-term debt, and $791 million of share repurchases prior to our suspension of share repurchases in March 2020.
+
+Cash used in financing activities in the first nine months of fiscal 2019 primarily reflected $4.5 billion of cash dividends paid, $3.9 billion of share repurchases, $1.0 billion of net repayments of long-term debt, and $644 million of net repayments of short-term debt, partially offset by $1.4 billion of net proceeds from long-term debt.
+
+Critical Accounting Policies
+
+There were no changes during the first nine months of fiscal 2020 to our critical accounting policies as disclosed in the 2019 Form 10-K. Our significant accounting policies are disclosed inNote 1 to our consolidated financial statements.
+

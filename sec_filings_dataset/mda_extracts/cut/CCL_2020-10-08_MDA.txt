@@ -1,0 +1,410 @@
+Item 2. Management’s Discussion and Analysis of Financial Condition and Results of Operations.
+
+Cautionary Note Concerning Factors That May Affect Future Results
+
+Some of the statements, estimates or projections contained in this document are “forward-looking statements” that involve risks, uncertainties and assumptions with respect to us, including some statements concerning future results, operations, outlooks, plans, goals, reputation, cash flows, liquidity and other events which have not yet occurred. These statements are intended to qualify for the safe harbors from liability provided by Section 27A of the Securities Act of 1933 and Section 21E of 
+the Securities Exchange Act of 1934. All statements other than statements of historical facts are statements that could be deemed forward-looking. These statements are based on current expectations, estimates, forecasts and projections about our business and the industry in which we operate and the beliefs and assumptions of our management. We have tried, whenever possible, to identify these statements by using words like “will,” “may,” “could,” “should,” “would,” “believe,” “depends,” “expect,”
+“goal,” “anticipate,” “forecast,” “project,” “future,” “intend,” “plan,” “estimate,” “target,” “indicate,” “outlook,” and similar expressions of future intent or the negative of such terms.
+
+Forward-looking statements include those statements that relate to our outlook and financial position including, but not limited to, statements regarding:
+
+  • Net revenue yields                                                  • Estimates of ship depreciable lives and residual values                                                  
+  • Booking levels                                                      • Goodwill, ship and trademark fair values                                                                 
+  • Pricing and occupancy                                               • Liquidity                                                                                                
+  • Interest, tax and fuel expenses                                     • Adjusted earnings per share                                                                              
+  • Currency exchange rates                                             • Impact of the COVID-19 coronavirus global pandemic on our financial condition and results of operations  
+  • Net cruise costs, excluding fuel per available lower berth day                                                                                                                 
+
+Because forward-looking statements involve risks and uncertainties, there are many factors that could cause our actual results, performance or achievements to differ materially from those expressed or implied by our forward-looking statements. This note contains important cautionary statements of the known factors that we consider could materially affect the accuracy of our forward looking statements and adversely affect our business, results of operations and financial position. Additionally, 
+many of these risks and uncertainties are currently amplified by and will continue to be amplified by, or in the future may be amplified by, the COVID-19 outbreak. It is not possible to predict or identify all such risks. There may be additional risks that we consider immaterial or which are unknown. These factors include, but are not limited to, the following:
+
+• COVID-19 has had, and is expected to continue to have, a significant impact on our financial condition and operations, which impacts our ability to obtain acceptable financing to fund resulting reductions in cash from operations. The current, and uncertain future, impact of the COVID-19 outbreak, including its effect on the ability or desire of people to travel (including on cruises), is expected to continue to impact our results, operations, outlooks, plans, goals, growth, reputation, 
+litigation, cash flows, liquidity, and stock price
+
+• As a result of the COVID-19 outbreak, we may be out of compliance with a maintenance covenant in certain of our debt facilities, for which we have waivers for the period through March 31, 2021 with the next testing date of May 31, 2021
+
+• World events impacting the ability or desire of people to travel may lead to a decline in demand for cruises
+
+• Incidents concerning our ships, guests or the cruise vacation industry as well as adverse weather conditions and other natural disasters may impact the satisfaction of our guests and crew and lead to reputational damage
+
+• Changes in and non-compliance with laws and regulations under which we operate, such as those relating to health, environment, safety and security, data privacy and protection, anti-corruption, economic sanctions, trade protection and tax may lead to litigation, enforcement actions, fines, penalties, and reputational damage
+
+• Breaches in data security and lapses in data privacy as well as disruptions and other damages to our principal offices, information technology operations and system networks, including the recent ransomware incident, and failure to keep pace with developments in technology may adversely impact our business operations, the satisfaction of our guests and crew and lead to reputational damage
+
+• Ability to recruit, develop and retain qualified shipboard personnel who live away from home for extended periods of time may adversely impact our business operations, guest services and satisfaction
+
+• Increases in fuel prices, changes in the types of fuel consumed and availability of fuel supply may adversely impact our scheduled itineraries and costs
+
+• Fluctuations in foreign currency exchange rates may adversely impact our financial results
+
+• Overcapacity and competition in the cruise and land-based vacation industry may lead to a decline in our cruise sales, pricing and destination options
+
+
+• Geographic regions in which we try to expand our business may be slow to develop or ultimately not develop how we expect
+
+• Inability to implement our shipbuilding programs and ship repairs, maintenance and refurbishments may adversely impact our business operations and the satisfaction of our guests
+
+The ordering of the risk factors set forth above is not intended to reflect our indication of priority or likelihood.
+
+Forward-looking statements should not be relied upon as a prediction of actual results. Subject to any continuing obligations under applicable law or any relevant stock exchange rules, we expressly disclaim any obligation to disseminate, after the date of this document, any updates or revisions to any such forward-looking statements to reflect any change in expectations or events, conditions or circumstances on which any such statements are based.
+
+Recent Developments
+
+Resumption of Guest Operations
+
+In the face of the global impact of COVID-19, we paused our guest cruise operations in mid-March. We resumed limited guest operations in September 2020, with Costa Cruises ("Costa") successful voyages on two of our ships, Costa Deliziosa and Costa Diadema. We are continuing the limited resumption of our guest cruise operations with sailings on additional Costa ships shortly, as well as with sailings on AIDA Cruises ("AIDA") which are anticipated to begin in mid-October 2020. These brands are 
+beginning our anticipated gradual, phased-in resumption of guest cruise operations. The initial cruises will continue to take place with adjusted passenger capacity and enhanced health protocols developed with government and health authorities, and guidance from our roster of medical and scientific experts.
+
+Other brands and ships are expected to return to service over time to provide guests with unmatched joyful vacations in a manner consistent with our highest priorities, which are compliance, environmental protection and the health, safety and well-being of our guests, crew, shoreside employees and the people in the communities our ships visit. Many of our brands source the majority of their guests from the geographical region in which they operate. In the current environment, we believe this 
+will benefit us in resuming guest cruise operations.
+
+Health and Safety Protocols
+
+Working with global and national health authorities and medical experts, Costa and AIDA have a comprehensive set of health and hygiene protocols to help facilitate a safe and healthy return to cruise vacations. Both brands are providing guests with detailed information about enhanced protocols, which are modeled after shoreside health and mitigation guidelines as provided by each brand's respective country, and approved by the flag state, Italy. Protocols will be updated based on evolving 
+scientific and medical knowledge related to mitigation strategies.
+
+Costa is the first cruise company to earn the Biosafety Trust Certification from Registro Italiano Navale ("RINA"). The certification process examined all aspects of life onboard and ashore and assessed the compliance of the system with procedures aimed at the prevention and control of infections. Costa's comprehensive set of measures and procedures implemented on the ships that resumed operations cover key areas such as crew health and safety, the booking process, guest activities, 
+entertainment and dining, and medical care on board, as well as pre-boarding, embarkation and disembarkation operations, which includes testing for all guests prior to embarkation.
+
+More broadly, as the understanding of COVID-19 continues to evolve, we have been working with a number of world-leading public health, epidemiological and policy experts to support our ongoing efforts with enhanced protocols and procedures for the return of cruise vacations. These advisors will continue to provide guidance based on the latest scientific evidence and best practices for protection and mitigation.
+
+Optimizing the Future Fleet
+
+We expect future capacity to be moderated by the phased re-entry of our ships, the removal of capacity from our fleet and delays in new ship deliveries. Since the pause in guest operations, we have accelerated the removal of ships in fiscal 2020 which were previously expected to be sold over the ensuing years. We now expect to dispose of 18 ships, 10 of which have already left the fleet. In total, the 18 ships represent approximately 12 percent of pre-pause capacity and only three percent of 
+operating income in 2019. The sale of less efficient ships will result in future operating expense efficiencies of approximately two percent per available lower berth day ("ALBD") and a reduction in fuel consumption of approximately one percent per ALBD. We expect only two of the four ships originally scheduled for delivery in 2020, following the start of the pause, to be delivered prior to the end of fiscal 2020, includingEnchanted Princess which was delivered in September 2020. We currently 
+expect only five of the nine ships originally scheduled for delivery in fiscal 2020 and 2021 to be delivered prior to the end of fiscal year 2021. We currently expect nine cruise ships and two smaller expedition ships of the 13 ships originally scheduled for delivery prior to the end of fiscal year 2022 to be delivered by then.
+
+Based on the actions taken to date and the scheduled newbuild deliveries through 2022, our fleet will be more efficient with a roughly 13 percent larger average berth size per ship and an average age of 12 years in 2022 versus 13 years, in each case as compared to 2019.
+
+                               Ships expected to return to service                                                                
+                                         as of August 31, 2020 (a)                                                                
+                                                Passenger Capacity      Percentage of Total Capacity      Number of Cruise Ships  
+ ──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  NAA Segment                                                                                                                     
+  Carnival Cruise Line                                      66,440                                30                          23  
+  Princess Cruises                                          38,950                                18                          13  
+  Holland America Line                                      20,260                                 9                          10  
+  P&O Cruises (Australia)                                    7,230                                 3                           3  
+  Seabourn                                                   2,570                                 1                           5  
+                                                           135,450                                61                          54  
+  EA Segment                                                                                                                      
+  Costa Cruises ("Costa")                                   34,980                                16                          11  
+  AIDA Cruises ("AIDA")                                     31,930                                14                          14  
+  P&O Cruises (UK)                                          13,810                                 6                           5  
+  Cunard                                                     6,830                                 3                           3  
+                                                            87,550                                39                          33  
+                                                           223,000                               100                          87  
+
+(a) Excludes 18 ships that we expect to dispose. Ten ships have left the fleet and we expect six ships to leave the fleet by December 2020, one by February 2021 and one by May 2021.
+
+Update on Bookings
+
+While we believe bookings in the first half of 2021 reflect expectations of the phased resumption of our guest cruise operations and anticipated itinerary changes, as of September 20, 2020, cumulative advanced bookings for the second half of 2021 capacity currently available for sale are at the higher end of the historical range. We believe this demonstrates the long-term potential demand for cruising. Pricing on these bookings are lower by mid-single digits versus the second half of 2019, on a 
+comparable basis, reflecting the effect of FCCs from previously cancelled cruises being applied. We c ontinue to take bookings for both 2021 and 2022.
+
+We are providing flexibility to guests with bookings on sailings cancelled by allowing guests to receive enhanced FCCs or elect to receive refunds in cash. Enhanced FCCs increase the value of the guest's original booking or provide incremental onboard credits. As of September 20, 2020, approximately 45 percent of guests affected by our schedule changes have received enhanced FCCs and approximately 55 percent have requested refunds.
+
+Total customer deposits balance at August 31, 2020, was $2.4 billion, the majority of which are FCCs, compared to total customer deposits balance of $2.9 billion at May 31, 2020. The decline in customer deposits is consistent with previous
+
+expectations. As of August 31, 2020, the current portion of customer deposits was $2.1 billion with $0.1 billion relating to fourth quarter sailings. Approximately 60 percent of bookings taken during the three weeks ended September 20, 2020 were new bookings, as opposed to FCC re-bookings, despite minimal advertising or marketing.
+
+Update on Liquidity
+
+Refer to “Liq uidity, Financial Condition and Capital Resour ces. ”
+
+Refer to “Risk Factors” - “ COVID-19 has had, and is expected to continue to have, a significant impact on our financial condition and operations, which impacts our ability to obtain acceptable financing to fund resulting reductions in cash from operations. The current, and uncertain future, impact of the COVID-19 outbreak, including its effect on the ability or desire of people to travel (including on cruises), is expected to continue to impact our results, operations, outlooks, plans, goals, 
+growth, reputation, litigation, cash flows, liquidity, and stock price. ”
+
+Update on Cyber Incident
+
+On August 15, 2020, we detected a ransomware attack and unauthorized access to our information technology systems. We engaged a major cybersecurity firm to investigate the matter and notified law enforcement and regulators of the incident. While the investigation is ongoing, early indications are that the unauthorized third-party gained access to certain personal information relating to some guests, employees and crew for some of our operations. There is currently no indication of any misuse of 
+this information. While at this time we do not believe that this information will be misused going forward or that this incident will have a material adverse effect on our business, operations or financial results, no assurances can be given and further we may be subject to future attacks or incidents that could have such a material adverse effect.
+
+New Accounting Pronouncements
+
+Refer to Note 1 -“General, Accounting Pronouncements” of the consolidated financial statements for additional discussion regarding accounting pronouncements.
+
+Critical Accounting Estimates
+
+For a discussion of our critical accounting estimates, see “Management’s Discussion and Analysis of Financial Condition and Results of Operations” that is included in the Form 10-K. A discussion of our goodwill impairment charges recognized during the first and second quarters of 2020, and ship impairment charges recognized during 2020 is included in the accompanying consolidated financial statements.
+
+Seasonality
+
+Our passenger ticket revenues are seasonal. Historically, demand for cruises has been greatest during our third quarter, which includes the Northern Hemisphere summer months, although 2020 will continue to be adversely impacted by COVID-19. This higher demand during the third quarter results in higher ticket prices and occupancy levels and, accordingly, the largest share of our operating income is earned during this period. This historical trend has been disrupted by the pause in global cruise 
+operations. In addition, substantially all of Holland America Princess Alaska Tours’ revenue and net income (loss) is generated from May through September in conjunction with Alaska's cruise season. During 2020, the Alaska cruise season was adversely impacted by the effects of COVID-19.
+
+
+Statistical Information
+
+                                                      Three Months Ended                                                   Nine Months Ended              
+                                                      August 31,                                                           August 31,                     
+                                                      2020                              2019                               2019                           
+  ALBDs (in thousands) (a)                            —                                            22,727      25,598                             65,671  
+ ──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Occupancy percentage (b)                            —                                 113.0                              107.8                          
+  Passengers carried (in thousands)                   —                                             3,752       3,489                              9,790  
+  Fuel consumption in metric tons (in thousands)      325                               822                     1,639                              2,487  
+  Fuel cost per metric ton consumed                   $                        371      $             487         438      $                         484  
+  Currencies (USD to 1)                                                                                                                                   
+  AUD                                                 $                       0.70      $            0.69        0.67      $                        0.70  
+  CAD                                                 $                       0.74      $            0.76        0.74      $                        0.75  
+  EUR                                                 $                       1.15      $            1.12        1.12      $                        1.13  
+  GBP                                                 $                       1.28      $            1.24        1.27      $                        1.28  
+  RMB                                                 $                       0.14      $            0.14        0.14      $                        0.15  
+
+We paused our guest operations in mid-March 2020 and have been in a pause for a majority of the second quarter and all of the third quarter. The pause in guest operations is continuing to have material negative impacts on all aspects of our business, including the above statistical information.
+
+Notes to Statistical Information
+
+(a) ALBD is a standard measure of passenger capacity for the period that we use to approximate rate and capacity variances, based on consistently applied formulas that we use to perform analyses to determine the main non-capacity driven factors that cause our cruise revenues and expenses to vary. ALBDs assume that each cabin we offer for sale accommodates two passengers and is computed by multiplying passenger capacity by revenue-producing ship operating days in the period.
+
+(b) In accordance with cruise industry practice, occupancy is calculated using a denominator of ALBDs, which assumes two passengers per cabin even though some cabins can accommodate three or more passengers. Percentages in excess of 100% indicate that on average more than two passengers occupied some cabins.
+
+
+Results of Operations
+
+  Consolidated                                                                                                                                   
+                                             Three Months Ended August 31,                                                                       
+  (in millions)                                                       2020      2019      Change                                                 
+  Revenues                                                                                                                                       
+  Passenger ticket                                                       $         $      $           (100)        3,680      10,934       (66)  
+  Onboard and other                                                     31                             (98)        1,881       5,110       (63)  
+                                                                        31                            (100)        5,561      16,043       (65)  
+  Operating Costs and Expenses                                                                                                                   
+  Commissions, transportation and other                                 34       803      (769)        (96)        1,098       2,125       (48)  
+  Onboard and other                                                      9       668      (659)        (99)                    1,620       (63)  
+  Payroll and related                                                  248       548      (300)        (55)        1,563       1,671        (6)  
+  Fuel                                                                 121       401      (280)        (70)                    1,204       (40)  
+  Food                                                                  19       284      (265)        (93)                                (51)  
+  Ship and other impairments                                           910        23      887          3838        1,829                   7682  
+  Other operating                                                      208       805      (597)        (74)        1,349       2,367       (43)  
+                                                                                                       (56)        7,556       9,833       (23)  
+  Selling and administrative                                           265       563      (298)        (53)        1,435       1,813       (21)  
+  Depreciation and amortization                                        551       548      3               —        1,698       1,607          6  
+  Goodwill impairment                                                    —         —      —               —        2,096                    100  
+                                                                                                       (49)       12,784      13,252        (4)  
+  Operating Income (Loss)                                                $         $      $           (223)      (7,223)       2,791      (359)  
+
+  (in millions)                                                                                                      
+ ─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  NAA                                                                                                                
+  Revenues                                                                                                           
+  Passenger ticket                   2,896      (2,891)      (100)        2,329       6,976      (4,647)       (67)  
+  Onboard and other                  1,361      (1,351)       (99)        1,283       3,519      (2,236)       (64)  
+                                     4,256      (4,242)      (100)        3,612      10,495      (6,883)       (66)  
+  Operating Costs and Expenses       2,327      (1,034)       (44)        5,197       6,370      (1,172)       (18)  
+  Selling and administrative                                  (57)                    1,034                    (19)  
+  Depreciation and amortization                                  1        1,081       1,012                       7  
+  Goodwill impairment                                            —        1,319                    1,319        100  
+                                     3,010      (1,225)       (41)        8,439       8,416                       —  
+  Operating Income (Loss)            1,246      (3,016)      (242)      (4,827)       2,079      (6,906)      (332)  
+
+
+                                     Three Months Ended August 31,                             % increase (decrease)                                   
+  (in millions)                      2020                               Change                                                                         
+ ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  EA                                                                                                                                                   
+  Revenues                                                                                                                                             
+  Passenger ticket                   $                                  $           (100)      $                          4,021          $       (65)  
+  Onboard and other                  —                                  (426)       (100)      393                        1,101      (708)       (64)  
+                                     (4)                                            (100)                                 5,122                  (65)  
+  Operating Costs and Expenses       225                                (833)        (79)                                 3,166      (852)       (27)  
+  Selling and administrative         71                                 (79)         (53)      404                                   (136)       (25)  
+  Depreciation and amortization      165                                —               —      499                                      16          3  
+  Goodwill impairment                —                                  —               —      777                                     777        100  
+                                     461                                (912)        (66)                                 4,189      (195)        (5)  
+  Operating Income (Loss)            $                                  $           (170)      $                            933          $      (337)  
+
+We paused our guest operations in mid-March 2020 and as a result have been in a pause for a majority of the second quarter and all of the third quarter. We resumed limited guest cruise operations in September 2020 as part of our phased-in return to service. The partial pause in guest operations is continuing to have material negative impacts on all aspects of our business. The longer the partial pause in guest operations continues, the greater the impact on our liquidity and financial position.
+
+As a result of the pause in our guest cruise operations, we have experienced essentially no revenue for the three months ended and meaningfully lower revenues for the nine months ended August 31, 2020 compared to the prior year periods resulting in operating losses for the current periods. We are unable to definitively predict the timing of our complete return to service. As a result, we are currently unable to provide an earnings forecast. We expect a net loss on both a U.S. GAAP and adjusted 
+basis for the quarter and year ending November 30, 2020.
+
+W hile maintaining compliance, environmental protection and safety, we significantly reduced ship operating expenses, including cruise payroll and related expenses, food, fuel, insurance and port charges by transitioning ships into paused status, either at anchor or in port and staffed at a safe manning level. We continue to seek ways to further reduce our ongoing ship operating expenses.
+
+In addition, during the nine months ended August 31, 2020, we incurred incremental COVID-19 related costs associated with repatriating guests and crew members, enhancing health protocols and sanitizing our ships, restructuring costs and defending lawsuits.
+
+As a result of the effects of COVID-19 on our expected future operating cash flows, we recognized goodwill impairment charges of $2.1 billion during the nine months ended August 31, 2020. In addition, we recognized ship impairment charges of $0.8 billion and $1.7 billion during the three and nine months ended August 31, 2020, respectively.
+
+
+Key Performance Non-GAAP Financial Indicators
+
+The table below reconciles Adjusted net income (loss) and Adjusted EBITDA to Net Income (loss) and Adjusted earnings per share to Earnings per share for the periods presented:
+
+                                                     Three Months Ended                                                    Nine Months Ended             
+                                                     August 31,                                                            August 31,                    
+  (in millions, except per share data)               2020                                 2019      2020                   2019                          
+ ─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Net income (loss)                                                                                                                                      
+  U.S. GAAP net income (loss)                        $                       (2,858)      $         $         (8,014)      $                      2,567  
+  (Gains) losses on ship sales and impairments       937                                  14                    3,819      —                             
+  Restructuring expenses                             3                                    —         42                     —                             
+  Other                                              220                                  25        223                    47                            
+  Adjusted net income (loss)                         $                       (1,699)      $         $         (3,930)      $                      2,614  
+  Interest expense, net of capitalized interest      310                                  52        547                    157                           
+  Interest income                                    (3)                                  (8)       (15)                   (16)                          
+  Income tax expense, net                            (2)                                  47        (2)                    56                            
+  Depreciation and amortization                      551                                  548                   1,698                             1,607  
+  Adjusted EBITDA                                    $                         (844)      $         $         (1,702)      $                      4,418  
+  Weighted-average shares outstanding                775                                  691       727                    693                           
+  Earnings per share                                                                                                                                     
+  U.S. GAAP diluted earnings per share               $                        (3.69)      $         $         (11.03)      $                       3.71  
+  (Gains) losses on ship sales and impairments       1.21                                 0.02      5.26                   —                             
+  Restructuring expenses                             —                                    —         0.06                   —                             
+  Other                                              0.28                                 0.04      0.31                   0.07                          
+  Adjusted earnings per share                        $                        (2.19)      $         $          (5.41)      $                       3.77  
+
+Explanations of Non-GAAP Financial Measures
+
+We use adjusted net income (loss) and adjusted earnings per share as non-GAAP financial measures of our cruise segments’ and the company’s financial performance. These non-GAAP financial measures are provided along with U.S. GAAP net income (loss) and U.S. GAAP diluted earnings per share.
+
+We believe that gains and losses on ship sales, impairment charges, restructuring costs and other gains and losses are not part of our core operating business and are not an indication of our future earnings performance. Therefore, we believe it is more meaningful for these items to be excluded from our net income (loss) and earnings per share and, accordingly, we present adjusted net income (loss) and adjusted earnings per share excluding these items.
+
+Adjusted EBITDA is a non-GAAP measure, and we believe that the presentation of Adjusted EBITDA provides additional information to investors about our operating profitability adjusted for certain non-cash items and other gains and expenses that we believe are not part of our core operating business and are not an indication of our future earnings performance. Further, we believe that the presentation of Adjusted EBITDA provides additional information to investors about our ability to operate our 
+business in compliance with the restrictions set forth in our debt agreements. We define Adjusted EBITDA as adjusted net income (loss) adjusted for (i) interest, (ii) taxes and (iii) depreciation and amortization. There are material limitations to using Adjusted EBITDA. Adjusted EBITDA does not take into account certain significant items that directly affect our net income (loss). These limitations are best addressed by considering the economic effects of the excluded items independently, and by
+considering Adjusted EBITDA in conjunction with net income (loss) as calculated in accordance with U.S. GAAP.
+
+The presentation of our non-GAAP financial information is not intended to be considered in isolation from, as substitute for, or superior to the financial information prepared in accordance with U.S. GAAP. It is possible that our non-GAAP financial measures may not be exactly comparable to the like-kind information presented by other companies, which is a potential risk associated with using these measures to compare us to other companies.
+
+
+Liquidity, Financial Condition and Capital Resources
+
+We have taken, and continue to take, significant actions to preserve cash and secure additional financing to increase our liquidity. Since March 2020, we have raised $12.5 billion through a series of financing transactions through October 2, 2020. We have completed the following transactions:
+
+• In March 2020, we fully drew down our $3.0 billion Revolving Facility.
+
+• In March 2020, we settled outstanding derivatives resulting in proceeds of $220 million.
+
+• In April 2020, we completed (i) a public offering of 71,875,000 shares of Carnival Corporation’s common stock at a price per share of $8.00, resulting in net proceeds of $556 million and (ii) a private offering of $2.0 billion aggregate principal amount of 5.75% Convertible Notes.
+
+• In April 2020, we completed a private offering of $4.0 billion aggregate principal amount of 11.5% 2023 Secured Notes that mature on April 1, 2023.
+
+•In April 2020, we extended a $166 million euro-denominated bank loan, originally maturing in 2020, to March 2021.
+
+• Certain of the counterparties to our export credit facilities have offered the Debt Holiday. We have entered into supplemental agreements or side letters for the Debt Holiday amendments to defer certain principal repayments otherwise due through March 31, 2021 through the creation of separate tranches of loans with repayments made over the following four years. We have also entered into supplemental agreements or side letters to waive the Financial Covenant for our funded export credit 
+facilities through March 31, 2021, August 31, 2021, November 30, 2021 or December 31, 2021, as applicable. We will be required to comply with the Financial Covenant beginning with the next testing date of May 31, 2021, November 30, 2021, February 28, 2022 or February 28, 2022, respectively.
+
+• Subsequent to August 31, 2020, we extended the Financial Covenant waivers for our funded export credit facilities through at least November 30, 2021 (with the next testing date of February 28, 2022) except that for three of our funded export credit facilities with Financial Covenant waivers through March 31, 2021 (with the next testing date of May 31, 2021) or August 31, 2021 (with the next testing date of November 30, 2021), with total aggregate indebtedness of $1.3 billion as of August 31, 
+2020, we are currently engaged in discussions to extend the waivers for these facilities through November 30, 2021 (with the next testing date of February 28, 2022).
+
+• We obtained waivers of the Financial Covenant for certain of our bank loans through November 2021. We will be required to comply with the covenant beginning with the next testing date of February 28, 2022. We have also obtained waivers of the covenant for the remaining applicable bank loans through their respective maturity dates.
+
+• To further enhance our liquidity, as well as comply with the dividend restrictions contained in our recent debt agreements, we have suspended the payment of dividends on, and the repurchase of, the common stock of Carnival Corporation and the ordinary shares of Carnival plc.
+
+•In June 2020, we borrowed an aggregate principal amount of $2.8 billion in two tranches ($1.9 billion and €800 million), under the 2025 Secured Term Loan that matures on June 30, 2025. The U.S. dollar tranche bears interest at a rate per annum equal to adjusted LIBOR (with a 1% floor) plus 7.5%. The euro tranche bears interest at a rate per annum equal to EURIBOR (with a 0% floor) plus 7.5%.
+
+• In July 2020, we extended a $337 million euro-denominated floating rate bank loan originally maturing in 2021 to 2022.
+
+• In July 2020, we issued an aggregate principal amount of $1.3 billion in two tranches ($775 million and €425 million), under 2026 Secured Notes, that mature on February 1, 2026. The U.S. dollar tranche bears interest at a rate of 10.5% per year. The euro tranche bears interest at a rate of 10.1% per year.
+
+• In August 2020, we completed a registered direct offering of 99.2 million shares of Carnival Corporation's common stock at a price per share of $14.02 to a limited number of holders of the Convertible Notes (the "Registered Direct Offering"). We used the proceeds from the Registered Direct Offering to repurchase $886 million aggregate principal amount of the Convertible Notes and pay accrued interest thereon in privately negotiated transactions.
+
+• In August 2020, we issued an aggregate principal amount of $900 million of second-priority senior secured notes that mature on August 1, 2027. The 2027 Secured Notes bear interest at a rate of 9.9% per year.
+
+• On September 15, 2020, we entered into an equity distribution agreement with sales agents pursuant to which we may, from time to time, offer and sell shares of Carnival Corporation's common stock having an aggregate offering price of up to $1.0 billion through the sales agents. We have filed a prospectus supplement with the Securities and Exchange Commission in connection with the ATM Offering on September 15, 2020. As of October 2, 2020, we sold 23 million shares for net proceeds of $352 
+million and paid $4 million in compensation with respect of such sales of shares under the ATM Offering.
+
+• In September 2020, we borrowed $610 million under an export credit facility due in semi-annual installments through 2032.
+
+
+As of August 31, 2020, we had a total of $8.2 billion of cash and cash equivalents.
+
+Our monthly average cash burn rate for the third quarter 2020 was $770 million, which was in line with the anticipated monthly cash burn rate. We expect the monthly average cash burn rate for the fourth quarter of 2020 to be approximately $530 million. This results in an average monthly burn rate for the second half of the year of $650 million, as previously disclosed. This rate includes approximately $250 million of ongoing ship operating and administrative expenses, working capital changes 
+(excluding changes in customer deposits), interest expense and committed capital expenditures (net of unfunded export credit facilities) and also excludes scheduled debt maturities as well as other cash collateral to be provided. We continue to explore opportunities to further reduce our monthly cash burn rate.
+
+We estimate non-newbuild capital expenditures during the fourth quarter of 2020 to be approximately $130 million. Our scheduled debt maturities, for debt outstanding as of August 31, 2020, are as follows:
+
+  (in billions)               4Q 2020               1Q 2021               2Q 2021      3Q 2021      4Q 2021  
+ ─────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Principal Payments (a)      $            1.0      $            0.5      $            $            $        
+
+(a) Excluding the Revolving Facility. As of August 31, 2020, borrowings under the Revolving Facility were $3.0 billion, which were drawn in March 2020 for an initial term of six months. The maturities for these borrowings were extended in September 2020 for an additional six months through March 2021. We may re-borrow such amounts subject to satisfaction of the conditions in the Revolving Facility Agreement.
+
+(b) We have a principal balance of $0.5 billion and $0.8 billion of debt outstanding as of August 31, 2020, otherwise due through 2032, for which covenant waivers expire during the second quarter 2021 and fourth quarter 2021, respectively. We are working on extending these covenant waivers. If the covenant waiver extensions are not received, we would be required to prepay the outstanding principal balance.
+
+Since March 2020, Moody’s and S&P Global have downgraded our credit ratings to be below investment grade. Our current short-term commercial paper credit rating prevents us from issuing additional commercial paper.
+
+We had a working capital deficit of $916 million as of August 31, 2020 compared to a working capital deficit of $7.1 billion as of November 30, 2019. The decrease in working capital deficit was caused by an increase in cash and cash equivalents and a decrease in customer deposits, partially offset by increases in short-term borrowings and the current portion of long-term debt. Historically, we operate with a substantial working capital deficit. This deficit is mainly attributable to the fact 
+that, under our business model, substantially all of our passenger ticket receipts are collected in advance of the applicable sailing date. These advance passenger receipts generally remain a current liability until the sailing date. The cash generated from these advance receipts is used interchangeably with cash on hand from other sources, such as our borrowings and other cash from operations. The cash received as advanced receipts can be used to fund operating expenses, pay down our debt, make
+long-term investments or any other use of cash. Included within our working capital deficit were $2.1 billion and $4.7 billion of customer deposits as of August 31, 2020 and November 30, 2019, respectively. We are providing flexibility to guests with bookings on sailings cancelled due to the pause by allowing guests to receive enhanced FCCs or elect to receive refunds in cash. We have paid and expect to continue to pay cash refunds of customer deposits with respect to a portion of these 
+cancelled cruises. The amount of cash refunds to be paid may depend on the level of guest acceptance of FCCs and future cruise cancellations. We record a liability for FCCs to the extent we have received cash from guests with bookings on cancelled sailings. As of August 31, 2020, approximately 55% of guests affected have requested cash refunds. In addition, we have a relatively low-level of accounts receivable and limited investment in inventories. We expect that we will continue to have working
+capital deficits in the future.
+
+Refer to Note 1 - “General, Liquidity and Management's Plans” of the consolidated financial statements for additional discussion regarding our liquidity.
+
+Sources and Uses of Cash
+
+Operating Activities
+
+Our business used $4.6 billion of net cash flows in operating activities during the nine months ended August 31, 2020, a decrease of $9.1 billion, or 205%, compared to $4.4 billion of net cash provided for the same period in 2019.
+
+Investing Activities
+
+
+During the nine months ended August 31, 2020, net cash used in investing activities was $1.5 billion. This was caused by the following:
+
+•Capital expenditures of $1.0 billion for our ongoing new shipbuilding program
+
+• Capital expenditures of $855 million for ship improvements and replacements, information technology and buildings and improvements
+
+•Proceeds from sale of ships of $271 million
+
+•Proceeds of $220 million from the settlement of outstanding derivatives
+
+During the nine months ended August 31, 2019, net cash used in investing activities was $3.3 billion. This was caused by the following:
+
+•Capital expenditures of $2.2 billion for our ongoing new shipbuilding program
+
+• Capital expenditures of $1.2 billion for ship improvements and replacements, information technology and buildings and improvements
+
+•Proceeds from sale of ships of $15 million
+
+Financing Activities
+
+During the nine months ended August 31, 2020, net cash provided by financing activities of $13.7 billion was caused by the following:
+
+• Net proceeds from short-term borrowings of $3.1 billion in connection with our availability of, and needs for, cash at various times throughout the period, including proceeds of $3.0 billion from the Revolving Facility
+
+• Repayments of $896 million of long-term debt, including the $222 million that was cash settled to repurchase a portion of the Convertible Notes
+
+• Issuances of $11.5 billion of long-term debt, including net proceeds of $3.9 billion from the issuance of the 2023 Secured Notes, net proceeds of $2.6 billion from the issuance of the 2025 Secured Term Loan, net proceeds of $2.0 billion from the issuance of Convertible Notes, net proceeds of $1.2 billion from the issuance of the 2026 Secured Notes and net proceeds of $0.9 billion from the issuance of the 2027 Secured Notes.
+
+•Payments of cash dividends of $689 million
+
+• Purchases of $12 million of Carnival plc ordinary shares in open market transactions under our Repurchase Program
+
+•Net proceeds of $556 million from our public offering of Carnival Corporation common stock
+
+• Net proceeds of $222 million from a registered direct offering of Carnival Corporation common stock used to repurchase a portion of the Convertible Notes
+
+During the nine months ended August 31, 2019, net cash used in financing activities of $912 million was caused by the following:
+
+• Net repayments of short-term borrowings of $600 million in connection with our availability of, and needs for, cash at various times throughout the period
+
+•Repayments of $472 million of long-term debt
+
+•Issuances of $1.7 billion of long-term debt
+
+•Payments of cash dividends of $1.0 billion
+
+• Purchases of $472 million of Carnival Corporation common stock and Carnival plc ordinary shares in open market transactions under our Repurchase Program
+
+
+Funding Sources
+
+As of August 31, 2020, we had $8.2 billion of cash and cash equivalents. In addition, we had $9.4 billion of export credit facilities to fund ship deliveries planned through 2024.
+
+  (in billions)                                               2020               2021               2022      2023      2024  
+ ──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Future export credit facilities at August 31, 2020 (a)      $         1.5      $         2.0      $         $         $     
+
+(a) Under the terms of these export credit facilities, we are required to comply with the Financial Covenant. We have entered into supplemental agreements or side letters to amend our agreements with respect to the Financial Covenant for our unfunded export credit facilities to waive compliance through August 31, 2021 (with the next testing date of November 30, 2021) for aggregate principal of $2.7 billion, through November 30, 2021 (with the next testing date of February 28, 2022) for aggregate
+principal of $1.2 billion (of which we borrowed $610 million to fund delivery of a ship in September 2020), and through December 31, 2021 (with the next testing date of February 28, 2022) for aggregate principal of $3.7 billion. For the remaining three unfunded export credit facilities with an aggregate principal of $1.8 billion, we are engaged in discussions with the counterparties to waive the Financial Covenant through March 31, 2021 (with the next testing date of May 31, 2021). 
+Simultaneously with obtaining the initial waivers for these three unfunded export credit facilities, we have also requested extension of waivers for these facilities through November 30, 2021 (with the next testing date of February 28, 2022).
+
+Many of our debt agreements contain various other financial covenants, including those described in Note 3 - “Debt” and in Note 5 - “Deb” in the annual consolidated financial statements, which are included within our Form 10-K. At August 31, 2020, we were in compliance with the applicable debt covenants.
+
+Off-Balance Sheet Arrangements
+
+We are not a party to any off-balance sheet arrangements, including guarantee contracts, retained or contingent interests, certain derivative instruments and variable interest entities that either have, or are reasonably likely to have, a current or future material effect on our consolidated financial statements.
+
