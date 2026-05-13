@@ -1,0 +1,834 @@
+Item 2. Management’s Discussion and Analysis of Financial Condition and Results of Operations
+
+This discussion should be read in conjunction with our consolidated financial statements as ofJune 29, 2019, and for the fiscal year then ended, and Management’s Discussion and Analysis of Financial Condition and Results of Operations, both contained in our Annual Report on Form 10-K for the fiscal year endedJune 29, 2019(our2019 Form 10-K), as well as the consolidated financial statements (unaudited) and notes to the consolidated financial statements (unaudited) contained in this report.
+
+Sysco’s results of operations for fiscal2020 and fiscal2019 were impacted by restructuring and transformational project costs consisting of: (1) expenses associated with our various transformation initiatives; (2) severance and facility closure charges; and (3) restructuring charges. All acquisition-related costs in fiscal2020 and fiscal2019 that have been designated as Certain Items relate to the fiscal 2017 acquisition of Cucina Lux Investments Limited (the Brakes Acquisition). These include 
+acquisition-related intangible amortization expense. In addition, fiscal 2019 results of operations were negatively affected by acquisition-related integration costs specific to the Brakes Acquisition and the impact of recognizing a foreign tax credit. These fiscal2020 and fiscal2019 items are collectively referred to as “Certain Items.” The results of our foreign operations can be impacted by changes in exchange rates applicable to converting from local currencies to U.S. dollars. We measure 
+our International Foodservice Operations results on a constant currency basis. Our discussion below of our results includes certain non-GAAP financial measures that we believe provide important perspective with respect to underlying business trends. Other than free cash flow, any non-GAAP financial measures will be denoted as adjusted measures and exclude the impact from Certain Items, and certain metrics are stated on a constant currency basis.
+
+More information on the rationale for the use of non-GAAP financial measures and reconciliations to the most directly comparable numbers calculated in accordance with U.S. generally accepted accounting principles (GAAP) can be found under “Non-GAAP Reconciliations.”
+
+Highlights and Trends
+
+Highlights
+
+Our second quarter of fiscal2020 performance reflects improved year-over-year performance, including operating income and net earnings growth in the second quarter of fiscal2020, as compared to the second quarter of fiscal2019, both including and excluding Certain Items.
+
+Comparisons of results from the second quarter of fiscal2020 to the second quarter of fiscal2019:
+
+  Sales:  
+
+  increased 1.8%, or $259.3 million, to $15.0 billion;  
+
+  Operating income:  
+
+  increased 22.3%, or $100.6 million, to $552.5 million;  
+
+  adjusted operating income increased 3.9%, or $23.6 million, to $626.9 million;  
+
+  Net earnings:  
+
+  increased 43.4%, or $116.0 million, to $383.4 million;  
+
+  adjusted net earnings increased 11.3%, or $44.3 million, to $437.8 million;  
+
+  Basic earnings per share:  
+
+  increased 44.2%, or $0.23, to $0.75 per share;  
+
+  Diluted earnings per share:  
+
+  increased 45.9%, or $0.23, to $0.74 per share; and  
+
+  adjusted diluted earnings per share increased 13.2%, or $0.10, to $0.85 per share.  
+
+Comparisons of results from the first26 weeks of fiscal2020 to the first26 weeks of fiscal2019:
+
+  Sales:  
+
+  increased 1.2%, or $347.1 million, to $30.3 billion;  
+
+  Operating income:  
+
+  increased 13.0%, or $140.8 million, to $1.2 billion;  
+
+  adjusted operating income increased 5.7%, or $73.8 million, to $1.4 billion;  
+
+  Net earnings:  
+
+  increased 19.9%, or $138.8 million, to $837.2 million;  
+
+  adjusted net earnings increased 8.6%, or $75.4 million, to $948.1 million;  
+
+  Basic earnings per share:  
+
+  increased 22.4%, or $0.30, to $1.64 per share;  
+
+  Diluted earnings per share:  
+
+  increased 22.1%, or $0.29, to $1.62 per share; and  
+
+  adjusted diluted earnings per share increased 10.7%, or $0.17, to $1.83 per share.  
+
+See “Non-GAAP Reconciliations” below for an explanation of adjusted operating income, adjusted net earnings and adjusted diluted earnings per share, which are non-GAAP financial measures, and reconciliations to the most directly comparable GAAP financial measures.
+
+Trends
+
+The economic and industry trends in the U.S. were favorable in the first26 weeks of fiscal2020, illustrated by U.S. gross domestic product growth and continued low unemployment rates. During the calendar quarter, according to Black Box Intelligence, restaurant same-store sales declined, offset by average guest check increases. Although traffic in the food industry shows some decline, market conditions are modestly favorable for foodservice operators in the U.S. Within the international markets, 
+traffic and sales in the United Kingdom (U.K.) and Ireland continue to be soft, as uncertainties around Brexit, affect foodservice and other economic activity. These trends, however, are relatively stable compared to conditions at the end of fiscal 2019. In Canada, signs of a slowing economy were present in some parts of the country during the second quarter of fiscal 2020. In France, GDP growth is expected to continue, household spending has increased and unemployment is trending lower, 
+partially due to labor market reforms.
+
+Our sales growth was driven by continued growth with our local restaurant customers, partially offset by the divestiture of Iowa Premium, LLC (Iowa Premium) in the fourth quarter of fiscal 2019 and the negative impact of foreign exchange rates. Gross profit growth was driven by a continued shift in our customer mix, as we grew local cases at a faster pace than total case growth. Additionally, we experienced continued growth in penetration of our Sysco brand portfolio. Our sales growth has been 
+stronger in our U.S. Broadline operations, with positive levels of growth experienced in our International businesses, with the exception of our operations in France. A strengthening U.S. dollar negatively affected total Sysco sales growth by 0.2% and 0.4% for the second quarter and first26 weeks of fiscal 2020, respectively, and negatively impacted sales growth for our International Foodservice Operations by0.9% and2.1% for the second quarter and first26 weeks of fiscal2020, respectively, as we
+translated our foreign sales due to foreign currency exchange rate changes.
+
+While our gross profit has increased, in the second quarter of fiscal 2020, our gross margin declined in our U.S Foodservice Operations. We experienced inflation at a rate of2.6% during the second quarter of fiscal2020, primarily in the dairy products and beef categories. The unusually high rate of inflation in these categories limited our ability to efficiently pass inflation in these categories to our customers. We also experienced a return to more normalized pricing in produce markets in the 
+second quarter of fiscal 2020, as compared to a sharp increase in the second quarter of fiscal 2019. We expect this year over year unfavorable impact to continue in the third quarter of fiscal 2020. Lastly, fuel surcharges have declined as compared to the second quarter of fiscal 2019.
+
+Total operating expenses decreased1.9% and1.0% during the second quarter and first26 weeks of fiscal2020, respectively, as compared to the second quarter and first 26 weeks of fiscal 2019 due to effective expense management, including benefits from our transformation initiatives. Operating costs within our U.S. operations grew slightly due to higher labor and operational costs. Labor costs were higher due to our decision to retain driver and warehouse personnel in a tight labor market and we 
+will continue to evaluate our staffing needs over the next several quarters. In the second quarter of fiscal 2020, we experienced a twelve-day strike in Denver, which resulted in added costs associated with continuing to serve customers during that period. Our business in France continues to experience challenges arising from our efforts to integrate our France operations. We believe these challenges will continue to negatively impact our performance through the remainder of the fiscal year. We 
+are maintaining our focus on expense reductions as we continue to invest in areas of our business that will help facilitate future growth.
+
+Sysco sold its interests in Iowa Premium in the fourth quarter of fiscal 2019, and, therefore, our operating results for the first26 weeks of fiscal 2020, as compared to the first26 weeks of fiscal 2019, reflect decreases that relate to the divestiture of that business.
+
+We have completed the following new acquisitions thus far in fiscal 2020 within our U.S. Foodservice Operations:
+
+  In the first quarter of fiscal 2020, we acquired J. Kings Food Service Professionals, a New York broadline distributor with approximately $150 million in annual revenue.  
+
+  In the second quarter of fiscal 2020, we acquired Armstrong Produce and Kula Produce, a Hawaii-based broadline fresh produce wholesaler and distributor with approximately $155 million in combin...  
+
+Strategy
+
+Fiscal 2020 is the third year in our current three-year plan that was established in fiscal 2018 and includes our strategic and financial objectives through fiscal 2020, which will enable us to continue transforming our business, while improving the customer experience of doing business with Sysco. Our target financial objectives have included:
+
+  reaching $600 million of adjusted operating income growth as compared to fiscal 2017;  
+
+  growing earnings per share faster than operating income; and  
+
+  achieving 16% in adjusted return on invested capital for existing businesses.  
+
+These goals were determined on the belief that by fiscal 2020, we could also achieve growth in six financial metrics as compared to fiscal 2017. The goals and our forecasted results for our current three-year plan ending fiscal 2020 are as follows:
+
+• case growth of 2.5% to 3.0%, we have forecasted to achieve 2.5%;
+
+• local case growth of 3.0% to 3.3%, we have forecasted to achieve 3.3%;
+
+• sales and gross profit growth of 3.5% to 4.0%, we have forecasted to achieve 3.7%;
+
+• adjusted operating income growth of 8% or $600 million, we have forecasted to achieve 7.0% and
+
+• adjusted diluted earnings per share growth of 15%, we have forecasted to achieve 15.6%.
+
+The company announced a senior leadership change in mid-January of fiscal 2020 with a goal of accelerating growth and operating improvements. At the time of this announcement, we noted that our fiscal year 2020 performance was generally tracking along with consensus estimates. With 10 quarters of our three-year plan completed, we continue to generate strong performance relative to the plan across most of the metrics noted above. However, after completing our second quarter close and considering 
+recent performance, even with some clear positives such as acceleration in local case growth, we have recently decided to make certain adjustments to our outlook for the remainder of fiscal 2020. Specifically, given challenges we are experiencing such as those related to inflation, integration challenges in France and increased discrete corporate expenses, combined with investment opportunities that can deliver strong returns over time, we have decided to amend our plan. Therefore, we are 
+lowering our fiscal 2018 to fiscal 2020 adjusted operating income growth target to approximately $500 million to $525 million, from the prior $600 million target and we are lowering our three-year adjusted operating income growth guidance from approximately 8% to 7%. Benefits that we have experienced within our results of operations below operating income such as in interest expense and tax expense have provided us with the flexibility to make these investments now while still delivering on 
+top-line and bottom-line earnings per share targets. We believe investing for the long-term is more prudent than seeking a short-term gain and will allow us to advance the work that will both further enhance our customer focus and accelerate future growth as we continue to efficiently manage costs through improved processes.
+
+Our operating income goal was established on an adjusted basis given Certain Item charges that were applicable in fiscal 2018, which primarily were due to restructuring and Brakes-related acquisition costs. The business transformation initiatives we have in place will allow us to continue to grow our business and capitalize on our strong fundamentals.
+
+See “Non-GAAP Reconciliations” below for an explanation of adjusted operating income and adjusted return on invested capital, which are non-GAAP financial measures.
+
+Results of Operations
+
+The following table sets forth the components of our consolidated results of operations expressed as a percentage of sales for the periods indicated:
+
+                                    13-Week Period Ended                         26-Week Period Ended                     
+                                           Dec. 28, 2019      Dec. 29, 2018             Dec. 28, 2019      Dec. 29, 2018  
+ ──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Sales                                            100.0              100.0                     100.0              100.0  
+  Cost of sales                                     81.2               81.2                      81.0               81.1  
+  Gross profit                                      18.8               18.8                      19.0               18.9  
+  Operating expenses                                15.1               15.7                      15.0               15.3  
+  Operating income                                   3.7                3.1                       4.0                3.6  
+  Interest expense                                   0.5                0.6                       0.5                0.6  
+  Other expense (income), net                          —                0.1                         —                  —  
+  Earnings before income taxes                       3.2                2.4                       3.5                3.0  
+  Income taxes                                       0.6                0.6                       0.7                0.7  
+  Net earnings                                       2.6                1.8                       2.8                2.3  
+
+The following table sets forth the change in the components of our consolidated results of operations expressed as a percentage increase or decrease over the comparable period in the prior year:
+
+                                           13-Week Period Ended      26-Week Period Ended  
+                                                  Dec. 28, 2019             Dec. 28, 2019  
+ ───────────────────────────────────────────────────────────────────────────────────────────
+  Sales                                                     1.8                       1.2  
+  Cost of sales                                             1.7                       1.0  
+  Gross profit                                              2.0                       1.7  
+  Operating expenses                                       (1.9                      (1.0  
+  Operating income                                         22.3                      13.0  
+  Interest expense                                        (11.9                      (9.1  
+  Other expense (income), net (1) (2)                    (107.9                     (79.7  
+  Earnings before income taxes                             34.4                      18.6  
+  Income taxes                                              6.8                      13.9  
+  Net earnings                                             43.4                      19.9  
+  Basic earnings per share                                 44.2                      22.4  
+  Diluted earnings per share                               45.9                      22.1  
+  Average shares outstanding                               (1.5                      (1.5  
+  Diluted shares outstanding                               (1.7                      (1.8  
+
+  (1)      Other expense (income), net was income of $0.8 million in the second quarter of fiscal 2020 and expense of $10.2 million in the second quarter of fiscal 2019.  
+
+  (2)      Other expense (income), net was expense of $2.3 million in the first 26 weeks of fiscal 2020 and expense of $11.3 million in the first 26 weeks of fiscal 2019.  
+
+The following tables represent our results by reportable segments:
+
+                                                 13-Week Period Ended Dec. 28, 2019                                                                                                                   
+                                                 U.S. Foodservice Operations                             International Foodservice Operations                     SYGMA      Other      Consolidated  
+                                                                                                                                                                                        Totals        
+                                                 (In thousands)                                                                                                                                       
+ ──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Sales                                          $                                       10,413,575      $                                         2,890,053      $          $          $             
+  Sales increase (decrease)                      3.2                                                     —                                                        (5.3       5.6        1.8           
+  Percentage of total                            69.3                                                    19.2                                                     9.7        1.8        100.0         
+  Operating income                               $                                          768,777      $                                            34,881      $          $          $             
+  Operating income increase (decrease)           4.2                                                     (333.8                                                   216.7      64.4       22.3          
+  Percentage of total segments                   93.4                                                    4.2                                                      1.2        1.2        100.0         
+  Operating income as a percentage of sales      7.4                                                     1.2                                                      0.7        3.5        3.7           
+
+                                                 13-Week Period Ended Dec. 29, 2018                                                                                                                   
+                                                 U.S. Foodservice Operations                             International Foodservice Operations                     SYGMA      Other      Consolidated  
+                                                                                                                                                                                        Totals        
+                                                 (In thousands)                                                                                                                                       
+ ──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Sales                                          $                                       10,087,105      $                                         2,890,598      $          $          $             
+  Percentage of total                            68.3                                                    19.6                                                     10.4       1.7        100.0         
+  Operating income                               $                                          737,477      $                                           (14,917      $          $          $             
+  Percentage of total segments                   100.8                                                   (2.0                                                     0.4        0.8        100.0         
+  Operating income as a percentage of sales      7.3                                                     (0.5                                                     0.2        2.3        3.1           
+
+                                                 26-Week Period Ended Dec. 28, 2019                                                                                                                   
+                                                 U.S. Foodservice Operations                             International Foodservice Operations                     SYGMA      Other      Consolidated  
+                                                                                                                                                                                        Totals        
+                                                 (In thousands)                                                                                                                                       
+ ──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Sales                                          $                                       21,072,208      $                                         5,802,441      $          $          $             
+  Sales increase (decrease)                      2.9                                                     (0.2                                                     (8.1       4.9        1.2           
+  Percentage of total                            69.5                                                    19.1                                                     9.6        1.8        100.0         
+  Operating income                               $                                        1,630,183      $                                            89,681      $          $          $             
+  Operating income increase (decrease)           5.0                                                     72.9                                                     214.4      21.7       13.0          
+  Percentage of total segments                   92.8                                                    5.1                                                      1.0        1.1        100.0         
+  Operating income as a percentage of sales      7.7                                                     1.5                                                      0.6        3.5        4.0           
+
+                                                 26-Week Period Ended Dec. 29, 2018                                                                                                                   
+                                                 U.S. Foodservice Operations                             International Foodservice Operations                     SYGMA      Other      Consolidated  
+                                                                                                                                                                                        Totals        
+                                                 (In thousands)                                                                                                                                       
+ ──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Sales                                          $                                       20,486,516      $                                         5,811,548      $          $          $             
+  Percentage of total                            68.3                                                    19.4                                                     10.5       1.8        100.0         
+  Operating income                               $                                        1,553,235      $                                            51,855      $          $          $             
+  Percentage of total segments                   95.5                                                    3.2                                                      0.3        1.0        100.0         
+  Operating income as a percentage of sales      7.6                                                     0.9                                                      0.2        3.1        3.6           
+
+Based on information inNote 15,“Business Segment Information,” in the Notes to Consolidated Financial Statements in Item 1 of Part I, in the second quarter and first26 weeks of fiscal2020, U.S. Foodservice Operations and International Foodservice Operations collectively represented approximately88.5% and88.6% of Sysco’s overall sales, respectively. In the second quarter and first26 weeks of fiscal2020, U.S. Foodservice Operations and International Foodservice Operations collectively represented 
+approximately97.6% and97.9% of the total segment operating income, respectively. This illustrates that these segments represent the majority of our total segment results when compared to the other reportable segment.
+
+Results of U.S. Foodservice Operations
+
+The following tables set forth a summary of the components of operating income expressed as a percentage increase or decrease over the comparable period in the prior year:
+
+                                              13-Week Period Ended Dec. 28, 2019                      13-Week Period Ended Dec. 29, 2018                      Change in Dollars                   % Change  
+ ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+                                              (Dollars in thousands)                                                                                                                                        
+  Sales                                       $                                       10,413,575      $                                       10,087,105      $                      326,470           3.2  
+  Gross profit                                                                         2,048,905                                               2,001,819                              47,086           2.4  
+  Operating expenses                                                                   1,280,128                                               1,264,342                              15,786           1.2  
+  Operating income                            $                                          768,777      $                                          737,477      $                       31,300           4.2  
+  Gross profit                                $                                        2,048,905      $                                        2,001,819      $                       47,086           2.4  
+  Adjusted operating expenses (Non-GAAP)                                               1,276,449                                               1,264,342                              12,107           1.0  
+  Adjusted operating income (Non-GAAP)        $                                          772,456      $                                          737,477      $                       34,979           4.7  
+                                              26-Week Period Ended Dec. 28, 2019                      26-Week Period Ended Dec. 29, 2018                      Change in Dollars                   % Change  
+                                              (Dollars in thousands)                                                                                                                                        
+  Sales                                       $                                       21,072,208      $                                       20,486,516      $                      585,692           2.9  
+  Gross profit                                                                         4,193,791                                               4,092,046                             101,745           2.5  
+  Operating expenses                                                                   2,563,608                                               2,538,811                              24,797           1.0  
+  Operating income                            $                                        1,630,183      $                                        1,553,235      $                       76,948           5.0  
+  Gross profit                                $                                        4,193,791      $                                        4,092,046      $                      101,745           2.5  
+  Adjusted operating expenses (Non-GAAP)                                               2,555,803                                               2,538,811                              16,992           0.7  
+  Adjusted operating income (Non-GAAP)        $                                        1,637,988      $                                        1,553,235      $                       84,753           5.5  
+
+Sales
+
+The following table sets forth the percentage and dollar value increase or decrease in the major factors impacting sales as compared to the corresponding prior year period in order to demonstrate the cause and magnitude of change.
+
+                            Increase (Decrease)                                Increase (Decrease)                            
+                            13-Week Period                                     26-Week Period                                 
+ ──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+                            (Dollars in millions)                              (Dollars in millions)                          
+  Cause of change           Percentage                 Dollars                 Percentage                 Dollars             
+  Case volume               1.3                        $            128.9      1.0                        $            199.1  
+  Inflation                 2.4                        243.1                   2.7                        549.6               
+  Acquisitions              0.8                        81.1                    0.6                        113.9               
+  Other (1) (2)             (1.3                       (126.6                  (1.4                       (276.9              
+  Total sales increase      3.2                        $            326.5      2.9                        $            585.7  
+
+  (1)      Case volume excludes the volume impact from our custom-cut meat companies that do not measure volume in cases. Any impact in volumes from these operations is included within “Other.”  
+
+  (2)      Approximately $122 million and $235 million of this decrease for the second quarter and first 26 weeks of fiscal 2020, respectively, results from Sysco’s sale of its interest in Iowa Premium in...  
+ ─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+Sales for the second quarter of fiscal2020 were3.2% higher than the second quarter of fiscal2019. The primary drivers of the increase were inflation and modest case volume growth in our U.S. Broadline operations. Case volumes from our U.S.
+
+Broadline operations, including acquisitions within the last 12 months, increased2.0% in the second quarter of fiscal2020, as compared to the second quarter of fiscal2019, and included a3.7% improvement in locally managed customer case growth along with a0.1% increase in national customer case volume, reflecting the continued transition of certain national customers, including accounts that we exited during the second quarter of fiscal 2019. Sales from acquisitions within the last 12 months 
+favorably impacted locally managed customer sales by1.2% for the second quarter of fiscal2020; therefore, organic local case volume, which excludes acquisitions, grew2.5%. The increase in local case volume was partially offset by the loss of less profitable business and the divestiture of Iowa Premium in the fourth quarter of fiscal 2019.
+
+Sales for the first26 weeks of fiscal2020 were2.9% higher than the first26 weeks of fiscal2019. The primary drivers of the increase were inflation and local customer case volume growth in our U.S. Broadline operations. Case volumes from our U.S. Broadline operations, including acquisitions within the last 12 months, increased1.4% in the first26 weeks of fiscal2020, compared to the first26 weeks of fiscal2019, and included a2.9% improvement in locally managed customer case growth, partially 
+offset by a decrease of0.3% in national customer case volume. Sales from acquisitions within the last 12 months favorably impacted locally managed customer sales by1.0% for the first26 weeks of fiscal2020; therefore, organic local case volume, which excludes acquisitions, grew1.9%.
+
+Operating Income
+
+Operating income increased4.2% and5.0% for the second quarter and first26 weeks of fiscal2020, respectively, as compared to the second quarter and first26 weeks of fiscal2019.
+
+Gross profit dollars increased2.4% and2.5% in the second quarter and first26 weeks of fiscal2020, respectively, as compared to the second quarter and first26 weeks of fiscal2019, driven primarily by higher inflation, growth in local cases, growth in Sysco-branded products and changes in our customer mix. The estimated change in product costs, an internal measure of inflation or deflation, for the second quarter and first26 weeks of fiscal2020 for our U.S. Broadline operations was inflation 
+of2.6% and2.7%, respectively. For the second quarter and first26 weeks of fiscal2020, this change in product costs was primarily driven by inflation in the dairy products and meat, primarily beef, categories. Our Sysco brand sales to local customers increased by approximately27 basis points and23 basis points for the second quarter and first26 weeks of fiscal2020, respectively. Gross margin, which is gross profit as a percentage of sales, was19.68% and19.90% in the second quarter and first26 
+weeks of fiscal2020, respectively, which was a decrease of17 and7 basis points from the gross margin of19.85% and19.97% in the second quarter and first26 weeks of fiscal2019, respectively, primarily attributable to inflation that we were unable to efficiently pass through to our customers and to a reduction in fuel surcharges. Additionally, we experienced a sharp decline in produce markets in the second quarter of fiscal 2020 as compared to the second quarter of fiscal 2019, which negatively 
+affected our gross profit dollar growth. Our local case volume grew at a strong pace during the second quarter of fiscal 2020 mostly driven by increased penetration with current accounts.
+
+Operating expenses for the second quarter of fiscal2020 increased1.2%, or$15.8 million, compared to the second quarter of fiscal2019, primarily driven by higher labor costs due to our decision to retain driver and warehouse personnel in a tight labor market along with rising fuel costs. Operating expenses for the first26 weeks of fiscal2020 decreased1.0%, or$24.8 million, compared to the first26 weeks of fiscal2019. Our operating expense growth during the second quarter of fiscal2020 was 
+primarily driven by rising fuel costs and an increase in bad debt expense. These increases were largely offset by the impact of transformational initiatives and by decreases in operating expenses associated with the divestiture of Iowa Premium in the fourth quarter of fiscal 2019.
+
+Results of International Foodservice Operations
+
+The following table sets forth a summary of the components of operating income and adjusted operating income expressed as a percentage increase or decrease over the comparable period in the prior year:
+
+                                                                           13-Week Period Ended Dec. 28, 2019                     13-Week Period Ended Dec. 29, 2018                     Change in Dollars                   % Change  
+ ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+                                                                           (Dollars in thousands)                                                                                                                                      
+  Sales                                                                    $                                       2,890,053      $                                       2,890,598      $                         (545             —  
+  Gross profit                                                                                                       586,039                                                589,922                              (3,883          (0.7  
+  Operating expenses                                                                                                 551,158                                                604,839                             (53,681          (8.9  
+  Operating income                                                         $                                          34,881      $                                         (14,917      $                       49,798            NM  
+  Gross profit                                                             $                                         586,039      $                                         589,922      $                       (3,883          (0.7  
+  Adjusted operating expenses (Non-GAAP)                                                                             511,996                                                506,872                               5,124           1.0  
+  Adjusted operating income (Non-GAAP)                                     $                                          74,043      $                                          83,050      $                       (9,007         (10.8  
+  Sales on a constant currency basis (Non-GAAP)                            $                                       2,915,342      $                                       2,890,598      $                       24,744           0.9  
+  Gross profit on a constant currency basis (Non-GAAP)                                                               592,076                                                589,922                               2,154           0.4  
+  Adjusted operating expenses on a constant currency basis (Non-GAAP)                                                518,268                                                506,872                              11,396           2.2  
+  Adjusted operating income on a constant currency basis (Non-GAAP)        $                                          73,808      $                                          83,050      $                       (9,242         (11.1  
+                                                                           26-Week Period Ended Dec. 28, 2019                     26-Week Period Ended Dec. 29, 2018                     Change in Dollars                   % Change  
+                                                                           (Dollars in thousands)                                                                                                                                      
+  Sales                                                                    $                                       5,802,441      $                                       5,811,548      $                       (9,107          (0.2  
+  Gross profit                                                                                                     1,191,224                                              1,205,427                             (14,203          (1.2  
+  Operating expenses                                                                                               1,101,543                                              1,153,572                             (52,029          (4.5  
+  Operating income                                                         $                                          89,681      $                                          51,855      $                       37,826          72.9  
+  Gross profit                                                             $                                       1,191,224      $                                       1,205,427      $                      (14,203          (1.2  
+  Adjusted operating expenses (Non-GAAP)                                                                           1,018,199                                              1,026,980                              (8,781          (0.9  
+  Adjusted operating income (Non-GAAP)                                     $                                         173,025      $                                         178,447      $                       (5,422          (3.0  
+  Sales on a constant currency basis (Non-GAAP)                            $                                       5,924,879      $                                       5,811,548      $                      113,331           2.0  
+  Gross profit on a constant currency basis (Non-GAAP)                                                             1,220,278                                              1,205,427                              14,851           1.2  
+  Adjusted operating expenses on a constant currency basis (Non-GAAP)                                              1,045,158                                              1,026,980                              18,178           1.8  
+  Adjusted operating income on a constant currency basis (Non-GAAP)        $                                         175,120      $                                         178,447      $                       (3,327          (1.9  
+
+Sales
+
+The following tables set forth the percentage and dollar value increase or decrease in the major components impacting sales as compared to the corresponding prior year period in order to demonstrate the cause and magnitude of change.
+
+                            Increase (Decrease)                               Increase (Decrease)                            
+                            13-Week Period                                    26-Week Period                                 
+ ─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+                            (Dollars in millions)                             (Dollars in millions)                          
+  Cause of change           Percentage                 Dollars                Percentage                 Dollars             
+  Inflation                 2.4                        $            68.8      2.1                        $            122.9  
+  Acquisitions              0.5                        14.7                   0.5                        27.2                
+  Foreign currency          (0.9                       (25.5                  (2.1                       (120.2              
+  Other (1)                 (2.0                       (58.5                  (0.7                       (39.0               
+  Total sales increase      —                          $            (0.5      (0.2                       $             (9.1  
+
+  (1)      The impact of volumes as a component of sales growth from international operations are included within “Other.” Volume in our foreign operations includes volume metrics that differ from country...  
+
+Sales for the second quarter and first26 weeks of fiscal2020 were flat and0.2% lower, respectively, as compared to the second quarter and first26 weeks of fiscal2019, primarily due to changes in foreign exchange rates used to translate our foreign sales into U.S. dollars, as noted in the tables above, largely offset by product cost inflation in Europe and Canada. Canada experienced lower sales growth as a result of a slowing economy in some parts of the country and the loss of a large chain 
+customer. Latin America experienced modestly improved performance in the second quarter and first26 weeks of fiscal2020, as compared to the second quarter and first26 weeks of fiscal2019, driven by strong sales growth despite slight economic contractions in some of the countries in which we operate. Performance in the U.K. during the second quarter and first26 weeks of fiscal2020 has been stable, despite continuing uncertainty regarding the outcome of Brexit. We had positive results in Ireland 
+and Sweden as a result of a positive business environment and strong independent sales growth. Sales growth in the International business was partially offset by weaker results in France due to continued operational challenges.
+
+Operating Income
+
+Operating income increased by$49.8 million and$37.8 million, or333.8% and72.9%, for the second quarter and first26 weeks of fiscal2020, respectively, as compared to the second quarter and first26 weeks of fiscal2019. Our operating income increased during the second quarter and first26 weeks of fiscal2020 due to ongoing restructuring and integration work in our European operations and regionalization efforts in our Canadian operations. Our business in France continued to experience operational 
+challenges arising from our integration efforts between our two business in France. Restructuring and business transformation charges also negatively affected our U.K. operations as we continue our efforts related to modernizing the business and growing our customer base. Operating income, on an adjusted basis, decreased by$9.0 million, or10.8%, for the second quarter of fiscal2020, as compared to the second quarter of fiscal2019. Foreign exchange rates positively affected operating income 
+by0.3%, resulting in an11.1% decrease in adjusted operating income on a constant currency basis. Operating income, on an adjusted basis, decreased by$5.4 million, or3.0%, for the first26 weeks of fiscal2020, as compared to the first26 weeks of fiscal2019. Foreign exchange rates negatively affected operating income by1.2%, resulting in a1.9% decrease in adjusted operating income on a constant currency basis.
+
+Gross profit dollars decreased by0.7% in the second quarter of fiscal2020, as compared to the second quarter of fiscal2019, primarily attributable to changes in foreign exchange rates that negatively affected gross profit by1.0%, resulting in a0.4% increase in adjusted gross profit on a constant currency basis. Gross profit dollars decreased by1.2% in the first26 weeks of fiscal2020, as compared to the first26 weeks of fiscal2019, primarily attributable to changes in foreign exchange rates that 
+negatively affected gross profit by2.4%, resulting in a1.2% increase in adjusted gross profit on a constant currency basis.
+
+Operating expenses for the second quarter and first26 weeks of fiscal2020 decreased8.9% and4.5%, or$53.7 million and$52.0 million, respectively, as compared to the second quarter and first26 weeks of fiscal2019, primarily due to reduced restructuring and integration charges being incurred in France. We incurred restructuring charges of $48.5 million primarily relating to restructuring and integration in France and the U.K. and the ongoing regionalization efforts in our Canadian operations during
+the first26 weeks of fiscal2020, as compared to $83.8 million of restructuring charges in the first 26 weeks of fiscal 2019. Operating expenses, on an adjusted basis, for the second quarter of fiscal2020 increased1.0%, or$5.1 million, compared to the second
+
+quarter of fiscal2019. Changes in foreign exchange rates used to translate our foreign operating expenses into U.S. dollars positively affected operating expenses during the period by1.2%, resulting in a2.2% increase in adjusted operating expenses on a constant currency basis. Operating expenses, on an adjusted basis, for the first26 weeks of fiscal2020, decreased0.9%, or$8.8 million, compared to the first26 weeks of fiscal2019. Changes in foreign exchange rates used to translate our foreign 
+operating expenses into U.S. dollars positively affected operating expenses during the period by2.6%, resulting in a1.8% increase in adjusted operating expenses on a constant currency basis.
+
+Results of SYGMA and Other Segment
+
+For SYGMA, sales were5.3% and8.1% lower in the second quarter and first26 weeks of fiscal2020, respectively, as compared to the second quarter and first26 weeks of fiscal2019, primarily from a decline in case volume due to the exit of certain customers during the first26 weeks of fiscal 2020, as we remain disciplined and focused on improving the profitability of our portfolio of customers, resulting in gross margin growth of62 basis points and67 basis points, respectively. Operating income 
+increased by$6.7 million and$11.9 million in the second quarter and first26 weeks of fiscal2020, respectively, as compared to the second quarter and first26 weeks of fiscal2019, due to our focus on business and routing optimization.
+
+For the operations that are grouped within Other, operating income increased64.4%, or$3.7 million, in the second quarter of fiscal2020, as compared to the second quarter of fiscal2019. Operating income increased21.7%, or$3.5 million, in the first26 weeks of fiscal2020, as compared to the first26 weeks of fiscal2019. The increase was primarily attributable to improved results from Sysco Labs. Guest Supply gross profit increased5.0% and 2.0% in the second quarter and first26 weeks of fiscal2020, 
+respectively, as the business continued to address cost challenges.
+
+Corporate Expenses
+
+Corporate expenses in the second quarter of fiscal2020 decreased$1.3 million, or0.5%, as compared to the second quarter of fiscal2019, primarily due to a decrease in expenses related to our business technology initiatives. Corporate expenses in the first26 weeks of fiscal2020 decreased$4.4 million, or0.8%, as compared to the first26 weeks of fiscal2019, primarily due to a decrease in expenses related to our business technology initiatives, along with lower pay-related expenses, partly driven by 
+our Corporate office expense initiatives. Corporate expenses, on an adjusted basis, increased$21.6 million, or9.8%, and$30.6 million, or6.8% as compared to the second quarter and first26 weeks of fiscal2019, respectively. This increase is primarily due to costs associated with liability claims and expenses from the strike that occurred in Denver.
+
+Included in corporate expenses are Certain Items that totaled$30.6 million and$53.4 million in the second quarter and first26 weeks of fiscal2020, respectively, as compared to$53.5 million and$88.4 million in the second quarter and first26 weeks of fiscal2019, respectively. Certain Items impacting the second quarter and first26 weeks of fiscal2020 and fiscal2019 were primarily expenses associated with our various transformation initiatives. Certain Items in the second quarter and first26 weeks 
+of fiscal2019 also included severance charges.
+
+Interest Expense
+
+Interest expense decreased$10.4 million and$16.0 million for the second quarter and first26 weeks of fiscal2020, as compared to the second quarter and first26 weeks of fiscal2019, respectively, primarily due to a favorable comparison to the prior year attributable to lower floating interest rates and higher floating debt balances.
+
+Net Earnings
+
+Net earnings increased43.4% and19.9% in the second quarter and first26 weeks of fiscal2020, respectively, as compared to the second quarter and first26 weeks of the prior year, due primarily to the items noted above for operating income and interest expense, as well as items impacting our income taxes that are discussed inNote 13,“Income Taxes,” in the Notes to Consolidated Financial Statements in Item 1 of Part I.
+
+Adjusted net earnings, excluding Certain Items, increased11.3% in the second quarter of fiscal2020, primarily due to gross profit growth and a decline in operating expense, partially offset by an unfavorable tax expense comparison to the prior year. Adjusted net earnings, excluding Certain Items, increased8.6% in the first26 weeks of fiscal2020, primarily due to gross profit growth, partially offset by an unfavorable tax expense comparison to the prior year.
+
+Earnings Per Share
+
+Basic earnings per share in the second quarter of fiscal2020 were$0.75, a44.2% increase from the comparable prior year period amount of$0.52 per share. Diluted earnings per share in the second quarter of fiscal2020 were$0.74, a45.9% increase from the comparable prior year period amount of$0.51 per share. Adjusted diluted earnings per share, excluding Certain Items, in the second quarter of fiscal2020 were$0.85, an13.2% increase from the comparable prior year period amount of$0.75 per share. 
+These results were primarily attributable to the factors discussed above related to net earnings in the second quarter of fiscal2020.
+
+Basic earnings per share in the first26 weeks of fiscal2020 were$1.64, a22.4% increase from the comparable prior year period amount of$1.34 per share. Diluted earnings per share in the first26 weeks of fiscal2020 were$1.62, a22.1% increase from the comparable prior year period amount of$1.33 per share. Adjusted diluted earnings per share, excluding Certain Items, in the first26 weeks of fiscal2020 were$1.83, a10.7% increase from the comparable prior year period amount of$1.66 per share. These 
+results were primarily attributable to the factors discussed above related to net earnings in the first26 weeks of fiscal2020.
+
+Non-GAAP Reconciliations
+
+Sysco’s results of operations for fiscal2020 and fiscal2019 were impacted by restructuring and transformational project costs consisting of: (1) expenses associated with our various transformation initiatives; (2) severance and facility closure charges; and (3) restructuring charges. All acquisition-related costs in the first26 weeks of fiscal2020 and fiscal2019 that have been designated as Certain Items relate to the Brakes Acquisition. These include acquisition-related intangible amortization 
+expense. In addition, results of operations in the first26 weeks of fiscal 2019 were negatively affected by acquisition-related integration costs specific to the Brakes Acquisition and the impact of recognizing a foreign tax credit.
+
+The results of our foreign operations can be impacted due to changes in exchange rates applicable in converting local currencies to U.S. dollars. We measure our International Foodservice Operations results on a constant currency basis. Constant currency operating results are calculated by translating current-period local currency operating results with the currency exchange rates used to translate the financial statements in the comparable prior-year period to determine what the current-period 
+U.S. dollar operating results would have been if the currency exchange rate had not changed from the comparable prior-year period.
+
+Management believes that adjusting its operating expenses, operating income, net earnings and diluted earnings per share to remove these Certain Items and presenting its International Foodservice Operations results on a constant currency basis, provides an important perspective with respect to our underlying business trends and results and provides meaningful supplemental information to both management and investors that (1) is indicative of the performance of the company’s underlying 
+operations, facilitating comparisons on a year-over-year basis and (2) removes those items that are difficult to predict and are often unanticipated and that, as a result, are difficult to include in analysts’ financial models and our investors’ expectations with any degree of specificity.
+
+Although Sysco has a history of growth through acquisitions, the Brakes Group was significantly larger than the companies historically acquired by Sysco, with a proportionately greater impact on Sysco’s consolidated financial statements. Accordingly, Sysco is excluding from its non-GAAP financial measures for the relevant period solely those acquisition costs specific to the Brakes Acquisition. We believe this approach significantly enhances the comparability of Sysco’s results for fiscal2020 
+and fiscal2019.
+
+Set forth below is a reconciliation of sales, operating expenses, operating income, interest expense, net earnings and diluted earnings per share to adjusted results for these measures for the periods presented. Individual components of diluted earnings per share may not add up to the total presented due to rounding. Adjusted diluted earnings per share is calculated using adjusted net earnings divided by diluted shares outstanding.
+
+                                                                          13-Week Period Ended Dec. 28, 2019                                    13-Week Period Ended Dec. 29, 2018                     Change in Dollars                   % Change  
+ ─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+                                                                          (Dollars in thousands, except for per share data)                                                                                                                          
+  Operating expenses (GAAP)                                               $                                                      2,275,906      $                                       2,319,817      $                      (43,911          (1.9  
+  Impact of restructuring and transformational project costs (1)                                                                   (57,105                                               (134,436                              77,331         (57.5  
+  Impact of acquisition-related costs (2)                                                                                          (17,312                                                (17,008      (304                                     1.8  
+  Operating expenses adjusted for Certain Items (Non-GAAP)                $                                                      2,201,489      $                                       2,168,373      $                       33,116           1.5  
+  Operating income (GAAP)                                                 $                                                        552,493      $                                         451,895      $                      100,598          22.3  
+  Impact of restructuring and transformational project costs (1)                                                                    57,105                                                134,436                             (77,331         (57.5  
+  Impact of acquisition-related costs (2)                                                                                           17,312                                                 17,008      304                                      1.8  
+  Operating income adjusted for Certain Items (Non-GAAP)                  $                                                        626,910      $                                         603,339      $                       23,571           3.9  
+  Net earnings (GAAP)                                                     $                                                        383,410      $                                         267,380      $                      116,030          43.4  
+  Impact of restructuring and transformational project costs (1)                                                                    57,105                                                134,436                             (77,331         (57.5  
+  Impact of acquisition-related costs (2)                                                                                           17,312                                                 17,008      304                                      1.8  
+  Tax impact of restructuring and transformational project costs (3)                                                               (15,372                                                (34,886                              19,514         (55.9  
+  Tax impact of acquisition-related costs (3)                                                                                       (4,658                                                 (5,611      953                                    (17.0  
+  Impact of US transition tax                                             —                                                                                                                15,154                             (15,154            NM  
+  Net earnings adjusted for Certain Items (Non-GAAP)                      $                                                        437,797      $                                         393,481      $                       44,316          11.3  
+  Diluted earnings per share (GAAP)                                       $                                                           0.74      $                                            0.51      $                         0.23          45.9  
+  Impact of restructuring and transformational project costs (1)          0.11                                                                  0.26                                                   (0.15                                  (57.7  
+  Impact of acquisition-related costs (2)                                 0.03                                                                  0.03                                                   —                                         NM  
+  Tax impact of restructuring and transformational project costs (3)      (0.03                                                                 (0.07                                                  0.04                                   (57.1  
+  Tax impact of acquisition-related costs (3)                             (0.01                                                                 (0.01                                                  —                                         NM  
+  Impact of US transition tax                                             —                                                                     0.03                                                   (0.03                                     NM  
+  Diluted EPS adjusted for Certain Items (Non-GAAP) (4)                   $                                                           0.85      $                                            0.75      $                         0.10          13.2  
+
+  (1)      Fiscal 2020 includes $34 million related to various transformation initiative costs, primarily consisting of changes to our business technology strategy, and $23 million related to restructurin...  
+
+  (2)      Fiscal 2020 and fiscal 2019 each include $17 million related to intangible amortization expense from the Brakes Acquisition, which is included in the results of International Foodservice.  
+
+  (3)      The tax impact of adjustments for Certain Items are calculated by multiplying the pretax impact of each Certain Item by the statutory rates in effect for each jurisdiction where the Certain Ite...  
+
+  (4)      Individual components of diluted earnings per share may not add up to the total presented due to rounding. Total diluted earnings per share is calculated using adjusted net earnings divided by ...  
+
+NM represents that the percentage change is not meaningful.
+
+                                                                          26-Week Period Ended Dec. 28, 2019                                              26-Week Period Ended Dec. 29, 2018                     Change in Dollars                   % Change  
+ ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+                                                                          (Dollars in thousands, except for share and per share data)                                                                                                                          
+  Operating expenses (GAAP)                                               $                                                                4,550,958      $                                       4,595,462      $                      (44,504          (1.0  
+  Impact of restructuring and transformational project costs (1)                                                                            (113,827                                               (175,339                              61,512         (35.1  
+  Impact of acquisition-related costs (2)                                                                                                    (34,222                                                (39,645                               5,423         (13.7  
+  Operating expenses adjusted for Certain Items (Non-GAAP)                $                                                                4,402,909      $                                       4,380,478      $                       22,431           0.5  
+  Operating income (GAAP)                                                 $                                                                1,220,811      $                                       1,080,035      $                      140,776          13.0  
+  Impact of restructuring and transformational project costs (1)                                                                             113,827                                                175,339                             (61,512         (35.1  
+  Impact of acquisition-related costs (2)                                                                                                     34,222                                                 39,645                              (5,423         (13.7  
+  Operating income adjusted for Certain Items (Non-GAAP)                  $                                                                1,368,860      $                                       1,295,019      $                       73,841           5.7  
+  Net earnings (GAAP)                                                     $                                                                  837,191      $                                         698,422      $                      138,769          19.9  
+  Impact of restructuring and transformational project costs (1)                                                                             113,827                                                175,339                             (61,512         (35.1  
+  Impact of acquisition-related costs (2)                                                                                                     34,222                                                 39,645                              (5,423         (13.7  
+  Tax impact of restructuring and transformational project costs (3)                                                                         (29,294                                                (45,560                              16,266         (35.7  
+  Tax impact of acquisition-related costs (3)                                                                                                 (8,807                                                (10,302                               1,495         (14.5  
+  Impact of US transition tax                                             —                                                                                                                          15,154                             (15,154            NM  
+  Impact of French tax rate change                                        924                                                                             —                                                      924                                       NM  
+  Net earnings adjusted for Certain Items (Non-GAAP)                      $                                                                  948,063      $                                         872,698      $                       75,365           8.6  
+  Diluted earnings per share (GAAP)                                       $                                                                     1.62      $                                            1.33      $                         0.29          22.1  
+  Impact of restructuring and transformational project costs (1)          0.22                                                                            0.33                                                   (0.11                                  (33.3  
+  Impact of acquisition-related costs (2)                                 0.07                                                                            0.08                                                   (0.01                                  (12.5  
+  Tax impact of restructuring and transformational project costs (3)      (0.06                                                                           (0.09                                                  0.03                                   (33.3  
+  Tax impact of acquisition-related costs (3)                             (0.02                                                                           (0.02                                                  —                                         NM  
+  Impact of US transition tax                                             —                                                                               0.03                                                   (0.03                                     NM  
+  Diluted EPS adjusted for Certain Items (Non-GAAP) (4)                   $                                                                     1.83      $                                            1.66      $                         0.17          10.7  
+
+  (1)      Fiscal 2020 includes $62 million related to various transformation initiative costs, primarily consisting of changes to our business technology strategy, and $52 million related to severance, r...  
+
+  (2)      Fiscal 2020 and fiscal 2019 include $34 million and $39 million, respectively, related to intangible amortization expense from the Brakes Acquisition, which is included in the results of Intern...  
+
+  (3)      The tax impact of adjustments for Certain Items are calculated by multiplying the pretax impact of each Certain Item by the statutory rates in effect for each jurisdiction where the Certain Ite...  
+
+  (4)      Individual components of diluted earnings per share may not add up to the total presented due to rounding. Total diluted earnings per share is calculated using adjusted net earnings divided by ...  
+
+NM represents that the percentage change is not meaningful.
+
+Set forth below is a reconciliation by segment of actual operating expenses and operating income to adjusted results for these measures for applicable segments and corporate for the periods presented (dollars in thousands):
+
+                                                                                                           13-Week Period Ended Dec. 28, 2019                     13-Week Period Ended Dec. 29, 2018                     Change in Dollars                   % Change  
+ ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  U.S. FOODSERVICE OPERATIONS                                                                                                                                                                                                                                          
+  Operating expenses (GAAP)                                                                                $                                       1,280,128      $                                       1,264,342      $                       15,786           1.2  
+  Impact of restructuring and transformational project costs (1)                                                                                      (3,679      —                                                                              (3,679            NM  
+  Operating expenses adjusted for Certain Items (Non-GAAP)                                                 $                                       1,276,449      $                                       1,264,342      $                       12,107           1.0  
+  Operating income (GAAP)                                                                                  $                                         768,777      $                                         737,477      $                       31,300           4.2  
+  Impact of restructuring and transformational project costs (1)                                                                                       3,679      —                                                                               3,679            NM  
+  Operating income adjusted for Certain Items (Non-GAAP)                                                   $                                         772,456      $                                         737,477      $                       34,979           4.7  
+  INTERNATIONAL FOODSERVICE OPERATIONS                                                                                                                                                                                                                                 
+  Sales (GAAP)                                                                                             $                                       2,890,053      $                                       2,890,598      $                         (545            NM  
+  Impact of currency fluctuations (2)                                                                                                                 25,289      —                                                                              25,289           0.9  
+  Comparable sales using a constant currency basis (Non-GAAP)                                              $                                       2,915,342      $                                       2,890,598      $                       24,744           0.9  
+  Gross Profit (GAAP)                                                                                      $                                         586,039      $                                         589,922      $                       (3,883          (0.7  
+  Impact of currency fluctuations (2)                                                                                                                  6,037      —                                                                               6,037           1.0  
+  Comparable gross profit using a constant currency basis (Non-GAAP)                                       $                                         592,076      $                                         589,922      $                        2,154           0.4  
+  Gross Margin (GAAP)                                                                                      20.28                                                  20.41                                                                                       -13 bps  
+  Impact of currency fluctuations (2)                                                                      0.03                                                   —                                                                                             3 bps  
+  Comparable gross margin using a constant currency basis (Non-GAAP)                                       20.31                                                  20.41                                                                                       -10 bps  
+  Operating expenses (GAAP)                                                                                $                                         551,158      $                                         604,839      $                      (53,681          (8.9  
+  Impact of restructuring and transformational project costs (3)                                                                                     (21,850                                                (81,020                              59,170         (73.0  
+  Impact of acquisition-related costs (4)                                                                                                            (17,312                                                (16,947      (365                                     2.2  
+  Operating expenses adjusted for Certain Items (Non-GAAP)                                                 $                                         511,996      $                                         506,872      $                        5,124           1.0  
+  Impact of currency fluctuations (2)                                                                                                                  6,272      —                                                                               6,272           1.2  
+  Comparable operating expenses adjusted for Certain Items using a constant currency basis (Non-GAAP)      $                                         518,268      $                                         506,872      $                       11,396           2.2  
+  Operating income (GAAP)                                                                                  $                                          34,881      $                                         (14,917      $                       49,798            NM  
+  Impact of restructuring and transformational project costs (3)                                                                                      21,850                                                 81,020                             (59,170         (73.0  
+  Impact of acquisition related costs (4)                                                                                                             17,312                                                 16,947      365                                      2.2  
+  Operating income adjusted for Certain Items (Non-GAAP)                                                   $                                          74,043      $                                          83,050      $                       (9,007         (10.8  
+  Impact of currency fluctuations (2)                                                                      (235                                                   —                                                      (235                                    (0.3  
+  Comparable operating income adjusted for Certain Items using a constant currency basis (Non-GAAP)        $                                          73,808      $                                          83,050      $                       (9,242         (11.1  
+  SYGMA                                                                                                                                                                                                                                                                
+  Operating expenses (GAAP)                                                                                $                                         114,378      $                                         118,423      $                       (4,045          (3.4  
+  Impact of restructuring and transformational project costs (5)                                           (956                                                   —                                                      (956                                      NM  
+  Operating expenses adjusted for Certain Items (Non-GAAP)                                                 $                                         113,422      $                                         118,423      $                       (5,001          (4.2  
+
+  Operating income (GAAP)                                             $           9,861      $           3,114      $          6,747      NM     
+  Impact of restructuring and transformational project costs (5)      956                    —                      956                   NM     
+  Operating income adjusted for Certain Items (Non-GAAP)              $          10,817      $           3,114      $          7,703      NM     
+  CORPORATE                                                                                                                                      
+  Operating expenses (GAAP)                                           $         273,139      $         274,430      $         (1,291      (0.5   
+  Impact of restructuring and transformational project costs (6)                (30,620                (53,416                22,796      (42.7  
+  Impact of acquisition-related costs (7)                             —                      (61                    61                    NM     
+  Operating expenses adjusted for Certain Items (Non-GAAP)            $         242,519      $         220,953      $         21,566      9.8    
+  Operating income (GAAP)                                             $        (270,429      $        (279,497      $          9,068      (3.2   
+  Impact of restructuring and transformational project costs (6)                 30,620                 53,416               (22,796      (42.7  
+  Impact of acquisition-related costs (7)                             —                      61                     (61                   NM     
+  Operating income adjusted for Certain Items (Non-GAAP)              $        (239,809      $        (226,020      $        (13,789      6.1    
+
+* Segment has no applicable Certain Items
+
+  (1)      Includes charges related to business transformation projects.  
+
+  (2)      Represents a constant currency adjustment, which eliminates the impact of foreign currency fluctuations on current year results.  
+
+  (3)      Includes restructuring, facility closure and severance costs primarily in Europe and Canada.  
+
+  (4)      Fiscal 2020 and fiscal 2019 each include $17 million related to intangible amortization expense from the Brakes Acquisition.  
+
+  (5)      Includes charges related to facility closures and other restructuring charges.  
+
+  (6)      Fiscal 2020 and fiscal 2019 include various transformation initiative costs, primarily consisting of changes to our business technology strategy and severance charges related to restructuring.  
+
+  (7)      Fiscal 2019 includes integration costs from the Brakes Acquisition.  
+
+NM represents that the percentage change is not meaningful.
+
+Set forth below is a reconciliation by segment of actual operating expenses and operating income to adjusted results for these measures for applicable segments and corporate for the periods presented (dollars in thousands):
+
+                                                                      26-Week Period Ended Dec. 28, 2019                     26-Week Period Ended Dec. 29, 2018                     Change in Dollars                   % Change  
+ ──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  U.S. FOODSERVICE OPERATIONS                                                                                                                                                                                                     
+  Operating expenses (GAAP)                                           $                                       2,563,608      $                                       2,538,811      $                       24,797           1.0  
+  Impact of restructuring and transformational project costs (1)                                                 (7,805      —                                                                              (7,805            NM  
+  Operating expenses adjusted for Certain Items (Non-GAAP)            $                                       2,555,803      $                                       2,538,811      $                       16,992           0.7  
+  Operating income (GAAP)                                             $                                       1,630,183      $                                       1,553,235      $                       76,948           5.0  
+  Impact of restructuring and transformational project costs (1)                                                  7,805      —                                                                               7,805            NM  
+  Operating income adjusted for Certain Items (Non-GAAP)              $                                       1,637,988      $                                       1,553,235      $                       84,753           5.5  
+  INTERNATIONAL FOODSERVICE OPERATIONS                                                                                                                                                                                            
+  Sales (GAAP)                                                        $                                       5,802,441      $                                       5,811,548      $                       (9,107          (0.2  
+  Impact of currency fluctuations (2)                                                                           122,438      —                                                                             122,438           2.1  
+  Comparable sales using a constant currency basis (Non-GAAP)         $                                       5,924,879      $                                       5,811,548      $                      113,331           2.0  
+  Gross Profit (GAAP)                                                 $                                       1,191,224      $                                       1,205,427      $                      (14,203          (1.2  
+
+  Impact of currency fluctuations (2)                                                                                 29,054      —                                   29,054        2.4  
+  Comparable gross profit using a constant currency basis (Non-GAAP)                                       $       1,220,278      $         1,205,427      $          14,851        1.2  
+  Operating expenses (GAAP)                                                                                $       1,101,543      $         1,153,572      $         (52,029       (4.5  
+  Impact of restructuring and transformational project costs (3)                                                     (49,122                  (87,746                 38,624      (44.0  
+  Impact of acquisition-related costs (4)                                                                            (34,222                  (38,846                  4,624      (11.9  
+  Operating expenses adjusted for Certain Items (Non-GAAP)                                                 $       1,018,199      $         1,026,980      $          (8,781       (0.9  
+  Impact of currency fluctuations (2)                                                                                 26,959      —                                   26,959        2.6  
+  Comparable operating expenses adjusted for Certain Items using a constant currency basis (Non-GAAP)      $       1,045,158      $         1,026,980      $          18,178        1.8  
+  Operating income (GAAP)                                                                                  $          89,681      $            51,855      $          37,826       72.9  
+  Impact of restructuring and transformational project costs (3)                                                      49,122                   87,746                (38,624      (44.0  
+  Impact of acquisition related costs (4)                                                                             34,222                   38,846                 (4,624      (11.9  
+  Operating income adjusted for Certain Items (Non-GAAP)                                                   $         173,025      $           178,447      $          (5,422       (3.0  
+  Impact of currency fluctuations (2)                                                                                  2,095      —                                    2,095        1.2  
+  Comparable operating income adjusted for Certain Items using a constant currency basis (Non-GAAP)        $         175,120      $           178,447      $          (3,327       (1.9  
+  SYGMA                                                                                                                                                                                  
+  Operating expenses (GAAP)                                                                                $         232,726      $           245,318      $         (12,592       (5.1  
+  Impact of restructuring and transformational project costs (5)                                                      (3,540      —                                   (3,540         NM  
+  Operating expenses adjusted for Certain Items (Non-GAAP)                                                 $         229,186      $           245,318      $         (16,132       (6.6  
+  Operating income (GAAP)                                                                                  $          17,431      $             5,545      $          11,886         NM  
+  Impact of restructuring and transformational project costs (5)                                                       3,540      —                                    3,540         NM  
+  Operating income adjusted for Certain Items (Non-GAAP)                                                   $          20,971      $             5,545      $          15,426         NM  
+  CORPORATE                                                                                                                                                                              
+  Operating expenses (GAAP)                                                                                $         534,371      $           538,778      $          (4,407       (0.8  
+  Impact of restructuring and transformational project costs (6)                                                     (53,360                  (87,593                 34,233      (39.1  
+  Impact of acquisition-related costs (7)                                                                  —                      (799                     799                       NM  
+  Operating expenses adjusted for Certain Items (Non-GAAP)                                                 $         481,011      $           450,386      $          30,625        6.8  
+  Operating income (GAAP)                                                                                  $        (536,024      $          (546,653      $          10,629       (1.9  
+  Impact of restructuring and transformational project costs (6)                                                      53,360                   87,593                (34,233      (39.1  
+  Impact of acquisition-related costs (7)                                                                  —                      799                      (799                      NM  
+  Operating income adjusted for Certain Items (Non-GAAP)                                                   $        (482,664      $          (458,261      $         (24,403        5.3  
+
+* Segment has no applicable Certain Items
+
+  (1)      Includes charges related to business transformation projects.  
+
+  (2)      Represents a constant currency adjustment, which eliminates the impact of foreign currency fluctuations on current year results.  
+
+  (3)      Includes restructuring, severance and facility closure costs in Europe and Canada.  
+
+  (4)      Fiscal 2020 and fiscal 2019 include $34 million and $39 million, respectively, related to intangible amortization expense from the Brakes Acquisition.  
+
+  (5)      Includes charges related to facility closures and other restructuring charges.  
+
+  (6)      Fiscal 2020 and fiscal 2019 include various transformation initiative costs, primarily consisting of changes to our business technology strategy. Fiscal 2019 includes $17 million of accelerated...  
+
+  (7)      Fiscal 2019 includes integration costs from the Brakes Acquisition.  
+
+NM represents that the percentage change is not meaningful.
+
+Three-Year Financial Targets
+
+Sysco management considers adjusted return on invested capital (ROIC) to be a measure that provides useful information to management and investors in evaluating the efficiency and effectiveness of the company’s long-term capital investments. In addition, we have targets and expectations that are based on adjusted results, including an adjusted ROIC target of16% under our three-year plan. We cannot predict with certainty whether or when we will achieve these results or whether the calculation of 
+our ROIC in such future periods will be on an adjusted basis due to the effect of Certain Items, which would be excluded from such calculation. Due to these uncertainties, to the extent our future calculation of ROIC is on an adjusted basis excluding Certain Items, we cannot provide a quantitative reconciliation of this non-GAAP measure to the most directly comparable GAAP measure without unreasonable effort. However, we would expect to calculate adjusted ROIC, if applicable, in the same manner 
+as we have historically calculated this measure. All components of our adjusted ROIC calculation would be impacted by Certain Items. We calculate adjusted ROIC as adjusted net earnings divided by (i) stockholders’ equity, computed as the average of adjusted stockholders’ equity at the beginning of the year and at the end of each fiscal quarter during the year; and (ii) long-term debt, computed as the average of the long-term debt at the beginning of the year and at the end of each fiscal quarter
+during the year.
+
+  Form of calculation:                     
+  Net earnings (GAAP)                      
+  Impact of Certain Items on net earnings  
+  Adjusted net earnings (Non-GAAP)         
+  Invested Capital (GAAP)                  
+  Adjustments to invested capital          
+  Adjusted Invested capital (Non-GAAP)     
+  Return on invested capital (GAAP)        
+  Return on invested capital (Non-GAAP)    
+
+Additional targets and expectations include our adjusted operating income and adjusted diluted earnings per share targets that we expect to achieve by the end of fiscal 2020 under our three-year plan. We have revised the expected growth rates for these targets within our three-year plan, and, although there are uncertainties in projecting Certain Items for the remainder of fiscal 2020, we have modeled a reconciliation of these non-GAAP measures to the most directly comparable GAAP measures based
+on our forecasted full year results. We have calculated these adjusted forecasted results in the same manner as the reconciliations provided for historical periods presented herein. Nevertheless, the impact of future Certain Items could cause projected non-GAAP amounts to differ significantly from our GAAP results. Future results may differ from our expectations set forth in the table below as expressed in the forward-looking statements identified within Part I, Item 2 “Management’s Discussion 
+and Analysis of Financial Condition and Results of Operations - Forward-Looking Statements.”
+
+Fiscal 2018 - Fiscal 2020 Three-Year Plan Projection
+
+                                                                              Year Ended                                                                                                              
+                                                                              June 27, 2020                     July 1, 2017                     3-year Plan Change $ Results                   CAGR  
+ ──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Operating income (GAAP)                                                     $                  2,539,614      $                 2,054,616      $                                 484,998       7.3  
+  Impact of restructuring and transformational project costs                                       257,340                          161,011                                         96,329            
+  Impact of acquisition-related costs                                                               68,822                          102,049                                        (33,227            
+  Impact of MEPP charge                                                       —                                                      35,600                                        (35,600            
+  Operating income adjusted for Certain Items (Non-GAAP) (1)                  $                  2,865,776      $                 2,353,276      $                                 512,500       6.8  
+  Diluted earnings per share (GAAP)                                           $                       3.31      $                      2.08      $                                    1.23      16.7  
+  Impact of restructuring and transformational project costs, net of tax      0.39                              0.20                             0.19                                                 
+  Impact of acquisition-related costs, net of tax                             0.10                              0.16                             (0.06                                                
+  Impact of MEPP charge, net of tax                                           —                                 0.04                             (0.04                                                
+  Diluted EPS adjusted for Certain Items (Non-GAAP) (1)(2)                    $                       3.81      $                      2.48      $                                    1.32      15.4  
+
+(1) The forecasted adjusted operating income and adjusted diluted EPS targets for fiscal 2020 represents the expected result required to achieve the mid-point of the fiscal 2018 to fiscal 2020 adjusted operating income growth target range of approximately $500 million to $525 million.
+
+(2) Individual components of diluted earnings per share may not add up to the total presented due to rounding. Total diluted earnings per share is calculated using adjusted net earnings divided by diluted shares outstanding.
+
+Liquidity and Capital Resources
+
+Highlights
+
+Below are comparisons of the cash flows from the first26 weeks of fiscal2020 to the first26 weeks of fiscal2019:
+
+  Cash flows from operations were $754.5 million in fiscal 2020, compared to $917.8 million in fiscal 2019;  
+
+  Net capital expenditures totaled $383.1 million in fiscal 2020, compared to $216.9 million in fiscal 2019;  
+
+  Free cash flow was $371.4 million in fiscal 2020, compared to free cash flow of $700.9 million in fiscal 2019 (see below under the heading “Free Cash Flow” for an explanation of this non-GAAP f...  
+
+  There were $721.4 million of commercial paper issuances and net bank borrowings in fiscal 2020, compared to $109.9 million commercial paper issuances and net bank borrowings in fiscal 2019;  
+
+  Dividends paid were $399.1 million in fiscal 2020, compared to $379.2 million in fiscal 2019; and  
+
+  Cash paid for treasury stock repurchases was $630.4 million in fiscal 2020, compared to $739.2 million in fiscal 2019.  
+
+Sources and Uses of Cash
+
+Sysco’s strategic objectives include continuous investment in our business; these investments are funded by a combination of cash from operations and access to capital from financial markets. Our operations historically have produced significant cash flow. Cash generated from operations is generally allocated to:
+
+  working capital requirements;  
+
+  investments in facilities, systems, fleet, other equipment and technology;  
+
+  cash dividends;  
+
+  acquisitions compatible with our overall growth strategy;  
+
+  contributions to our various retirement plans; and  
+
+  debt repayments and share repurchases.  
+
+Any remaining cash generated from operations may be invested in high-quality, short-term instruments. As a part of our ongoing strategic analysis, we regularly evaluate business opportunities, including potential acquisitions and sales of assets and businesses, and our overall capital structure. Any transactions resulting from these evaluations may materially impact our liquidity, borrowing capacity, leverage ratios and capital availability.
+
+We continue to generate substantial cash flows from operations and remain in a strong financial position; however, our liquidity and capital resources can be influenced by economic trends and conditions that impact our results of operations. We believe our mechanisms to manage working capital, such as credit monitoring, optimizing inventory levels and maximizing payment terms with vendors, and our mechanisms to manage the items impacting our gross profits have been sufficient to limit a 
+significant unfavorable impact on our cash flows from operations. We believe these mechanisms will continue to prevent a significant unfavorable impact on our cash flows from operations. Seasonal trends also impact our cash flows from operations and free cash flow, as we use more cash earlier in the fiscal year and then see larger, sequential quarterly increases throughout the remainder of the year.
+
+As ofDecember 28, 2019, we had$524.6 million in cash and cash equivalents, approximately59% of which was held by our international subsidiaries and generated from our earnings of international operations. If these earnings were to be transferred among countries or repatriated to the U.S., such amounts may become subject to withholding and additional foreign tax obligations. Additionally, Sysco Corporation has provided intercompany loans to certain of its international subsidiaries, and when 
+interest and principal payments are made, some of this cash will move to the U.S.
+
+Our wholly owned captive insurance subsidiary (the Captive), must maintain a sufficient level of liquidity to fund future reserve payments. As ofDecember 28, 2019, the Captive held$122.9 million of fixed income marketable securities and$46.9 million of restricted cash and restricted cash equivalents in a restricted investment portfolio in order to meet solvency requirements. We purchased$11.4 million in marketable securities in fiscal2020 and received$9.0 million in proceeds from the sale of 
+marketable securities in fiscal2020.
+
+We believe the following sources will be sufficient to meet our anticipated cash requirements for the next twelve months, while maintaining sufficient liquidity for normal operating purposes:
+
+  our cash flows from operations;  
+
+  the availability of additional capital under our existing commercial paper programs, supported by our revolving credit facility and bank line of credit; and  
+
+  our ability to access capital from financial markets, including issuances of debt securities, either privately or under our shelf registration statement filed with the Securities and Exchange C...  
+
+Due to our strong financial position, we believe that we will continue to be able to effectively access the commercial paper market and long-term capital markets, if necessary.
+
+Cash Flows
+
+Operating Activities
+
+We generated$754.5 million in cash flows from operations in the first26 weeks of fiscal2020, compared to cash flows of$917.8 million in the first26 weeks of fiscal2019. These amounts include year-over-year unfavorable comparisons on working capital, partially offset by a favorable comparison on accrued income taxes.
+
+Changes in working capital had a negative impact of$421.8 million on cash flow from operations period-over-period. There was an unfavorable comparison on accounts payable, inventories and accounts receivable. The impact to accounts payable is primarily due to more timely payments to suppliers due to improved processes achieved through our Finance Transformation Project. Inventories increased primarily due to replenishment immediately after a holiday time period and the impact of inflation. 
+Accounts receivables increased primarily due to challenges in our collection efforts due to process changes that have occurred in our Finance Transformation Project and an increase in uncollectible accounts.
+
+Seasonal trends also impact our cash flows from operating activities, as we typically use more cash earlier in the fiscal year and then see larger, sequential quarterly increases throughout the remainder of the year. Normally, our U.S. tax payments are greater in the second quarter of each fiscal year. In fiscal 2020, due to relief provided in connection with the impact of Tropical
+
+Storm Imelda, our tax payments were not made until our third quarter of fiscal 2020, resulting in a one-quarter deferral and, therefore, lower tax payments in the first 26 weeks of fiscal 2020.
+
+Investing Activities
+
+Our capital expenditures in the first26 weeks of fiscal2020 primarily consisted of facility replacements and expansions, fleet, technology equipment, and warehouse equipment. Our capital expenditures in the first26 weeks of fiscal2020 were higher by$169.6 million, as compared to the first26 weeks of fiscal2019, primarily due to timing of capital spend in the first 26 weeks of fiscal2019.
+
+During the first26 weeks of fiscal2020, we paid$142.8 million, net of cash acquired, for acquisitions. There were no such acquisitions made in the first 26 weeks of fiscal 2019.
+
+Free Cash Flow
+
+Free cash flow represents net cash provided from operating activities, less purchases of plant and equipment, plus proceeds from sales of plant and equipment. Sysco considers free cash flow to be a non-GAAP liquidity measure that provides useful information to management and investors about the amount of cash generated by the business after the purchases and sales of buildings, fleet, equipment and technology, which may potentially be used to pay for, among other things, strategic uses of cash, 
+including dividend payments, share repurchases and acquisitions. However, free cash flow may not be available for discretionary expenditures, as it may be necessary that we use it to make mandatory debt service or other payments. Our free cash flow for the first26 weeks of fiscal2020 decreased by$329.5 million, to$371.4 million, as compared to the first26 weeks of fiscal2019, principally as a result of year-over-year increased capital expenditures and a decrease in cash flows from operations.
+
+Free cash flow should not be used as a substitute for the most comparable GAAP measure in assessing the company’s liquidity for the periods presented. An analysis of any non-GAAP financial measure should be used in conjunction with results presented in accordance with GAAP. In the table that follows, free cash flow for each period presented is reconciled to net cash provided by operating activities.
+
+                                                        26-Week Period Ended Dec. 28, 2019                    26-Week Period Ended Dec. 29, 2018                
+                                                        (In thousands)                                                                                          
+ ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Net cash provided by operating activities (GAAP)      $                                        754,469      $                                        917,790  
+  Additions to plant and equipment                                                              (393,379                                              (223,825  
+  Proceeds from sales of plant and equipment                                                      10,293                                                 6,901  
+  Free Cash Flow (Non-GAAP)                             $                                        371,383      $                                        700,866  
+
+Financing Activities
+
+Equity Transactions
+
+Proceeds from exercises of share-based compensation awards were$141.7 million in the first26 weeks of fiscal2020, as compared to$137.9 million in the first26 weeks of fiscal2019. The level of option exercises, and thus proceeds, will vary from period to period and is largely dependent on movements in our stock price and the time remaining before option grants expire.
+
+We routinely engage in share repurchase programs to allow Sysco to continue offsetting dilution resulting from shares issued under the company’s benefit plans and to make opportunistic repurchases. In November 2017, our Board of Directors approved a repurchase program to authorize the repurchase of the company’s common stock not to exceed $1.5 billion through the end of fiscal 2020. In August 2019, our Board of Directors approved a separate repurchase program to authorize the repurchase of the 
+company’s common stock not to exceed$2.5 billion through the end of fiscal 2021. We repurchased8.1 million shares for$630.4 million during the first26 weeks of fiscal2020, compared to10.8 million shares repurchased in the first26 weeks of fiscal2019 for$739.2 million. We repurchased approximately569.6 thousand additional shares for$48.0 million throughJanuary 17, 2020, resulting in a remaining authorization of approximately$2.3 billion. The number of shares we repurchase during the remainder of 
+fiscal2020 will be dependent on many factors, including the level of future stock option exercises, as well as competing uses for available cash.
+
+Dividends paid in the first26 weeks of fiscal2020 were$399.1 million, or$0.78 per share, as compared to$379.2 million, or$0.72 per share, in the first26 weeks of fiscal2019. In November 2019, we declared our regular quarterly dividend for the second quarter of fiscal2020 of$0.45 per share, which was paid in January 2020.
+
+Debt Activity and Borrowing Availability
+
+Our debt activity, including issuances and repayments, and our borrowing availability is described inNote 8,“Debt,” in the Notes to Consolidated Financial Statements in Item 1 of Part I. Our outstanding borrowings atDecember 28, 2019, and repayment activity since the close of the second quarter of fiscal2020, are disclosed within that note. Updated amounts throughJanuary 17, 2020, include:
+
+  $924.3 million outstanding from our commercial paper program; and  
+
+  No amounts outstanding from the credit facility supporting our commercial paper program.  
+
+During the first26 weeks of fiscal2020 and2019, our aggregate commercial paper issuances and short-term bank borrowings had weighted average interest rates of2.09% and2.23%, respectively.
+
+Contractual Obligations
+
+Our2019 Form 10-K contains a table that summarizes our obligations and commitments to make specified contractual future cash payments as ofJune 29, 2019. SinceJune 29, 2019, there have been no material changes to our specified contractual obligations.
+
+Critical Accounting Policies and Estimates
+
+Critical accounting policies and estimates are those that are most important to the portrayal of our financial position and results of operations. These policies require our most subjective or complex judgments, often employing the use of estimates about the effect of matters that are inherently uncertain. We have reviewed with the Audit Committee of the Board of Directors the development and selection of the critical accounting policies and estimates and this related disclosure. Our most 
+critical accounting policies and estimates pertain to goodwill and intangible assets, the company-sponsored pension plans, income taxes and share-based compensation, which are described in Item 7 of our2019 Form 10-K.
+
+Forward-Looking Statements
+
+Certain statements made herein that look forward in time or express management’s expectations or beliefs with respect to the occurrence of future events are forward-looking statements under the Private Securities Litigation Reform Act of 1995. Forward-looking statements provide current expectations of future events based on certain assumptions and include any statement that does not directly relate to any historical or current fact. Forward-looking statements can also be identified by words such
+as “future,” “anticipates,” “believes,” “estimates,” “expects,” “intends,” “plans,” “predicts,” “will,” “would,” “could,” “can,” “may,” “projected,” “continues,” “continuously,” variations of such terms, and similar terms and phrases denoting anticipated or expected occurrences or results. Examples of forward-looking statements include, but are not limited to, statements about:
+
+  our expectations regarding improved operating income performance;  
+
+  our expectations regarding multiple transformation initiatives, including (i) the Finance Transformation Roadmap and our expectation that we will receive financial benefits from this initiative...  
+
+  our expectations regarding our ability to effectively centralize and standardize our business, including leveraging technology and strengthening Sysco overall;  
+
+  our expectations that our four strategic priorities, which include the customer experience, delivering operational excellence, optimizing the business and activating the power of our people, wi...  
+
+  projections of future performance under our three-year strategic financial plan, including, but not limited to, our expectation that we will reach approximately $500 million to $525 million of ...  
+
+  our forecasted results for our current three-year plan ending fiscal 2020;  
+
+  our expectations regarding the accelerated investments we are making related to our long-term strategic growth plans in Europe, and our expectations that such investments will enrich the custom...  
+
+  estimates regarding the outcome of legal proceedings;  
+
+  the impact of seasonal trends on our free cash flow;  
+
+  our expectations regarding the use of remaining cash generated from operations;  
+
+  estimates regarding our capital expenditures;  
+
+  our expectations regarding the impact of potential acquisitions and sales of assets on our liquidity, borrowing capacity, leverage ratios and capital availability;  
+
+  our expectations regarding the impact on our performance of the operational challenges facing our business in France;  
+
+  our expectations regarding GDP growth in France;  
+
+  our plans to focus on accelerating our business;  
+
+  our expectations regarding the impact of costs associated with the senior leadership change;  
+ ────────────────────────────────────────────────────────────────────────────────────────────────
+
+  our expectations regarding future accelerated growth and performance, and expectations regarding the impact on adjusted operating income of investment spending to achieve those goals;  
+
+  our expectations regarding trends in produce markets;  
+
+  our expectations regarding the calculation of adjusted return on invested capital, adjusted operating income, adjusted net earnings and adjusted diluted earnings per share;  
+
+  our expectations regarding the impact of future Certain Items on our projected future non-GAAP and GAAP results;  
+ ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+  the sufficiency of our mechanisms for managing working capital and competitive pressures, and our beliefs regarding the impact of these mechanisms;  
+
+  our ability to meet future cash requirements, including the ability to access financial markets effectively, including issuances of debt securities, and maintain sufficient liquidity;  
+
+  our ability to effectively access the commercial paper market and long-term capital markets;  
+
+  our intention to repay our long-term debt with cash on hand, cash flow from operations, issuances of commercial paper, issuances of senior notes, or a combination thereof; and  
+
+  our expectations regarding share repurchases.  
+
+These statements are based on management’s current expectations and estimates; actual results may differ materially due in part to the risk factors set forth below, those within 

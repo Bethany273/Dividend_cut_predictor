@@ -1,0 +1,142 @@
+Item 2. Management’s Discussion and Analysis of Financial Condition and Results of Operations
+
+Basis of Presentation This Management's Discussion and Analysis of Financial Condition and Results of Operations (MD&A) should be read in conjunction with the accompanying condensed consolidated financial statements and the notes thereto, and the audited consolidated financial statements and notes thereto included in our 2019 Form 10-K.
+
+Forward-looking statements in this MD&A are not guarantees of future performance and may involve risks and uncertainties that could cause actual results to differ materially from those projected. Refer to the "Forward-Looking Statements" section of this MD&A and Part 1, Item 1A. Risk Factors of our 2019 Form 10-K for a discussion of these risks and uncertainties. Except for per share amounts or as otherwise specified, dollar amounts presented within tables are stated in millions.
+
+Non-GAAP Measures Our non-GAAP measures include: EBIT-adjusted, presented net of noncontrolling interests; EBT-adjusted for our GM Financial segment; EPS-diluted-adjusted; effective tax rate-adjusted (ETR-adjusted); return on invested capital-adjusted (ROIC-adjusted) and adjusted automotive free cash flow. Our calculation of these non-GAAP measures may not be comparable to similarly titled measures of other companies due to potential differences between companies in the method of calculation. As
+a result, the use of these non-GAAP measures has limitations and should not be considered superior to, in isolation from, or as a substitute for, related U.S. GAAP measures.
+
+These non-GAAP measures allow management and investors to view operating trends, perform analytical comparisons and benchmark performance between periods and among geographic regions to understand operating performance without regard to items we do not consider a component of our core operating performance. Furthermore, these non-GAAP measures allow investors the opportunity to measure and monitor our performance against our externally communicated targets and evaluate the investment decisions 
+being made by management to improve ROIC-adjusted. Management uses these measures in its financial, investment and operational decision-making processes, for internal reporting and as part of its forecasting and budgeting processes. Further, our Board of Directors uses certain of these and other measures as key metrics to determine management performance under our performance-based compensation plans. For these reasons, we believe these non-GAAP measures are useful for our investors.
+
+EBIT-adjusted EBIT-adjusted is presented net of noncontrolling interests and is used by management and can be used by investors to review our consolidated operating results because it excludes automotive interest income, automotive interest expense and income taxes as well as certain additional adjustments that are not considered part of our core operations. Examples of adjustments to EBIT include, but are not limited to, impairment charges on long-lived assets and other exit costs resulting 
+from strategic shifts in our operations or discrete market and business conditions; costs arising from the ignition switch recall and related legal matters; and certain currency devaluations associated with hyperinflationary economies. For EBIT-adjusted and our other non-GAAP measures, once we have made an adjustment in the current period for an item, we will also adjust the related non-GAAP measure in any future periods in which there is an impact from the item. Our corresponding measure for 
+our GM Financial segment is EBT-adjusted because interest income and interest expense are part of operating results when assessing and measuring the operational and financial performance of the segment.
+
+EPS-diluted-adjusted EPS-diluted-adjusted is used by management and can be used by investors to review our consolidated diluted EPS results on a consistent basis. EPS-diluted-adjusted is calculated as net income attributable to common stockholders-diluted less adjustments noted above for EBIT-adjusted and certain income tax adjustments divided by weighted-average common shares outstanding-diluted. Examples of income tax adjustments include the establishment or reversal of significant deferred 
+tax asset valuation allowances.
+
+ETR-adjusted ETR-adjusted is used by management and can be used by investors to review the consolidated effective tax rate for our core operations on a consistent basis. ETR-adjusted is calculated as Income tax expense less the income tax related to the adjustments noted above for EBIT-adjusted and the income tax adjustments noted above for EPS-diluted-adjusted divided by Income before income taxes less adjustments. When we provide an expected adjusted effective tax rate, we do not provide an 
+expected effective tax rate because the U.S. GAAP measure may include significant adjustments that are difficult to predict.
+
+ROIC-adjusted ROIC-adjusted is used by management and can be used by investors to review our investment and capital allocation decisions. We define ROIC-adjusted as EBIT-adjusted for the trailing four quarters divided by ROIC-adjusted average net assets, which is considered to be the average equity balances adjusted for average automotive debt and interest liabilities, exclusive of finance leases; average automotive net pension and OPEB liabilities; and average automotive net income tax assets 
+during the same period.
+
+
+GENERAL MOTORS COMPANY AND SUBSIDIARIES
+
+Adjusted automotive free cash flow Adjusted automotive free cash flow is used by management and can be used by investors to review the liquidity of our automotive operations and to measure and monitor our performance against our capital allocation program and evaluate our automotive liquidity against the substantial cash requirements of our automotive operations. We measure adjusted automotive free cash flow as automotive operating cash flow from operations less capital expenditures adjusted for
+management actions. Management actions can include voluntary events such as discretionary contributions to employee benefit plans or nonrecurring specific events such as a closure of a facility that are considered special for EBIT-adjusted purposes. Refer to the "Liquidity and Capital Resources" section of this MD&A for additional information.
+
+The following table reconciles Net income (loss) attributable to stockholders under U.S. GAAP to EBIT (loss)-adjusted:
+
+                                                      Three Months Ended                                                                                  
+                                                      September 30,                      June 30,                 March 31,                 December 31,  
+                                                      2020                    2019       2020          2019       2020           2019       2019          
+ ──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Net income (loss) attributable to stockholders      $                       $          $             $          $              $          $             
+  Income tax expense (benefit)                        887                     271        (112)         524        357            137        (163)         
+  Automotive interest expense                         327                     206        303           195        193            181        200           
+  Automotive interest income                          (51)                    (129)      (61)          (106)      (83)           (98)       (96)          
+  Adjustments                                                                                                                                             
+  GMI restructuring(a)                                76                      —          92            —          489            —          —             
+  Transformation activities(b)                        —                       390        —             361        —              790        194           
+  GM Brazil indirect tax recoveries(c)                —                       (123)      —             (380)      —              (857)      —             
+  FAW-GM divestiture(d)                               —                       —          —             —          —              —          164           
+  Total adjustments                                   76                      267        92            (19)       489            (67)       358           
+  EBIT (loss)-adjusted                                $                       $          $             $          $              $          $             
+
+_________
+
+(a) These adjustments were excluded because of a strategic decision to rationalize our core operations by exiting or significantly reducing our presence in various international markets to focus resources on opportunities expected to deliver higher returns. These adjustments primarily consist of supplier claims in the three months ended September 30, 2020, inventory provisions in the three months ended June 30, 2020 and asset impairments, dealer restructurings, employee separation charges and 
+sales allowances in the three months ended March 31, 2020 in Australia, New Zealand and Thailand.
+
+(b) These adjustments were excluded because of a strategic decision to accelerate our transformation for the future to strengthen our core business, capitalize on the future of personal mobility and drive significant cost efficiencies. The adjustments primarily consist of supplier-related charges and pension curtailment and other charges in the three months ended September 30, 2019, supplier-related charges and accelerated depreciation in the three months ended June 30, 2019, accelerated 
+depreciation in the three months ended March 31, 2019, accelerated depreciation and employee separation charges in the three months ended December 31, 2019 and employee separation charges and accelerated depreciation in the three months ended December 31, 2018.
+
+(c) These adjustments were excluded because of the unique events associated with decisions rendered by the Superior Judicial Court of Brazil resulting in retrospective recoveries of indirect taxes.
+
+(d) This adjustment was excluded because we divested our joint venture FAW-GM Light Duty Commercial Vehicle Co., Ltd. (FAW-GM), as a result of a strategic decision by both shareholders, allowing us to focus our resources on opportunities expected to deliver higher returns.
+
+
+GENERAL MOTORS COMPANY AND SUBSIDIARIES
+
+The following table reconciles diluted earnin gs pe r common share under U.S. GAAP to EPS-diluted-adjusted:
+
+                                         Three Months Ended                                             Nine Months Ended                                                         
+                                         September 30, 2020      September 30, 2019                     September 30, 2020                     September 30, 2019                 
+                                         Amount                  Amount                  Per Share      Amount                  Per Share      Amount                  Per Share  
+ ──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Diluted earnings per common share      $                       $                       $              $                       $              $                       $          
+  Adjustments(a)                         76                      267                     0.18           657                     0.46           181                     0.12       
+  Tax effect on adjustment(b)            (14)                    (93)                    (0.06)         (82)                    (0.06)         (134)                   (0.09)     
+  Tax adjustment(c)                      —                       —                       —              236                     0.16           —                       —          
+  EPS-diluted-adjusted                   $                       $                       $              $                       $              $                       $          
+
+________
+
+(a) Refer to the reconciliation of Net income (loss) attributable to stockholders under U.S. GAAP to EBIT (loss)-adjusted within this section of MD&A for the details of each individual adjustment.
+
+(b) The tax effect of each adjustment is determined based on the tax laws and valuation allowance status of the jurisdiction to which the adjustment relates.
+
+(c) This adjustment consists of tax expense related to the establishment of a valuation allowance against deferred tax assets in Australia and New Zealand. This adjustment was excluded because significant impacts of valuation allowances are not considered part of our core operations.
+
+The following table reconciles our effective tax rate under U.S. GAAP to ETR-adjusted:
+
+                          Three Months Ended                                                                                              Nine Months Ended                                                                   
+                          September 30, 2020                                      September 30, 2019                                      September 30, 2020                                      September 30, 2019          
+ ──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+                          Income before income taxes      Effective tax rate      Income before income taxes      Effective tax rate      Income before income taxes      Income tax expense      Income before income taxes  
+  Effective tax rate      $                               18.1                    $                               10.5                    $                               $                       $                           
+  Adjustments(a)          76                                                      268                                                     657                             82                      185                         
+  Tax adjustment(b)                                                                                                                                                       (236)                                               
+  ETR-adjusted            $                               18.1                    $                               12.8                    $                               $                       $                           
+
+________
+
+(a) Refer to the reconciliation of Net income (loss) attributable to stockholders under U.S. GAAP to EBIT(loss)- adjusted within this section of MD&A for adjustment details. Net income attributable to noncontrolling interests included for these adjustments is insignificant in t he three and nine months ended September 30, 2019. The tax effect of each adjustment is determined based on the tax laws and valuation allowance status of the jurisdiction to which the adjustment relates.
+
+(b) Refer to the reconciliation of diluted earnings per common share under U.S. GAAP to EPS-diluted-adjusted within this section of MD&A for adjustment details.
+
+We define return on equity (ROE) as Net income (loss) attributable to stockholders for the trailing four quarters divided by average equity for the same period. Management uses average equity to provide comparable amounts in the calculation of ROE. The following table summarizes the calculation of ROE (dollars in billions):
+
+                                                      Four Quarters Ended                                              
+                                                      September 30, 2020                 September 30, 2019            
+ ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Net income (loss) attributable to stockholders      $                         3.4      $                        9.0  
+  Average equity(a)                                   $                        42.5      $                       42.8  
+  ROE                                                 8.0                                20.9                          
+
+__________
+
+(a) Includes equity of noncontrolling interests where the corresponding earnings (loss) are included in Net income (loss) attributable to stockholders.
+
+
+GENERAL MOTORS COMPANY AND SUBSIDIARIES
+
+The following table summarizes the calculation of ROIC-adjusted (dollars in billions):
+
+                                                                                        Four Quarters Ended                                              
+                                                                                        September 30, 2020                 September 30, 2019            
+ ─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  EBIT (loss)-adjusted(a)                                                               $                         6.1      $                       11.1  
+  Average equity(b)                                                                     $                        42.5      $                       42.8  
+  Add: Average automotive debt and interest liabilities (excluding finance leases)      27.0                               14.8                          
+  Add: Average automotive net pension & OPEB liability                                  17.4                               16.5                          
+  Less: Average automotive and other net income tax asset                               (24.1)                             (23.3)                        
+  ROIC-adjusted average net assets                                                      $                        62.8      $                       50.8  
+  ROIC-adjusted                                                                         9.7                                21.9                          
+
+__________
+
+(a) Refer to the reconciliation of Net income (loss) attributable to stockholders under U.S. GAAP to EBIT (loss)-adjusted within this section of MD&A.
+
+(b) Includes equity of noncontrolling interests where the corresponding earnings (loss) are included in EBIT (loss)-adjusted.
+
+Overview Our management team has adopted a strategic plan to transform GM into the world's most valued automotive company. Our plan includes several major initiatives that we anticipate will redefine the future of personal mobility and advance our vision of zero crashes, zero emissions, zero congestion while also strengthening the core of our business: earning customers for life by delivering winning vehicles, leading the industry in quality and safety and improving the customer ownership 
+experience; leading in technology and innovation, including electrification, autonomous vehicles and data connectivity; growing our brands; making tough, strategic decisions about the markets and products in which we will invest and compete; building profitable adjacent businesses; and targeting 10% core margins on an EBIT-adjusted basis.
+
+The COVID-19 pandemic and government actions and measures taken to prevent its spread continue to affect our operations. In response to COVID-19, we previously suspended the majority of our global manufacturing operations and our Automotive China JVs’ manufacturing operations. By May 2020, we had resumed our global manufacturing operations. Government-imposed restrictions on businesses, operations and travel and the related economic uncertainty have impacted demand for our vehicles in most of 
+our global markets. During the first half of 2020, we executed a number of austerity measures, including aggressive actions to reduce costs, such as limiting advertising and other third-party spending, deferring salaried employee compensation and delaying non-critical projects, including certain future product programs. The majority of the austerity measures we put into place will normalize as production normalizes. The extent of COVID-19’s impact on our future operations, liquidity and the 
+demand for our products will depend upon, among other things, the duration and severity of the outbreak or subsequent outbreaks and related government responses such as required physical distancing, restrictions on business operations and travel, the pace of recovery of economic activity and the impact to consumers, all of which are uncertain and difficult to predict in light of the rapidly evolving landscape. Refer to 

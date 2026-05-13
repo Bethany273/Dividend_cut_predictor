@@ -1,0 +1,120 @@
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+WASHINGTON, D.C. 20549
+
+FORM10-Q/A
+
+Amendment No.1
+
+  QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934  
+ ───────────────────────────────────────────────────────────────────────────────────────────
+
+For the quarterly period endedMarch 31, 2020
+
+OR
+
+  TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934  
+ ────────────────────────────────────────────────────────────────────────────────────────────
+
+For the transition period from to
+
+Commission File Number: 001-37429
+
+EXPEDIA GROUP, INC.
+
+(Exact name of registrant as specified in its charter)
+
+  Delaware                             20-2705720                            
+  (State or other jurisdiction of      (I.R.S. Employer Identification No.)  
+
+1111 Expedia Group Way W.
+
+Seattle, WA98119
+
+(Address of principal executive office) (Zip Code)
+
+(206)481-7200
+
+(Registrant’s telephone number, including area code)
+
+__________________________________
+
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. Yes☒No ☐
+
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§ 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files). Yes☒No ☐
+
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See the definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company,” and “emerging growth company” in Rule 12b-2 of the Exchange Act.
+
+  Large accelerated filer      Accelerated filer          
+  Non-accelerated filer        Smaller reporting company  
+ ──────────────────────────────────────────────────────────
+  Emerging growth company                                 
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes☐ No☒
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+  Title of each class                                   Trading symbol(s)      Name of each exchange on which registered  
+  Common stock, $0.0001 par value                       EXPE                   The Nasdaq Global Select Market            
+ ──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Expedia Group, Inc. 2.500% Senior Notes due 2022      EXPE22                 New York Stock Exchange                    
+
+The number of shares outstanding of each of the registrant’s classes of common stock as of May 8, 2020 was:
+
+  Common stock, $0.0001 par value per share              135,459,390      shares  
+  Class B common stock, $0.0001 par value per share        5,523,452      shares  
+
+EXPLANATORY NOTE
+
+The sole purpose of this Amendment No. 1 on Form 10-Q/A (the “Amendment”) to the Quarterly Report on Form 10-Q of Expedia Group, Inc. (the “Company”) for the quarter ended March 31, 2020 that was filed with the Securities and Exchange Commission (the “ SEC”) on May 21, 2020 (the “Form 10-Q”) is to add this Explanatory Note disclosing that, as previously disclosed in the Company’s Current Report on Form 8-K as filed with the SEC on April 23, 2020 (the “Form 8-K”) and in accordance with the SEC’s 
+March 4, 2020 Order (Release No. 34-88318), as modified on March 25, 2020 (Release No. 34-88465) (the “Order”), the Company (i) is relying on the relief provided by the Order in connection with the filing of the Form 10-Q and (ii) was unable to file the Form 10-Q on its customary schedule because the Company’s operations and business experienced significant and unprecedented disruption due to conditions surrounding the COVID-19 pandemic, including temporary closure of the Company’s corporate 
+headquarters and employees working remotely. As indicated above, the Company filed the Form 10-Q on May 21, 2020, which was within the permissible extended filing deadline pursuant to the Order and the estimated filing timeline in the Form 8-K.
+
+In addition, Part II, Item 6 of the Form 10-Q is hereby amended and restated in its entirety. No other changes have been made to the Quarterly Report. This Amendment speaks as of the original filing date of the Quarterly Report, does not reflect events that may have occurred subsequent to the original filing date, and other than as set forth above, does not modify or update in any way disclosures made in the original Quarterly Report.
+
+Part II. Item 6. Exhibits
+
+The exhibits listed below are filed as part of this Quarterly Report on Form 10-Q/A.
+
+  Exhibit      Exhibit Description                                                                                                                                                                                       Filed                   Incorporated by Reference                                
+      No.                                                                                                                                                                                                                Herewith                                                                         
+                                                                                                                                                                                                                                       Form      SEC File No.                   Exhibit      Filing Date  
+     31.1      Certification of the Chairman and Senior Executive pursuant to Section 302 of the Sarbanes-Oxley Act of 2002                                                                                                            10-Q      001-3749                          31.1      5/21/2020    
+     31.2      Certification of the Chief Executive Officer pursuant to Section 302 of the Sarbanes-Oxley Act of 2002                                                                                                                  10-Q      001-3749                          31.2      5/21/2020    
+     31.3      Certification of the Chief Financial Officer pursuant Section 302 of the Sarbanes-Oxley Act of 2002                                                                                                                     10-Q      001-3749                          31.3      5/21/2020    
+     32.1      Certification of the Chairman and Senior Executive pursuant Section 906 of the Sarbanes-Oxley Act of 2002                                                                                                               10-Q      001-3749                          32.1      5/21/2020    
+     32.2      Certification of the Chief Executive Officer pursuant Section 906 of the Sarbanes-Oxley Act of 2002                                                                                                                     10-Q      001-3749                          32.2      5/21/2020    
+     32.3      Certification of the Chief Financial Officer pursuant Section 906 of the Sarbanes-Oxley Act of 2002                                                                                                                     10-Q      001-3749                          32.3      5/21/2020    
+ ──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+      3.1      Certificate of Designations with respect to Series A Preferred Stock                                                                                                                                                    8-K       001-3749                           3.1      5/5/2020     
+      4.1      Investment Agreement by and between Expedia Group, Inc. and AP Fort Holdings, L.P., dated as of April 23, 2020                                                                                                          8-K       001-3749                           4.1      4/23/2020    
+      4.2      Investment Agreement by and between Expedia Group, Inc., SLP Fort Aggregator II, L.P. and SLP V Fort Holdings II, L.P., dated as of April 23, 2020                                                                      8-K       001-3749                           4.2      4/23/2020    
+      4.3      Indenture, dated as of May 5, 2020, among Expedia Group, Inc., the guarantors party thereto and U.S. Bank National Association relating to the 6.250% Notes                                                             8-K       001-3749                           4.1      5/5/2020     
+      4.4      Indenture, dated as of May 5, 2020, among Expedia Group, Inc., the guarantors party thereto and U.S. Bank National Association relating to the 7.000% Notes                                                             8-K       001-3749                           4.2      5/5/2020     
+     10.1      Amendment No. 1 to Second Amended and Restated Governance Agreement by and between Expedia Group, Inc. and Barry Diller, dated as of April 10, 2020                                                                     8-K       001-3749                          10.1      4/10/2020    
+     10.2      Restatement Agreement, dated as of May 4, 2020, among Expedia Group, Inc., the borrowing subsidiaries party thereto, the lenders party thereto and JPMorgan Chase Bank, N.A., as administrative a...                    8-K       001-3749                          10.1      5/5/2020     
+     10.3      Registration Rights Agreement, dated as of May 5, 2020, by and among Expedia Group, Inc., AP Fort Holdings, L.P., SLP Fort Aggregator II, L.P. and SLP V Fort Holdings II, L.P.                                         8-K       001-3749                          10.2      5/5/2020     
+    10.4*      Performance Stock Unit Agreement between Peter Kern and Expedia Group, Inc., dated as of February 28, 2020                                                                                                              10-Q      001-3749                          10.4      5/21/2020    
+       22      List of Guarantor Subsidiaries of Expedia Group, Inc.                                                                                                                                                                   10-Q      001-3749                            22      5/21/2020    
+     31.4      Certification of the Chairman and Senior Executive pursuant to Section 302 of the Sarbanes-Oxley Act of 2002                                                                                              X                                                                                
+     31.5      Certification of the Chief Executive Officer pursuant to Section 302 of the Sarbanes-Oxley Act of 2002                                                                                                    X                                                                                
+     31.6      Certification of the Chief Financial Officer pursuant Section 302 of the Sarbanes-Oxley Act of 2002                                                                                                       X                                                                                
+      104      Cover Page Interactive Data File (embedded within the Inline XBRL document)                                                                                                                               X                                                                                
+
+* Indicates a management contract or compensatory plan or agreement.
+
+Signature
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+  Expedia Group, Inc.                               
+ ────────────────────────────────────────────────────
+  By:                      /s/ ERIC HART            
+                           Eric Hart                
+                           Chief Financial Officer  
+
+4

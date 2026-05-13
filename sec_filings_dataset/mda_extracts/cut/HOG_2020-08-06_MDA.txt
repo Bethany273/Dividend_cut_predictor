@@ -1,0 +1,741 @@
+Item 2. Management’s Discussion and Analysis of Financial Condition and Results of Operations
+
+Harley-Davidson, Inc. is the parent company of Harley-Davidson Motor Company (HDMC) and Harley-Davidson Financial Services (HDFS). Unless the context otherwise requires, all references to the "Company" include Harley-Davidson, Inc. and all of its subsidiaries. The Company operates in two segments: Motorcycles and Related Products (Motorcycles) and Financial Services.
+
+The “% Change” figures included in the Results of Operations sections were calculated using unrounded dollar amounts and may differ from calculations using the rounded dollar amounts presented.
+
+(1) Note Regarding Forward-Looking Statements
+
+The Company intends that certain matters discussed in this report are “forward-looking statements” intended to qualify for the safe harbor from liability established by the Private Securities Litigation Reform Act of 1995. These forward-looking statements can generally be identified as such by reference to this footnote or because the context of the statement will include words such as the Company “believes,” “anticipates,” “expects,” “plans,” “may,” “will,” “estimates” or words of similar 
+meaning. Similarly, statements that describe or refer to future expectations, future plans, strategies, objectives, outlooks, targets, guidance, commitments or goals are also forward-looking statements. Such forward-looking statements are subject to certain risks and uncertainties that could cause actual results to differ materially, unfavorably or favorably, from those anticipated as of the date of this report. Certain of such risks and uncertainties are described in close proximity to such 
+statements or elsewhere in this report, including under the caption “Cautionary Statements” in this Item 2 and inItem 1A. Risk Factors, as well as inItem 1A. Risk Factors of the Company’s Annual Report on Form 10-K for the year ended December 31, 2019. Shareholders, potential investors, and other readers are urged to consider these factors in evaluating the forward-looking statements and are cautioned not to place undue reliance on such forward-looking statements. The forward-looking statements 
+included in the “Overview” and “Outlook” sections in this Item 2 are only made as of July 28, 2020 and the remaining forward-looking statements in this report are made as of the date of the filing of this report (August 6, 2020), and the Company disclaims any obligation to publicly update such forward-looking statements to reflect subsequent events or circumstances.
+
+Overview(1)
+
+During the second quarter of 2020, the Company's operations and financial results were adversely impacted by the COVID-19 pandemic. The Company incurred a net loss of $92.2 million, or $0.60 per diluted share, in the second quarter of 2020, compared to net income of $195.6 million, or $1.23 per diluted share, in the second quarter of 2019. The Motorcycles segment reported an operating loss of $121.0 million, down $301.8 million from operating income of $180.7 million for the second quarter of 
+2019. The current year operating loss was due primarily to a 58.7% decline in wholesale motorcycle shipments reflecting the suspension of global manufacturing during the quarter resulting from the COVID-19 pandemic. Motorcycles segment operating results were also impacted by unfavorable foreign currency, unfavorable manufacturing costs and higher restructuring expenses, partially offset by lower selling, administrative and engineering expenses.
+
+Operating income from the Financial Services segment in the second quarter of 2020 was $4.9 million, down 93.5% compared to the year-ago quarter due primarily to a higher provision for credit losses and higher interest expense. The provision for credit losses was adversely affected by unfavorable economic conditions and also reflects the impact of a new accounting standard that changed how companies recognize expected credit losses on financial instruments. The new standard requires recognition 
+of full lifetime expected credit losses upon initial recognition of a financial instrument, replacing the prior, incurred loss methodology. The Company adopted the new accounting standard on January 1, 2020 using a modified retrospective approach. As a result, prior period results were not restated.
+
+Worldwide independent dealer retail sales of new Harley-Davidson motorcycles in the second quarter of 2020 were down 26.6% compared to the second quarter of 2019 reflecting the adverse impact of the COVID-19 pandemic throughout most of the Company's markets. At the end of April 2020, nearly 60% of the Company's independent global dealer network was closed. Independent dealers began to re-open toward the end of May and into early June resulting in a sequential improvement in the retail sales rate
+within the second quarter of 2020. By the end of the second quarter of 2020, 93% of global dealers had resumed normal operations.
+
+
+Outlook(1)
+
+As a result of the uncertainty surrounding the magnitude and duration of the COVID-19 pandemic, the Company withdrew all of its forward-looking guidance on March 26, 2020. While the impacts on demand, facility closures and other restrictions are expected to be temporary, the duration and financial impact to the Company are unknown at this time. To the extent these impacts continue, they will have an adverse effect on the Company's results of operations, financial condition and liquidity.
+
+COVID-19 Response and Recovery Actions(1)
+
+Cash Preservation - The Company is executing its previously disclosed plans to reduce planned capital and planned non-capital spending. In total, the Company continues to expect that these efforts will preserve approximately $250 million of cash in 2020 with approximately 15% related to capital spending. The planned spending reductions exclude the restructuring charges as discussed further under "Restructuring Plan Costs and Savings." Also, discretionary share repurchases continue to be 
+suspended, and the Company's Board of Directors has approved a cash dividend of $0.02 per share for the third quarter of 2020, in line with the second quarter 2020 dividend.
+
+Liquidity - The Company has further strengthened its liquidity position during the second quarter of 2020. At the end of the second quarter of 2020, the Company had cash, cash equivalents and availability under its credit and conduit facilities of $4.7 billion. Liquidity is discussed in more detail under Liquidity and Capital Resources.
+
+Supporting Dealers and Riders - The Company's response and recovery plans include supporting global dealers and customers. Throughout the second quarter of 2020, the Company helped ease the burden of the COVID-19 pandemic on its independent dealers by providing support based on the unique needs of each region, including financial support for dealer motorcycle inventory, extending credit payment due dates on parts & accessories and general merchandise and adjusting dealer requirements for 
+warranty and training. HDFS is also working with retail borrowers who have been impacted by the COVID-19 pandemic by offering short-term adjustments to customer payment due dates without affecting the associated interest rate or loan term.
+
+Community Strength - The Company continues to proactively manage through the COVID-19 pandemic and has implemented robust protocols to keep workers safe in its factories. The Company expects most non-production workers to continue working from home until the end of the year.
+
+The Rewire
+
+The Company is executing a set of actions, referred to as The Rewire. The Rewire is expected to continue through the end of 2020, leading to a first look at the Company’s 2021-2025 strategic plan, The Hardwire, which the Company intends to disclose sometime in the fourth quarter of 2020. Building on the foundation and principles of The Rewire, the driver of the new plan will be Harley-Davidson as the most desirable motorcycle brand in the world for its customers, employees, community and 
+investors. Key elements of The Rewire and progress to date include following:
+
+New operating model with reduced complexity and increased speed - The Company is making substantial changes to its operating model under The Rewire affecting all areas of the business globally, from commercial operations to center-led support functions. Significant work has been undertaken to eliminate duplication, inefficiencies and complexity throughout the organization. As previously announced, the streamlined structure requires 700 fewer positions across the Company's global operations.
+
+Refined motorcycle line-up and high-impact product launches - The Company plans to rewire its product offering to more precisely match customer desires and to strengthen the value of its products. The Company also plans to improve product timing and go-to-market plans to achieve the greatest market impact. Highlights of these plans include:
+
+• Streamlining planned motorcycle models by approximately 30 percent; balancing investments between current stronghold categories and new, high-potential segments
+
+•Expanding product offerings of its best-selling, iconic motorcycles
+
+•Delivering its first Adventure Touring motorcycle - Pan America 1250 - in 2021
+
+• Shifting annual product launch timing from August to early in the first quarter
+
+• Reinvigorating launch efforts including collaborations with key influencers to bring the brand and new products to life and drive brand desirability
+
+
+Growth through Parts & Accessories and General Merchandise - The Company is intensifying focus on its Parts & Accessories (P&A) and General Merchandise businesses, encouraging customers to customize their entire riding experience to match their own style. Now part of a new Commercial function, new leadership has designed strategies for each business aligned to the Company’s motorcycle and market priorities with the goal of delivering a holistic experience in the marketplace. The Company expects 
+to reduce the number of P&A product SKUs it offers by at least 15%. Similarly, to enhance focus and reduce complexity, the Company expects SKU reductions in General Merchandise of at least 25%.
+
+Reset global business and focus on high-potential market s - The Company plans to concentrate on approximately 50 markets primarily in North America, Europe and parts of Asia Pacific that represent the vast majority of the Company’s volume and growth potential. The Company is evaluating plans to exit international markets where volumes and profitability do not support continued investment in line with the future strategy.
+
+The Company also plans to shift resources and marketing investments into the regions for maximum impact. As part of this effort, the Company has streamlined regional offices and created new groups of high potential countries that will have the autonomy, within a clearly defined framework, to drive the business. Additionally, the Company plans to optimize its dealer network to provide an improved and integrated customer experience.
+
+Protecting value - The Company has revamped its approach to its supply and inventory management focusing on products and initiatives that add value, while significantly reducing discounting and price promotions. The Company expects this to continue to drive retail pricing to preserve the value and desirability of Harley-Davidson motorcycles for its customers.
+
+All of the above efforts of The Rewire aim to provide a better starting point for the future and to build desirability for the Harley-Davidson brand and products.
+
+Restructuring Plan Costs and Savings(1)
+
+The Company has initiated certain restructuring activities as part of The Rewire including a workforce reduction, the termination of certain current and future products, and facility changes. These actions will result in restructuring expenses including employee termination costs, contract termination costs and non-current asset adjustments. The workforce reduction will result in the elimination of approximately 700 positions globally, including the termination of approximately 500 employees. 
+Based on these actions, which were initiated both during and subsequent to the second quarter of 2020, the Company expects restructuring expenses of approximately $94 million in 2020, including $44 million related to actions initiated after the second quarter, and annual savings of approximately $115 million, including $15 million related to actions initiated after the second quarter. Annual savings are expected to begin in 2021.
+
+
+Results of Operations for the Three Months Ended June 28, 2020
+
+Compared to the Three Months Ended June 30, 2019
+
+Consolidated Results
+
+                                                                     Three months ended                                                                                         
+ ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  (in thousands, except (net loss) earnings per share)               June 28,                               June 30,                   (Decrease)                     % Change  
+  Operating (loss) income from Motorcycles and Related Products      $                       (121,024)      $             180,728      $               (301,752)       (167.0)  
+  Operating income from Financial Services                                                       4,925                     75,529                       (70,604)        (93.5)  
+  Operating (loss) income                                                                    (116,099)                    256,257                      (372,356)       (145.3)  
+  Other income, net                                                  156                                                    4,037                        (3,881)        (96.1)  
+  Investment income                                                                              5,757                      3,571                          2,186          61.2  
+  Interest expense                                                                               7,769                      7,784      (15)                              (0.2)  
+  (Loss) income before income taxes                                                          (117,955)                    256,081                      (374,036)       (146.1)  
+  Income tax (benefit) provision                                                              (25,738)                     60,450                       (86,188)       (142.6)  
+  Net (loss) income                                                  $                        (92,217)      $             195,631      $               (287,848)       (147.1)  
+  Diluted (net loss) earnings per share                              $                          (0.60)      $                1.23      $                  (1.83)       (148.8)  
+
+The Company reported an operating loss of $116.1 million in the second quarter of 2020 compared to operating income of $256.3 million in the same period last year. The Motorcycles segment incurred a $121.0 million operating loss in the second quarter of 2020, a decline of $301.8 million, or 167.0%, compared to the operating income reported in the second quarter of 2019. Operating income from the Financial Services segment decreased $70.6 million, or 93.5%, compared to the second quarter of 2019.
+Refer to the Motorcycles and Related Products Segment and Financial Services Segment sections for a more detailed discussion of the factors affecting operating (loss) income.
+
+Other income in the second quarter of 2020 was unfavorably impacted by lower non-operating income related to the Company's defined benefit plans. Investment income was up in the second quarter of 2020 compared to the same period last year driven by higher income from investments in marketable securities and cash equivalents.
+
+The effective income tax rate for the second quarter of 2020 was a 21.8% benefit compared to a 23.6% expense for the second quarter of 2019.
+
+Diluted net loss per share was $0.60 in the second quarter of 2020, down 148.8% from diluted earnings per share of $1.23 for the same period last year. Diluted weighted average shares outstanding decreased from 159.4 million in the second quarter of 2019 to 153.2 million in the second quarter of 2020, driven by the Company's discretionary repurchases of common stock during 2019. Refer to Liquidity and Capital Resources for additional information concerning the Company's share repurchase 
+activity.
+
+
+Harley-Davidson Motorcycle Retail Sales(a)
+
+Retail unit sales of Harley-Davidson motorcycles were as follows:
+
+                              Three months ended                                                                  
+ ──────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+                              June 30,                                        Decrease                         %  
+  United States                                       31,340      42,762                    (11,422)      (26.7)  
+  Canada                                               2,287       3,279         (992)                    (30.3)  
+  Total North America                                 33,627      46,041                    (12,414)      (27.0)  
+  Europe (b)                                           9,738      13,552                     (3,814)      (28.1)  
+  EMEA - Other                                         1,226       2,067         (841)                    (40.7)  
+  Total EMEA                                          10,964      15,619                     (4,655)      (29.8)  
+  Asia Pacific (c)                                     4,364       4,544         (180)                     (4.0)  
+  Asia Pacific - Other                                 2,524       3,126         (602)                    (19.3)  
+  Total Asia Pacific                                   6,888       7,670         (782)                    (10.2)  
+  Latin America                                        1,233       2,516                     (1,283)      (51.0)  
+  Worldwide retail sales                              52,712      71,846                    (19,134)      (26.6)  
+
+(a) Data source for retail sales figures shown above is new sales warranty and registration information provided by independent Harley-Davidson dealers and compiled by the Company. The Company must rely on information that its independent dealers supply concerning new retail sales, and the Company does not regularly verify the information that its independent dealers supply. This information is subject to revision.
+
+(b) Includes Austria, Belgium, Denmark, Finland, France, Germany, Italy, Luxembourg, Netherlands, Norway, Spain, Sweden, Switzerland and the United Kingdom. Retail sales for Greece and Portugal were reclassified from Europe to EMEA - Other for 2019 to be consistent with the 2020 presentation.
+
+(c) Includes Japan, Australia, New Zealand and South Korea.
+
+Worldwide retail sales of new Harley-Davidson motorcycles were down 26.6% during the second quarter of 2020 compared to the same period last year reflecting the adverse impact of the COVID-19 pandemic including the temporary closure of independent dealers. Retail sales declined across all of the Company's markets within North America, EMEA and Latin America. Retail sales also declined in most of the Company's markets within Asia Pacific; however, these declines were partially offset by retail 
+sales growth in China and South Korea.
+
+U.S. industry registrations of new 601+cc motorcycles were down 11.3% in the second quarter of 2020 compared to the second quarter of 2019. The Company's U.S. market share of new 601+cc motorcycles for the second quarter of 2020 was 38.5%, down 8.1 percentage points from the same period last year (source: Motorcycle Industry Council). The Company's U.S. market share was impacted by the Company's new approach to its supply and inventory management, growth in segments outside of the Company's 
+stronghold (Touring and Cruiser) segments, increased promotions from competitors and a decline in the Company's fleet sales.
+
+The Company is taking a new approach to its supply and inventory management, as discussed under "The Rewire." The new approach is focused on profitable and desirable volume aimed at helping drive retail pricing to preserve the value and desirability of Harley-Davidson motorcycles for customers. Under this approach, the Company will continue to aggressively manage the supply of motorcycles into the independent dealer network as it manages through the COVID-19 pandemic and beyond. The Company is 
+encouraged by the value that it believes was driven by its new supply and inventory management in the second quarter of 2020. On average, new Harley-Davidson motorcycles were selling at Manufacturer Suggested Retail Prices in the U.S. during the second quarter. In addition, the Company observed a meaningful increase in used Harley-Davidson motorcycle pricing at retail and at auction in the U.S. during the second quarter of 2020.
+
+At the end of the second quarter of 2020, worldwide independent dealer retail inventory of new Harley-Davidson motorcycles was down approximately 32%, or 22,300 motorcycles, including 17,000 fewer in the U.S., compared to the second quarter of 2019.
+
+
+Motorcycles and Related Products Segment
+
+Motorcycle Unit Shipments
+
+Wholesale Harley-Davidson motorcycle unit shipments were as follows:
+
+                                             Three months ended                                                                                    
+                                             June 28, 2020                                              June 30, 2019                              
+                                             Units                               Mix %                          Mix %                    % Change  
+ ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  U.S. motorcycle shipments                                          11,051       39.0      41,404               60.2      (30,353)        (73.3)  
+  Worldwide motorcycle shipments:                                                                                                                  
+  Touring motorcycle units                                            9,709       34.2      30,923               45.0      (21,214)        (68.6)  
+  Cruiser motorcycle units (a)                                       11,874       41.9      22,691               33.0      (10,817)        (47.7)  
+  Sportster ® / Street motorcycle units                               6,786       23.9      15,143               22.0       (8,357)        (55.2)  
+                                                                     28,369      100.0      68,757              100.0      (40,388)        (58.7)  
+
+(a) Includes Softail®, CVOTM, and LiveWireTM
+
+The Company shipped 28,369 Harley-Davidson motorcycles worldwide during the second quarter of 2020, which was 58.7% lower than the second quarter of 2019. Motorcycle shipments in the second quarter of 2020 were lower than the same period last year due to the temporary suspension of the Company's global manufacturing operations resulting from the COVID-19 pandemic. During the second quarter of 2020, the Company's Thailand manufacturing facility was closed through April and U.S. manufacturing 
+facilities were closed through May. The mix of Touring motorcycles shipped during the second quarter of 2020 decreased as a percent of total shipments while the mix of Cruiser motorcycles increased compared to the same period last year.
+
+Segment Results
+
+Condensed statements of operations for the Motorcycles segment were as follows (dollars in thousands):
+
+                                        Three months ended                                                                                               
+                                        June 28, 2020                          June 30, 2019                     (Decrease)                           %  
+                                                                                                                 Increase                        Change  
+ ─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Revenue:                                                                                                                                               
+  Motorcycles                           $                         446,738      $                  1,128,063      $               (681,325)       (60.4)  
+  Parts & Accessories                                             168,708                           221,258                       (52,550)       (23.8)  
+  General Merchandise                                              37,805                            64,644                       (26,839)       (41.5)  
+  Licensing                                                         4,903                             9,911                        (5,008)       (50.5)  
+  Other                                                            11,120                            10,128      992                                9.8  
+                                                                  669,274                         1,434,004                      (764,730)       (53.3)  
+  Cost of goods sold                                              561,646                           979,266                      (417,620)       (42.6)  
+  Gross profit                                                    107,628                           454,738                      (347,110)       (76.3)  
+  Operating expenses:                                                                                                                                    
+  Selling & administrative expense                                141,929                           208,925                       (66,996)       (32.1)  
+  Engineering expense                                              45,718                            54,662                        (8,944)       (16.4)  
+  Restructuring expense                                            41,005                            10,423                         30,582        293.4  
+                                                                  228,652                           274,010                       (45,358)       (16.6)  
+  Operating (loss) income               $                       (121,024)      $                    180,728      $               (301,752)      (167.0)  
+  Operating margin                      (18.1)                                 12.6                              (30.7)                            pts.  
+
+
+The estimated impact of significant factors affecting the comparability of net revenue, cost of goods sold and gross profit from the second quarter of 2019 to the second quarter of 2020 were as follows (in millions):
+
+                                                   Net             Cost of        Gross             
+                                                   Revenue      Goods Sold       Profit             
+ ────────────────────────────────────────────────────────────────────────────────────────────────────
+  Three months ended June 30, 2019                 $             1,434.0 $      979.3 $      454.7  
+  Volume                                           (747.6)         (491.6)      (256.0)             
+  Price, net of related cost                       3.5                 0.3          3.2             
+  Foreign currency exchange rates and hedging      (11.4)              4.0       (15.4)             
+  Shipment mix                                     (9.3)               7.0       (16.3)             
+  Raw material prices                              —                 (2.9)          2.9             
+  Manufacturing and other costs                    —                  65.5       (65.5)             
+                                                   (764.8)         (417.7)      (347.1)             
+  Three months ended June 28, 2020                 $               669.2 $      561.6 $      107.6  
+
+Factors affecting the comparability of net revenue, cost of goods sold and gross profit from the second quarter of 2019 to the second quarter of 2020 were as follows:
+
+• The decrease in volume was due to lower wholesale motorcycle shipments and lower parts & accessories and general merchandise sales, partially offset by lower sales incentive costs.
+
+• On average, wholesale prices for motorcycles shipped in the current period were higher than in the same period last year resulting in a favorable impact on revenue. The positive impact on revenue was partially offset by increased costs related to the additional content added to motorcycles shipped in the current period as compared to the same period last year.
+
+• Revenue and gross profit were adversely impacted by weaker foreign currency exchange rates, relative to the U.S. dollar, as compared to the same period last year.
+
+• Changes in the shipment mix between motorcycle families had an adverse impact on revenue and gross profit in the current quarter compared to the same period last year. Additionally, unfavorable mix within parts and accessories contributed to the impact.
+
+• Manufacturing and other costs were adversely impacted by lower fixed-cost absorption and productivity related to the temporary suspension of global manufacturing as a result of the COVID-19 pandemic. These unfavorable impacts were partially offset by a reduction in tariff costs and the absence of temporary inefficiencies related to the Company's restructuring activities that were incurred in the prior year. The impact of recent tariffs was $7.1 million in the second quarter of 2020 compared to
+$34.4 million in the second quarter of 2019 as the Company began to wholesale Thailand-sourced motorcycles in the European Union (EU) in the current year quarter. The impact of recent tariffs includes incremental EU and China tariffs imposed beginning in 2018 on the Company's products shipped from the U.S., as well as incremental U.S. tariffs imposed beginning in 2018 on certain items imported from China.
+
+Operating expenses were lower in the second quarter of 2020 compared to the same period last year due to lower spending as the Company aggressively managed cost, partially offset by increases in restructuring expenses.
+
+
+Financial Services Segment
+
+Segment Results
+
+Condensed statements of operations for the Financial Services segment were as follows (in thousands):
+
+                                   Three months ended                                                                                         
+                                   June 28, 2020                        June 30, 2019                   Increase                           %  
+                                                                                                        (Decrease)                    Change  
+ ──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Revenue:                                                                                                                                    
+  Interest income                  $                       168,261      $                  167,077      $                  1,184         0.7  
+  Other income                                              27,692                          31,538                       (3,846)      (12.2)  
+                                                           195,953                         198,615                       (2,662)       (1.3)  
+  Expenses:                                                                                                                                   
+  Interest expense                                          62,187                          52,673                         9,514        18.1  
+  Provision for credit losses                               91,179                          26,383                        64,796       245.6  
+  Operating expense                                         36,718                          44,030                       (7,312)      (16.6)  
+  Restructuring expense            944                                  —                               944                            100.0  
+                                                           191,028                         123,086                        67,942        55.2  
+  Operating income                 $                         4,925      $                   75,529      $               (70,604)      (93.5)  
+
+Interest income was favorable in the second quarter of 2020 due to a higher average retail yield, partially offset by lower average outstanding wholesale receivables at a lower average yield. Other income was unfavorable primarily due to a decrease in investment income and insurance related revenue.
+
+Interest expense increased in the second quarter of 2020 due to higher average outstanding debt, partially offset by a lower cost of funds.
+
+The provision for credit losses increased $64.8 million compared to the second quarter of 2019. The retail motorcycle provision increased $66.5 million driven by an increase in the allowance for credit losses resulting from the deterioration of the Company’s outlook on economic conditions during the second quarter of 2020. The Company expects that existing recessionary economic conditions could be prolonged with a slow economic recovery. The Company’s expectations surrounding its economic 
+forecasts may change in future periods as additional information becomes available.
+
+This increase in the allowance for credit losses was partially offset by lower retail credit losses. Credit losses were favorably impacted by the high volume of COVID-19 related retail loan payment-due-date extensions for qualified customers, which resulted in fewer past due accounts and lower related losses during the second quarter.
+
+The allowance for credit losses at June 28, 2020 was determined in accordance with ASU 2016-13, a new accounting standard adopted on January 1, 2020 that changed how companies recognize expected credit losses on financial instruments. The new standard requires recognition of full lifetime expected credit losses upon initial recognition of a financial instrument, replacing the prior, incurred loss methodology. The Company adopted the new accounting standard using a modified retrospective 
+approach. As a result, prior period results were not restated.
+
+Operating expenses decreased $7.3 million compared to the second quarter of 2019 in part driven by lower employee related costs and consulting expense.
+
+Changes in the allowance for credit losses on finance receivables were as follows (in thousands):
+
+                                      Three months ended                                            
+ ────────────────────────────────────────────────────────────────────────────────────────────────────
+                                      June 28,                              June 30,                
+  Balance, beginning of period        $                        335,496      $              190,872  
+  Provision for credit losses                                   91,179                      26,383  
+  Charge-offs, net of recoveries                              (15,660)                    (22,259)  
+  Balance, end of period              $                        411,015      $              194,996  
+
+
+Results of Operations for the Six Months Ended June 28, 2020
+
+Compared to the Six Months Ended June 30, 2019
+
+Consolidated Results
+
+                                                                     Six months ended                                                                                       
+ ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  (in thousands, except (net loss) earnings per share)               June 28,                            June 30,                   (Decrease)                           %  
+  Operating (loss) income from Motorcycles and Related Products      $                     (36,457)      $             289,109      $               (325,566)      (112.6)  
+  Operating income from Financial Services                                                   27,871                    134,260                      (106,389)       (79.2)  
+  Operating (loss) income                                                                   (8,586)                    423,369                      (431,955)      (102.0)  
+  Other income, net                                                  311                                                 8,697                        (8,386)       (96.4)  
+  Investment income                                                  410                                                 9,929                        (9,519)       (95.9)  
+  Interest expense                                                                           15,524                     15,515      9                                  0.1  
+  (Loss) income before income taxes                                                        (23,389)                    426,480                      (449,869)      (105.5)  
+  Income tax (benefit) provision                                     (867)                                             102,904                      (103,771)      (100.8)  
+  Net (loss) income                                                  $                     (22,522)      $             323,576      $               (346,098)      (107.0)  
+  Diluted (net loss) earnings per share                              $                       (0.15)      $                2.03      $                  (2.18)      (107.4)  
+
+The Company reported an operating loss of $8.6 million in the first half of 2020 compared to operating income of $423.4 million in the same period last year. Operating income from the Motorcycles segment fell $325.6 million from the same period last year resulting in an operating loss of $36.5 million for the first half of 2020. Operating income from Financial Services during the first half of 2020 was down $106.4 million compared to the same period last year. Refer to the Motorcycles and 
+Related Products Segment and Financial Services Segment discussions for a more detailed analysis of the factors affecting operating (loss) income.
+
+Other income in the first half of 2020 was unfavorably impacted by lower non-operating income related to the Company's defined benefit plans. Investment income was down in first half of 2020 compared the same period last year driven by lower income from investments in marketable securities and cash equivalents.
+
+The Company's effective income tax rate for the first six months of 2020 was 3.7% compared to 24.1% for the same period in 2019. The decrease in the 2020 effective income tax rate as compared to 2019 was due primarily to discrete income tax expenses recorded during the six months ended June 28, 2020, which included adjustments related to the reassessment of the realizability of certain deferred tax assets, which reduced the Company's income tax benefit for the period. The effective income tax 
+rate for the six months ended June 28, 2020 was determined based on the Company's current projection for full-year 2020 financial results. Given uncertainty surrounding the impact of the COVID-19 pandemic, the Company's projections for full-year 2020 financial results, in total and across its numerous tax jurisdictions may evolve and ultimately impact the Company's 2020 full-year effective income tax rate(1).
+
+Diluted net loss per share was $0.15 in the first half of 2020, down 107.4% from diluted earnings per share of $2.03 for the same period last year. Diluted weighted average shares outstanding decreased from 159.7 million in the first half of 2019 to 153.1 million in the first half of 2020, driven by the Company's discretionary repurchases of common stock during 2019. Refer to Liquidity and Capital Resources for additional information concerning the Company's share repurchase activity.
+
+
+Motorcycles Retail Sales and Registration Data
+
+Harley-Davidson Motorcycle Retail Sales(a)
+
+Retail unit sales of Harley-Davidson motorcycles were as follows:
+
+                              Six months ended                                                                     
+ ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+                              June 30,                                       Decrease                    % Change  
+  United States                                     55,072       70,853                    (15,781)        (22.3)  
+  Canada                                             3,753        5,227                     (1,474)        (28.2)  
+  Total North America                               58,825       76,080                    (17,255)        (22.7)  
+  Europe (b)                                        16,272       22,979                     (6,707)        (29.2)  
+  EMEA – Other                                       2,422        3,437                     (1,015)        (29.5)  
+  Total EMEA                                        18,694       26,416                     (7,722)        (29.2)  
+  Asia Pacific (c)                                   8,073        8,330      (257)                          (3.1)  
+  Asia Pacific – Other                               4,567        5,414      (847)                         (15.6)  
+  Total Asia Pacific                                12,640       13,744                     (1,104)         (8.0)  
+  Latin America                                      2,992        4,757                     (1,765)        (37.1)  
+  Worldwide retail sales                            93,151      120,997                    (27,846)        (23.0)  
+
+(a) Data source for retail sales figures shown above is new sales warranty and registration information provided by independent Harley-Davidson dealers and compiled by the Company. The Company must rely on information that its independent dealers supply concerning new retail sales, and the Company does not regularly verify the information that its independent dealers supply. This information is subject to revision.
+
+(b) Includes Austria, Belgium, Denmark, Finland, France, Germany, Italy, Luxembourg, Netherlands, Norway, Spain, Sweden, Switzerland and the United Kingdom. Retail sales for Greece and Portugal were reclassified from Europe to EMEA - Other for 2019 to be consistent with the 2020 presentation.
+
+(c) Includes Japan, Australia, New Zealand and South Korea.
+
+Worldwide retail sales of new Harley-Davidson motorcycles were down 23.0% during the first half of 2020 compared to the same period last year reflecting the adverse impact of the COVID-19 pandemic including the temporary closure of independent dealers. Retail sales declined across all of the Company's markets within North America, EMEA and Latin America. Retail sales also declined in most of the Company's markets within Asia Pacific with exception of China and South Korea, which grew compared to
+prior year, and Japan where retail sales were level with prior year.
+
+The Company's U.S. market share of new 601+cc motorcycles for the first half of 2020 was 42.4%, down 5.9 percentage points compared to the same period last year (source: Motorcycle Industry Council). The Company's U.S. market share was impacted by the Company's new approach to supply and inventory management, stronger performance in segments outside of the Company's stronghold (Touring and Cruiser) segments, increased promotions from competitors and a decline in the Company's fleet sales.
+
+The Company's 2020 market share of new 601+cc motorcycles in Europe was 7.9% through June, compared to 9.0% for the same period last year (Source: Management Services Helwig Schmitt GmbH). The Company's European market share was adversely impacted by better market performance in segments outside of the Company's stronghold (Touring and Cruiser) segments and increased price competition across all product segments.
+
+
+Motorcycle Registration Data - 601+cc(a)
+
+Industry retail motorcycle registration data was as follows:
+
+                         Six months ended                                                                                  
+ ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+                         June 30,                           June 30,                   Decrease                    %       
+  United States (b)                            127,360                    144,623                    (17,263)      (11.9)  
+  Europe (c)                                   220,472                    260,301                    (39,829)      (15.3)  
+
+(a) Data includes on-road models with internal combustion engines with displacements greater than 600cc's and electric motorcycles with kilowatt (kW) peak power equivalents greater than 600cc's (601+cc). On-road 601+cc models include dual purpose models, three-wheeled motorcycles and autocycles. Registration data for Harley-Davidson Street®500 motorcycles is not included in this table.
+
+(b) United States industry data is derived from information provided by Motorcycle Industry Council. This third-party data is subject to revision and update.
+
+(c) Europe data includes Austria, Belgium, Denmark, Finland, France, Germany, Italy, Luxembourg, Netherlands, Norway, Spain, Sweden, Switzerland, and the United Kingdom. Industry data is derived from information provided by Management Services Helwig Schmitt GmbH. Prior year registrations have been revised to exclude Greece and Portugal registrations. This third-party data is subject to revision and update.
+
+Motorcycles and Related Products Segment
+
+Motorcycle Unit Shipments
+
+Wholesale Harley-Davidson motorcycle unit shipments were as follows:
+
+                                            Six months ended                                                                                     
+                                            June 28, 2020                                             June 30, 2019                              
+                                            Units                             Mix %                           Mix %                    % Change  
+ ─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  U.S. motorcycle shipments                                       44,075       54.2       75,909               59.5      (31,834)        (41.9)  
+  Worldwide motorcycle shipments:                                                                                                                
+  Touring motorcycle units                                        31,306       38.5       55,966               43.8      (24,660)        (44.1)  
+  Cruiser motorcycle units (a)                                    32,005       39.3       43,142               33.8      (11,137)        (25.8)  
+  Sportster® / Street motorcycle units                            18,031       22.2       28,540               22.4      (10,509)        (36.8)  
+                                                                  81,342      100.0      127,648              100.0      (46,306)        (36.3)  
+
+(a)Includes Softail®, CVOTM, and LiveWireTM
+
+The Company shipped 81,342 Harley-Davidson motorcycles worldwide during the first half of 2020, which was 36.3% lower than the same period in 2019. Motorcycle shipments were lower than prior year during the first half of 2020 due to the temporary suspension of the Company's global manufacturing operations resulting from the COVID-19 pandemic. The mix of Touring motorcycles shipped during the first half of 2020 decreased as a percent of total shipments while the mix of Cruiser motorcycles 
+increased compared to the same period last year.
+
+
+Segment Results
+
+Condensed statements of operations for the Motorcycles segment were as follows (dollars in thousands):
+
+                                        Six months ended                                                                                               
+                                        June 28, 2020                        June 30, 2019                     (Decrease)                           %  
+                                                                                                               Increase                        Change  
+ ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Revenue:                                                                                                                                             
+  Motorcycles                           $                     1,346,103      $                  2,092,638      $               (746,535)       (35.7)  
+  Parts & accessories                                           303,393                           380,961                       (77,568)       (20.4)  
+  General merchandise                                            86,965                           120,045                       (33,080)       (27.6)  
+  Licensing                                                      12,932                            18,488                        (5,556)       (30.1)  
+  Other                                                          19,669                            17,509                          2,160         12.3  
+                                                              1,769,062                         2,629,641                      (860,579)       (32.7)  
+  Cost of goods sold                                          1,342,514                         1,827,464                      (484,950)       (26.5)  
+  Gross profit                                                  426,548                           802,177                      (375,629)       (46.8)  
+  Operating expenses:                                                                                                                                  
+  Selling & administrative expense                              327,506                           385,469                       (57,963)       (15.0)  
+  Engineering expense                                            94,494                           103,546                        (9,052)        (8.7)  
+  Restructuring expense                                          41,005                            24,053                         16,952         70.5  
+                                                                463,005                           513,068                       (50,063)        (9.8)  
+  Operating (loss) income               $                      (36,457)      $                    289,109      $               (325,566)      (112.6)  
+  Operating margin                      (2.1)                                11.0                              (13.1)                            pts.  
+
+The estimated impact of significant factors affecting the comparability of net revenue, cost of goods sold and gross profit from the first six months of 2019 to the first six months of 2020 were as follows (in millions):
+
+                                                   Net             Cost of          Gross             
+                                                   Revenue      Goods Sold         Profit             
+ ──────────────────────────────────────────────────────────────────────────────────────────────────────
+  Six months ended June 30, 2019                   $             2,629.6 $      1,827.5 $      802.1  
+  Volume                                           (859.7)         (568.8)        (290.9)             
+  Price, net of related costs                      14.0                7.2            6.8             
+  Foreign currency exchange rates and hedging      (21.0)              5.2         (26.2)             
+  Shipment mix                                     6.1                25.8         (19.7)             
+  Raw material prices                              —                 (3.9)            3.9             
+  Manufacturing and other costs                    —                  49.5         (49.5)             
+                                                   (860.6)         (485.0)        (375.6)             
+  Six months ended June 28, 2020                   $             1,769.0 $      1,342.5 $      426.5  
+
+Factors affecting the comparability of net revenue, cost of goods sold and gross profit from the first six months of 2019 to the first six months of 2020 were as follows:
+
+• The decrease in volume was due to lower wholesale motorcycle shipments and lower P&A and general merchandise sales, partially offset by lower sales incentive costs.
+
+• On average, wholesale prices for motorcycles shipped in the current period were higher than in the same period last year resulting in a favorable impact on revenue. The positive impact on revenue was partially offset by increased costs related to the additional content added to motorcycles shipped in the current period as compared to the same period last year.
+
+• Revenue and gross profit were adversely impacted by weaker foreign currency exchange rates, relative to the U.S. dollar, as compared to the same period last year.
+
+• Changes in the shipment mix between motorcycle families had an adverse impact on gross profit during the first six months of 2020. Additionally, unfavorable mix within P&A contributed to the impact.
+
+• Manufacturing and other costs were adversely impacted by lower fixed cost absorption and productivity related to the temporary suspension of global manufacturing as a result of the COVID-19 pandemic. These unfavorable impacts were partially offset with a favorable reduction in tariff costs and the absence of temporary inefficiencies related to the
+
+
+Company's restructuring activities that were incurred in the prior year. The impact of recent tariffs was $19.7 million in the first half of 2020 compared to $55.4 million in the first half of 2019.
+
+Operating expenses were lower in the first six months of 2020 compared to the same period in 2019 due to lower spending as the Company aggressively managed costs, partially offset by an increase in restructuring expenses.
+
+Financial Services Segment
+
+Segment Results
+
+Condensed statements of operations for the Financial Services segment were as follows (in thousands):
+
+                                   Six months ended                                                                                          
+                                   June 28, 2020                      June 30, 2019                   Increase                            %  
+                                                                                                      (Decrease)                     Change  
+ ─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Revenue:                                                                                                                                   
+  Interest income                  $                     338,262      $                  326,881      $                  11,381         3.5  
+  Other income                                            56,147                          60,477                        (4,330)       (7.2)  
+                                                         394,409                         387,358                          7,051         1.8  
+  Expenses:                                                                                                                                  
+  Interest expense                                       114,660                         104,997                          9,663         9.2  
+  Provision for credit losses                            170,598                          60,874                        109,724       180.2  
+  Operating expense                                       80,336                          87,227                        (6,891)       (7.9)  
+  Restructuring expense            944                                —                               944                             100.0  
+                                                         366,538                         253,098                        113,440        44.8  
+  Operating income                 $                      27,871      $                  134,260      $               (106,389)      (79.2)  
+
+Interest income was higher for the first six months of 2020 primarily due to a higher average retail yield. Other income decreased due in part to lower investment income. Interest expense increased due to higher average outstanding debt, partially offset by a lower cost of funds.
+
+The provision for credit losses increased $109.7 million compared to the first half of 2019 driven by a $107.2 million increase in the allowance for credit losses. The retail and wholesale allowance for credit losses increased $101.6 million and $5.6 million, respectively, as compared to the first half of 2019 driven by the economic impact of the COVID-19 pandemic. The Company expects that existing recessionary economic conditions could be prolonged with a slow economic recovery. The Company’s 
+expectations surrounding its economic forecasts may change in future periods as additional information becomes available.
+
+The allowance for credit losses at June 28, 2020 was determined in accordance with ASU 2016-13, a new accounting standard adopted on January 1, 2020 that changed how companies recognize expected credit losses on financial instruments. The new standard requires recognition of full lifetime expected credit losses upon initial recognition of a financial instrument, replacing the prior, incurred loss methodology. The Company adopted the new accounting standard using a modified retrospective 
+approach. As a result, prior period results were not restated.
+
+Annualized credit losses for the Company's retail motorcycle loans were 1.87% through June 28, 2020 compared to 1.82% through June 30, 2019. The 30-day delinquency rate for retail motorcycle loans at June 28, 2020 was 1.75% compared to 3.33% at June 30, 2019. The improved delinquency rate was primarily driven by a high volume of COVID-19 related extensions during the second quarter of 2020 on eligible retail loans to help customers get through short-term financial difficulties associated with 
+the pandemic.
+
+Operating expenses decreased $6.9 million compared to the first half of 2019 in part driven by lower employee related costs and consulting expense.
+
+
+Changes in the allowance for credit losses on finance receivables were as follows (in thousands):
+
+                                                     Six months ended                                            
+ ─────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+                                                     June 28,                            June 30,                
+  Balance, beginning of period                       $                      198,581      $              189,885  
+  Cumulative effect of change in accounting (a)                             100,604      —                       
+  Provision for credit losses                                               170,598                      60,874  
+  Charge-offs, net of recoveries                                           (58,768)                    (55,763)  
+  Balance, end of period                             $                      411,015      $              194,996  
+
+(a) On January 1, 2020, the Company adopted ASU 2016-13 and increased the allowance for loan loss through retained earnings, net of income taxes, to establish an allowance that represents expected lifetime credit losses on the finance receivable portfolio at date of adoption.
+
+Other Matters
+
+Critical Accounting Estimates
+
+As a result of the January 1, 2020 adoption ASU 2016-13, the Company has updated the Critical Accounting Estimate disclosure fromItem 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations of the Company's Annual Report on Form 10-K for the year ended December 31, 2019 as follows:
+
+Allowance for Credit Losses on Retail Finance Receivables - The allowance for credit losses represents the Company’s estimate of future lifetime losses for its retail finance receivables portfolio. The Company performs a collective evaluation of the adequacy of its retail allowance for credit losses. Subsequent to the January 1, 2020 adoption of ASU 2016-13, the Company utilizes a vintage-based loss forecast methodology that includes decompositions for probability of default, exposure at 
+default, attrition rate, and recovery balance rate. Reasonable and supportable economic forecasts for a two-year period are incorporated into the methodology to reflect the estimated impact of changes in future economic conditions, such as unemployment rates, household obligations or other relevant factors, over the expected life of the retail portfolio. For periods beyond the Company’s reasonable and supportable forecasts, the Company reverts to its average historical loss experience for a 
+three-year period using a mean-reversion process. Adjustments to historical loss information are made for differences in current loan-specific risk characteristics such as differences in underwriting standards, portfolio mix, or term as well as other relevant factors.
+
+Contractual Obligations
+
+As of June 28, 2020, the Company has updated the contractual obligations table fromItem 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations of the Company’s Annual Report on Form 10-K for the year ended December 31, 2019 to reflect the new projected principal and interest payments for the remainder of 2020 and beyond as follows (in thousands):
+
+                                  2020                     2021-2022                                                               
+  Debt:                                                                                                                            
+  Principal payments on debt      $         1,934,840      $              3,983,513      2,890,690      1,450,000      10,259,043  
+  Interest payments on debt                   146,642                       417,167        209,542        321,280       1,094,631  
+                                  $         2,081,482      $              4,400,680      3,100,232      1,771,280      11,353,674  
+
+Interest for floating rate instruments, as calculated above, assume rates in effect at June 28, 2020 remain constant. For purposes of the above, the principal payment balances for medium-term notes, on-balance sheet asset-backed securitizations, and senior notes are shown without reduction for unamortized discounts and debt issuance costs. Refer toNote 12 of the Notes to the Consolidated financial statements for a breakout of the finance costs.
+
+As of June 28, 2020, there have been no other material changes to the Company’s summary of expected payments for significant contractual obligations in the contractual obligations table in the Company's Annual Report on Form 10-K for the year ended December 31, 2019.
+
+
+Commitments and Contingencies
+
+The Company is subject to lawsuits and other claims related to environmental, product and other matters. In determining costs to accrue related to these items, the Company carefully analyzes cases and considers the likelihood of adverse judgments or outcomes, as well as the potential range of possible loss. Any amounts accrued for these matters are monitored on an ongoing basis and are updated based on new developments or new information as it becomes available for each matter.
+
+Environmental Protection Agency Notice - In December 2009, the Company received formal, written requests for information from the United States Environmental Protection Agency (EPA) regarding: (i) certificates of conformity for motorcycle emissions and related designations and labels, (ii) aftermarket parts, and (iii) warranty claims on emissions related components. The Company promptly submitted written responses to the EPA’s inquiry and has engaged in information exchanges and discussions with
+the EPA. In August 2016, the Company entered into a consent decree with the EPA regarding these issues, and the consent decree was subsequently revised in July 2017 (the Settlement). In the Settlement, the Company agreed to, among other things, pay a fine, and not sell tuning products unless they are approved by the EPA or California Air Resources Board. In December 2017, the Department of Justice (DOJ), on behalf of the EPA, filed the Settlement with the U.S. District Court for the District of 
+Columbia for the purpose of obtaining court approval of the Settlement. Three amicus briefs opposing portions of the Settlement were filed with the court by the deadline of January 31, 2018. On March 1, 2018, the Company and the DOJ each filed separate response briefs. The Company is awaiting the court's decision on whether or not to finalize the Settlement, and on February 8, 2019, the DOJ filed a status update reminding the court of the current status of the outstanding matter. The Company has
+an accrual associated with this matter recorded in Accrued liabilities on theConsolidated balance sheets, and as a result, if it is finalized, the Settlement would not have a material adverse effect on the Company's financial condition or results of operations. The Settlement is not final until it is approved by the court, and if it is not approved by the court, the Company cannot reasonably estimate the impact of any remedies the EPA might seek beyond the Company's current reserve for this 
+matter.
+
+York Environmental Matter - The Company is involved with government agencies and the U.S. Navy related to a matter involving the cleanup of soil and groundwater contamination at its York, Pennsylvania facility. The York facility was formerly used by the U.S. Navy and AMF prior to the purchase of the York facility by the Company from AMF in 1981. The Company has an agreement with the U.S. Navy which calls for the U.S. Navy and the Company to contribute amounts into a trust equal to 53% and 47%, 
+respectively, of costs associated with environmental investigation and remediation activities at the York facility (Response Costs). A site wide remedial investigation/feasibility study and a proposed final remedy for the York facility have been completed and approved by the Pennsylvania Department of Environmental Protection and the EPA. The associated cleanup plan documents were approved in February 2020 and the remaining cleanup activities are expected to begin in late 2020 or early 2021. The
+Company has an accrual for its share of the estimated future Response Costs recorded inOther long-term liabilities on the Consolidated balance sheets.
+
+Product Liability Matters - The Company is periodically involved in product liability suits related to the operation of its business. The Company accrues for claim exposures that are probable of occurrence and can be reasonably estimated. The Company also maintains insurance coverage for product liability exposures. The Company believes that its accruals and insurance coverage are adequate and that product liability suits will not have a material adverse effect on the Company’sConsolidated 
+financial statements. (1)
+
+Off-Balance Sheet Arrangements
+
+The Company participates in asset-backed financing both through asset-backed securitization transactions and through asset-backed commercial paper conduit facilities. In the Company's asset-backed financing programs, the Company transfers retail motorcycle finance receivables to special purpose entities (SPEs), which are considered variable interest entities (VIEs) under U.S. GAAP. Each SPE then converts those assets into cash, through the issuance of debt. The Company retains servicing rights 
+for all of the retail motorcycle finance receivables transferred to SPEs as part of an asset-backed financing.
+
+The SPEs are separate legal entities that assume the risks and rewards of ownership of the retail motorcycle finance receivables they hold. The assets of the VIEs are not available to pay other obligations or claims of the Company’s creditors. The Company’s economic exposure related to the VIEs is generally limited to restricted cash reserve accounts, retained interests and ordinary representations and warranties and related covenants. The VIEs have a limited life and generally terminate upon 
+final distribution of amounts owed to investors.
+
+The accounting treatment for asset-backed financings depends on the terms of the related transaction and the Company’s continuing involvement with the VIE. Most of the Company’s asset-backed financings do not meet the criteria to be treated as a sale for accounting purposes as the Company, in addition to retaining servicing rights, retains a financial interest in the VIE in the form of a debt security. These transactions are treated as secured borrowings. As secured
+
+
+borrowings, the retail motorcycle finance receivables remain on the balance sheet with a corresponding obligation reflected as debt.
+
+During 2016, the Company sold finance receivables with a principal balance of $301.8 million into a securitization VIE. The transaction met the criteria to be treated as a sale for accounting purposes and resulted in an off-balance sheet arrangement as the Company did not retain any financial interest in the VIE beyond servicing rights and ordinary representations and warranties and related covenants. In April 2020, this off-balance sheet asset-backed securitization VIE was repurchased for $27.4
+million. Refer toNote 13 of the Notes to Consolidated financial statements for additional information.
+
+Liquidity and Capital Resources as of June 28, 2020(1)
+
+The Company's response to the COVID-19 pandemic includes actions to preserve cash and secure additional liquidity. The Company has taken a number of specific actions to reduce spending. The Company expects its planned reductions in spending will preserve approximately $250 million of cash in 2020 excluding the impact of restructuring charges. In addition, the Company has made no discretionary share repurchases through June 2020 and does not intend to repurchase shares on a discretionary basis 
+for the remainder of 2020.
+
+The Company’s cash and cash equivalents and availability under its credit and conduit facilities at June 28, 2020 were as follows (in thousands):
+
+                                                                   June 28, 2020                 
+ ─────────────────────────────────────────────────────────────────────────────────────────────────
+  Cash and cash equivalents                                        $                  3,856,597  
+  Availability under credit and conduit facilities:                                              
+  Credit facilities                                                                     217,612  
+  Asset-backed U.S. commercial paper conduit facilities (a)                             600,000  
+  Asset-backed Canadian commercial paper conduit facility (a)                            16,601  
+                                                                   $                  4,690,810  
+
+(a) Includes facilities expiring in the next 12 months which the Company expects to renew prior to expiration. (1)
+
+To access the debt capital markets, the Company relies on credit rating agencies to assign short-term and long-term credit ratings. The Company’s short-term debt ratings affect its ability to issue unsecured commercial paper. Generally, lower credit ratings result in higher borrowing costs and reduced access to debt capital markets. The Company’s credit ratings all remain investment grade allowing it to maintain access to commercial paper markets, which is an efficient source of funding for the 
+Company. The Company’s short- and long-term debt ratings, as of the issuance date of this Form 10-Q, were as follows:
+
+                         Short-Term      Long-Term      Outlook   
+  Moody’s                P2              Baa2           Negative  
+  Standard & Poor’s      A2              BBB            Negative  
+  Fitch                  F2              A-             Negative  
+ ──────────────────────────────────────────────────────────────────
+
+A credit rating agency may change or withdraw the Company’s ratings based on its assessment of the Company’s current and future ability to meet interest and principal repayment obligations.
+
+The Company recognizes that it must continue to monitor and adjust its business to changes in the lending environment. The Company intends to continue with a diversified funding profile through a combination of short-term and long-term funding vehicles and to pursue a variety of sources to obtain cost-effective funding. (1) The Financial Services operations could be negatively affected by higher costs of funding and increased difficulty of raising, or potential unsuccessful efforts to raise, 
+funding in the short-term and long-term capital markets. (1) These negative consequences could in turn adversely affect the Company’s business and results of operations in various ways, including through higher costs of capital, reduced funds available through its Financial Services operations to provide loans to independent dealers and their retail customers, and dilution to existing shareholders through the use of alternative sources of capital.
+
+
+Cash Flow Activity
+
+The Company's cash flow activities were as follows (in thousands):
+
+                                                                                     Six months ended                                                   
+                                                                                     June 28, 2020                        June 30, 2019                 
+ ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Net cash provided by operating activities                                          $                       610,203      $                    496,232  
+  Net cash used by investing activities                                                                    (151,278)                         (364,575)  
+  Net cash provided (used) by financing activities                                                         2,703,637                         (380,946)  
+  Effect of exchange rate changes on cash, cash equivalents and restricted cash      (382)                                                       3,439  
+  Net increase (decrease) in cash, cash equivalents and restricted cash              $                     3,162,180      $                  (245,850)  
+
+Operating Activities
+
+The increase in net cash from operating activities for the first half of 2020 compared to the same period in 2019 was primarily due to the reduction in inventory levels and favorable cash flows from wholesale financing activity, partially offset by lower net income. There were no voluntary qualified pension plan contributions in the first half of 2020 or 2019 and no contributions are planned for the remainder of 2020. (1)
+
+Investing Activities
+
+The Company’s most significant investing activities consist of capital expenditures and retail finance originations and collections. Capital expenditures were $67.0 million in the first half of 2020 compared to $83.2 million in the same period last year. Net cash outflows from finance receivables for the first half of 2020 were $212.2 million lower compared to the same period last year due primarily to lower originations. Other investing activities were $15.1 million unfavorable in the first 
+half of 2020 compared to the same period last year.
+
+Financing Activities
+
+The Company’s financing activities consist primarily of share repurchases, dividend payments, and debt activity. Cash outflows for share repurchases were $7.2 million in the first half of 2020 compared to $104.6 million in the same period last year. In the first quarter of 2020, the Company temporarily suspended its discretionary share repurchase program as a result there have been no discretionary share repurchases in 2020. Share repurchases during the first six months of 2020 included $7.2 
+million or 0.2 million shares of common stock that employees surrendered to satisfy withholding taxes in connection with the vesting of restricted stock units. As of June 28, 2020, there were 18.2 million shares remaining on board-approved share repurchase authorizations. The Company paid dividends of $0.40 and $0.75 per share totaling $61.9 million and $120.8 million during the first half of 2020 and 2019, respectively.
+
+Financing cash flows related to debt activity resulted in net cash inflows of $2.8 billion in the first six months of 2020 compared to net cash outflows of $156.3 million in the first six months of 2019. The Company’s total outstanding debt consisted of the following (in thousands):
+
+                                                               June 28,                      June 30,                 
+  Unsecured commercial paper                                   $              1,397,388      $               405,695  
+  Asset-backed Canadian commercial paper conduit facility                       144,661                      148,740  
+  Asset-backed U.S. commercial paper conduit facilities                         540,840                      464,136  
+  Asset-backed securitization debt, net                                       2,461,107                    1,002,869  
+  Medium-term notes, net                                                      4,784,293                    4,687,660  
+  364-day credit facility borrowings                                            150,000      —                        
+  Senior notes, net                                                             743,635                      742,959  
+                                                               $             10,221,924      $             7,452,059  
+
+Credit Facilities - In April 2020, the Company entered into a $707.5 million five-year credit facility to replace the $765.0 million five-year credit facility that was due to mature in April 2021 and amended the $780.0 million five-year credit facility to $707.5 million with no change to the maturity date of April 2023. The new five-year credit facility matures in April 2025. The Company also had a $195.0 million 364-day credit facility which was due to mature in May 2020. In April 2020, the 
+Company extended the maturity date of this credit facility to August 2020; however, this facility was terminated on May 18, 2020. At the time of termination, there were no outstanding borrowings under this 364-day credit facility. On June 1, 2020, the
+
+
+Company entered into a new $350.0 million 364-day credit facility, and on June 4, 2020, the Company borrowed $150.0 million under this facility. The five-year credit facilities (together, the Global Credit Facilities), as well as the $350.0 million 364-day credit facility, bear interest at variable rates, which may be adjusted upward or downward depending on certain criteria, such as credit ratings. The Global Credit Facilities and the $350.0 million 364-day credit facility also require the 
+Company to pay a fee based on the average daily unused portion of the aggregate commitments. The Global Credit Facilities are committed facilities primarily used to support the Company's unsecured commercial paper program.
+
+Unsecured Commercial Paper - Subject to limitations, the Company could issue unsecured commercial paper of up to $1.42 billion as of June 28, 2020 supported by the Global Credit Facilities, as discussed above. Outstanding unsecured commercial paper may not exceed the unused portion of the Global Credit Facilities. Maturities may range up to 365 days from the issuance date. The Company intends to repay unsecured commercial paper as it matures with additional unsecured commercial paper or through 
+other means, such as borrowing under the Global Credit Facilities or the $350.0 million 364-day credit facility, borrowing under its asset-backed U.S. commercial paper conduit facilities or through the use of operating cash flow and cash on hand. (1)
+
+Medium-Term Notes - The Company had the following unsecured medium-term notes issued and outstanding at June 28, 2020 (in thousands):
+
+  Principal Amount               Rate      Issue Date         Maturity Date  
+          $450,000      LIBOR + 0.94%      November 2018      March 2021     
+      $729,885 (a)              4.94%      May 2020           May 2023       
+      $673,740 (b)              3.14%      November 2019      November 2024  
+ ─────────────────────────────────────────────────────────────────────────────
+          $600,000              2.85%      January 2016       January 2021   
+          $350,000              3.55%      May 2018           May 2021       
+          $550,000              4.05%      February 2019      February 2022  
+          $400,000              2.55%      June 2017          June 2022      
+          $350,000              3.35%      February 2018      February 2023  
+          $700,000              3.35%      June 2020          June 2025      
+
+(a)Euro denominated, €650.0 million par value remeasured to U.S. dollar at June 28, 2020
+
+(b)Euro denominated, €600.0 million par value remeasured to U.S. dollar at June 28, 2020
+
+The fixed-rate U.S. dollar-denominated medium-term notes provide for semi-annual interest payments, the fixed-rate foreign currency-denominated medium-term notes provide for annual interest payments, and the floating-rate medium-term notes provide for quarterly interest payments. Principal on the medium-term notes is due at maturity. Unamortized discounts and debt issuance costs on the medium-term notes reduced the outstanding balance by $19.3 million and $12.3 million at June 28, 2020 and June 
+30, 2019, respectively. During the second quarter of 2020, $450.0 million of floating rate and $350.0 million of 2.4% medium-term notes matured, and the principal and accrued interest were paid in full. During the first quarter of 2020, $600.0 million of 2.15% medium-term notes matured, and the principal and accrued interest were paid in full. There were no medium-term note maturities during the second quarter of 2019. During the first quarter of 2019, $600.0 million of 2.25% and $150.0 million 
+of floating-rate medium-term notes matured, and the principal and accrued interest were paid in full.
+
+Senior Notes - In July 2015, the Company issued $750.0 million of unsecured senior notes in an underwritten offering. The senior notes provide for semi-annual interest payments and principal due at maturity. $450.0 million of the senior notes mature in July 2025 and have an interest rate of 3.50%, and $300.0 million of the senior notes mature in July 2045 and have an interest rate of 4.625%. The Company used the proceeds from the debt to repurchase shares of its common stock in 2015.
+
+On-Balance Sheet Asset-Backed Canadian Commercial Paper Conduit Facility - The Company has a revolving facility agreement (Canadian Conduit) with a Canadian bank-sponsored asset-backed commercial paper conduit. Under the agreement, the Canadian Conduit is contractually committed, at the Company's option, to purchase from the Company eligible Canadian retail motorcycle finance receivables for proceeds up to C$220.0 million. The transferred assets are restricted as collateral for the payment of 
+the associated debt. The terms for this facility provide for interest on the outstanding principal based on prevailing market interest rates plus a specified margin. The Canadian Conduit also provides for a program fee and an unused commitment fee based on the unused portion of the total aggregate commitment of C$220.0 million. There is no amortization schedule; however, the debt is reduced monthly as available collections on the related finance receivables are applied to outstanding principal. 
+Upon expiration of the Canadian Conduit, any outstanding principal will continue to be reduced monthly through available collections. The Canadian Conduit was renewed on June 26, 2020 with similar terms and a borrowing amount of up to C$220.0 million. T he expected remaining term of the related
+
+
+receivables is approximately 5 years. Unless earlier terminated or extended by mutual agreement between the Company and the lenders, as of June 28, 2020, the Canadian Conduit has an expiration date of June 25, 2021.
+
+Quarterly transfers of Canadian retail motorcycle finance receivables to the Canadian Conduit and the respective proceeds were as follows (in thousands):
+
+                      2020                                                             2019                  
+                      Transfers                  Proceeds                              Proceeds              
+  First quarter       $              77,900      $             61,600      —           $             —       
+ ─────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Second quarter      —                          —                         28,200                    23,400  
+                      $              77,900      $             61,600      28,200      $             23,400  
+
+On-Balance Sheet Asset-Backed U.S. Commercial Paper Conduit Facilities VIE - The Company has two separate agreements, a $300.0 million revolving facility agreement and a $600.0 million revolving facility agreement, with third-party bank-sponsored asset-backed U.S. commercial paper conduits under which it may transfer U.S. retail motorcycle finance receivables to an SPE, which in turn may issue debt to those third-party bank-sponsored asset-backed U.S. commercial paper conduits. In May 2019, the 
+Company amended its $300.0 million revolving facility agreement to allow for incremental borrowings, at the lender's discretion, of up to an additional $300.0 million in excess of the $300.0 million commitment. In November 2019, the Company renewed its existing $600.0 million and the amended $300.0 million revolving facility agreements with third-party bank-sponsored asset-backed U.S. commercial paper conduits. Availability under the revolving facilities (together, the U.S. Conduit Facilities) 
+is based on, among other things, the amount of eligible U.S. retail motorcycle finance receivables held by the SPE as collateral.
+
+Quarterly transfers of U.S. retail motorcycle finance receivables to the U.S. Conduit Facilities and the respective proceeds were as follows (in thousands):
+
+                      2020                                                                  2019      
+                      Transfers                   Proceeds                   Transfers      Proceeds  
+  First quarter       $              195,300      $             163,600      $              $         
+  Second quarter      —                           —                          —              —         
+                      $              195,300      $             163,600      $              $         
+ ──────────────────────────────────────────────────────────────────────────────────────────────────────
+
+The terms for this debt provide for interest on the outstanding principal based on prevailing commercial paper rates if funded by a conduit lender through the issuance of commercial paper. If not funded by a conduit lender through the issuance of commercial paper, the terms of the interest are based on LIBOR. In each of these cases, a program fee is assessed based on the outstanding principal. The U.S. Conduit Facilities also provide for an unused commitment fee based on the unused portion of 
+the total aggregate commitment. When calculating the unused fee, the aggregate commitment for the $300.0 million agreement does not include any unused portion of the $300.0 million incremental borrowings allowed. There is no amortization schedule; however, the debt is reduced monthly as available collections on the related finance receivables are applied to outstanding principal. Upon expiration of the U.S. Conduit Facilities, any outstanding principal will continue to be reduced monthly through
+available collections. The expected remaining term of the related receivables held by the SPE is approximately 5 years. Unless earlier terminated or extended by mutual agreement of the Company and the lenders, as of June 28, 2020, the U.S. Conduit Facilities have an expiration date of November 25, 2020.
+
+Asset-Backed Securitization VIEs - For all of its asset-backed securitization transactions, the Company transfers U.S. retail motorcycle finance receivables to separate VIEs, which in turn issue secured notes with various maturities and interest rates to investors. All of the notes held by the VIEs are secured by future collections of the purchased U.S. retail motorcycle finance receivables. The U.S. retail motorcycle finance receivables included in the asset-backed securitization transactions 
+are not available to pay other obligations or claims of the Company's creditors until the associated debt and other obligations are satisfied. Restricted cash balances held by the VIEs are used only to support the securitizations.
+
+The accounting treatment for asset-backed securitizations depends on the terms of the related transaction and the Company’s continuing involvement with the VIE. The Company's current outstanding asset-backed securitizations do not meet the criteria to be accounted for as a sale because, in addition to retaining servicing rights, the Company retains a financial interest in the VIE in the form of a debt security. These transactions are treated as secured borrowings. As secured borrowings, the 
+retail motorcycle finance receivables remain on the balance sheet with a corresponding obligation reflected as debt. There is no amortization schedule for the secured notes; however, the debt is reduced monthly as available collections on the related retail motorcycle finance receivables are applied to outstanding principal. The secured notes have various contractual maturities ranging from 2021 to 2028.
+
+
+Quarterly transfers of U.S. retail motorcycle finance receivables to SPEs, the respective proceeds, and the respective proceeds, net of discounts and issuance costs were as follows (in thousands):
+
+                      2020                                                                                      2019           
+                      Transfers                                                                                 Proceeds, net  
+  First quarter       $                580,200        525,000        522,700      —              —              $              
+ ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Second quarter                     1,840,500      1,550,200      1,541,800      1,120,000      1,025,000                     
+                      $              2,420,700      2,075,200      2,064,500      1,120,000      1,025,000      $              
+
+Support Agreement - The Company has a support agreement with HDFS whereby, if required, the Company agrees to provide HDFS with financial support to maintain HDFS’ fixed-charge coverage at 1.25 and minimum net worth of $40.0 million. Support may be provided at the Company’s option as capital contributions or loans. Accordingly, certain debt covenants may restrict the Company’s ability to withdraw funds from HDFS outside the normal course of business. No amount has ever been provided to HDFS 
+under the support agreement.
+
+Operating and Financial Covenants - HDFS and the Company are subject to various operating and financial covenants related to the credit facilities and various operating covenants under the medium-term and senior notes and the U.S. and Canadian asset-backed commercial paper conduit facilities. The more significant covenants are described below.
+
+The operating covenants limit the Company’s and HDFS’ ability to:
+
+• Assume or incur certain liens;
+
+•Participate in certain mergers or consolidations; and
+
+• Purchase or hold margin stock.
+
+Under the current financial covenants of the Global Credit Facilities, the ratio of HDFS’ consolidated debt, excluding secured debt, to HDFS' consolidated allowance for credit losses on finance receivables plus HDFS’ consolidated shareholders' equity, excluding accumulated other comprehensive loss (AOCL), cannot exceed 10.0 to 1.0 as of the end of any fiscal quarter. As of the end of the second quarter of 2020, the actual ratio was5.1 to 1.0. In addition, the ratio of the Company's consolidated 
+debt to the Company's consolidated debt and consolidated shareholders’ equity (where the Company's consolidated debt in each case excludes that of HDFS and its subsidiaries, and the Company's consolidated shareholders’ equity excludes AOCL), cannot exceed 0.7 to 1.0 as of the end of any fiscal quarter. No financial covenants are required under the medium-term or senior notes or the U.S. or Canadian asset-backed commercial paper conduit facilities.
+
+As of June 28, 2020, HDFS and the Company remained in compliance with all of the then existing covenants and expects to remain in compliance for the foreseeable future.
+
+Cautionary Statements
+
+Important factors that could affect future results and cause those results to differ materially from those expressed in the forward-looking statements include, among others, the following: (i) the COVID-19 pandemic including the length and severity of the pandemic across the globe and the pace of recovery following the pandemic; (ii) adverse economic, political or market conditions in the U.S. and international markets and other factors such as natural disasters; and (iii) the Company's ability 
+to: (a) create and execute its business plans and strategies, and strengthen its existing business while allowing for desirable growth; (b) manage and predict the impact that new or adjusted tariffs may have on the Company's ability to sell products internationally, and the cost of raw materials and components; (c) successfully carry out its global manufacturing and assembly operations; (d) accurately analyze, predict and react to changing market conditions and successfully adjust to shifting 
+global consumer needs and interests, including successfully implementing and executing plans to exit international markets where volumes and profitability do not support continued investment in line with future strategy; (e) successfully access the capital and/or credit markets on terms that are acceptable to the Company and within its expectations; (f) develop and maintain a productive relationship with Zhejiang Qianjiang Motorcycle Co., Ltd. and launch related products in a timely manner; (g) 
+develop and introduce products, services and experiences on a timely basis that the market accepts, that enable the Company to generate desired sales levels and that provide the desired financial returns; (h) perform in a manner that enables the Company to benefit from market opportunities while competing against existing and new competitors; (i) realize expectations concerning market demand for electric models, which will depend in part on the building of necessary infrastructure; (j) prevent, 
+detect, and remediate any issues with its motorcycles or any issues associated with the manufacturing processes to avoid delays in new model launches, recall campaigns, regulatory agency investigations, increased warranty costs or litigation and adverse effects on its reputation and brand strength, and carry out any product programs or recalls within expected costs and timing; (k) manage supply chain issues, including quality issues and any unexpected interruptions or price increases caused by 
+raw material shortages or natural disasters; (l) manage the impact that prices for and supply of used motorcycles may have on its business, including on retail sales of new motorcycles; (m) successfully
+
+
+manage and reduce costs throughout the business; (n) balance production volumes for its new motorcycles with consumer demand; (o) manage risks that arise through expanding international manufacturing, operations and sales; (p) manage through changes in general economic and business conditions, including changing capital, credit and retail markets, and the changing political environment; (q) successfully determine, implement on a timely basis, and maintain a manner in which to sell motorcycles in
+the European Union, China, and the Company's ASEAN countries that does not subject its motorcycles to incremental tariffs; (r) accurately estimate and adjust to fluctuations in foreign currency exchange rates, interest rates and commodity prices; (s) continue to develop the capabilities of its distributors and dealers, effectively implement changes relating to its dealers and distribution methods and manage the risks that its independent dealers may have difficulty obtaining capital and managing
+through changing economic conditions and consumer demand; (t) retain and attract talented employees and eliminate personnel duplication, inefficiencies, and complexity throughout the organization; (u) prevent a cybersecurity breach involving consumer, employee, dealer, supplier, or Company data and respond to evolving regulatory requirements regarding data security; (v) manage the credit quality, the loan servicing and collection activities, and the recovery rates of HDFS' loan portfolio; (w) 
+adjust to tax reform, healthcare inflation and reform and pension reform, and successfully estimate the impact of any such reform on the Company's business; (x) manage through the effects inconsistent and unpredictable weather patterns may have on retail sales of motorcycles; (y) implement and manage enterprise-wide information technology systems, including systems at its manufacturing facilities; (z) grow ridership, globally; (aa) manage changes and prepare for requirements in legislative and 
+regulatory environments for its products, services and operations; (bb) manage its exposure to product liability claims and commercial or contractual disputes; (cc) manage its Thailand corporate and manufacturing operation in a manner that allows the Company to avail itself of preferential free trade agreements and duty rates, and sufficiently lower prices of its motorcycles in certain markets; (dd) continue to manage the relationships and agreements that the Company has with its labor unions to
+help drive long-term competitiveness; and (ee) accurately predict the margins of its Motorcycles and Related Products segment in light of, among other things, tariffs, the cost associated with product development initiatives and the Company's complex global supply chain.
+
+The Company's operations, demand for its products, and its liquidity could be adversely impacted by work stoppages, facility closures, strikes, natural causes, widespread infectious disease, terrorism, or other factors. Other factors are described inItem 1A. Risk Factors and risk factors that the Company has disclosed in documents previously filed with the Securities and Exchange Commission. Many of these risk factors are impacted by the current changing capital, credit and retail markets and 
+the Company's ability to manage through inconsistent economic conditions.
+
+The Company’s ability to sell its motorcycles and related products and services and to meet its financial expectations also depends on the ability of the Company’s independent dealers to sell its motorcycles and related products and services to retail customers. The Company depends on the capability and financial capacity of its independent dealers to develop and implement effective retail sales plans to create demand for the motorcycles and related products and services they purchase from the 
+Company. In addition, the Company’s independent dealers and distributors may experience difficulties in operating their businesses and selling Harley-Davidson motorcycles and related products and services as a result of weather, economic conditions, the impact of the COVID-19 pandemic, or other factors.
+
+In recent years, HDFS has experienced historically low levels of retail credit losses, but there is no assurance that this will continue. The Company believes that HDFS' retail credit losses may increase over time due to changing consumer credit behavior and HDFS' efforts to increase prudently structured loan approvals to sub-prime borrowers, as well as actions that the Company has taken and could take that impact motorcycle values.
+
+Refer toItem 1A. Risk Factors of this report and the Company’s Annual Report on Form 10-K for the year ended December 31, 2019 for a discussion of additional risk factors and a more complete discussion of some of the cautionary statements noted above.
+
