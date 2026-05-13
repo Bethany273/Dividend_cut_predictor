@@ -17,28 +17,45 @@ CUT_FOLDER = "sec_filings_dataset/mda_extracts/cut"
 NON_CUT_FOLDER = "sec_filings_dataset/mda_extracts/non_cut"
 
 # Step 1: Load all MDA files
-print("\n📂 Loading MDA files...")
+print("\nLoading MDA files...")
 
 texts = []
 labels = []
 
-# Load cut files (label = 1)
-for filename in os.listdir(CUT_FOLDER):
-    if filename.endswith("_MDA.txt"):
-        with open(os.path.join(CUT_FOLDER, filename), 'r', encoding='utf-8') as f:
-            texts.append(f.read())
-            labels.append(1)  # 1 = cut
-            print(f"  ✓ Cut: {filename}")
 
-# Load non-cut files (label = 0)
-for filename in os.listdir(NON_CUT_FOLDER):
-    if filename.endswith("_MDA.txt"):
-        with open(os.path.join(NON_CUT_FOLDER, filename), 'r', encoding='utf-8') as f:
-            texts.append(f.read())
-            labels.append(0)  # 0 = no cut
-            print(f"  ✓ Non-cut: {filename}")
+def get_earliest_files(folder):
+    earliest = {}
+    for filename in os.listdir(folder):
+        if not filename.endswith("_MDA.txt"):
+            continue
+        parts = filename.replace('_MDA.txt', '').split('_')
+        ticker = parts[0]
+        date = parts[1] if len(parts) > 1 else None
+        if not date:
+            continue
+        if ticker not in earliest or date < earliest[ticker][0]:
+            earliest[ticker] = (date, filename)
+    return [filename for _, filename in sorted(earliest.values())]
 
-print(f"\n✅ Total: {len(texts)} files")
+# Use only the earliest filing per ticker so the model trains on pre-cut / baseline reports.
+cut_files = get_earliest_files(CUT_FOLDER)
+non_cut_files = get_earliest_files(NON_CUT_FOLDER)
+
+for filename in cut_files:
+    with open(os.path.join(CUT_FOLDER, filename), 'r', encoding='utf-8') as f:
+        texts.append(f.read())
+        labels.append(1)
+        print(f"  Cut: {filename}")
+
+for filename in non_cut_files:
+    with open(os.path.join(NON_CUT_FOLDER, filename), 'r', encoding='utf-8') as f:
+        texts.append(f.read())
+        labels.append(0)
+        print(f"  Non-cut: {filename}")
+
+print(f"\nSelected {len(cut_files)} earliest cut files and {len(non_cut_files)} earliest non-cut files")
+
+print(f"\nTotal: {len(texts)} files")
 print(f"   Cut (label=1): {sum(labels)}")
 print(f"   Non-cut (label=0): {len(labels) - sum(labels)}")
 
@@ -52,7 +69,7 @@ def clean_text(text):
 cleaned = [clean_text(t) for t in texts]
 
 # Step 3: Convert to numbers (TF-IDF)
-print("\n🔢 Converting text to numbers...")
+print("\nConverting text to numbers...")
 vectorizer = TfidfVectorizer(
     max_features=1500,
     min_df=1,
@@ -73,7 +90,7 @@ X_train, X_test, y_train, y_test = train_test_split(
 )
 
 # Step 5: Train model
-print("\n🤖 Training model...")
+print("\nTraining model...")
 model = LogisticRegression(
     solver='liblinear',
     class_weight='balanced',
@@ -104,11 +121,11 @@ coefs = model.coef_[0]
 pos_idx = np.argsort(coefs)[-15:][::-1]
 neg_idx = np.argsort(coefs)[:15]
 
-print("\n🔑 Top 15 words associated with CUT:")
+print("\nTop 15 words associated with CUT:")
 for i, idx in enumerate(pos_idx):
     print(f"   {i+1}. '{feature_names[idx]}' - {coefs[idx]:.4f}")
 
-print("\n🔑 Top 15 words associated with NO CUT:")
+print("\nTop 15 words associated with NO CUT:")
 for i, idx in enumerate(neg_idx):
     print(f"   {i+1}. '{feature_names[idx]}' - {coefs[idx]:.4f}")
 
@@ -116,6 +133,6 @@ for i, idx in enumerate(neg_idx):
 joblib.dump(model, 'dividend_cut_model.pkl')
 joblib.dump(vectorizer, 'vectorizer.pkl')
 
-print("\n💾 Model saved to: dividend_cut_model.pkl")
-print("💾 Vectorizer saved to: vectorizer.pkl")
-print("\n✅ Training complete!")
+print("\nModel saved to: dividend_cut_model.pkl")
+print("Vectorizer saved to: vectorizer.pkl")
+print("\nTraining complete!")
