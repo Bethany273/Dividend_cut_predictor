@@ -287,4 +287,25 @@ Critical Accounting Policies and Estimates
 The preparation of financial statements and related disclosures in conformity with U.S. generally accepted accounting principles and the Company’s discussion and analysis of its financial condition and operating results require the Company’s management to make judgments, assumptions and estimates that affect the amounts reported. Management bases its estimates on historical experience and on various other assumptions it believes to be reasonable under the circumstances, the results of which form
 the basis for making judgments about the carrying values of assets and liabilities. Actual results may differ from these estimates, and such differences may be material.
 
-Note 1, “Summary of Significant Accounting Policies” in Part I, Item 1 of this Form 10-Q and in the Notes to Consolidated Financial Statements in 
+Note 1, “Summary of Significant Accounting Policies” in Part I, Item 1 of this Form 10-Q and in the Notes to Consolidated Financial Statements in Part II, Item 8 of the2019Form 10-K, and “Critical Accounting Policies and Estimates” in Part II, Item 7 of the2019 Form 10-K describe the significant accounting policies and methods used in the preparation of the Company’s condensed consolidated financial statements. There have been no material changes to the Company’s critical accounting policies and
+estimates since the2019 Form 10-K.
+
+  Item 3.      Quantitative and Qualitative Disclosures About Market Risk  
+ ───────────────────────────────────────────────────────────────────────────
+
+There have been no material changes to the Company’s market risk during the first three months of2020. For a discussion of the Company’s exposure to market risk, refer to the Company’s market risk disclosures set forth in Part II, Item 7A, “Quantitative and Qualitative Disclosures About Market Risk” of the2019 Form 10-K.
+
+  Item 4.      Controls and Procedures  
+ ────────────────────────────────────────
+
+Evaluation of Disclosure Controls and Procedures
+
+Based on an evaluation under the supervision and with the participation of the Company’s management, the Company’s principal executive officer and principal financial officer have concluded that the Company’s disclosure controls and procedures as defined in Rules 13a-15(e) and 15d-15(e) under the Exchange Act were effective as ofDecember 28, 2019 to provide reasonable assurance that information required to be disclosed by the Company in reports that it files or submits under the Exchange Act is 
+(i) recorded, processed, summarized and reported within the time periods specified in the SEC rules and forms and (ii) accumulated and communicated to the Company’s management, including its principal executive officer and principal financial officer, as appropriate to allow timely decisions regarding required disclosure.
+
+Changes in Internal Control over Financial Reporting
+
+There were no changes in the Company’s internal control over financial reporting during the first quarter of2020, which were identified in connection with management’s evaluation required by paragraph (d) of Rules 13a-15 and 15d-15 under the Exchange Act, that have materially affected, or are reasonably likely to materially affect, the Company’s internal control over financial reporting.
+
+Apple Inc. | Q1 2020 Form 10-Q |31
+

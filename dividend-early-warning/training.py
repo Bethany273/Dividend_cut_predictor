@@ -3,8 +3,8 @@ import os
 import re
 import numpy as np
 from sklearn.feature_extraction.text import TfidfVectorizer
-from sklearn.ensemble import RandomForestClassifier
-from sklearn.model_selection import train_test_split
+from sklearn.linear_model import LogisticRegression
+from sklearn.model_selection import train_test_split, cross_val_score
 from sklearn.metrics import classification_report, accuracy_score
 import joblib
 
@@ -47,13 +47,20 @@ def clean_text(text):
     text = text.lower()
     text = re.sub(r'[^a-z\s]', '', text)  # keep only letters and spaces
     text = re.sub(r'\s+', ' ', text)      # remove extra spaces
-    return text
+    return text.strip()
 
 cleaned = [clean_text(t) for t in texts]
 
 # Step 3: Convert to numbers (TF-IDF)
 print("\n🔢 Converting text to numbers...")
-vectorizer = TfidfVectorizer(max_features=500, min_df=2, max_df=0.8)
+vectorizer = TfidfVectorizer(
+    max_features=1500,
+    min_df=1,
+    max_df=0.85,
+    stop_words='english',
+    ngram_range=(1, 2),
+    sublinear_tf=True,
+)
 X = vectorizer.fit_transform(cleaned)
 y = np.array(labels)
 
@@ -67,8 +74,17 @@ X_train, X_test, y_train, y_test = train_test_split(
 
 # Step 5: Train model
 print("\n🤖 Training model...")
-model = RandomForestClassifier(n_estimators=100, max_depth=10, random_state=42)
+model = LogisticRegression(
+    solver='liblinear',
+    class_weight='balanced',
+    random_state=42,
+    max_iter=500,
+)
 model.fit(X_train, y_train)
+
+# Step 5b: cross-validation on full dataset
+cv_scores = cross_val_score(model, X, y, cv=5, scoring='accuracy')
+print(f"\n5-fold CV accuracy: {cv_scores.mean():.2%} ± {cv_scores.std():.2%}")
 
 # Step 6: Test model
 y_pred = model.predict(X_test)
@@ -83,12 +99,18 @@ print(classification_report(y_test, y_pred, target_names=['NO CUT', 'CUT']))
 
 # Step 7: Show top words
 feature_names = vectorizer.get_feature_names_out()
-importances = model.feature_importances_
-top_idx = importances.argsort()[-15:][::-1]
+coefs = model.coef_[0]
 
-print("\n🔑 Top 15 most important words:")
-for i, idx in enumerate(top_idx):
-    print(f"   {i+1}. '{feature_names[idx]}' - {importances[idx]:.4f}")
+pos_idx = np.argsort(coefs)[-15:][::-1]
+neg_idx = np.argsort(coefs)[:15]
+
+print("\n🔑 Top 15 words associated with CUT:")
+for i, idx in enumerate(pos_idx):
+    print(f"   {i+1}. '{feature_names[idx]}' - {coefs[idx]:.4f}")
+
+print("\n🔑 Top 15 words associated with NO CUT:")
+for i, idx in enumerate(neg_idx):
+    print(f"   {i+1}. '{feature_names[idx]}' - {coefs[idx]:.4f}")
 
 # Step 8: Save model
 joblib.dump(model, 'dividend_cut_model.pkl')

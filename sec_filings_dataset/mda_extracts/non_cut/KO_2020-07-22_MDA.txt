@@ -32,4 +32,585 @@ CRITICAL ACCOUNTING POLICIES AND ESTIMATES
 
 Recoverability of Current and Noncurrent Assets
 
-Our Company faces many uncertainties and risks related to various economic, political and regulatory environments in the countries in which we operate, particularly in developing and emerging markets. Refer to the heading "Item 1A. Risk Factors" in Part I and "Our Business - Challenges and Risks" in 
+Our Company faces many uncertainties and risks related to various economic, political and regulatory environments in the countries in which we operate, particularly in developing and emerging markets. Refer to the heading "Item 1A. Risk Factors" in Part I and "Our Business - Challenges and Risks" in Part II of our Annual Report on Form 10-K for the year ended December 31, 2019. As a result, management must make numerous assumptions which involve a significant amount of judgment when completing 
+recoverability and impairment tests of current and noncurrent assets in various regions around the world.
+
+Factors that management must estimate include, among others, the economic lives of the assets, sales volume, pricing, cost of raw materials, delivery costs, inflation, cost of capital, marketing spending, foreign currency exchange rates, tax rates, capital spending, proceeds from the sale of assets and customers' financial condition. These factors are even more difficult to estimate as a result of uncertainties associated with the duration of the various shelter-in-place orders and reopening 
+plans across the globe related to the COVID-19 pandemic and the post-pandemic economic recovery. The estimates we use when assessing the recoverability of assets are consistent with those we use in our internal planning. When performing impairment tests, we estimate the fair values of the assets using management's best assumptions, which we believe would be consistent with what a market participant would use. The variability of these factors depends on a number of conditions, including 
+uncertainty associated with COVID-19, and thus our accounting estimates may change from period to period. Our current estimates reflect our belief that the second quarter of 2020 will be the most severely impacted quarter for the full year 2020; however, we still estimate that the various shelter-in-place orders, reopening plans and social distancing practices across the globe will have a negative impact on our business in the second half of 2020. We also anticipate that many smaller customers 
+throughout the world may permanently close. The Company has certain intangible and other long-lived assets that are more dependent on cash flows generated in the away-from-home channels and/or that generate cash flows in geographic areas that are more heavily impacted by the COVID-19 pandemic and are therefore more susceptible to impairment. In addition, intangible and other long-lived assets we acquired in recent transactions are naturally more susceptible to impairment, because they are 
+recorded at fair value based on recent operating plans and macroeconomic conditions at the time of acquisition. We also have certain intangible assets and other longed-lived assets that generate cash flows in a small number of local markets. As we shift our focus toward prioritizing brands with broad consumer reach, we may choose to reduce or eliminate support for, or discontinue selling, certain brands, which could result in future impairment charges. If we had used other assumptions and 
+estimates when tests of these assets were performed, impairment charges could have resulted. Furthermore, if management uses different assumptions or if different conditions exist in future periods, future impairment charges could result. Also, if a customer which has received advanced funding from the Company permanently closes, we may be required to write off the unamortized balance of the funding. The total future impairment charges and other asset write-offs we may be required to record 
+could be material. Refer to Note 2 of Notes to Condensed Consolidated Financial Statements for a discussion of recent acquisitions. Refer to Note 11 of Notes to Condensed Consolidated Financial Statements for the discussion of impairment charges.
+
+We perform recoverability and impairment tests of current and noncurrent assets in accordance with accounting principles generally accepted in the United States ("U.S. GAAP"). For certain assets, recoverability and/or impairment tests are required only when conditions exist that indicate the carrying value may not be recoverable. For other assets, impairment tests are required at least annually, or more frequently if events or circumstances indicate that an asset may be impaired.
+
+As of June 26, 2020, the carrying value of our investment in Coca-Cola Bottlers Japan Holdings Inc. ("CCBJHI") exceeded its fair value by $114 million, or 18 percent, and the carrying value of our investment in Coca-Cola European Partners plc ("CCEP") exceeded its fair value by $365 million, or 11 percent. Based on the length of time and the extent to which the fair values have been less than our carrying values and our intent and ability to retain the investments for a period of time sufficient
+to allow for any anticipated recovery in market value, management determined that the declines in fair values were temporary in nature. Therefore, we did not record an impairment charge related to either investment.
+
+Our equity method investees also perform such recoverability and/or impairment tests. If an impairment charge is recorded by one of our equity method investees, the Company records its proportionate share of such charge as a reduction of equity income (loss) - net in our consolidated statement of income. However, the actual amount we record with respect to our proportionate share of such charge may be impacted by items such as basis differences, deferred taxes and deferred gains.
+
+OPERATIONS REVIEW
+
+Sales of our nonalcoholic ready-to-drink beverages are somewhat seasonal, with the second and third calendar quarters typically accounting for the highest sales volumes. The volume of sales in the beverage business may be affected by weather conditions.
+
+Structural Changes, Acquired Brands and Newly Licensed Brands
+
+In order to continually improve upon the Company's operating performance, from time to time, we engage in buying and selling ownership interests in bottling partners and other manufacturing operations. In addition, we also acquire brands and their related operations or enter into license agreements for certain brands to supplement our beverage offerings. These items impact our operating results and certain key metrics used by management in assessing the Company's performance.
+
+Unit case volume growth is a metric used by management to evaluate the Company's performance because it measures demand for our products at the consumer level. The Company's unit case volume represents the number of unit cases (or unit case equivalents) of Company beverage products directly or indirectly sold by the Company and its bottling partners to customers or consumers and, therefore, reflects unit case volume for both consolidated and unconsolidated bottlers. Refer to the heading 
+"Beverage Volume" below.
+
+Concentrate sales volume represents the amount of concentrates, syrups, source waters and powders/minerals (in all instances expressed in unit case equivalents) sold by, or used in finished products sold by, the Company to its bottling partners or other customers. For Costa Limited ("Costa") non-ready-to-drink beverage products, concentrate sales volume represents the amount of coffee beans and finished beverages (in all instances expressed in unit case equivalents) sold by the Company to 
+customers or consumers. Refer to the heading "Beverage Volume" below.
+
+When we analyze our net operating revenues we generally consider the following factors: (1) volume growth (concentrate sales volume or unit case volume, as applicable); (2) changes in price, product and geographic mix; (3) foreign currency fluctuations; and (4) acquisitions and divestitures (including structural changes defined below), as applicable. Refer to the heading "Net Operating Revenues" below. The Company sells concentrates and syrups to both consolidated and unconsolidated bottling 
+partners. The ownership structure of our bottling partners impacts the timing of recognizing concentrate revenue and concentrate sales volume. When we sell concentrates or syrups to our consolidated bottling partners, we are not able to recognize the concentrate revenue or concentrate sales volume until the bottling partner has sold finished products manufactured from the concentrates or syrups to a third party or independent customer. When we sell concentrates or syrups to our unconsolidated 
+bottling partners, we recognize the concentrate revenue and concentrate sales volume when the concentrates or syrups are sold to the bottling partner. The subsequent sale of the finished products manufactured from the concentrates or syrups to a third party or independent customer does not impact the timing of recognizing the concentrate revenue or concentrate sales volume. When we account for an unconsolidated bottling partner as an equity method investment, we eliminate the intercompany profit
+related to these transactions to the extent of our ownership interest until the equity method investee has sold finished products manufactured from the concentrates or syrups to a third party or independent customer. We typically report unit case volume when finished products manufactured from the concentrates or syrups are sold to a third party or independent customer regardless of our ownership interest in the bottling partner.
+
+We generally refer to acquisitions and divestitures of bottling operations as structural changes, which are a component of acquisitions and divestitures. Typically, structural changes do not impact the Company's unit case volume or concentrate sales volume on a consolidated basis or at the geographic operating segment level. We recognize unit case volume for all sales of Company beverage products, regardless of our ownership interest in the bottling partner, if any. However, the unit case volume
+reported by our Bottling Investments operating segment is generally impacted by structural changes because it only includes the unit case volume of our consolidated bottling operations. Refer to Note 2 of Notes to Condensed Consolidated Financial Statements for additional information on the Company's acquisitions and divestitures.
+
+"Acquired brands" refers to brands acquired during the past 12 months. Typically, the Company has not reported unit case volume or recognized concentrate sales volume related to acquired brands in periods prior to the closing of a transaction. Therefore, the unit case volume and concentrate sales volume related to these brands is incremental to prior year volume. We generally do not consider the acquisition of a brand to be a structural change.
+
+"Licensed brands" refers to brands not owned by the Company but for which we hold certain rights, generally including, but not limited to, distribution rights, and from which we derive an economic benefit when the products are sold. Typically, the Company has not reported unit case volume or recognized concentrate sales volume related to these brands in periods prior to the beginning of the term of a license agreement. Therefore, in the year a license agreement is entered into, the unit case 
+volume and concentrate sales volume related to the brand is incremental to prior year volume. We generally do not consider the licensing of a brand to be a structural change.
+
+In 2020, the Company acquired the remaining interest in fairlife, LLC ("fairlife"). The impact on revenues for fairlife products not previously sold by the Company has been included in acquisitions and divestitures in our analysis of net operating revenues on a consolidated basis as well as for the North America operating segment.
+
+In 2019, the Company acquired the remaining interest in C.H.I. Limited ("CHI"). The impact of this acquisition has been included in acquisitions and divestitures in our analysis of net operating revenues on a consolidated basis as well as for the Europe, Middle East and Africa operating segment. Other acquisitions by the Company in 2019 included controlling interests in
+
+bottling operations in Zambia, Kenya and Eswatini. The impact of these acquisitions has been included as a structural change in our analysis of net operating revenues on a consolidated basis as well as for the Bottling Investments and Europe, Middle East and Africa operating segments.
+
+Also in 2019, the Company refranchised certain of its bottling operations in India. The impact of these refranchising activities has been included as a structural change in our analysis of net operating revenues on a consolidated basis as well as for the Bottling Investments and Asia Pacific operating segments.
+
+Beverage Volume
+
+We measure the volume of Company beverage products sold in two ways: (1) unit cases of finished products and (2) concentrate sales. As used in this report, "unit case" means a unit of measurement equal to 192 U.S. fluid ounces of finished beverage (24 eight-ounce servings), with the exception of unit case equivalents for Costa non-ready-to-drink beverage products which are primarily measured in number of transactions; and "unit case volume" means the number of unit cases (or unit case 
+equivalents) of Company beverage products directly or indirectly sold by the Company and its bottling partners to customers or consumers. Unit case volume primarily consists of beverage products bearing Company trademarks. Also included in unit case volume are certain products licensed to, or distributed by, our Company, and brands owned by Coca-Cola system bottlers for which our Company provides marketing support and from the sale of which we derive economic benefit. In addition, unit case 
+volume includes sales by certain joint ventures in which the Company has an equity interest. We believe unit case volume is one of the measures of the underlying strength of the Coca-Cola system because it measures trends at the consumer level. The unit case volume numbers used in this report are derived based on estimates received by the Company from its bottling partners and distributors. Concentrate sales volume represents the amount of concentrates, syrups, source waters and powders/minerals
+(in all instances expressed in unit case equivalents) sold by, or used in finished beverages sold by, the Company to its bottling partners or other customers. For Costa non-ready-to-drink beverage products, concentrate sales volume represents the amount of coffee beans and finished beverages (in all instances expressed in unit case equivalents) sold by the Company to customers or consumers. Unit case volume and concentrate sales volume growth rates are not necessarily equal during any given 
+period. Factors such as seasonality, bottlers' inventory practices, supply point changes, timing of price increases, new product introductions and changes in product mix can create differences between unit case volume and concentrate sales volume growth rates. In addition to the items mentioned above, the impact of unit case volume from certain joint ventures in which the Company has an equity interest, but to which the Company does not sell concentrates, syrups, source waters or 
+powders/minerals, may give rise to differences between unit case volume and concentrate sales volume growth rates.
+
+Information about our volume growth worldwide and by operating segment is as follows:
+
+                                    Percent Change 2020 versus 2019                                                               
+                                                 Three Months Ended                                             Six Months Ended  
+                                                      June 26, 2020                                             June 26, 2020     
+                                                   Unit Cases 1,2,3      Concentrate      Unit Cases 1,2,3      Concentrate       
+                                                                             Sales 4                            Sales 4           
+ ──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Worldwide                                                    (16)             (22)                   (9)      (12)              
+  Europe, Middle East & Africa                                 (17)             (26)                  (10)      (15)              
+  Latin America                                                 (9)             (18)                   (5)      (7)               
+  North America                                                (16)             (17)                   (7)      (8)               
+  Asia Pacific                                                 (18)             (22)                  (13)      (12)              
+  Global Ventures                                              (31)             (34)                  (17)      (20)              
+  Bottling Investments                                         (36)              N/A                  (22)      N/A               
+
+1 Bottling Investments operating segment data reflects unit case volume growth for consolidated bottlers only.
+
+2 Geographic and Global Ventures operating segment data reflects unit case volume growth for all bottlers, both consolidated and unconsolidated, and distributors in the applicable geographic areas.
+
+3 Unit case volume percent change is based on average daily sales. Unit case volume growth based on average daily sales is computed by comparing the average daily sales in each of the corresponding periods. Average daily sales are the unit cases sold during the period divided by the number of days in the period.
+
+4 Concentrate sales volume represents the amount of concentrates, syrups, source waters and powders/minerals (in all instances expressed in unit case equivalents) sold by, or used in finished beverages sold by, the Company to its bottling partners or other customers and is not based on average daily sales. For Costa non-ready-to-drink products, concentrate sales volume represents the amount of coffee beans and finished beverages (in all instances expressed in unit case equivalents) sold by the 
+Company to customers or consumers and is not based on average daily sales. Each of our interim reporting periods, other than the fourth interim reporting period, ends on the Friday closest to the last day of the corresponding quarterly calendar period. As a result, the first quarter of 2020 had one less day when compared to the first quarter of 2019, and the fourth quarter of 2020 will have two additional days when compared to the fourth quarter of 2019.
+
+5 After considering the impact of structural changes, unit case volume for Bottling Investments declined 33 percent and 19 percent for the three and six months ended June 26, 2020, respectively.
+
+6 After considering the impact of structural changes, concentrate sales volume for North America declined 18 percent for the three months ended June 26, 2020.
+
+7 After considering the impact of structural changes, concentrate sales volume for Asia Pacific declined 21 percent and 13 percent for the three and six months ended June 26, 2020, respectively.
+
+Unit Case Volume
+
+Although a significant portion of our Company's revenues is not based directly on unit case volume, we believe unit case
+
+volume is one of the measures of the underlying strength of the Coca-Cola system because it measures trends at the consumer level.
+
+Three Months Ended June 26, 2020 versus Three Months Ended June 28, 2019
+
+Unit case volume in Europe, Middle East and Africa declined 17 percent, which included a 14 percent decline in sparkling soft drinks, a 34 percent decline in water, enhanced water and sports drinks, a 24 percent decline in juice, dairy and plant-based beverages and a 38 percent decline in tea and coffee. The group's sparkling soft drinks volume reflected a decline of 11 percent in Trademark Coca-Cola. The group reported declines in unit case volume across all of the business units.
+
+In Latin America, unit case volume declined 9 percent, which included a 7 percent decline in sparkling soft drinks, a 14 percent decline in water, enhanced water and sports drinks, a 16 percent decline in juice, dairy and plant-based beverages and a 6 percent decline in tea and coffee. The group reported declines in unit case volume of 6 percent in the Mexico business unit, 7 percent in both the Brazil and Latin Center business units and 23 percent in the South Latin business unit.
+
+Unit case volume in North America declined 16 percent, which included a decline of 19 percent in water, enhanced water and sports drinks, a 12 percent decline in juice, dairy and plant-based beverages and a 28 percent decline in tea and coffee. The group's sparkling soft drinks volume declined 15 percent, which included an 11 percent decline in Trademark Coca-Cola.
+
+In Asia Pacific, unit case volume declined 18 percent, which included a 13 percent decline in sparkling soft drinks, a 28 percent decline in water, enhanced water and sports drinks, a 31 percent decline in juice, dairy and plant-based beverages and a 15 percent decline in tea and coffee. Sparkling soft drinks volume included a 1 percent decline in Trademark Coca-Cola. The group reported declines in unit case volume of 14 percent in the Japan business unit, 16 percent in the South Pacific 
+business
+
+unit, 18 percent in the ASEAN business unit and 57 percent in the India & South West Asia business unit. The declines in these business units were partially offset by a 1 percent increase in unit case volume in the Greater China & Korea business unit.
+
+Unit case volume for Global Ventures declined 31 percent, driven by a 53 percent decrease in tea and coffee, a 10 percent decrease in juice, dairy and plant-based beverages and a decrease in energy drinks.
+
+Unit case volume for Bottling Investments declined 36 percent. The declines in unit case volume in all of our consolidated bottling operations were primarily the result of the impact of the COVID-19 pandemic.
+
+Six Months Ended June 26, 2020 versus Six Months Ended June 28, 2019
+
+Unit case volume in Europe, Middle East and Africa declined 10 percent, which included a 7 percent decline in sparkling soft drinks, a 17 percent decline in both water, enhanced water and sports drinks and in juice, dairy and plant-based beverages, and a 25 percent decline in tea and coffee. The group's sparkling soft drinks volume reflected a decline of 5 percent in Trademark Coca-Cola. The group reported declines in all business units with the exception of the Middle East & North Africa 
+business unit, which was even.
+
+In Latin America, unit case volume declined 5 percent, which included a 5 percent decline in sparkling soft drinks, a 9 percent decline in juice, dairy and plant-based beverages, a 3 percent decline in water, enhanced water and sports drinks and a 5 percent decline in tea and coffee. The group reported declines in unit case volume of 4 percent in the Mexico business unit, 5 percent in the Brazil business unit and 12 percent in the South Latin business unit. The declines in these business units 
+were partially offset by a 2 percent increase in unit case volume in the Latin Center business unit.
+
+Unit case volume in North America declined 7 percent, which included a 17 percent decline in tea and coffee, a 4 percent decline in water, enhanced water and sports drinks, and a 5 percent decline in juice, dairy and plant-based beverages. The group's sparkling soft drinks volume declined 8 percent, which included a 5 percent decline in Trademark Coca-Cola.
+
+In Asia Pacific, unit case volume declined 13 percent, which included a 9 percent decline in sparkling soft drinks, a 21 percent decline in water, enhanced water and sports drinks, a 24 percent decline in juice, dairy and plant-based beverages, and a 10 percent decline in tea and coffee. Trademark Coca-Cola unit case volume was even. The group reported a 38 percent decline in unit case volume in the India & South West Asia business unit, a 6 percent decline in the Greater China & Korea business 
+unit, a 9 percent decline in both the Japan and ASEAN business units, and an 8 percent decline in the South Pacific business unit.
+
+Unit case volume for Global Ventures declined 17 percent, driven by a 32 percent decrease in tea and coffee and a 1 percent decrease in juice, dairy and plant-based beverages, partially offset by growth in energy drinks.
+
+Unit case volume for Bottling Investments declined 22 percent. The declines in unit case volume in all of our consolidated bottling operations were primarily the result of the impact of the COVID-19 pandemic.
+
+The ultimate impact that the COVID-19 pandemic will have on third quarter and full year 2020 unit case volume is unknown at this time, as it will depend heavily on the duration of the shelter-in-place orders and the timing, pace and success of reopening plans, as well as the substance and pace of the post-pandemic recovery. While we currently believe the second quarter of 2020 will be the most severely impacted quarter for the full year, we believe the third quarter will continue to be 
+negatively impacted by the COVID-19 pandemic. Since the beginning of July, global unit case volume has declined mid single digits, which is an improvement versus unit case volume performance in the second quarter of 2020.
+
+Concentrate Sales Volume
+
+During the three months ended June 26, 2020, worldwide concentrate sales volume declined 22 percent and unit case volume declined 16 percent compared to the three months ended June 28, 2019. During the six months ended June 26, 2020, worldwide concentrate sales volume declined 12 percent and unit case volume declined 9 percent compared to the six months ended June 28, 2019. Concentrate sales volume growth is calculated based on the amount of concentrate sold during the reporting periods, which 
+is impacted by the number of days. Conversely, unit case volume growth is calculated based on average daily sales, which is not impacted by the number of days in the reporting periods. The first quarter of 2020 had one less day when compared to the first quarter of 2019, which contributed to the differences between concentrate sales volume and unit case sales volume growth rates on a consolidated basis and for the individual operating segments during the six months ended June 26, 2020. In 
+addition, the differences between concentrate sales volume and unit case volume growth rates on a consolidated basis and for the Europe, Middle East and Africa operating segment during the six months ended June 26, 2020 were impacted by the timing of concentrate shipments related to Brexit in the prior year. The differences between concentrate sales volume and unit case volume growth rates during the three months ended June 26, 2020 were impacted by a reduction in inventory resulting from higher
+shipments in the first quarter of 2020 as bottlers built inventory due to COVID-19 uncertainty and also by the timing of concentrate shipments in Brazil in the prior year.
+
+Net Operating Revenues
+
+Three Months Ended June 26, 2020 versus Three Months Ended June 28, 2019
+
+During the three months ended June 26, 2020, net operating revenues were $7,150 million compared to $9,997 million during the three months ended June 28, 2019, a decrease of $2,847 million, or 28 percent.
+
+The following table illustrates, on a percentage basis, the estimated impact of key factors resulting in the increase (decrease) in net operating revenues on a consolidated basis and for each of our operating segments:
+
+                                    Percent Change 2020 versus 2019                                                                                                                        
+                                                           Volume 1      Price, Product & Geographic Mix      Foreign Currency Fluctuations      Acquisitions & Divestitures 2      Total  
+ ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Consolidated                                                 (22)                                  (4)                                (3)      —                                   (28)  
+  Europe, Middle East & Africa                                 (26)                                  (9)                                (3)      —                                   (37)  
+  Latin America                                                (18)                                    5                               (11)      —                                   (25)  
+  North America                                                (18)                                    —                                  —      1                                   (16)  
+  Asia Pacific                                                 (21)                                  (1)                                (1)      —                                   (23)  
+  Global Ventures                                              (34)                                 (17)                                (2)      —                                   (53)  
+  Bottling Investments                                         (33)                                    3                                (5)      (3)                                 (38)  
+
+Note: Certain rows may not add due to rounding.
+
+1 Represents the percent change in net operating revenues attributable to the increase (decrease) in concentrate sales volume for our geographic operating segments and our Global Ventures operating segment (expressed in unit case equivalents) after considering the impact of acquisitions and divestitures. For our Bottling Investments operating segment, this represents the percent change in net operating revenues attributable to the increase (decrease) in unit case volume computed by comparing the
+total sales (rather than the average daily sales) in each of the corresponding periods after considering the impact of structural changes. Our Bottling Investments operating segment data reflects unit case volume growth for consolidated bottlers only after considering the impact of structural changes. Refer to the heading "Beverage Volume" above.
+
+2 Includes structural changes. Refer to the heading "Structural Changes, Acquired Brands and Newly Licensed Brands" above.
+
+Refer to the heading "Beverage Volume" above for additional information related to changes in our unit case and concentrate sales volumes.
+
+"Price, product and geographic mix" refers to the change in net operating revenues caused by factors such as price changes, the mix of products and packages sold, and the mix of channels and geographic territories where the sales occurred. The impact of price, product and geographic mix is calculated by subtracting the change in net operating revenues resulting from volume increases or decreases, changes in foreign currency exchange rates, and acquisitions and divestitures from the total change 
+in net operating revenues. Management believes that providing investors with price, product and geographic mix enhances their understanding about the combined impact that the following items had on the Company's net operating revenues: (1) pricing actions taken by the Company and, where applicable, our bottling partners; (2) changes in the mix of products and packages sold; and (3) changes in the mix of channels and geographic territories where products were sold. Management uses this measure in
+making financial, operating and planning decisions and in evaluating the Company's performance.
+
+Price, product and geographic mix had a 4 percent unfavorable impact on our consolidated net operating revenues. Price, product and geographic mix was impacted by a variety of factors and events including, but not limited to, the following:
+
+• Europe, Middle East and Africa - unfavorable channel, package and geographic mix;
+
+• Latin America - favorable pricing initiatives in Mexico and the impact of inflationary environments in certain markets, partially offset by unfavorable channel and package mix;
+
+• North America - favorable price and product mix offset by unfavorable channel and package mix;
+
+• Asia Pacific - unfavorable channel and package mix across a majority of the business units, partially offset by favorable geographic mix;
+
+• Global Ventures - unfavorable product and channel mix primarily due to the impact of the temporary closures of nearly all of the Costa retail stores in Western Europe as a result of the impact of the COVID-19 pandemic; and
+
+• Bottling Investments - favorable price and geographic mix, partially offset by unfavorable channel and package mix.
+
+Fluctuations in foreign currency exchange rates decreased our consolidated net operating revenues by 3 percent. This unfavorable impact was primarily due to a stronger U.S. dollar compared to certain foreign currencies, including the euro,
+
+British pound sterling, Mexican peso, Brazilian real, South African rand and Australian dollar, which had an unfavorable impact on all of our operating segments, except for North America. The unfavorable impact of a stronger U.S. dollar compared to the currencies listed above was partially offset by the impact of a weaker U.S. dollar compared to certain other foreign currencies, including the Japanese yen, which had a favorable impact on our Asia Pacific operating segment. Refer to the heading 
+"Liquidity, Capital Resources and Financial Position - Foreign Exchange" below.
+
+"Acquisitions and divestitures" refers to acquisitions and divestitures of brands or businesses, some of which the Company considers to be structural changes. The impact of acquisitions and divestitures is the difference between the change in net operating revenues and the change in what our net operating revenues would have been if we removed the net operating revenues associated with an acquisition or divestiture from either the current year or the prior year, as applicable. Management 
+believes that quantifying the impact that acquisitions and divestitures had on the Company's net operating revenues provides investors with useful information to enhance their understanding of the Company's net operating revenue performance by improving their ability to compare our period-to-period results. Management considers the impact of acquisitions and divestitures when evaluating the Company's performance. Refer to the heading "Structural Changes, Acquired Brands and Newly Licensed 
+Brands" above for additional information related to acquisitions and divestitures.
+
+Six Months EndedJune 26, 2020 versus Six Months EndedJune 28, 2019
+
+During the six months ended June 26, 2020, net operating revenues were $15,751 million, compared to $18,691 million during the six months ended June 28, 2019, a decrease of $2,940 million, or 16 percent.
+
+The following table illustrates, on a percentage basis, the estimated impact of key factors resulting in the increase (decrease) in net operating revenues on a consolidated basis and for each of our operating segments:
+
+                                    Percent Change 2020 versus 2019                                                                                                                        
+                                                           Volume 1      Price, Product & Geographic Mix      Foreign Currency Fluctuations      Acquisitions & Divestitures 2      Total  
+ ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Consolidated                                                 (12)                                  (2)                                (2)      —                                   (16)  
+  Europe, Middle East & Africa                                 (15)                                  (4)                                (3)      1                                   (21)  
+  Latin America                                                 (7)                                    7                               (11)      —                                   (11)  
+  North America                                                 (8)                                    1                                  —      2                                    (6)  
+  Asia Pacific                                                 (13)                                  (2)                                (1)      1                                   (15)  
+  Global Ventures                                              (20)                                  (8)                                (1)      —                                   (29)  
+  Bottling Investments                                         (19)                                    1                                (3)      (2)                                 (24)  
+
+Note: Certain rows may not add due to rounding.
+
+1 Represents the percent change in net operating revenues attributable to the increase (decrease) in concentrate sales volume for our geographic operating segments and our Global Ventures operating segment (expressed in unit case equivalents) after considering the impact of acquisitions and divestitures. For our Bottling Investments operating segment, this represents the percent change in net operating revenues attributable to the increase (decrease) in unit case volume computed by comparing the
+total sales (rather than the average daily sales) in each of the corresponding periods after considering the impact of structural changes. Our Bottling Investments operating segment data reflects unit case volume growth for consolidated bottlers only after considering the impact of structural changes. Refer to the heading "Beverage Volume" above.
+
+2 Includes structural changes. Refer to the heading "Structural Changes, Acquired Brands and Newly Licensed Brands" above.
+
+Refer to the heading "Beverage Volume" above for additional information related to changes in our unit case and concentrate sales volumes.
+
+Price, product and geographic mix had a 2 percent unfavorable impact on our consolidated net operating revenues. Price, product and geographic mix was impacted by a variety of factors and events including, but not limited to, the following:
+
+• Europe, Middle East and Africa - unfavorable channel, package and geographic mix, including the impact of the Brexit inventory build in the prior year;
+
+• Latin America - favorable pricing initiatives in Mexico and the impact of inflationary environments in certain markets, partially offset by unfavorable channel and package mix;
+
+• North America - favorable price and product mix, partially offset by unfavorable channel and package mix;
+
+• Asia Pacific - unfavorable channel and package mix, partially offset by favorable geographic mix;
+
+• Global Ventures - unfavorable product and channel mix primarily due to the impact of the temporary closures of nearly all of the Costa retail stores as a result of the COVID-19 pandemic; and
+
+• Bottling Investments - favorable geographic mix, partially offset by unfavorable channel and package mix.
+
+The unfavorable channel and package mix for both the three and six months ended June 26, 2020 in all operating segments was primarily a result of the shift in consumer demand due to the impact of the COVID-19 pandemic. Consumers are purchasing more products in the at-home channels and less in the away-from-home channels. We expect any shift in consumer demand back to the away-from-home channels during the second half of 2020 to be closely correlated with the easing of the shelter-in-place orders
+around the world.
+
+Fluctuations in foreign currency exchange rates decreased our consolidated net operating revenues by 2 percent. This unfavorable impact was primarily due to a stronger U.S. dollar compared to certain foreign currencies, including the euro, British pound sterling, Mexican peso, Brazilian real, South African rand and Australian dollar, which had an unfavorable impact on all of our operating segments, except for North America. The unfavorable impact of a stronger U.S. dollar compared to the 
+currencies listed above was partially offset by the impact of a weaker U.S. dollar compared to certain other foreign currencies, including the Japanese yen, which had a favorable impact on our Asia Pacific operating segment. Refer to the heading "Liquidity, Capital Resources and Financial Position - Foreign Exchange" below.
+
+Net operating revenue growth rates are impacted by sales volume; price, product and geographic mix; foreign currency fluctuations; and acquisitions and divestitures. The size and timing of acquisitions and divestitures are not consistent from period to period. Based on current spot rates and our hedging coverage in place, we expect foreign currencies will have an unfavorable impact on our full year 2020 net operating revenues.
+
+Gross Profit Margin
+
+Gross profit margin is a ratio calculated by dividing gross profit by net operating revenues. Management believes gross profit margin provides investors with useful information related to the profitability of our business prior to considering all of the operating costs incurred. Management uses this measure in making financial, operating and planning decisions and in evaluating the Company's performance.
+
+Our gross profit margin decreased to 57.9 percent for the three months ended June 26, 2020, compared to 60.8 percent for the three months ended June 28, 2019. Our gross profit margin decreased to 59.5 percent for the six months ended June 26, 2020, compared to 61.0 percent for the six months ended June 28, 2019. These decreases were primarily related to volume declines in our more capital-intensive finished goods businesses, unfavorable channel and package mix, and unfavorable manufacturing 
+overhead absorption, partially offset by the impact of acquisitions and divestitures. Refer to Note 2 of Notes to Condensed Consolidated Financial Statements for additional information related to acquisitions and divestitures.
+
+Selling, General and Administrative Expenses
+
+The following table sets forth the components of selling, general and administrative expenses (in millions):
+
+                                                    Three Months Ended                                                     Six Months Ended             
+                                                    June 26,                           June 28,                            June 28,                     
+                                                    2020                               2019                                2019                         
+ ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Stock-based compensation expense (income)         $                          41      $                48         36      $                        88  
+  Advertising expenses                              370                                              1,165      1,272                            2,118  
+  Selling and distribution expenses                 569                                713                      1,267                            1,388  
+  Other operating expenses                                                  1,003                    1,070      2,056                            2,169  
+  Selling, general and administrative expenses      $                       1,983      $             2,996      4,631      $                     5,763  
+
+During the three and six months ended June 26, 2020, selling, general and administrative expenses decreased $1,013 million, or 34 percent, and decreased $1,132 million, or 20 percent, respectively, versus the prior year comparable period. The decreases were primarily due to effective cost management and a reduction in marketing spending as a result of uncertainties related to the impact of the COVID-19 pandemic, the impact of savings from our productivity initiatives and a foreign currency 
+exchange rate impact of 2 percent. The six months ended June 26, 2020 also included a reduction in stock-based compensation expense resulting from a change in estimated payout.
+
+The decrease in advertising expenses for the three and six months ended June 26, 2020 included the impact of a reduction in our estimate of full year advertising expenses that benefit multiple interim periods. Based on our interim accounting policy for advertising costs, a change in estimate of full year advertising expense is recognized in the interim period in which the change in estimate occurs. The foreign currency exchange rate impact on advertising expenses was nominal for the three months
+ended June 26, 2020 and was a decrease of 1 percent for the six months ended June 26, 2020.
+
+The decrease in selling and distribution expenses during the three months ended June 26, 2020 was primarily due to effective cost management as a result of uncertainties related to the COVID-19 pandemic. The decrease in selling and distribution
+
+expenses during the six months ended June 26, 2020 was primarily due to effective cost management as a result of uncertainties related to the COVID-19 pandemic, partially offset by amortization and depreciation expense in the current year for Coca-Cola Beverages Africa Proprietary Limited ("CCBA"). During the three months ended March 29, 2019, CCBA was classified as held for sale, and therefore amortization and depreciation expense were not recorded.
+
+As of June 26, 2020, we had $326 million of total unrecognized compensation cost related to nonvested stock-based compensation awards granted under our plans, which we expect to recognize over a weighted-average period of 2.2 years as stock-based compensation expense. This expected cost does not include the impact of any future stock-based compensation awards granted.
+
+Other Operating Charges
+
+Other operating charges incurred by operating segment and Corporate were as follows (in millions):
+
+                                    Three Months Ended                                  Six Months Ended  
+                                    June 26,                June 28,      June 26,      June 28,          
+                                    2020                    2019          2020          2019              
+  Europe, Middle East & Africa      $                       $             $             $                 
+ ──────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Latin America                     10                      —             10            —                 
+  North America                     110                     13            262           30                
+  Asia Pacific                      —                       —             —             —                 
+  Global Ventures                   —                       —             —             —                 
+  Bottling Investments              13                      30            13            43                
+  Corporate                         40                      49            90            145               
+  Total                             $                       $             $             $                 
+
+During the three months ended June 26, 2020, the Company recorded other operating charges of $173 million. These charges included an impairment charge of $55 million related to a trademark in North America, which was primarily driven by the impact of the COVID-19 pandemic, revised projections of future operating results and a change in brand focus in the Company's portfolio. Also included were charges of $35 million related to discontinuing the Odwalla juice business and an impairment charge of 
+$8 million related to the Odwalla trademark. Other operating charges also included $22 million related to the Company's productivity and reinvestment program, $18 million related to the remeasurement of our contingent consideration liability to fair value in conjunction with the fairlife acquisition and $12 million related to the restructuring of our water manufacturing operations in the United States. Refer to Note 2 of Notes to Condensed Consolidated Financial Statements for additional 
+information on the fairlife acquisition. Refer to Note 12 of Notes to Condensed Consolidated Financial Statements for additional information on the Company's productivity and reinvestment program. Refer to Note 15 of Notes to Condensed Consolidated Financial Statements for additional information on the impairment charges. Refer to Note 16 of Notes to Condensed Consolidated Financial Statements for the impact these charges had on our operating segments and Corporate.
+
+During the six months ended June 26, 2020, the Company recorded other operating charges of $375 million. These charges included an impairment charge of $160 million related to the Odwalla trademark and charges of $35 million related to discontinuing the Odwalla juice business. These charges also included an impairment charge of $55 million related to a trademark in North America, which was primarily driven by the impact of the COVID-19 pandemic, revised projections of future operating results 
+and a change in brand focus in the Company's portfolio. Other operating charges also included $61 million related to the Company's productivity and reinvestment program, $29 million related to the remeasurement of our contingent consideration liability to fair value in conjunction with the fairlife acquisition and $12 million related to the restructuring of our water manufacturing operations in the United States. Refer to Note 2 of Notes to Condensed Consolidated Financial Statements for 
+additional information on the fairlife acquisition. Refer to Note 12 of Notes to Condensed Consolidated Financial Statements for additional information on the Company's productivity and reinvestment program. Refer to Note 15 of Notes to Condensed Consolidated Financial Statements for additional information on the impairment charges. Refer to Note 16 of Notes to Condensed Consolidated Financial Statements for the impact these charges had on our operating segments and Corporate.
+
+During the three months ended June 28, 2019, the Company recorded other operating charges of $92 million. These charges primarily consisted of $55 million related to the Company's productivity and reinvestment program. In addition, other operating charges included $29 million for costs incurred to refranchise certain of our North America bottling operations. Costs related to refranchising include, among other items, internal and external costs for individuals directly working on the 
+refranchising efforts, severance, and costs associated with the implementation of information technology systems to facilitate consistent data standards and availability throughout our North America bottling system. Refer to Note 12 of Notes to Condensed Consolidated Financial Statements for additional information on the Company's productivity and reinvestment program. Refer to Note 16 of
+
+Notes to Condensed Consolidated Financial Statements for the impact these charges had on our operating segments and Corporate.
+
+During the six months ended June 28, 2019, the Company recorded other operating charges of $219 million. These charges primarily consisted of $123 million related to the Company's productivity and reinvestment program. In addition, other operating charges included $46 million of transaction costs associated with the purchase of Costa, which we acquired in January 2019, and $40 million for costs incurred to refranchise certain of our North America bottling operations. Other operating charges also
+included $2 million related to tax litigation expense. Refer to Note 2 of Notes to Condensed Consolidated Financial Statements for additional information on the acquisition of Costa. Refer to Note 8 of Notes to Condensed Consolidated Financial Statements for additional information related to the tax litigation. Refer to Note 12 of Notes to Condensed Consolidated Financial Statements for additional information on the Company's productivity and reinvestment program. Refer to Note 16 of Notes to 
+Condensed Consolidated Financial Statements for the impact these charges had on our operating segments and Corporate.
+
+Operating Income and Operating Margin
+
+Information about our operating income contribution by operating segment and Corporate on a percentage basis is as follows:
+
+                                    Three Months Ended                                  Six Months Ended  
+                                              June 26,      June 28,      June 26,              June 28,  
+                                                  2020          2019          2020                  2019  
+ ──────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Europe, Middle East & Africa                   36.1%         34.7%         38.4%                 37.2%  
+  Latin America                                   25.4          19.7          23.9                  20.0  
+  North America                                   24.7          23.8          20.1                  23.9  
+  Asia Pacific                                    32.9          24.5          26.7                  23.5  
+  Global Ventures                                (5.1)           2.4         (1.9)                   2.6  
+  Bottling Investments                             0.6           4.0           1.7                   4.0  
+  Corporate                                     (14.6)         (9.1)         (8.9)                (11.2)  
+  Total                                         100.0%        100.0%        100.0%                100.0%  
+
+Operating margin is a ratio calculated by dividing operating income by net operating revenues. Management believes operating margin provides investors with useful information related to the profitability of our business after considering all of the operating costs incurred. Management uses this measure in making financial, operating and planning decisions and in evaluating the Company's performance.
+
+Information about our operating margin on a consolidated basis and by operating segment and Corporate is as follows:
+
+                                    Three Months Ended                                  Six Months Ended  
+                                              June 26,      June 28,      June 26,              June 28,  
+                                                  2020          2019          2020                  2019  
+ ──────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Consolidated                                   27.7%         29.9%         27.7%                 29.0%  
+  Europe, Middle East & Africa                   63.0%         57.5%         61.8%                 58.6%  
+  Latin America                                   66.8          58.6          61.9                  57.1  
+  North America                                   18.5          22.5          15.9                  22.2  
+  Asia Pacific                                    61.1          54.1          56.5                  52.8  
+  Global Ventures                               (34.5)          11.5         (9.5)                  11.4  
+  Bottling Investments                             1.0           5.9           2.6                   5.7  
+  Corporate                                          *             *             *                     *  
+
+* Calculation is not meaningful.
+
+Three Months Ended June 26, 2020 versus Three Months Ended June 28, 2019
+
+During the three months ended June 26, 2020, operating income was $1,981 million, compared to $2,988 million during the three months ended June 28, 2019, a decrease of $1,007 million, or 34 percent. The decrease was primarily driven by a decline in net operating revenues due to the impact of the COVID-19 pandemic, an unfavorable foreign currency exchange rate impact and higher other operating charges, partially offset by lower selling, general and administrative expenses.
+
+During the three months ended June 26, 2020, fluctuations in foreign currency exchange rates unfavorably impacted consolidated operating income by 5 percent due to a stronger U.S. dollar compared to certain foreign currencies, including the
+
+euro, British pound sterling, Mexican peso, Brazilian real and Australian dollar, which had an unfavorable impact on all of our operating segments, except for North America. The unfavorable impact of a stronger U.S. dollar compared to the currencies listed above was partially offset by the impact of a weaker U.S. dollar compared to certain other foreign currencies, including the Japanese yen, which had a favorable impact on our Asia Pacific operating segment.
+
+Operating income for all operating segments and Corporate was impacted by a decline in net operating revenues due to the impact of the COVID-19 pandemic. Operating income was also impacted by lower selling, general and administrative expenses. In addition, operating income for each operating segment and Corporate was impacted by the following:
+
+• Europe, Middle East and Africa - an unfavorable foreign currency exchange rate impact of 4 percent;
+
+• Latin America - an unfavorable foreign currency exchange rate impact of 18 percent;
+
+• North America - higher other operating charges;
+
+• Asia Pacific - an unfavorable foreign currency exchange rate impact of 2 percent;
+
+• Global Ventures - the temporary closures of nearly all of the Costa retail stores in Western Europe;
+
+• Bottling Investments - a favorable foreign currency exchange rate impact of 16 percent and lower other operating charges; and
+
+• Corporate - operating loss in 2020 increased primarily as a result of unfavorable manufacturing overhead variances due to lower volume, the impact of mark-to-market adjustments of certain economic hedges and a loss on the disposal of certain assets, partially offset by lower stock-based compensation expense, lower annual incentive expense, lower other operating charges and savings from productivity initiatives.
+
+Six Months Ended June 26, 2020 versus Six Months Ended June 28, 2019
+
+During the six months ended June 26, 2020, operating income was $4,361 million, compared to $5,423 million during the six months ended June 28, 2019, a decrease of $1,062 million, or 20 percent. The decrease in operating income was primarily driven by an unfavorable foreign currency exchange rate impact and higher other operating charges, partially offset by lower selling, general and administrative expenses.
+
+During the six months ended June 26, 2020, fluctuations in foreign currency exchange rates unfavorably impacted consolidated operating income by 4 percent due to a stronger U.S. dollar compared to certain foreign currencies, including the euro, British pound sterling, Mexican peso, Brazilian real, South African rand and Australian dollar, which had an unfavorable impact on all of our operating segments, except for North America. The unfavorable impact of a stronger U.S. dollar compared to the 
+currencies listed above was partially offset by the impact of a weaker U.S. dollar compared to certain other foreign currencies, including the Japanese yen, which had a favorable impact on our Asia Pacific operating segment.
+
+Operating income for all operating segments and Corporate was impacted by a decline in net operating revenues due to the impact of the COVID-19 pandemic. Operating income was also impacted by lower selling, general and administrative expenses. In addition, operating income for each operating segment and Corporate was impacted by the following:
+
+• Europe, Middle East and Africa - an unfavorable foreign currency exchange rate impact of 4 percent;
+
+• Latin America - an unfavorable foreign currency exchange rate impact of 16 percent;
+
+• North America - higher other operating charges;
+
+• Asia Pacific - an unfavorable foreign currency exchange rate impact of 1 percent;
+
+• Global Ventures - the temporary closures of nearly all of the Costa retail stores;
+
+• Bottling Investments - a favorable foreign currency exchange rate impact of 13 percent and lower other operating charges; and
+
+• Corporate - Operating loss in 2020 decreased primarily as a result of lower stock-based compensation expense, lower annual incentive expense, lower other operating charges and savings from productivity initiatives, partially offset by unfavorable manufacturing overhead variances due to lower volume and a loss on the disposal of certain assets.
+
+Based on current spot rates and our hedging coverage in place, we expect foreign currency fluctuations will have an unfavorable impact on operating income through the end of the year.
+
+Interest Income
+
+During the three months ended June 26, 2020, interest income was $100 million, compared to $142 million during the three months ended June 28, 2019, a decrease of $42 million, or 29 percent. During the six months ended June 26, 2020, interest income was $212 million, compared to $275 million during the six months ended June 28, 2019, a decrease of $63 million, or
+
+23 percent. These decreases were primarily driven by lower investment balances and lower returns in certain of our international locations, as well as the unfavorable impact of fluctuations in foreign currency exchange rates.
+
+Interest Expense
+
+During the three months ended June 26, 2020, interest expense was $274 million, compared to $236 million during the three months ended June 28, 2019, an increase of $38 million, or 16 percent. This increase was primarily driven by our 2020 long-term debt issuances of $11.5 billion, partially offset by lower short-term U.S. interest rates. During the six months ended June 26, 2020, interest expense was $467 million, compared to $481 million during the six months ended June 28, 2019, a decrease of
+$14 million, or 3 percent. This decrease was primarily due to the impact of lower short-term U.S. interest rates and lower debt balances in certain of our international locations, partially offset by the impact of long-term debt issued in the third quarter of 2019 and the first half of 2020.
+
+Equity Income (Loss) - Net
+
+Three Months Ended June 26, 2020 versus Three Months Ended June 28, 2019
+
+During the three months ended June 26, 2020, equity income was $176 million, compared to equity income of $329 million during the three months ended June 28, 2019, a decrease of $153 million, or 46 percent. This decrease reflects the impact of the COVID-19 pandemic on operating results reported by our equity method investees and the unfavorable impact of foreign currency exchange rate fluctuations. In addition, the Company recorded net charges of $63 million and $26 million in the line item 
+equity income (loss) - net during the three months ended June 26, 2020 and June 28, 2019, respectively. These amounts represent the Company's proportionate share of significant operating and nonoperating items recorded by certain of our equity method investees.
+
+Six Months Ended June 26, 2020 versus Six Months Ended June 28, 2019
+
+During the six months ended June 26, 2020, equity income was $343 million, compared to equity income of $462 million during the six months ended June 28, 2019, a decrease of $119 million, or 26 percent. This decrease reflects the impact of the COVID-19 pandemic on operating results reported by our equity method investees and the unfavorable impact of foreign currency exchange rate fluctuations. In addition, the Company recorded net charges of $101 million and $68 million in the line item equity 
+income (loss) - net during the six months ended June 26, 2020 and June 28, 2019, respectively. These amounts represent the Company's proportionate share of significant operating and nonoperating items recorded by certain of our equity method investees.
+
+Other Income (Loss) - Net
+
+Three Months Ended June 26, 2020 versus Three Months Ended June 28, 2019
+
+Other income (loss) - net includes, among other things, dividend income; rental income; gains and losses related to the disposal of property, plant and equipment; gains and losses related to acquisitions and divestitures; non-service cost components of net periodic benefit cost for pension and other postretirement benefit plans; other charges and credits related to pension and other postretirement benefit plans; realized and unrealized gains and losses on equity securities and trading debt 
+securities; realized gains and losses on available-for-sale debt securities; and the impact of foreign currency exchange gains and losses. The foreign currency exchange gains and losses are primarily the result of the remeasurement of monetary assets and liabilities from certain currencies into functional currencies. The effects of the remeasurement of these assets and liabilities are partially offset by the impact of our economic hedging program for certain exposures on our consolidated balance
+sheet. Refer to Note 6 of Notes to Condensed Consolidated Financial Statements.
+
+During the three months ended June 26, 2020, other income (loss) - net was income of $214 million. The Company recognized a net gain of $247 million related to realized and unrealized gains and losses on equity securities and trading debt securities as well as realized gains and losses on available-for-sale debt securities. The Company also recorded an other-than-temporary impairment charge of $38 million related to one of our equity method investees in Latin America and a charge of $19 million 
+related to asset write-offs associated with the restructuring of our water manufacturing operations in the United States. Other income (loss) - net also included income of $42 million related to the non-service cost components of net periodic benefit cost, $35 million of dividend income and net foreign currency exchange losses of $49 million. None of the other items included in other income (loss) - net during the three months ended June 26, 2020 was individually significant. Refer to Note 4 of 
+Notes to Condensed Consolidated Financial Statements for additional information on equity and debt securities. Refer to Note 15 of Notes to Condensed Consolidated Financial Statements for additional information on the impairment charge and the charge for accelerated depreciation on fixed assets. Refer to Note 16 of Notes to Condensed Consolidated Financial Statements for the impact these items had on our operating segments and Corporate.
+
+During the three months ended June 28, 2019, other income (loss) - net was a loss of $174 million. The Company recorded an adjustment to reduce the carrying amount of CCBA's fixed assets and definite-lived intangible assets by $160 million. The Company also recorded an other-than-temporary impairment charge of $49 million related to one of our equity method
+
+investees in Latin America and a net gain of $10 million related to realized and unrealized gains and losses on equity securities and trading debt securities as well as realized gains and losses on available-for-sale debt securities. Other income (loss) - net also included income of $26 million related to the non-service cost components of net periodic benefit cost, $29 million of dividend income and net foreign currency exchange losses of $39 million. None of the other items included in other 
+income (loss) - net during the three months ended June 28, 2019 was individually significant. Refer to Note 2 for additional information on the CCBA asset adjustment. Refer to Note 4 of Notes to Condensed Consolidated Financial Statements for additional information on equity and debt securities. Refer to Note 15 of Notes to Condensed Consolidated Financial Statements for information on the impairment charge. Refer to Note 16 of Notes to Condensed Consolidated Financial Statements for the impact 
+these items had on our operating segments and Corporate.
+
+Six Months Ended June 26, 2020 versus Six Months Ended June 28, 2019
+
+During the six months ended June 26, 2020, other income (loss) - net was income of $758 million. The Company recognized a gain of $902 million in conjunction with the fairlife acquisition, which resulted from the remeasurement of our previously held equity interest in fairlife to fair value, and a gain of $18 million related to the sale of a portion of our ownership interest in one of our equity method investments. These gains were partially offset by an other-than-temporary impairment charge of
+$38 million related to one of our equity method investees in Latin America, a charge of $19 million related to asset write-offs associated with the restructuring of our water manufacturing operations in the United States, a net loss of $144 million related to realized and unrealized gains and losses on equity securities and trading debt securities as well as realized gains and losses on available-for-sale debt securities, and a net loss of $55 million related to economic hedging activities. 
+Other income (loss) - net also included income of $85 million related to the non-service cost components of net periodic benefit cost, dividend income of $42 million and net foreign currency exchange losses of $33 million. None of the other items included in other income (loss) - net during the six months ended June 26, 2020 was individually significant. Refer to Note 2 of Notes to Condensed Consolidated Financial Statements for additional information on the fairlife acquisition. Refer to Note 4
+of Notes to Condensed Consolidated Financial Statements for additional information on equity and debt securities. Refer to Note 6 of Notes to Condensed Consolidated Financial Statements for additional information on our economic hedging activities. Refer to Note 15 of Notes to Condensed Consolidated Financial Statements for additional information on the impairment charge. Refer to Note 16 of Notes to Condensed Consolidated Financial Statements for the impact these items had on our operating 
+segments and Corporate.
+
+During the six months ended June 28, 2019, other income (loss) - net was a loss of $405 million. The Company recognized other-than-temporary impairment charges of $286 million related to CCBJHI, an equity method investee, $57 million related to one of our equity method investees in North America, and $49 million related to one of our equity method investees in Latin America. The Company also recorded an adjustment to reduce the carrying amount of CCBA's fixed assets and definite-lived intangible
+assets by $160 million and recognized a $121 million loss in conjunction with our acquisition of the remaining equity ownership interest in CHI. These charges were partially offset by a net gain of $159 million related to realized and unrealized gains and losses on equity securities and trading debt securities as well as realized gains and losses on available-for-sale debt securities and a gain of $39 million related to the sale of a portion of our equity ownership interest in Embotelladora 
+Andina S.A. ("Andina"). Other income (loss) - net also included income of $51 million related to the non-service cost components of net periodic benefit cost, $40 million of dividend income and net foreign currency exchange losses of $61 million. None of the other items included in other income (loss) - net during the six months ended June 28, 2019 was individually significant. Refer to Note 2 of Notes to Condensed Consolidated Financial Statements for additional information on the CCBA asset 
+adjustment, the acquisition of the remaining equity ownership interest in CHI and the sale of a portion of our equity ownership interest in Andina. Refer to Note 4 of Notes to Condensed Consolidated Financial Statements for additional information on equity and debt securities. Refer to Note 15 of Notes to Condensed Consolidated Financial Statements for additional information on the impairment charges and the loss recognized in conjunction with our acquisition of the remaining equity ownership 
+interest in CHI. Refer to Note 16 of Notes to Condensed Consolidated Financial Statements for the impact these items had on our operating segments and Corporate.
+
+Income Taxes
+
+The Company recorded income taxes of $438 million (19.9 percent effective tax rate) and $421 million (13.8 percent effective tax rate) during the three months ended June 26, 2020 and June 28, 2019, respectively. The Company recorded income taxes of $653 million (12.5 percent effective tax rate) and $943 million (17.9 percent effective tax rate) during the six months ended June 26, 2020 and June 28, 2019, respectively.
+
+The Company's effective tax rates for the three and six months ended June 26, 2020 and June 28, 2019 vary from the statutory U.S. federal income tax rate of 21.0 percent primarily due to the tax impact of significant operating and nonoperating items,
+
+along with the tax benefits of having significant operations outside the United States and significant earnings generated in investments accounted for under the equity method, both of which are generally taxed at rates lower than the statutory U.S. rate.
+
+The Company's effective tax rate for the six months ended June 26, 2020 included the favorable impact of a $40 million tax benefit associated with the gain recorded upon the acquisition of the remaining interest in fairlife and also included the net tax benefit of various discrete tax items. Refer to Note 2 of Notes to Condensed Consolidated Financial Statements for additional information on the fairlife acquisition.
+
+The Company's effective tax rates for the three and six months ended June 28, 2019 included $199 million of tax benefit recorded as a result of CCBA no longer qualifying as a discontinued operation. Refer to Note 2 of Notes to Condensed Consolidated Financial Statements.
+
+On September 17, 2015, the Company received a Statutory Notice of Deficiency from the Internal Revenue Service ("IRS") for the tax years 2007 through 2009, after a five-year audit. The Company contested the proposed adjustments in U.S. Tax Court and is currently awaiting a decision. Refer to Note 8 of Notes to Condensed Consolidated Financial Statements.
+
+At the end of each interim period, we make our best estimate of the effective tax rate expected to be applicable for the full fiscal year. This estimate reflects, among other items, our best estimate of operating results and foreign currency exchange rates. Based on current tax laws, the Company's effective tax rate in 2020 is expected to be 19.5 percent before considering the potential impact of any significant operating and nonoperating items that may affect our effective tax rate.
+
+LIQUIDITY, CAPITAL RESOURCES AND FINANCIAL POSITION
+
+As a result of uncertainties in the near-term outlook for our business caused by the COVID-19 pandemic, we are reevaluating all aspects of our spending. We recognize that marketing campaigns are often less effective at times like these; therefore, we have taken actions to adjust our marketing spending until we have more clarity and visibility into the impact of the pandemic on our business. We have reviewed all of our capital projects to ensure that we are only spending on projects that are 
+deemed to be essential in the current environment. We have taken steps to limit spending on travel, third-party services and other operating expenses, and we continue to focus on cash flow generation. Our current capital allocation priorities are focused on investing wisely to support our business operations and continuing to prioritize our dividend payment. Currently, we have no intention of repurchasing shares during the year ending December 31, 2020, and we have no intention on changing our 
+approach toward paying dividends. We also do not currently expect any significant mergers and acquisitions activity to occur during the remainder of this year. We will review and, when appropriate, adjust our overall approach to capital allocation as we know more about the length and severity of the COVID-19 pandemic and how the post-pandemic recovery will unfold. The Company does not typically raise capital through the issuance of stock. Instead, we use debt financing to lower our overall cost 
+of capital and increase our return on shareowners' equity. Refer to the heading "Cash Flows from Financing Activities" below. We have a history of borrowing funds both domestically and internationally at reasonable interest rates, and we expect to be able to continue to borrow funds at reasonable rates over the long term. Our debt financing also includes the use of an extensive commercial paper program. While the COVID-19 pandemic initially caused a disruption in the commercial paper market, we 
+currently still have the ability to borrow funds in this market and expect to continue to be able to do so in the future. The Company reviews its optimal mix of short-term and long-term debt regularly, and as a result of this review, during the three months ended June 26, 2020, we decided to issue additional long-term debt with certain tranches having a longer duration than other recent long-term debt issuances. While we intend to remain active in the commercial paper market, we intend to use a 
+portion of the proceeds from the long-term debt issuances to reduce our commercial paper balance.
+
+On March 20, 2020 and April 29, 2020, we issued $5.0 billion and $6.5 billion, respectively, of long-term debt across various maturities. The Company's cash, cash equivalents, short-term investments and marketable securities totaled $19.8 billion as of June 26, 2020. In addition to these funds, our commercial paper program and our ability to issue long-term debt, we had $8.9 billion in unused lines of credit for general corporate purposes as of June 26, 2020. These backup lines of credit expire 
+at various times from 2020 through 2025. On April 6, 2020, we entered into 364-day term loan agreements with a group of financial institutions that provided us with the ability, at our election prior to August 4, 2020, to borrow $3.0 billion in term loans. On May 11, 2020, we terminated these loan agreements.
+
+Based on all of the aforementioned factors, the Company believes its current liquidity position is strong and will continue to be sufficient to fund our operating activities and cash commitments for investing and financing activities for the foreseeable future.
+
+Cash Flows from Operating Activities
+
+As part of our continued efforts to improve our working capital efficiency, we have worked with our suppliers over the past several years to revisit terms and conditions, including the extension of payment terms. Our current payment terms with the majority of our suppliers are 120 days. Additionally, two global financial institutions offer a voluntary supply chain finance ("SCF") program which enables our suppliers, at their sole discretion, to sell their receivables from the Company to these 
+financial institutions on a non-recourse basis at a rate that leverages our credit rating and thus might be more beneficial to them. The SCF program is available to suppliers of goods and services included in cost of goods sold as well as suppliers of goods and services included in selling, general and administrative expenses in our consolidated statement of income. The Company and our suppliers agree on commercial terms for the goods and services we procure, including prices, quantities and 
+payment terms, regardless of whether the supplier elects to participate in the SCF program. The suppliers sell goods or services, as applicable, to the Company and they issue the associated invoices to the Company based on the agreed-upon contractual terms. Then, if they are participating in the SCF program, our suppliers, at their sole discretion, determine which invoices, if any, they want to sell to the financial institutions. Our suppliers’ voluntary inclusion of invoices in the SCF program 
+has no bearing on our payment terms. No guarantees are provided by the Company or any of our subsidiaries under the SCF program. We have no economic interest in a supplier’s decision to participate in the SCF program, and we have no direct financial relationship with the financial institutions, as it relates to the SCF program. Accordingly, amounts due to our suppliers that elected to participate in the SCF program are included in the line item accounts payable and accrued expenses in our 
+consolidated balance sheet. All activity related to amounts due to suppliers that elected to participate in the SCF program is reflected in cash flows from operating activities in our consolidated statement of cash flows. We have been informed by the financial institutions that as of June 26, 2020 and December 31, 2019, suppliers elected to sell $714 million and $784 million, respectively, of our outstanding payment obligations to the financial institutions. The amount settled through the SCF 
+program was $1,375 million for the six months ended June 26, 2020.
+
+Net cash provided by operating activities for the six months ended June 26, 2020 and June 28, 2019 was $2,786 million and $4,501 million, respectively, a decrease of $1,715 million, or 38 percent. This decrease was primarily driven by the 20 percent decline in operating income, the extension of payment terms with certain of our suppliers in the prior year, one less selling day in the current year and the unfavorable impact of foreign currency exchange rate fluctuations. Net cash provided by 
+operating activities included benefits of approximately $682 million and $869 million for the six months ended June 28, 2019 and the year ended December 31, 2019, respectively, from the extension of payment terms with certain of our suppliers. We do not believe there is a risk that our payment terms will be shortened in the near future, and we do not currently expect our net cash provided by operating activities to be significantly impacted by additional extensions of payment terms in 2020.
+
+Cash Flows from Investing Activities
+
+Net cash used in investing activities for the six months ended June 26, 2020 and June 28, 2019 was $6,967 million and $5,362 million, respectively.
+
+Purchases of Investments and Proceeds from Disposals of Investments
+
+During the six months ended June 26, 2020, purchases of investments were $8,294 million and proceeds from disposals of investments were $2,649 million, resulting in a net cash outflow of $5,645 million. During the six months ended June 28, 2019, purchases of investments were $2,935 million and proceeds from disposals of investments were $3,395 million, resulting in a net cash inflow of $460 million. This activity primarily represents the purchases of, and proceeds from the disposals of, 
+investments in marketable securities and short-term investments that were made as part of the Company's overall cash management strategy. Also included in this activity are purchases of, and proceeds from the disposals of, insurance captive investments. Refer to Note 4 of Notes to Condensed Consolidated Financial Statements for additional information.
+
+Acquisitions of Businesses, Equity Method Investments and Nonmarketable Securities
+
+During the six months ended June 26, 2020, the Company's acquisitions of businesses, equity method investments and nonmarketable securities totaled $984 million, which primarily related to the acquisition of the remaining interest in fairlife. Refer to Note 2 of Notes to Condensed Consolidated Financial Statements for additional information.
+
+During the six months ended June 28, 2019, the Company's acquisitions of businesses, equity method investments and nonmarketable securities totaled $5,353 million, which primarily related to the acquisition of Costa and the remaining interest in CHI. Refer to Note 2 of Notes to Condensed Consolidated Financial Statements for additional information.
+
+Proceeds from Disposals of Businesses, Equity Method Investments and Nonmarketable Securities
+
+During the six months ended June 26, 2020, proceeds from disposals of businesses, equity method investments and nonmarketable securities were $46 million, which primarily related to the sale of a portion of our ownership interest in one of our equity method investments.
+
+During the six months ended June 28, 2019, proceeds from disposals of businesses, equity method investments and nonmarketable securities were $265 million, which primarily related to the proceeds from the sale of a portion of our equity ownership interest in Andina.
+
+Purchases of Property, Plant and Equipment
+
+Purchases of property, plant and equipment for the six months ended June 26, 2020 and June 28, 2019 were $536 million and $767 million, respectively.
+
+Cash Flows from Financing Activities
+
+Net cash provided by financing activities during the six months ended June 26, 2020 was $8,045 million, and net cash used in financing activities during the six months ended June 28, 2019 was $1,432 million.
+
+Debt Financing
+
+Issuances and payments of debt included both short-term and long-term financing activities. During the six months ended June 26, 2020, the Company had issuances of debt of $19,775 million, which included $8,260 million of net issuances related to commercial paper and short-term debt with maturities greater than 90 days and long-term debt issuances of $11,515 million, net of related discounts and issuance costs.
+
+The Company made payments of debt of $10,304 million during the six months ended June 26, 2020, which included $7,948 million of payments of commercial paper and short-term debt with maturities greater than 90 days, $1,836 million of payments of commercial paper and short-term debt with maturities of 90 days or less, and payments of long-term debt of $520 million.
+
+During the six months ended June 26, 2020, the Company issued U.S. dollar-denominated debt of $11,500 million. The carrying value of this debt as of June 26, 2020 was $11,396 million. The general terms of the notes issued are as follows:
+
+•$1,000 million total principal amount of notes due March 25, 2025, at a fixed interest rate of 2.950 percent;
+
+•$1,000 million total principal amount of notes due March 25, 2027, at a fixed interest rate of 3.375 percent;
+
+•$1,500 million total principal amount of notes due June 1, 2027, at a fixed interest rate of 1.450 percent;
+
+•$1,250 million total principal amount of notes due March 25, 2030, at a fixed interest rate of 3.450 percent;
+
+•$1,500 million total principal amount of notes due June 1, 2030, at a fixed interest rate of 1.650 percent;
+
+•$500 million total principal amount of notes due March 25, 2040, at a fixed interest rate of 4.125 percent;
+
+•$1,000 million total principal amount of notes due June 1, 2040, at a fixed interest rate of 2.500 percent;
+
+•$1,250 million total principal amount of notes due March 25, 2050, at a fixed interest rate of 4.200 percent;
+
+•$1,500 million total principal amount of notes due June 1, 2050, at a fixed interest rate of 2.600 percent; and
+
+•$1,000 million total principal amount of notes due June 1, 2060, at a fixed interest rate of 2.750 percent.
+
+During the six months ended June 26, 2020, the Company retired upon maturity:
+
+• AUD450 million total principal amount of notes due June 9, 2020, at a fixed interest rate of 2.600 percent; and
+
+•$171 million total principal amount of zero coupon notes due June 20, 2020.
+
+Issuances of Stock
+
+During the six months ended June 26, 2020, the Company received cash proceeds from issuances of stock of $444 million, a decrease of $158 million when compared to cash proceeds from issuances of stock of $602 million during the six months ended June 28, 2019.
+
+Share Repurchases
+
+During the six months ended June 26, 2020, the Company did not repurchase common stock under the share repurchase plan authorized by our Board of Directors. The Company's treasury stock activity includes shares surrendered to the Company to pay the exercise price and/or to satisfy tax withholding obligations in connection with so-called stock swap exercises of employee stock options and/or the vesting of restricted stock issued to employees. The Company's treasury stock activity during the six 
+months ended June 26, 2020 resulted in a cash outflow of $93 million.
+
+Dividends
+
+During the six months ended June 26, 2020 and June 28, 2019, the Company paid dividends of $1,761 million and $1,709 million, respectively. The Company paid the second quarter dividend in both 2020 and 2019 during the first week of July.
+
+Our Board of Directors approved the Company's regular quarterly dividend of $0.41 per share at its July 2020 meeting. This dividend is payable on October 1, 2020 to shareowners of record as of September 15, 2020.
+
+Foreign Exchange
+
+Our international operations are subject to certain opportunities and risks, including currency fluctuations and governmental actions. We closely monitor our operations in each country and seek to adopt appropriate strategies that are responsive to changing economic and political environments as well as to fluctuations in foreign currencies.
+
+Our Company conducts business in more than 200 countries and territories. Due to the geographic diversity of our operations, weakness in some foreign currencies may be offset by strength in others. Our foreign currency management program is designed to mitigate, over time, a portion of the potentially unfavorable impact of exchange rate changes on net income and earnings per share. Taking into account the effects of our hedging activities, the impact of changes in foreign currency exchange rates
+decreased our operating income for the three and six months ended June 26, 2020 by 5 percent and 4 percent, respectively.
+
+Based on current spot rates and our hedging coverage in place, we expect foreign currency fluctuations will have an unfavorable impact on operating income and cash flows from operations through the end of the year.
+

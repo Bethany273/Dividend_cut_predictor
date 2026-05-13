@@ -618,4 +618,20 @@ Adjusted free cash flow productivity (dollar amounts in millions):
 
 (1)Diluted net earnings per share are calculated on Net earnings attributable to Procter & Gamble.
 
-  
+  Item 3.      Quantitative and Qualitative Disclosures About Market Risk  
+ ───────────────────────────────────────────────────────────────────────────
+
+There have been no material changes in the Company’s exposure to market risk since June 30, 2019. Additional information can be found in Note 7 - Risk Management Activities and Fair Value Measurements of the Consolidated Financial Statements.
+
+  Item 4.      Controls and Procedures  
+ ────────────────────────────────────────
+
+Evaluation of Disclosure Controls and Procedures
+
+The Company’s Chairman of the Board, President and Chief Executive Officer, David S. Taylor, and the Company’s Vice Chairman, Chief Operating Officer and Chief Financial Officer, Jon R. Moeller, performed an evaluation of the Company’s disclosure controls and procedures (as defined in Rules 13a-15(e) and 15d-15(e) of the Securities Exchange Act of 1934 (“Exchange Act”)) as of the end of the period covered by this report. Messrs. Taylor and Moeller have concluded that the Company’s disclosure 
+controls and procedures were effective to ensure that information required to be disclosed in reports we file or submit under the Exchange Act is (1) recorded, processed, summarized and reported within the time periods specified in Securities and Exchange Commission rules and forms, and (2) accumulated and communicated to our management, including Messrs. Taylor and Moeller, to allow their timely decisions regarding required disclosure.
+
+Changes in Internal Control Over Financial Reporting
+
+There were no changes in our internal control over financial reporting that occurred during the Company’s fiscal quarter ended December 31, 2019 that have materially affected, or are reasonably likely to materially affect, the Company’s internal control over financial reporting.
+

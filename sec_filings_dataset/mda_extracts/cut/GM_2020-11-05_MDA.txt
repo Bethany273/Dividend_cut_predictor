@@ -139,4 +139,693 @@ experience; leading in technology and innovation, including electrification, aut
 
 The COVID-19 pandemic and government actions and measures taken to prevent its spread continue to affect our operations. In response to COVID-19, we previously suspended the majority of our global manufacturing operations and our Automotive China JVs’ manufacturing operations. By May 2020, we had resumed our global manufacturing operations. Government-imposed restrictions on businesses, operations and travel and the related economic uncertainty have impacted demand for our vehicles in most of 
 our global markets. During the first half of 2020, we executed a number of austerity measures, including aggressive actions to reduce costs, such as limiting advertising and other third-party spending, deferring salaried employee compensation and delaying non-critical projects, including certain future product programs. The majority of the austerity measures we put into place will normalize as production normalizes. The extent of COVID-19’s impact on our future operations, liquidity and the 
-demand for our products will depend upon, among other things, the duration and severity of the outbreak or subsequent outbreaks and related government responses such as required physical distancing, restrictions on business operations and travel, the pace of recovery of economic activity and the impact to consumers, all of which are uncertain and difficult to predict in light of the rapidly evolving landscape. Refer to 
+demand for our products will depend upon, among other things, the duration and severity of the outbreak or subsequent outbreaks and related government responses such as required physical distancing, restrictions on business operations and travel, the pace of recovery of economic activity and the impact to consumers, all of which are uncertain and difficult to predict in light of the rapidly evolving landscape. Refer to Part II, Item 1A. Risk Factors for a full discussion of the risks associated 
+with the COVID-19 pandemic.
+
+We also face continuing market, operating and regulatory challenges in several countries across the globe due to, among other factors, weak economic conditions, competitive pressures, our product portfolio offerings, heightened emissions standards, labor disruptions, foreign exchange volatility, rising material prices, evolving trade policy and political uncertainty. Refer to Part I, Item 1A. Risk Factors of our 2019 Form 10-K for a discussion of these challenges.
+
+In November 2018, we announced plans to accelerate steps to improve our overall business performance, including the reorganization of global product development staffs, the realignment of manufacturing capacity in response to market-related volume declines in passenger cars and a reduction of our salaried workforce. We are on track for these transformation activities to drive between $5.5 billion and $6.0 billion of annual cash savings by the end of 2020, consisting of $4.0 billion to $4.5 
+billion in cost savings primarily from reductions in Automotive and other cost of sales in our condensed consolidated financial statements, with the remainder in reduced capital expenditures. We previously announced plans to reduce capital expenditures from approximately $8.5 billion to approximately $7.0 billion, on a normalized run-rate basis. However, as a result of re-timing 2020 spending due to pandemic related austerity measures and a strategic decision to accelerate investments in our 
+all-electric future, we expect that our annual capital expenditures will exceed $7.0 billion through at least 2023. As we continue to assess our performance and the needs of our evolving business, additional restructuring and rationalization acti ons could be required. These actions could give rise to future asset impairments or other charges, which may have a material impact on our operating results.
+
+
+GENERAL MOTORS COMPANY AND SUBSIDIARIES
+
+GMNAIndustry s ales in North America were 12.6 million units in the nine months ended September 30, 2020, representing a decrease of 20.3% compared to the corresponding period in 2019. U.S. industry sales were 10.6 million units in the nine months ended September 30, 2020, representing a decrease of 19.0% compared to the corresponding period in 2019. As described above, the COVID-19 pandemic has resulted in a significant contraction of total North America industry volumes in 2020. Industry 
+volumes will ultimately depend upon, among other things, the duration and severity of the outbreak or subsequent outbreaks, related government responses and economic recovery, all of which are uncertain and difficult to predict in light of the rapidly evolving landscape. Dealer inventory remains constrained for several critical vehicles, including our full-size trucks.
+
+Our total vehicle sales in the U.S., our largest market in North America, totaled 1.8 million units for market share of 16.7% in the nine months ended September 30, 2020, representing an increase of 0.3 percentage points compared to the corresponding period in 2019. We continue to lead the U.S. industry in market share.
+
+As discussed above, in response to COVID-19, we suspended production across our manufacturing facilities in March 2020. By May 2020, we had resumed critical manufacturing operations and reached normalized production levels in June 2020. We continue to follow physical distancing guidance, enhanced deep cleaning procedures and provide personal protective equipment to protect our employees.
+
+GMI Industry sales in China were 17.0 million units in the nine months ended September 30, 2020, representing a decrease of 7.5% compared to the corresponding period in 2019. Our total vehicle sales in China were 1.9 million units for market share of 11.4% in the nine months ended September 30, 2020, representing a decrease of 0.8 percentage points compared to the corresponding period in 2019. The sales across all brands decreased in the nine months ended September 30, 2020, compared to the 
+corresponding period in 2019, primarily driven by an industry downturn significantly impacted by the COVID-19 pandemic. We expect both GM and industry sales to continue to recover as the impact of the COVID-19 pandemic in China subsides; however, the ongoing global macro-economic impact of COVID-19 and geopolitical tensions may continue to place pressure on China's automotive industry. Our Automotive China JVs generated equity income of $0.3 billion in the nine months ended September 30, 2020. A
+continuation of industry weakness and pricing pressures, a more challenging regulatory environment related to emissions, fuel consumption and new energy vehicles will continue to place pressure on our operations in China. We will continue to build upon our strong brands, network, and partnerships in China as well as continue to drive improvements in vehicle mix and cost.
+
+Outside of China, industry sales were 14.6 million units in the nine months ended September 30, 2020, representing a decrease of 24.3% compared to the corresponding period in 2019, primarily due to the ongoing global macro-economic impact of COVID-19. Our total vehicle sales outside of China were 0.7 million units for market share of 4.9% in the nine months ended September 30, 2020, representing an increase of 0.2 percentage points compared to the corresponding period in 2019.
+
+In the nine months ended September 30, 2020, restructuring actions in GMI were related to the wind-down of Holden sales, design and engineering operations in Australia and New Zealand, with cessation of Holden vehicle sales by 2021, the execution of definitive agreements with Great Wall Motors to sell our vehicle and powertrain manufacturing facilities in Thailand, and the wind-down of our vehicle sales operations in Thailand, targeted for completion by the end of 2020. These actions were taken 
+to strengthen the Company's core business and focus investment on other opportunities that will derive the greatest returns for shareholders and support investment in future technologies. We recorded charges of $0.7 billion in the nine months ended September 30, 2020 and expect to incur additional charges and net cash outflows of insignificant amounts in the three months ending December 31, 2020. We also recorded deferred tax charges of $0.2 billion in the nine months ended September 30, 2020. 
+The charges will primarily be considered special for EBIT-adjusted, EPS-diluted-adjusted and adjusted automotive free cash flow purposes. We intend to continue to provide servicing and spare parts to customers for an extended period of time in Australia, New Zealand and Thailand. Refer toNote 17 to our condensed consolidated financial statements for additional information related to these restructuring actions.
+
+Cruise We are actively testing our autonomous vehicles in the U.S. Gated by safety and regulation, we continue to make significant progress towards commercialization of a network of on-demand autonomous vehicles in the U.S.
+
+Corporate Mark-to-market equity securities and warrants held by Corporate totaled $0.7 billion at September 30, 2020, a decrease of $0.8 billion from December 2019, due to the liquidation of our shares in Lyft and market price fluctuations. Market price changes of our PSA warrants genera ted unre alized losses of$0.2 billion i n the nine months ended September 30, 2020, compared to gains of$0.2 billion in the corresponding period in 2019.
+
+
+GENERAL MOTORS COMPANY AND SUBSIDIARIES
+
+Vehicle Sales The principal factors that determine consumer vehicle preferences in the markets in which we operate include overall vehicle design, price, quality, available options, safety, reliability, fuel economy and functionality. Market leadership in individual countries in which we compete varies widely.
+
+We present both wholesale and total vehicle sales data to assist in the analysis of our revenue and our market share. Wholesale vehicle sales data consists of sales to GM's dealers and distributors as well as sales to the U.S. Government and excludes vehicles sold by our joint ventures. Wholesale vehicle sales data correlates to our revenue recognized from the sale of vehicles, which is the largest component of Automotive net sales and revenue. In the nine months ended September 30, 2020, 30.0% 
+of our wholesale vehicle sales volume was generated outside the U.S. The following table summarizes wholesale vehicle sales by automotive segment (vehicles in thousands):
+
+             Three Months Ended                                                    Nine Months Ended                         
+             September 30, 2020                 September 30, 2019                 September 30, 2020                        
+ ─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  GMNA                      799       82.7      801                      77.5                               81.0       77.7  
+  GMI                       166       17.3      232                      22.5      447                      19.0       22.3  
+  Total                     965      100.0                              100.0                              100.0      100.0  
+
+Total vehicle sales data represents: (1) retail sales (i.e., sales to consumers who purchase new vehicles from dealers or distributors); (2) fleet sales, such as sales to large and small businesses, governments, and daily rental car companies; and (3) vehicles used by dealers in their businesses, including courtesy transportation vehicles. Total vehicle sales data includes all sales by joint ventures on a total vehicle basis, not based on our percentage ownership interest in the joint venture. 
+Certain joint venture agreements in China allow for the contractual right to report vehicle sales of non-GM trademarked vehicles by those joint ventures, which are included in the total vehicle sales we report for China. While total vehicle sales data does not correlate directly to the revenue we recognize during a particular period, we believe it is indicative of the underlying demand for our vehicles. Total vehicle sales data represents management's good faith estimate based on sales reported 
+by GM's dealers, distributors, and joint ventures, commercially available data sources such as registration and insurance data, and internal estimates and forecasts when other data is not available.
+
+
+GENERAL MOTORS COMPANY AND SUBSIDIARIES
+
+The following table summarizes industry and GM total vehicle sales and our related competitive position by geographic region (vehicles in thousands):
+
+                                                  Market Share       GM      Market Share                  Market Share                  Market Share  
+ ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  North America                                                                                                                                        
+  United States                                           16.6      739              16.6      10,629              16.7      13,117              16.4  
+  Other                                                   12.4      124              13.3       2,017              13.5       2,752              13.2  
+  Total North America                                     15.9      863              16.0      12,646              16.2      15,869              15.8  
+  Asia/Pacific, Middle East and Africa                                                                                                                 
+  China(a)                                                11.6      690              12.1      17,005              11.4      18,385              12.3  
+  Other                                                    2.9      138               2.6      12,504               3.3      16,111               2.6  
+  Total Asia/Pacific, Middle East and Africa               8.1      828               7.6      29,509               8.0      34,496               7.7  
+  South America                                                                                                                                        
+  Brazil                                                  15.7      124              17.2       1,374              16.2       2,029              17.0  
+  Other                                                   11.7       52              12.6                          12.1       1,180              12.5  
+  Total South America                                     14.3      176              15.5       2,113              14.8       3,209              15.4  
+  Total in GM markets                                     10.6                       10.7      44,268              10.7      53,574              10.6  
+  Total Europe                                               —        1                 —      10,609                 —      14,477                 —  
+  Total Worldwide(b)                                       8.5                        8.5      54,877               8.6      68,051               8.4  
+  United States                                                                                                                                        
+  Cars                                                     7.0       83               7.3       2,447               7.0       3,579               8.6  
+  Trucks                                                  29.8      357              30.7       2,867              30.1       3,314              29.8  
+  Crossovers                                              13.8      299              13.9       5,315              13.9       6,224              13.8  
+  Total United States                                     16.6      739              16.6      10,629              16.7      13,117              16.4  
+  China(a)                                                                                                                                             
+  SGMS                                                              348                                                                                
+  SGMW                                                              342                                                                                
+  Total China                                             11.6      690              12.1      17,005              11.4      18,385              12.3  
+
+__________
+
+(a) Includes sales by the Automotive China JVs: SAIC General Motors Sales Co., Ltd. (SGMS) and SAIC GM Wuling Automobile Co., Ltd. (SGMW).
+
+(b) Cuba, Iran, North Korea, Sudan and Syria are subject to broad economic sanctions. Accordingly these countries are excluded from industry sales data and corresponding calculation of market share.
+
+In the nine months ended September 30, 2020, we estimate we were the market share leader in North America and had the number two market share in China.
+
+As discussed above, total vehicle sales and market share data provided in the table above includes fleet vehicles. Certain fleet transactions, particularly sales to daily rental car companies, are generally less profitable than retail sales to end customers. The following table summarizes estimated fleet sales and those sales as a percentage of total vehicle sales (vehicles in thousands):
+
+                                                          Three Months Ended                               Nine Months Ended                          
+                                                          September 30, 2020      September 30, 2019      September 30, 2020      September 30, 2019  
+ ──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  GMNA                                                                    94                     173                     363                     570  
+  GMI                                                                     93                     120                     219                     339  
+  Total fleet sales                                                      187                     293                     582                     909  
+  Fleet sales as a percentage of total vehicle sales                    10.4                    15.7                    12.3                    16.0  
+
+
+GENERAL MOTORS COMPANY AND SUBSIDIARIES
+
+GM Financial We believe that offering a comprehensive suite of financing products will generate incremental sales of our vehicles, drive incremental GM Financial earnings and help support our sales throughout various economic cycles. GM Financial's leasing program is exposed to residual values, which are heavily dependent on used vehicle prices. Used vehicle prices fluctuated during the nine months ended September 30, 2020. After decreasing in March and April, used vehicle sales volume and 
+pricing steadily rebounded through August, primarily due to low new vehicle inventory and strong demand for used vehicle s. GM Financial currently expects used vehicle prices will increase for the full year 2020 compared to 2019 by an amount in the low-single digits on a percentage basis. Used vehicle prices may face pressure in 2021 relative to 2020 driven by normalizing new vehicle inventory, rising used vehicle supply primarily due to an increase in trade-in activity and off-lease vehicles, 
+and ongoing economic uncertainty resulting in an outlook for a decline in used vehicle prices of mid-single digits on a percentage basis. As of March 31, 2020, following the onset of the COVID-19 pandemic, GM Financial updated residual value estimates based upon weak used vehicle market forecasts and increased the depreciation rate for the remaining term of the leased vehicles portfolio. GM Financial recorded gains on termination of leased vehicles of $0.7 billion and $0.9 billion in GM 
+Financial interest, operating and other expenses in the three and nine months ended September 30, 2020, compa red to gains of $0.3 billion and $0.6 billion in the corresponding periods in 2019, primarily due to unexpected strength in used vehicle prices as well as lower net book values from increased depreciation rates. GM Financial updated residual value estimates as of September 30, 2020, and is decreasing the depreciation rate for the remaining term of its leased vehicle portfolio. If used 
+vehicle prices outperform GM Financial's latest estimates, it may record gains on sales of off-lease vehicles due to lower net book values and/or further decrease depreciation expense in future quarters. Likewise, if used vehicle prices weaken compared to estimates, GM Financial may record losses on sales of off-lease vehicles due to higher net book values and/or increase depreciation expense in future quarters. The following table summarizes the estimated residual value based on GM Financial's 
+most recent estimates and the number of units included in GM Financial Equipment on operating leases, net by vehicle type (units in thousands):
+
+                  September 30, 2020                                                                                
+                  Residual Value                      Units      Percentage                  Units      Percentage  
+ ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Crossovers      $                       16,177        971            65.0      15,950        972            60.5  
+  Trucks                                   7,129        272            18.2       7,256        288            18.0  
+  SUVs                                     3,401         94             6.3       3,917        108             6.7  
+  Cars                                     2,187        158            10.5       3,276        238            14.8  
+  Total           $                       28,894                      100.0      30,399                      100.0  
+
+GM Financial's penetration of our retail sales in the U.S. increased to 46% in the nine months ended September 30, 2020 from45% in the corresponding period i n 2019. Penetration levels vary depending on incentive financing programs available and competing third-party financing products in the market. GM Financial's prime loan originations as a percentage of total loan originations in North America increased to 74% in the nine months ended September 30, 2020 from 70% in the nine months ended 
+September 30, 2019. In the nine months ended September 30, 2020, GM Financial's revenue consisted of leased vehicle income of 69%, retail finance charge income of 26% and commercial finance charge income of 3%.
+
+Consolidated Results We review changes in our results of operations under five categories: volume, mix, price, cost and other. Volume measures the impact of changes in wholesale vehicle volumes driven by industry volume, market share and changes in dealer stock levels. Mix measures the impact of changes to the regional portfolio due to product, model, trim, country and option penetration in current year wholesale vehicle volumes. Price measures the impact of changes related to Manufacturer’s 
+Suggested Retail Price and various sales allowances. Cost primarily includes: (1) material and freight; (2) manufacturing, engineering, advertising, administrative and selling and warranty expense; and (3) non-vehicle related activity. Other primarily includes foreign exchange and non-vehicle related automotive revenues as well as equity income or loss from our nonconsolidated affiliates. Due to the impact of the COVID-19 pandemic, the relationship between revenues and costs in the three and 
+nine months ended September 30, 2020 may not be indicative of results for the remainder of 2020. Refer to the regional sections of this MD&A for additional information.
+
+
+GENERAL MOTORS COMPANY AND SUBSIDIARIES
+
+Total Net Sales and Revenue
+
+                                      Three Months Ended                              Favorable/ (Unfavorable)           %      Variance Due To                   
+                                      September 30, 2020                                                                        Volume                            
+ ──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+                                                                                                                                (Dollars in billions)             
+  GMNA                                $                       29,128      27,971                             $         4.1      $                          —      
+  GMI                                                          2,735       3,794                                    (27.9)      $                          (0.6)  
+  Corporate                           203                                                                  151        n.m.                                 0.2    
+  Automotive                                                  32,066      31,817                           249         0.8      $                          (0.4)  
+  Cruise                              26                                                                     1         4.0                                 —      
+  GM Financial                                                 3,421       3,659                         (238)       (6.5)                                 (0.2)  
+  Eliminations/reclassifications      (33)                                                                 (5)      (17.9)                                 —      
+  Total net sales and revenue         $                       35,480      35,473                             $           —      $                          (0.6)  
+
+________
+
+n.m. = not meaningful
+
+                                      Nine Months Ended                                                        Favorable/ (Unfavorable)           %             
+                                      September 30, 2020                  September 30, 2019                                                                    
+ ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  GMNA                                $                       66,563      $                        83,660      $                             (20.4)      (0.5)  
+  GMI                                                          7,692                               11,691                                    (34.2)      (1.3)  
+  Corporate                           321                                 152                                  169                             n.m.        0.2  
+  Automotive                                                  74,576                               95,503                                    (21.9)      (1.6)  
+  Cruise                              79                                  75                                   4                                5.3          —  
+  GM Financial                                                10,405                               10,918      (513)                          (4.7)      (0.5)  
+  Eliminations/reclassifications      (93)                                (85)                                 (8)                            (9.4)          —  
+  Total net sales and revenue         $                       84,967      $                       106,411      $                             (20.2)      (2.1)  
+
+________
+
+n.m. = not meaningful
+
+
+GENERAL MOTORS COMPANY AND SUBSIDIARIES
+
+Automotive and Other Cost of Sales
+
+                                                Three Months Ended                                          Favorable/ (Unfavorable)      %         Variance Due To                   
+                                                September 30, 2020                  September 30, 2019                                              Volume                            
+ ──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+                                                                                                                                                    (Dollars in billions)             
+  GMNA                                          $                       24,021      $                       $                             0.3       $                            0.8  
+  GMI                                                                    2,859                              955                           25.0      $                          (0.1)  
+  Corporate                                     100                                 16                      (84)                          n.m.                                 (0.1)  
+  Cruise                                        190                                 256                     66                            25.8                                   0.1  
+  Eliminations                                  (1)                                 (1)                     —                             —                                           
+  Total automotive and other cost of sales      $                       27,169      $                       $                             3.6       $                            0.7  
+
+________
+
+n.m. = not meaningful
+
+                                                Nine Months Ended                                           Favorable/ (Unfavorable)           %      Variance Due To                   
+                                                September 30, 2020                  September 30, 2019                                                Volume                            
+ ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+                                                                                                                                                      (Dollars in billions)             
+  GMNA                                          $                       57,739      $                       $                               21.4      $                            3.2  
+  GMI                                                                    8,757                                                              16.4      $                          (1.6)  
+  Corporate                                     283                                 83                      (200)                           n.m.                                 (0.2)  
+  Cruise                                        561                                 743                     182                             24.5                                   0.2  
+  Eliminations                                  (1)                                 (3)                     (2)                           (66.7)                                     —  
+  Total automotive and other cost of sales      $                       67,339      $                       $                               20.5      $                            1.6  
+
+________
+
+n.m. = not meaningful
+
+In the three months ended September 30, 2020, favorable Cost was primarily due to: (1) favorable cost of $0.6 billion primarily due to the impact of COVID-19, inclusive of austerity measures as well as cost savings associated with transformation activities; (2) a decrease in campaigns and other warranty-related costs of $0.3 billion; and (3) charges of $0.3 billion primarily in supplier-related charges resulting from transformation activities in 2019; partially offset by (4) increased material 
+costs of $0.3 billion. In the three months ended September 30, 2020, favorable Other was due to the foreign currency effect resulting from the weakening of the Brazilian Real and other currencies against the U.S. Dollar.
+
+In the nine months ended September 30, 2020, favorable Cost was primarily due to: (1) favorable cost of $1.6 billion primarily due to the impact of COVID-19, inclusive of the suspension of production and austerity measures as well as cost savings associated with transformation activities; (2) charges of $1.4 billion primarily related to accelerated depreciation and supplier-related charges resulting from transformation activities in 2019; (3) decreased costs of $0.3 billion related to parts and 
+accessories sales; and (4) a decrease in campaigns and other warranty-related costs of $0.3 billion; partially offset by (5) a benefit of $1.4 billion related to the retrospective recoveries of indirect taxes in Brazil in 2019; and (6) charges of $0.6 billion primarily related to dealer restructuring charges, property and intangible asset impairments and inventory provisions in Australia, Thailand and New Zealand. In the nine months ended September 30, 2020, favorable Other was due to the 
+foreign currency effect resulting from the weakening of the Brazilian Real and other currencies against the U.S. Dollar.
+
+Automotive and other selling, general and administrative expense
+
+                                                                        Three Months Ended                                         Favorable/ (Unfavorable)      Nine Months Ended                               Favorable/ (Unfavorable)  
+                                                                        September 30, 2020                 September 30, 2019                                    September 30, 2020      September 30, 2019                                
+ ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Automotive and other selling, general and administrative expense      $                       1,628      $                       $                             $                       $                       $                         
+
+
+GENERAL MOTORS COMPANY AND SUBSIDIARIES
+
+In the three months ended September 30, 2020, Automotive and other selling, general and administrative expense decreased due to decreased advertising and other costs of $0.4 billion primarily related to the impact of COVID-19, inclusive of austerity measures and cost savings associated with transformation activities.
+
+In the nine months ended September 30, 2020, Automotive and other selling, general and administrative expense decreased due to decreased advertising and other costs of $1.3 billion primarily related to the impact of COVID-19, inclusive of austerity measures and cost savings associated with transformation activities.
+
+Interest Income and Other Non-operating Income, net
+
+                                                           Three Months Ended                                       Favorable/ (Unfavorable)      Nine Months Ended                               Favorable/ (Unfavorable)  
+                                                           September 30, 2020               September 30, 2019                                    September 30, 2020      September 30, 2019                                
+ ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Interest income and other non-operating income, net      $                       499      $                       $                             $                       $                       $                         
+
+________
+
+n.m. = not meaningful
+
+In the three months ended September 30, 2020, Interest income and other non-operating income, net increased primarily due to losses related to our investment in Lyft of $0.3 billion in 2019 and increased non-service pension income of $0.2 billion, partially offset by several other insignificant items.
+
+In thenine months ended September 30, 2020, Interest income and other non-operating income, net decreased primarily due to losses related to PSA warrants of $0.4 billion and several other insignificant items, partially offset by increased non-service pension income of $0.4 billion.
+
+The following table summarizes gains (losses) related to our investment in Lyft and PSA warrants:
+
+                                              Three Months Ended                                         Favorable/ (Unfavorable)      Nine Months Ended                               Favorable/ (Unfavorable)  
+                                              September 30, 2020      September 30, 2019                                               September 30, 2020      September 30, 2019                                
+ ─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Gains (losses) related to Lyft              $                       $                       (332)      $                             $                       $                       $                         
+  Gains (losses) related to PSA warrants      76                      51                                 25                            (227)                   222                     (449)                     
+  Total gains (losses) on investments         $                       $                       (281)      $                             $                       $                       $                         
+
+Income Tax Expense
+
+                          Three Months Ended                                       Favorable/ (Unfavorable)      Nine Months Ended                               Favorable/ (Unfavorable)  
+                          September 30, 2020               September 30, 2019                                    September 30, 2020      September 30, 2019                                
+ ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Income tax expense      $                       887      $                       $                             $                       $                       $                         
+
+________
+
+n.m. = not meaningful
+
+In the three months ended September 30, 2020, Income tax expense increased p rimarily due to an increase in pre-tax income.
+
+In the nine months ended September 30, 2020, Income tax expense increased primarily due to changes in valuation allowance, the absence of U.S. benefits from foreign activity and several other insignificant items, partially offset by a decrease in pre-tax income.
+
+For the three and nine months ended September 30, 2020, our ETR-adjusted was 18.1% and 18.4%.
+
+Refer to Note 16 to our condensed consolidated financial statements for additional information related to Income tax expense.
+
+
+GENERAL MOTORS COMPANY AND SUBSIDIARIES
+
+GM North America
+
+                                   Three Months Ended                                                           Favorable / (Unfavorable)          %      Variance Due To        
+                                   September 30, 2020                       September 30, 2019                                                            Volume                 
+ ─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+                                                                                                                                                          (Dollars in billions)  
+  Total net sales and revenue      $                            29,128      $                       27,971      $                                4.1      $                      
+  EBIT-adjusted                    $                             4,366      $                        3,023      $                               44.4      $                      
+  EBIT-adjusted margin             15.0                                     10.8                                4.2                                                              
+                                   (Vehicles in thousands)                                                                                                                       
+  Wholesale vehicle sales          799                                      801                                 (2)                            (0.2)                             
+
+                                   Nine Months Ended                                                            Favorable / (Unfavorable)           %      Variance Due To        
+                                   September 30, 2020                       September 30, 2019                                                             Volume                 
+ ──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+                                                                                                                                                           (Dollars in billions)  
+  Total net sales and revenue      $                            66,563      $                       83,660      $                              (20.4)      $                      
+  EBIT-adjusted                    $                             6,459      $                        7,941      $                              (18.7)      $                      
+  EBIT-adjusted margin             9.7                                      9.5                                 0.2                                                               
+                                   (Vehicles in thousands)                                                                                                                        
+  Wholesale vehicle sales                                        1,905                               2,530      (625)                          (24.7)                             
+
+GMNA Total Net Sales and Revenue In the three months ended September 30, 2020, Total net sales and revenue increased primarily due to: (1) favorable mix associated with increased sales of full-size pickup trucks and decreased sales of passenger cars, partially offset by decreased sales associated with the launch of our new full-size SUVs; and (2) favorable price primarily due to full-size SUVs.
+
+In the nine months ended September 30, 2020, Total net sales and revenue decreased primarily due to: (1) decreased net wholesale volumes across most vehicle lines as a result of suspending production due to the COVID-19 pandemic, partially offset by lost production volumes associated with the UAW strike in 2019; and (2) unfavorable Other primarily due to decreased sales of parts and accessories and the foreign currency effect resulting from the weakening of the Mexican Peso against the U.S. 
+Dollar; partially offset by (3) favorable price primarily due to full-size SUVs, pickup trucks and crossover vehicles; and (4) favorable mix associated with decreased sales of passenger cars and crossover vehicles, partially offset by decreased sales of full-size SUVs and pickup trucks.
+
+GMNA EBIT-Adjusted In the three months ended September 30, 2020, EBIT-adjusted increased primarily due to: (1) favorable Cost due to savings in manufacturing, advertising, and engineering of $0.6 billion, inclusive of austerity measures in response to the COVID-19 pandemic as well as transformation activities and a decrease in campaigns and other warranty-related costs of $0.3 billion, partially offset by increased material costs of $0.2 billion; and (2) favorable price.
+
+In the nine months ended September 30, 2020, EBIT-adjusted decreased primarily due to: (1) decreased net wholesale volumes; (2) unfavorable mix associated with decreased sales of full-size SUVs and pickup trucks, partially offset by decreased sales of passenger cars and crossover vehicles; and (3) unfavorable Other primarily due to the foreign currency effect resulting from the weakening of the Mexican Peso against the U.S. Dollar; partially offset by (4) favorable Cost due to savings in 
+advertising, manufacturing, engineering and other administrative and selling of $2.3 billion, inclusive of austerity measures in response to the COVID-19 pandemic as well as transformation activities, increased non-service pension income of $0.3 billion and a decrease in campaigns and other warranty-related costs of $0.3 billion; and (5) favorable price.
+
+
+GENERAL MOTORS COMPANY AND SUBSIDIARIES
+
+GM International
+
+                                                      Three Months Ended                                                         Favorable / (Unfavorable)                  Variance Due To        
+                                                      September 30, 2020                      September 30, 2019                                                %           Volume                 
+ ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+                                                                                                                                                                            (Dollars in billions)  
+  Total net sales and revenue                         $                            2,735      $                       3,794      $                              (27.9)      $                      
+  EBIT (loss)-adjusted                                $                               10      $                        (65)      $                              n.m.        $                      
+  EBIT (loss)-adjusted margin                         0.4                                     (1.7)                              2.1                                                               
+  Equity income — Automotive China                    $                              262      $                         282      $                              (7.1)                              
+  EBIT (loss)-adjusted — excluding Equity income      $                            (252)      $                       (347)      $                              27.4                               
+                                                      (Vehicles in thousands)                                                                                                                      
+  Wholesale vehicle sales                             166                                     232                                (66)                           (28.4)                             
+
+__________
+
+n.m. = not meaningful
+
+                                                      Nine Months Ended                                                             Favorable / (Unfavorable)                           
+                                                      September 30, 2020                        September 30, 2019                                                              %       
+ ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Total net sales and revenue                         $                              7,692      $                       11,691      $                              (3,999)      (34.2)  
+  EBIT (loss)-adjusted                                $                              (811)      $                         (82)      $                                (729)      n.m.    
+  EBIT (loss)-adjusted margin                         (10.5)                                    (0.7)                               (9.8)                                               
+  Equity income — Automotive China                    $                                264      $                          893      $                                (629)      (70.4)  
+  EBIT (loss)-adjusted — excluding Equity income      $                            (1,075)      $                        (975)      $                                (100)      (10.3)  
+                                                      (Vehicles in thousands)                                                                                                           
+  Wholesale vehicle sales                             447                                       727                                 (280)                                       (38.5)  
+
+__________
+
+n.m. = not meaningful
+
+The vehicle sales of our Automotive China JVs are not recorded in Total net sales and revenue. The results of our joint ventures are recorded in Equity income, which is included in EBIT (loss)-adjusted above.
+
+GMI Total Net Sales and Revenue In the three months ended September 30, 2020, Total net sales and revenue decreased primarily due to: (1) decreased wholesale volumes primarily due to lower industry volumes due to the COVID-19 pandemic primarily in South America and the Middle East and the wind-down of our vehicle sales operations in Australia, New Zealand and Thailand; and (2) unfavorable Other primarily due to the foreign currency effect resulting from the weakening of the Brazilian Real and 
+Argentine Peso against the U.S. Dollar and decreased components, parts and accessories sales; partially offset by (3) favorable mix primarily in Brazil, partially offset by unfavorable mix in the Middle East; and (4) favorable pricing across multiple vehicle lines in Brazil and Argentina.
+
+In the nine months ended September 30, 2020, Total net sales and revenue decreased primarily due to: (1) decreased wholesale volumes primarily due to lower industry volumes due to the COVID-19 pandemic primarily in South America and the Middle East and lower volumes in Asia/Pacific inclusive of the wind-down of our vehicle sales operations in Australia, New Zealand and Thailand; and (2) unfavorable Other primarily due to the foreign currency effect resulting from the weakening of the Brazilian 
+Real, Argentine Peso and other currencies against the U.S. Dollar and decreased components, parts and accessories sales; partially offset by (3) favorable mix primarily in Brazil and Korea, partially offset by unfavorable mix in the Middle East; and (4) favorable pricing across multiple vehicle lines in Argentina and Brazil.
+
+GMI EBIT (Loss)-A djustedIn the three months ended September 30, 2020, EBIT-adjust ed increased primarily due to: (1) favorable pricing; and (2) favorable mix primarily in Brazil and Asia/Pacific, partially offset by unfavorable mix in the Middle East; partially offset by (3) unfavorable volume; and (4) unfavorable Other primarily due to the foreign currency effect resulting from the weakening of the Brazilian Real and other currencies against the U.S. Dollar.
+
+
+GENERAL MOTORS COMPANY AND SUBSIDIARIES
+
+In the nine months ended September 30, 2020, EBIT (loss)-adjusted increasedprimarily due to: (1) unfavorable volume; and (2) unfavorable Other primarily due to decreased equity income and the foreign currency effect resulting from the weakening of the Brazilian Real, Argentine Peso and other currencies against the U.S. Dollar; partially offset by (3) favorable pricing; and (4) favorable Cost primarily due to decreased advertising.
+
+We view the Chinese market as important to our global growth strategy and are employing a multi-brand strategy led by our Buick, Chevrolet and Cadillac brands. In the coming years we plan to leverage our global architectures to increase the number of product offerings under the Buick, Chevrolet and Cadillac brands in China and continue to grow our business under the local Baojun and Wuling brands, with Baojun focusing its expansion in less developed cities and markets. We operate in the Chinese 
+market through a number of joint ventures and maintaining strong relationships with our joint venture partners is an important part of our China growth strategy.
+
+The following table summarizes certain key operational and financial data for the Automotive China JVs (vehicles in thousands):
+
+                                                                                        Three Months Ended                                                     Nine Months Ended                           
+                                                                                        September 30, 2020                  September 30, 2019                 September 30, 2020                          
+ ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Wholesale vehicle sales, including vehicles exported to markets outside of China      848                                 774                                                         1,923       2,361  
+  Total net sales and revenue                                                           $                       11,029      $                       9,695      $                       24,589      28,843  
+  Net income                                                                            $                          535      $                         455      $                          749       1,721  
+
+Cruise
+
+                                      Three Months Ended                                                       %      Nine Months Ended          %  
+                                      September 30, 2020                 September 30, 2019                           September 30, 2020            
+ ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Total net sales and revenue(a)      $                          26      $                          25       4.0      $                        5.3  
+  EBIT (loss)-adjusted                $                       (204)      $                       (251)      18.7      $                       10.3  
+
+__________
+
+(a) Reclassified to Interest income and other non-operating income, net in our condensed consolidated income statements in the three and nine months ended September 30, 2020 and 2019.
+
+Cruise EBIT (Loss)-AdjustedIn the three and nine months ended September 30, 2020, EBIT (loss)-adjusteddecreased primarily due to a reduction in development costs as we progress towards the commercialization of a network of on-demand autonomous vehicles in the U.S., partially offset by an increase in administrative expense.
+
+GM Financial
+
+                                                      Three Months Ended                                 %      Nine Months Ended                           
+                                                      September 30, 2020                                        September 30, 2020                          
+ ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Total revenue                                       $                       3,659      (238)       (6.5)      $                       10,405      10,918  
+  Provision for loan losses                           $                         150      (119)      (79.3)      $                          824         504  
+  EBT-adjusted                                        $                         711        496        69.8      $                        1,663       1,606  
+  Average debt outstanding (dollars in billions)      $                        90.5      (0.3)       (0.4)      $                         91.6        91.8  
+  Effective rate of interest paid                     3.1                                                       3.4                                         
+
+GM Financial RevenueIn the three months ended September 30, 2020, total revenue decreased primarily due to decreased leased vehicle income of $0.2 billion primarily due to a decrease in the leased vehicle portfolio.
+
+
+GENERAL MOTORS COMPANY AND SUBSIDIARIES
+
+In the nine months ended September 30, 2020, total revenue decreased primarily due to decreased leased vehicle income of $0.3 billion primarily due to a decrease in the leased vehicle portfolio and decreased investment income of $0.1 billion resulting from a decline in benchmark interest rates.
+
+GM Financial EBT-AdjustedIn the three months ended September 30, 2020, EBT-adjustedi ncreased primarily due to: (1) decreased leased vehicle expenses net of leased vehicle income of $0.3 billion primarily due to increased leased vehicle termination gains, due to outperformance of used vehicle prices compared to residual value estimates and a decrease in the leased vehicle portfolio; (2) decreased interest expense of $0.2 billion due to a lower effective rate of interest on debt resulting from a 
+decline in benchmark interest rates; and (3) decreased provision for loan losses of $0.1 billion primarily due to an improved recovery rate forecast, inclusive of new CECL standard impacts.
+
+In the nine months ended September 30, 2020 EBT-adjusted increased primarily due to: (1) decreased interest expense of $0.4 billion due to a lower effective rate of interest on debt resulting from a decline in benchmark interest rates; (2) decreased leased vehicle expenses net of decreased leased vehicle income of $0.1 billion primarily due to increased leased vehicle termination gains and a decrease in the leased vehicle portfolio; partially offset by (3) increased provision for loan losses of 
+$0.3 billion primarily due to increased expected charge-offs as a result of the forecasted economic impact of the COVID-19 pandemic, inclusive of new CECL standard impacts; and (4) decreased investment income of $0.1 billion.
+
+Liquidity and Capital Resources As described in the “Overview” section of this MD&A, the COVID-19 pandemic has had a material impact on our financial results and it may have a material impact on future periods, including our cash flows from operating activities and liquidity. The extent of COVID-19’s impact on our liquidity will depend upon, among other things, the duration and severity of the outbreak or subsequent outbreaks and related government responses such as required physical distancing,
+restrictions on business operations and travel, the pace of recovery of economic activity and the impact to consumers, all of which are uncertain and difficult to predict. Refer to Part II, Item 1A. Risk Factors for a full discussion of the risks associated with the COVID-19 pandemic.
+
+To preserve financial flexibility in light of the current uncertainty in global markets resulting from the COVID-19 pandemic, we borrowed $15.9 billion under our revolving credit facilities, extended a portion of our revolving credit facilities for an additional year, issued $4.0 billion in senior unsecured notes and entered into a new unsecured 364-day, $2.0 billion revolving credit facility. In September 2020, we repaid $5.2 billion of the $15.9 billion drawn under the revolving credit 
+facilities and in October 2020, we repaid an additional $3.9 billion. We expect to repay the revolver balance by the end of 2020; however, this is dependent on the impact of the COVID-19 pandemic on our Automotive liquidity. See the "Automotive Liquidity" section of this MD&A for additional information on these liquidity actions. In response to the uncertainties created by the pandemic, during the first half of 2020 we executed a number of austerity measures to reduce costs, such as limiting 
+advertising and other third-party spending, suspending our dividend on common shares, deferring salaried employee compensation and delaying non-critical projects, including certain future product programs. The majority of the austerity measures we put into place will normalize as production normalizes.
+
+Despite the uncertainty resulting from the COVID-19 pandemic, we believe our current levels of cash, cash equivalents, marketable debt securities, available borrowing capacity under our revolving credit facilities and other liquidity actions currently available to us are sufficient to meet our liquidity requirements. We also maintain access to the capital markets and may issue debt or equity securities, which may provide an additional source of liquidity. We have substantial cash requirements 
+going forward, which we plan to fund through our total available liquidity, cash flows from operating activities and additional liquidity measures, if determined to be necessary.
+
+Our known current and future material uses of cash relate to funding near-term operations through the current economic cycle including: (1) ongoing cash costs including payments associated with previously announced vehicle recalls, the settlements of the multi-district litigation and any other recall-related contingencies, payments to service debt and other long-term obligations, including repayment of amounts drawn on our revolving credit facilities and discretionary and mandatory contributions
+to our pension plans; and (2) capital expenditures and payments for engineering and product development activities, which will be significantly less than originally forecasted for 2020 due to our austerity measures. Our future uses of cash will be focused on the three objectives of our capital allocation program: (1) reinvest in our business at an average target ROIC-adjusted rate of 20% or greater; (2) maintain a strong investment-grade balance sheet, including a target average automotive cash 
+balance of $18 billion; and (3) after the first two objectives are met, return available cash to shareholders. Our senior management evaluates our capital allocation program on an ongoing basis and recommends any modifications to the program to our Board of Directors not less than once annually.
+
+
+GENERAL MOTORS COMPANY AND SUBSIDIARIES
+
+Our liquidity plans are subject to a number of risks and uncertainties, including those described in the "Forward-Looking Statements" section of this MD&A, Part II, Item 1A. Risk Factors in this Form 10-Q and Part I, Item 1A. Risk Factors of our 2019 Form 10-K, some of which are outside of our control.
+
+Cash flows occur amongst our Automotive, Cruise and GM Financial operations that are eliminated when we consolidate our cash flows. Such eliminations include, among other things, collections by Automotive on wholesale accounts receivables financed by dealers through GM Financial, payments between Automotive and GM Financial for accounts receivables transferred by Automotive to GM Financial, loans to Automotive from GM Financial, dividends issued by GM Financial to Automotive and Automotive cash 
+injections in Cruise. The presentation of Automotive liquidity, Cruise liquidity and GM Financial liquidity presented below includes the impact of cash transactions amongst the sectors that are ultimately eliminated in consolidation.
+
+Automotive Liquidity Total available liquidity includes cash, cash equivalents, marketable debt securities and funds available under credit facilities. The amount of available liquidity is subject to seasonal fluctuations and includes balances held by various business units and subsidiaries worldwide that are needed to fund their operations. In response to the COVID-19 pandemic, we took immediate actions to provide for additional liquidity, including drawing $15.9 billion on our revolving credit
+facilities and implementing austerity measures. In May 2020, we issued $4.0 billion in aggregate principal amount of senior unsecured notes with a weighted average interest rate of 6.11% and maturity dates ranging from 2023 to 2027. The notes are governed by a sixth supplemental indenture and the same base indenture that governs our existing notes, which contains terms and covenants customary for these types of securities, including a limitation on the amount of certain secured debt we may 
+incur. The net proceeds from the issuance of these senior unsecured notes provides additional financial flexibility and will be used for general corporate purposes. In May 2020, we also entered into a new unsecured 364-day, $2.0 billion revolving credit facility as an additional source of available liquidity. In August 2020, we repaid $0.5 billion of floating rate senior unsecured debt upon maturity. In September 2020, we repaid $5.2 billion of the $15.9 billion drawn under the revolving credit 
+facilities and in October 2020, we repaid an additional $3.9 billion. We expect to repay the revolver balance by the end of 2020; however, this is dependent on the impact of the COVID-19 pandemic on our Automotive liquidity. We have changed the management of our liquidity by borrowing on our credit facilities, changing our investment portfolio composition and taking significant austerity measures to provide better flexibility in response to COVID-19; however, we have not significantly changed 
+our investment guidelines since December 31, 2019.
+
+We use credit facilities as a mechanism to provide additional flexibility in managing our global liquidity. We increased our automotive borrowing capacity under credit facilities from $17.5 billion at December 31, 2019 to $18.5 billion at September 30, 2020. At September 30, 2020, our automotive borrowing capacity under credit facilities consisted of four revolving credit facilities. These facilities consist of a three-year, $4.0 billion facility that includes a letter of credit-sub facility of 
+$1.1 billion, a five-year, $10.5 billion facility, a three-year, $2.0 billion transformation facility and a new 364-day, $2.0 billion revolving credit facility entered into in May 2020. Total borrowing capacity under our automotive credit facilities does not include a 364-day, $2.0 billion facility designated for exclusive use by GM Financial.
+
+In April 2020, we renewed our 364-day, $2.0 billion facility designated for exclusive use by GM Financial for an additional 364-day term and extended $3.6 billion of the three-year, $4.0 billion facility for an additional year expiring in April 2022. The remaining portion will expire in April 2021, unless extended. As part of the extension of the three-year, $4.0 billion facility, we have agreed not to execute any share repurchases until we no longer have outstanding borrowings under the 
+revolving credit facilities, except for the three-year, $2.0 billion transformation facility. In addition, we are restricted from paying dividends on our common shares if outstanding borrowings under the revolving credit facilities exceed $5.0 billion, with the exception of the three-year, $2.0 billion transformation facility.
+
+In the nine months ended September 30, 2020, we borrowed $3.4 billion against our three-year, $4.0 billion facility, $2.0 billion against our three-year, $2.0 billion transformation facility and $10.5 billion against our five-year, $10.5 billion facility to preserve financial flexibility in response to the current uncertainty in global markets and the economic environment resulting from the COVID-19 pandemic. In the three and nine months ended September 30, 2020, we repaid $3.2 billion of the 
+three-year, $4.0 billion facility and repaid in full the three-year, $2.0 billion transformation facility. In October 2020, we repaid $3.9 billion of our five-year, $10.5 billion facility. We did not have any borrowings against our facilities at December 31, 2019. We had letters of credit outstanding under our sub-facility of $0.3 billion and $0.2 billion at September 30, 2020 and December 31, 2019. Refer to Note 11 to our condensed consolidated financial statements for additional information on
+the contractual maturities of our debt obligations.
+
+If available capacity permits, GM Financial has access to our automotive credit facilities, except for the three-year, $2.0 billion transformation facility and the new 364-day, $2.0 billion facility. In addition, GM Financial has exclusive use of the 364-day, $2.0 billion facility that expires in April 2021. GM Financial did not have borrowings outstanding against any facilities at September 30, 2020 and December 31, 2019. We had intercompany loans from GM Financial of $0.4 billion and
+
+
+GENERAL MOTORS COMPANY AND SUBSIDIARIES
+
+$0.5 billion at September 30, 2020 and December 31, 2019, which primarily consisted of commercial loans to dealers we consolidate. We did not have intercompany loans to GM Financial. Refer to Note 5 to our condensed consolidated financial statements for additional information.
+
+GM Financial's Board of Directors declared and paid dividends of$0.8 billion on its common stock in the nine months endedSeptember 30,2020. Future dividends from GM Financial will depend on several factors including business and economic conditions, its financial condition, earnings, liquidity requirements and leverage ratio. In addition, we expect to continue to receive dividends from our Automotive China JVs on a normal cadence.
+
+We continue to monitor and evaluate opportunities to strengthen our competitive position over the long term while maintaining a strong investment-grade balance sheet. These actions may include opportunistic payments to reduce our long-term obligations as well as the possibility of acquisitions, dispositions, investments with joint venture partners and strategic alliances that we believe would generate significant advantages and substantially strengthen our business.
+
+Several of our loan facilities, including our revolving credit facilities, require compliance with certain financial and operational covenants as well as regular reporting to lenders. We have reviewed our covenants in effect as of September 30, 2020 and determined we are in compliance and expect to remain in compliance in the future.
+
+In January 2017 we announced that our Board of Directors had authorized the purchase of up to $5.0 billion of our common stock with no expiration date as part of our common stock repurchase program. We have completed $1.7 billion of the $5.0 billion program through September 30, 2020. In April 2020 we agreed not to execute any share repurchases until we no longer have outstanding borrowings under the revolving credit facilities, except for the three-year, $2.0 billion transformation facility.
+
+The following table summarizes our available liquidity (dollars in billions):
+
+                                                                             September 30, 2020      December 31, 2019            
+ ──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Automotive cash and cash equivalents, net                                                   $                 21.7 $      13.4  
+  Marketable debt securities                                                                8.5                    3.9            
+  Automotive cash, cash equivalents and marketable debt securities, net                    30.2                   17.3            
+  Cruise cash and cash equivalents(a)                                                       0.5                    2.3            
+  Cruise marketable debt securities(a)                                                      1.4                    0.3            
+  Available liquidity(b)                                                                   32.2                   19.9            
+  Available under credit facilities                                                         7.6                   17.3            
+  Total available liquidity(b)                                                                $                 39.8 $      37.2  
+
+__________
+
+(a) Amounts are designated exclusively for the use of Cruise.
+
+(b) Amounts may not sum due to rounding.
+
+The following table summarizes the changes in our Automotive available liquidity (excluding Cruise, dollars in billions):
+
+                                                            Nine Months Ended September 30, 2020           
+ ───────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Operating cash flow                                                                          $      2.3  
+  Capital expenditures                                                                     (3.3)           
+  Dividends paid and payments to purchase common stock                                     (0.6)           
+  Issuance of senior unsecured notes                                                         4.0           
+  Repayment of senior unsecured notes                                                      (0.5)           
+  Borrowings against credit facilities, net                                                 10.6           
+  Other non-operating(a)                                                                     0.4           
+  Decrease in available credit facilities                                                  (9.7)           
+  Total change in automotive available liquidity                                               $      3.2  
+
+__________
+
+(a) Amount includes $0.6 billion of proceeds from the sale of our remaining shares in Lyft.
+
+
+GENERAL MOTORS COMPANY AND SUBSIDIARIES
+
+Automotive Cash Flow (dollars in billions)
+
+                                                            Nine Months Ended                                                 Change             
+                                                            September 30, 2020               September 30, 2019                                  
+ ─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Operating Activities                                                                                                                           
+  Net income                                                $                       2.7      $                       6.2           $      (3.5)  
+  Depreciation, amortization and impairment charges         4.1                              5.2                               (1.1)             
+  Pension and OPEB activities                               (1.4)                            (1.1)                             (0.3)             
+  Working capital                                           (2.6)                            (3.2)                               0.6             
+  Accrued and other liabilities and income taxes            (2.1)                            0.3                               (2.4)             
+  Other                                                     1.6                              (0.8)                               2.4             
+  Net automotive cash provided by operating activities      $                       2.3      $                       6.6           $      (4.3)  
+
+In the nine months ended September 30, 2020, the decrease in Net automotive cash provided by operating activities was primarily due to: (1) lower pre-tax earnings of $3.3 billion and the unwind of sales incentives of $2.6 billion, both impacted by COVID-19; (2) lower dividends received from our nonconsolidated affiliates of $0.7 billion; partially offset by (3) dividends received from GM Financial of $0.8 billion; (4) working capital; and (5) several other insignificant items.
+
+                                                                      Nine Months Ended                                                     Change             
+                                                                      September 30, 2020                 September 30, 2019                                    
+ ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Investing Activities                                                                                                                                         
+  Capital expenditures                                                $                       (3.3)      $                       (4.8)      $             1.5  
+  Acquisitions and liquidations of marketable securities, net(a)      (4.0)                              —                                  (4.0)              
+  GM investment in Cruise                                             —                                  (0.7)                              0.7                
+  Other                                                               —                                  0.2                                (0.2)              
+  Net automotive cash used in investing activities                    $                       (7.3)      $                       (5.3)      $           (2.0)  
+
+__________
+
+(a) Amount includes $0.6 billion and $0.1 billion of proceeds from the sale of our shares in Lyft in the nine months ended September 30, 2020 and 2019.
+
+In the nine months ended September 30, 2020, capital expenditures decreased due to the delay of non-critical projects, including certain future product programs, in response to the COVID-19 pandemic. Cash used in acquisitions and liquidations of marketable securities, net increased due to the increased purchases of marketable securities with proceeds from the issuance of debt in response to the COVID-19 pandemic.
+
+                                                                      Nine Months Ended                                                    Change            
+                                                                      September 30, 2020                September 30, 2019                                   
+ ─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Financing Activities                                                                                                                                       
+  Borrowings against credit facilities, net                           $                       10.6      $                         0.7           $       9.9  
+  Net proceeds from short-term debt                                   0.4                               0.8                                 (0.4)            
+  Issuance of senior unsecured notes                                  4.0                               —                                     4.0            
+  Repayment of senior unsecured notes                                 (0.5)                             —                                   (0.5)            
+  Dividends paid and payments to purchase common stock                (0.6)                             (1.7)                                 1.1            
+  Other                                                               (0.4)                             (0.1)                               (0.3)            
+  Net automotive cash provided by (used in) financing activities      $                       13.5      $                       (0.3)           $      13.8  
+
+Adjusted Automotive Free Cash Flow We measure adjusted automotive free cash flow as automotive operating cash flow from operations less capital expenditures adjusted for management actions. In the nine months ended September 30, 2020, net automotive cash provided by operating activities under U.S. GAAP was $2.3 billion, capital expenditures were $3.3 billion, and adjustments for management actions were $0.2 billion.
+
+
+GENERAL MOTORS COMPANY AND SUBSIDIARIES
+
+In the nine months ended September 30, 2019, net automotive cash provided by operating activities under U.S. GAAP was $6.6 billion, capital expenditures were $4.8 billion, and adjustments for management actions primarily related to transformation activities were $0.6 billion.
+
+Status of Credit Ratings We receive ratings from four independent credit rating agencies: DBRS Limited (DBRS), Fitch Ratings (Fitch), Moody's Investor Service (Moody's) and Standard & Poor's (S&P). All four credit rating agencies currently rate our corporate credit at investment grade. The following table summarizes our credit ratings at October 19, 2020:
+
+               Corporate             Revolving Credit Facilities      Senior Unsecured      Outlook   
+  DBRS         BBB                   BBB                              N/A                   Negative  
+  Fitch        BBB-                  BBB-                             BBB-                  Stable    
+  Moody's      Investment Grade      Baa2                             Baa3                  Negative  
+  S&P          BBB                   BBB                              BBB                   Negative  
+
+Rating actions taken by each of the credit rating agencies from January 1, 2020 throughOctober 19, 2020were as follows: (1) S&P revised their outlook to Credit watch with negative implications from Stable in March 2020; confirmed our ratings and revised their outlook to Negative from Credit watch with negative implications in August 2020; (2) Moody’s revised their outlook to Under review for downgrade from Stable in March 2020; confirmed our ratings and revised their outlook to Negative from 
+Under review for downgrade in May 2020; (3) DBRS revised their outlook to Under review with negative implications from Stable in March 2020; downgraded our ratings to BBB from BBB (high) and revised their outlook to Negative from Under review with negative implications in June 2020; and (4) Fitch downgraded our ratings to BBB- from BBB in May 2020.
+
+Cruise Liquidity The changes in our Cruise available liquidity in the nine months ended September 30, 2020 were primarily driven by operating cash flow. When Cruise's autonomous vehicles are ready for commercial deployment, The Vision Fund is obligated to purchase additional Cruise convertible preferred shares for $1.35 billion.
+
+Cruise Cash Flow (dollars in billions)
+
+                                                 Nine Months Ended                                                     Change             
+                                                 September 30, 2020                 September 30, 2019                                    
+  Net cash used in operating activities          $                       (0.6)      $                       (0.6)      $           —      
+ ──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Net cash used in investing activities          $                       (1.2)      $                       (0.6)      $           (0.6)  
+  Net cash provided by financing activities      $                       —          $                         1.1      $           (1.1)  
+
+Automotive Financing - GM Financial Liquidity GM Financial's primary sources of cash are finance charge income, leasing income and proceeds from the sale of terminated leased vehicles, net distributions from credit facilities, securitizations, secured and unsecured borrowings and collections and recoveries on finance receivables. GM Financial's primary uses of cash are purchases of retail finance receivables and leased vehicles, the funding of commercial finance receivables, repayment of secured
+and unsecured debt, funding credit enhancement requirements in connection with securitizations and secured credit facilities, interest costs, and operating expenses. GM Financial continues to monitor and evaluate opportunities to optimize its liquidity position and the mix of its debt between secured and unsecured debt. The following table summarizes GM Financial's available liquidity (dollars in billions):
+
+                                                                                  September 30, 2020                December 31, 2019            
+ ─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Cash and cash equivalents                                                       $                        4.7      $                       3.3  
+  Borrowing capacity on unpledged eligible assets                                 20.9                              17.5                         
+  Borrowing capacity on committed unsecured lines of credit                       0.5                               0.3                          
+  Borrowing capacity on revolving credit facility, exclusive to GM Financial      2.0                               2.0                          
+  Total GM Financial available liquidity                                          $                       28.1      $                      23.1  
+
+At September 30, 2020, GM Financial's available liquidity increased from December 31, 2019 due to an increase in cash and cash equivalents and borrowing capacity on secured revolving credit facilities resulting from the issuance of securitization transactions, unsecured debt and preferred stock. GM Financial structures liquidity to support at least six months of GM Financial's expected net cash flows, including new originations, without access to new debt financing transactions or other capital 
+markets activity.
+
+
+GENERAL MOTORS COMPANY AND SUBSIDIARIES
+
+GM Financial did not have any borrowings outstanding against our credit facility designated for their exclusive use or the remainder of our revolving credit facilities at September 30, 2020 and December 31, 2019. Refer to the Automotive Liquidity section of this MD&A for additional details.
+
+Credit Facilities In the normal course of business, in addition to using its available cash, GM Financial utilizes borrowings under its credit facilities, which may be secured or unsecured, and GM Financial repays these borrowings as appropriate under its cash management strategy. At September 30, 2020 secured, committed unsecured and uncommitted unsecured credit facilities totaled $25.9 billion, $0.5 billion and $1.4 billion with advances outstanding of $2.0 billion, an insignificant amount and
+$1.4 billion.
+
+GM Financial Cash Flow (dollars in billions)
+
+                                                 Nine Months Ended                                                     Change             
+                                                 September 30, 2020                 September 30, 2019                                    
+ ──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Net cash provided by operating activities      $                         6.0      $                         6.3      $           (0.3)  
+  Net cash used in investing activities          $                       (5.0)      $                       (5.3)      $             0.3  
+  Net cash used in financing activities          $                       (0.4)      $                       (2.5)      $             2.1  
+
+In the nine months ended September 30, 2020, Net cash provided by operating activities decreased primarily due to: (1) a decrease in leased vehicle income of $0.3 billion; and (2) a decrease in derivative collateral posting activities of $0.2 billion; partially offset by (3) a decrease in interest paid of $0.3 billion.
+
+In the nine months ended September 30, 2020, Net cash used in investing activities decreased primarily due to: (1) a decrease in purchases of leased vehicles of $2.0 billion; and (2) increased collections and recoveries on finance receivables of $0.2 billion; partially offset by (3) increased purchases of finance receivables of $2.0 billion.
+
+In the nine months ended September 30, 2020, Net cash used in financing activities decreased primarily due to: (1) an increase in borrowings of $17.6 billion; and (2) issuance of preferred stock of $0.5 billion; partially offset by (3) an increase in debt repayments of $15.1 billion; and (4) an increase in dividend payments of $0.8 billion.
+
+
+GENERAL MOTORS COMPANY AND SUBSIDIARIES
+
+Contractual Obligations and Other Long-Term Liabilities We have minimum commitments under contractual obligations, including purchase obligations. A purchase obligation is defined as an agreement to purchase goods or services that is enforceable and legally binding on us and that specifies all significant terms, including fixed or minimum quantities to be purchased or fixed minimum price provisions and the approximate timing of the transaction. Based on these definitions, the following table 
+includes only those contracts that include fixed or minimum obligations. The majority of our purchases are not included in the table as they are made under purchase orders that are requirements-based and accordingly do not specify minimum quantities. The following table summarizes aggregated information about our outstanding contractual obligations and other long-term liabilities at September 30, 2020:
+
+                                                 Payments Due by Period                                                                                             
+                                                 October 1, 2020 to December 31, 2020      2021                  2022-2023                  2024-2025               
+  Automotive debt(a)                             $                                         $          1,584      $              13,038      $               28,834  
+  Automotive Financing debt                                                                          27,835                     29,453                      88,363  
+  Finance lease obligations                      46                                        199                   70                         24                      
+  Automotive interest payments(b)                491                                                  1,081                      1,965                      13,389  
+  Automotive Financing interest payments(c)      623                                                  1,953                      2,250      946              6,215  
+  Postretirement benefits(d)                     58                                        233                   461                        —                       
+  Operating lease obligations                    62                                        253                   413                        284              1,438  
+  Other contractual commitments:                                                                                                                                    
+  Material                                       748                                       620                   134                        71               1,593  
+  Marketing                                      308                                       253                   93                         8                       
+  Other (e)                                      574                                                  1,098                      1,066      200              3,123  
+  Total contractual commitments(f)               $                                         $         35,109      $              48,943      $              144,728  
+  Non-contractual benefit(g)                     $                                         $            273      $                 490      $               11,171  
+
+__________
+
+(a)$3.9 billion of the amount due in 2023 has been repaid on our five-year, $10.5 billion facility in October 2020.
+
+(b) Amounts include automotive interest payments based on contractual terms and current interest rates on our debt and finance lease obligations. Automotive interest payments based on variable interest rates were determined using the interest rate in effect at September 30, 2020.
+
+(c) GM Financial interest payments were determined using the interest rate in effect at September 30, 2020 for floating rate debt and the contractual rates for fixed rate debt. GM Financial interest payments on floating rate tranches of the securitization notes payable were converted to a fixed rate based on the floating rate plus any expected hedge payments.
+
+(d) Amounts include OPEB payments under the contract term of the current labor agreements in North America and do not include pension funding obligations.
+
+(e) Amounts include $0.8 billion related to committed capital contributions to a non-consolidated VIE.
+
+(f) Amounts do not include future cash payments for purchase obligations and certain other accrued expenditures (unless listed in the table above) that were recorded in Accounts payable, Accrued liabilities and Other liabilities in our condensed consolidated financial statements at September 30, 2020.
+
+(g) Amounts include all expected future payments for both current and expected future service at September 30, 2020 for OPEB obligations for salaried and hourly employees extending beyond the current North American union contract agreements, workers' compensation and extended disability benefits. Amounts do not include pension funding obligations.
+
+The table above does not reflect product warranty and related liabilities, certified pre-owned, extended warranty and free maintenance o f $7.9 billion and unrecognized tax benefits o f $0.7 billiond ue to the uncertainty regarding the future cash outflows potentially associated with these amounts. In addition, future cash outflows related to previously announced restructuring actions are not included in the table above. Refer to Note 17 to our condensed consolidated financial statements for 
+additional information.
+
+Critical Accounting Estimates The condensed consolidated financial statements are prepared in conformity with U.S. GAAP, which requires the use of estimates, judgments and assumptions that affect the reported amounts of assets and liabilities, the disclosure of contingent assets and liabilities at the date of the financial statements and the reported amounts of revenues and expenses in the periods presented. We believe the accounting estimates employed are appropriate and the resulting balances 
+are reasonable; however, due to the inherent uncertainties in developing estimates, actual results could differ from the original estimates, requiring adjustments to these balances in future periods. The critical accounting estimates that affect the condensed consolidated financial statements and the judgments and assumptions used are consistent with those described in the MD&A in
+
+
+GENERAL MOTORS COMPANY AND SUBSIDIARIES
+
+our 2019 Form 10-K, as supplemented by the subsequent discussions of the allowance for loan losses on GM Financial receivables and the residual value of GM Financial leased vehicles.
+
+GM Financial Allowance for Loan Losses Refer to Note 2 to our condensed consolidated financial statements for additional information regarding our allowance for loan losses on retail and commercial finance receivables. The GM Financial retail finance receivables portfolio consists of smaller-balance, homogeneous loans that are carried at amortized cost, net of allowance for loan losses. The allowance for loan losses on retail finance receivables reflects net credit losses expected to be incurred
+over the remaining life of the retail finance receivables. We believe that the allowance is adequate to cover expected credit losses on the retail finance receivables; however, because the allowance for loan losses is based on estimates, there can be no assurance that the ultimate charge-off amount will not exceed such estimates or that our credit loss assumptions will not increase.
+
+GM Financial updated the forecast of economic performance in March 2020, following the onset of the COVID-19 pandemic, and has continued to monitor and update the forecast through September 30, 2020. Used vehicle prices rebounded after decreasing in March and April 2020, and recoveries outperformed the forecast. Therefore, GM Financial increased the recovery rate forecast as of September 30, 2020. Actual economic data and recovery rates that are lower than those we forecast would result in an 
+increase to the allowance for loan losses.
+
+The GM Financial commercial finance receivables portfolio consists of floorplan financing as well as dealer loans, which are loans to finance improvements to dealership facilities, to provide working capital, and to purchase and/or finance dealership real estate. The allowance for loan losses on commercial finance receivables is also based on estimates that, effective January 1, 2020, include historical loss experience for the consolidated portfolio, as well as the forecast for industry vehicle 
+sales. There can be no assurance that the ultimate charge-off amount will not exceed such estimates or that our credit loss assumptions will not increase.
+
+Residual Value of GM Financial Leased Vehicles At September 30, 2020, the estimated residual value of GM Financial’s leased vehicles at the end of the lease term was $28.9 billion. Depreciation reduces the carrying value of each leased asset in GM Financial’s operating lease portfolio over time from its original acquisition value to its expected residual value at the end of the lease term. GM Financial reviewed the operating lease portfolio for indicators of impairment and determined that no 
+impairment indicators were present at September 30, 2020.
+
+GM Financial updated the residual value estimates on the operating lease portfolio to reflect the decrease in forecasted used vehicle prices in March 2020, following the onset of the COVID-19 pandemic, and has continued to monitor and update the residual value estimates through September 30, 2020. Used vehicle prices rebounded after decreasing in March and April 2020, and sales proceeds on terminated leased vehicles outperformed the residual value estimates during the nine months ended September
+30, 2020. The estimated residual value as of September 30, 2020 increased from June 30, 2020, resulting in a prospective decrease to the depreciation rate over the remaining term of the leased vehicle portfolio. If used vehicle prices decrease, GM Financial would increase depreciation expense and/or record an impairment charge on the lease portfolio. If an impairment exists, GM Financial would determine any shortfall in recoverability of the leased vehicle asset groups by year, make and model. 
+Recoverability is calculated as the excess of: (1) the sum of remaining lease payments plus estimated residual value; over (2) leased vehicles, net less deferred revenue. Alternatively, if used vehicle prices outperform GM Financial's latest estimates, it may record gains on sales of off-lease vehicles and/or decreased depreciation expense.
+
+Forward-Looking Statements This report and the other reports filed by us with the SEC from time to time, as well as statements incorporated by reference herein and related comments by our management, may include "forward-looking statements" within the meaning of the U.S. federal securities laws. Forward-looking statements are any statements other than statements of historical fact. Forward-looking statements represent our current judgment about possible future events and are often identified by 
+words like "aim," “anticipate,” “appears,” “approximately,” “believe,” “continue,” “could,” “designed,” “effect,” “estimate,” “evaluate,” “expect,” “forecast,” “goal,” “initiative,” “intend,” “may,” “objective,” “outlook,” “plan,” “potential,” “priorities,” “project,” “pursue,” “seek,” “should,” “target,” “when,” “will,” “would,” or the negative of any of those words or similar expressions. In making these statements, we rely on assumptions and analysis based on our experience and perception of 
+historical trends, current conditions and expected future developments as well as other factors we consider appropriate under the circumstances. We believe these judgments are reasonable, but these statements are not guarantees of any events or financial results, and our actual results may differ materially due to a variety of important factors, both positive and negative. These factors, which may be revised or supplemented in subsequent reports we file with the SEC, include, among others, the 
+following: (1) our ability to deliver new products, services and customer experiences in response to increased competition in the automotive industry; (2) our ability to timely fund and introduce new and improved vehicle models that are able to attract a sufficient number of consumers; (3) the success of our crossovers, SUVs and full-size pickup trucks; (4) our ability to successfully and cost-effectively restructure our operations in the U.S. and various other countries and initiate
+
+
+GENERAL MOTORS COMPANY AND SUBSIDIARIES
+
+additional cost reduction actions with minimal disruption; (5) our ability to reduce the cost of manufacturing electric vehicles and drive increased consumer adoption; (6) the unique technological, operational, regulatory and competitive risks related to the timing and commercialization of autonomous vehicles; (7) global automobile market sales volume, which can be volatile; (8) our significant business in China, which is subject to unique operational, competitive, regulatory and economic risks;
+(9) our joint ventures, which we cannot operate solely for our benefit and over which we may have limited control; (10) the international scale and footprint of our operations, which exposes us to a variety of unique political, economic, competitive and regulatory risks, including the risk of changes in government leadership and laws (including labor, tax and other laws), political instability and economic tensions between governments and changes in international trade policies, new barriers to 
+entry and changes to or withdrawals from free trade agreements, public health crises, including the occurrence of a contagious disease or illness, such as the COVID-19 pandemic, changes in foreign exchange rates and interest rates, economic downturns in foreign countries, differing local product preferences and product requirements, compliance with U.S. and foreign countries' export controls and economic sanctions, differing labor regulations, requirements and union relationships, differing 
+dealer and franchise regulations and relationships, and difficulties in obtaining financing in foreign countries; (11) any significant disruption, including any work stoppages, at any of our manufacturing facilities; (12) the ability of our suppliers to deliver parts, systems and components without disruption and at such times to allow us to meet production schedules; (13) prices of raw materials used by us and our suppliers; (14) our highly competitive industry, which is characterized by excess
+manufacturing capacity and the use of incentives and the introduction of new and improved vehicle models by our competitors; (15) the possibility that competitors may independently develop products and services similar to ours or that our intellectual property rights are not sufficient to prevent competitors from developing or selling those products or services; (16) our ability to manage risks related to security breaches and other disruptions to our information technology systems and networked
+products, including connected vehicles and in-vehicle systems; (17) our ability to comply with increasingly complex, restrictive and punitive regulations relating to our enterprise data practices, including the collection, use, sharing and security of the Personal Identifiable Information of our customers, employees, or suppliers; (18) our ability to comply with extensive laws, regulations and policies applicable to our operations and products, including those relating to fuel economy and 
+emissions and autonomous vehicles; (19) costs and risks associated with litigation and government investigations; (20) the costs and effect on our reputation of product safety recalls and alleged defects in products and services; (21) any additional tax expense or exposure; (22) our continued ability to develop captive financing capability through GM Financial; (23) any significant increase in our pension funding requirements; and (24) the ongoing COVID-19 pandemic. A further list and 
+description of these risks, uncertainties and other factors can be found in our 2019 Form 10-K and our subsequent filings with the SEC.
+
+We caution readers not to place undue reliance on forward-looking statements. Forward-looking statements speak only as of the date they are made, and we undertake no obligation to update publicly or otherwise revise any forward-looking statements, whether as a result of new information, future events or other factors, except where we are expressly required to do so by law.
+
+* * * * * * *
+

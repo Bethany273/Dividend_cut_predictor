@@ -746,4 +746,471 @@ Recent developments include:
 
 • Palm Beach, Florida Litigation. On October 19, 2020, the Florida Supreme Court denied Palm Beach County’s petition for discretionary review, thereby ending the matter.
 
-For additional information on these and other legal proceedings, see 
+For additional information on these and other legal proceedings, see Part II, Item 1, Legal Proceedings.
+
+We have established a reserve for the potential settlement of issues related to hotel occupancy and other tax litigation, consistent with applicable accounting principles and in light of all current facts and circumstances, in the amount of $58 million as of September 30, 2020, and $48 million as of December 31, 2019.
+
+Certain jurisdictions, including without limitation the states of New York, New Jersey, North Carolina, Minnesota, Oregon, Rhode Island, Maryland, Pennsylvania, Hawaii, Iowa, Massachusetts, Arizona, Wisconsin, Idaho, Arkansas, Indiana, Maine, Nebraska, Vermont, the city of New York, and the District of Columbia, have enacted legislation seeking to tax online travel company services as part of sales or other taxes for hotel and/or other accommodations and/or car rental. In addition, in certain 
+jurisdictions, we have entered into voluntary collection agreements pursuant to which we have agreed to voluntarily collect and remit taxes to state and/or local taxing jurisdictions. We are currently remitting taxes to a number of jurisdictions, including without limitation the states of New York, New Jersey, South Carolina, North Carolina, Minnesota, Georgia, Wyoming, West Virginia, Oregon, Rhode Island, Montana, Maryland, Kentucky, Maine, Pennsylvania, Hawaii, Iowa, Massachusetts, Arizona, 
+Wisconsin, Idaho, Arkansas, Indiana, Nebraska, Vermont, the city of New York and the District of Columbia, as well as certain other jurisdictions.
+
+Pay-to-Play
+
+Certain jurisdictions may assert that we are required to pay any assessed taxes prior to being allowed to contest or litigate the applicability of the ordinances. This prepayment of contested taxes is referred to as “pay-to-play.” Payment of these amounts is not an admission that we believe we are subject to such taxes and, even when such payments are made, we continue to defend our position vigorously. If we prevail in the litigation, for which a pay-to-play payment was made, the jurisdiction 
+collecting the payment will be required to repay such amounts and also may be required to pay interest. However, any significant pay-to-play payment or litigation loss could negatively impact our liquidity.
+
+Other Jurisdictions. We are also in various stages of inquiry or audit with domestic and foreign tax authorities, some of which, including the City of Los Angeles regarding hotel occupancy taxes and the United Kingdom regarding the application of value added tax (“VAT”) to our European Union related transactions, may impose a pay-to-play requirement to challenge an adverse inquiry or audit result in court.
+
+
+Segments
+
+Beginning in the first quarter of 2020, we have the following reportable segments: Retail, B2B, and trivago. Our Retail segment provides a full range of travel and advertising services to our worldwide customers through a variety of consumer brands including: Expedia.com and Hotels.com in the United States and localized Expedia and Hotels.com websites throughout the world, Vrbo, Orbitz, Travelocity, Wotif Group, ebookers, CheapTickets, Hotwire.com, CarRentals.com, CruiseShipCenters, Classic 
+Vacations and SilverRail Technologies, Inc. Our B2B segment is comprised of our Expedia Business Services organization including Expedia Partner Solutions, which operates private label and co-branded programs to make travel services available to leisure travelers through third-party company branded websites, and Egencia, a full-service travel management company that provides travel services to businesses and their corporate customers. Our trivago segment generates advertising revenue primarily 
+from sending referrals to online travel companies and travel service providers from its hotel metasearch websites.
+
+Operating Metrics
+
+Our operating results are affected by certain metrics, such as gross bookings and revenue margin, which we believe are necessary for understanding and evaluating us. Gross bookings generally represent the total retail value of transactions booked for agency and merchant transactions, recorded at the time of booking reflecting the total price due for travel by travelers, including taxes, fees and other charges, and are reduced for cancellations and refunds. Revenue margin is defined as revenue as
+a percentage of gross bookings.
+
+Gross Bookings and Revenue Margin
+
+                          Three months ended September 30,                                         Nine months ended September 30,                          
+                          2020                                             2019      % Change      2020                                 2019      % Change  
+ ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+                          ($ in millions)                                                          ($ in millions)                                          
+  Gross bookings          $                                     8,631      $         (68)          $                                    $         (65)      
+  Revenue margin (1)      17.4                                             13.2                    14.6                                 11.0                
+
+____________________________
+
+(1) trivago, which is comprised of a hotel metasearch business that differs from our transaction-based websites, does not have associated gross bookings or revenue margin. However, third-party revenue from trivago is included in revenue used to calculate total revenue margin.
+
+During the three and nine months ended September 30, 2020, gross bookings decreased 68% and 65%, respectively, compared to the same periods in 2019, resulting from the impacts of the COVID-19 pandemic.
+
+For the third quarter of 2020, declines across our lodging, air and other travel products all moderated compared to the second quarter declines of 90%, with lodging bookings benefiting from year-over-year growth at Vrbo in the third quarter.
+
+Revenue margin for the three ended September 30, 2020 was due in part to a mix shift into products with higher revenue margin and transaction revenue related to Vrbo’s shift to merchant of record. Revenue margin for the nine months ended September 30, 2020 was also higher than the prior period due in part to the significant lodging cancellations, which reduced gross bookings, creating an unusual mix of bookings and revenue in the period. Current periods revenue margins are not indicative of our 
+future expectations.
+
+
+Results of Operations
+
+Revenue
+
+                                     Three months ended September 30,                              Nine months ended September 30,                                     
+                                     2020                                  2019      % Change      2020                                 2019                 % Change  
+ ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+                                     ($ in millions)                                               ($ in millions)                                                     
+  Revenue by Segment                                                                                                                                                   
+  Retail                             $                                     $         (52)          $                                    $         6,847          (52)  
+  B2B                                203                                   731       (72)          756                                            1,944          (61)  
+  trivago (Third-party revenue)      55                                    190       (71)          173                                  505                      (66)  
+  Corporate (Bodybuilding.com)       —                                     24        N/A           59                                   24                        149  
+  Total revenue                      $                                     $         (58)          $                                    $         9,320          (54)  
+
+Revenue decreased 58% and 54% for the three and nine months ended September 30, 2020, compared to the same periods in 2019. Revenue grew for both January and February 2020 before significantly declining year-over-year in March through May 2020 with the decline moderating in June 2020 due to the improved trends in the lodging business. In the third quarter of 2020, the year-over-year revenue decline improved in July compared to June and further moderated sequentially in August and September. Our 
+Retail segment revenue declined 52% and B2B segment revenue declined 72% in the quarter. The slower decline in our Retail segment reflects the benefit from growth at Vrbo, while the B2B segment was impacted by the slower recovery for corporate travel demand.
+
+                                 Three months ended September 30,                              Nine months ended September 30,                                     
+                                 2020                                  2019      % Change      2020                                 2019                 % Change  
+ ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+                                 ($ in millions)                                               ($ in millions)                                                     
+  Revenue by Service Type                                                                                                                                          
+  Lodging                        $                                     $             (52)      $                                    $         6,468          (50)  
+  Air                            27                                    202           (87)      67                                   678                      (90)  
+  Advertising and media (1)      94                                    312           (70)      322                                  861                      (63)  
+  Other                          154                                   469           (67)      632                                            1,313          (52)  
+  Total revenue                  $                                     $             (58)      $                                    $         9,320          (54)  
+
+____________________________
+
+(1) Includes third-party revenue from trivago as well as our transaction-based websites.
+
+Lodging revenue decreased 52% and 50% for the three and nine months ended September 30, 2020, compared to the same periods in 2019, on a 58% and 54% decrease in room nights stayed in the respective periods, partially offset by a 14% and 9% increase in revenue per room night in the respective periods.
+
+Air revenue decreased 87% for the three months ended September 30, 2020, compared to the same period in 2019, reflecting a 74% decline in tickets sold and a 48% decline in revenue per ticket. Air revenue declined 90% for the nine months ended September 30, 2020, compared to the same period in 2019, reflecting the adverse impact of COVID-19 on air travel.
+
+Advertising and media revenue decreased 70% and 63% for the three and nine months ended September 30, 2020, compared to the same periods in 2019, due to declines at trivago and Expedia Group Media Solutions. All other revenue, which includes car rental, insurance, destination services, fee revenue related to our corporate travel business and Bodybuilding.com (during the period of our ownership of July 2019 to May 2020), decreased 67% and 52% for the three and nine months ended September 30, 
+2020, compared to the same periods in 2019.
+
+
+In addition to the above segment and product revenue discussion, our revenue by business model is as follows:
+
+                                    Three months ended September 30,                                         Nine months ended September 30,                           
+                                    2020                                  2019                 % Change      2020                                            % Change  
+ ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+                                    ($ in millions)                                                          ($ in millions)                                           
+  Revenue by Business Model                                                                                                                                            
+  Merchant                          $                                     $         1,980          (48)      $                                    5,173          (47)  
+  Agency                            329                                             1,177          (72)      996                                  3,066          (67)  
+  Advertising, media and other      143                                   401                      (64)      543                                  1,081          (50)  
+  Total revenue                     $                                     $         3,558          (58)      $                                    9,320          (54)  
+
+Merchant revenue decreased for the three and nine months ended September 30, 2020, compared to the same periods in 2019, primarily due to the decrease in merchant hotel revenue driven by a decrease in room nights stayed, partially offset by an increase in Vrbo merchant alternative accommodations revenue due to Vrbo’s transition since the prior year from the agency model to merchant of record.
+
+Agency revenue decreased for the three and nine months ended September 30, 2020, compared to the same periods in 2019, primarily due to the decline in agency hotel and air as well as Vrbo agency alternative accommodations revenue.
+
+Advertising, media and other decreased for the three and nine months ended September 30, 2020, compared to the same periods in 2019, primarily due to declines in advertising revenue.
+
+Cost of Revenue
+
+                              Three months ended September 30,                                       Nine months ended September 30,                          
+                              2020                                           2019      % Change      2020                                 2019      % Change  
+ ──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+                              ($ in millions)                                                        ($ in millions)                                          
+  Direct costs                $                                     256      $             (35)      $                                    $              (9)  
+  Personnel and overhead      119                                            155           (23)      415                                  465           (11)  
+  Total cost of revenue       $                                     375      $             (31)      $                                    $              (9)  
+  % of revenue                24.9                                           15.4                    32.6                                 16.5                
+
+Cost of revenue primarily consists of direct costs to support our customer operations, including our customer support and telesales as well as fees to air ticket fulfillment vendors; credit card processing, including merchant fees, fraud and chargebacks; and other costs, primarily including data center and cloud costs to support our websites, supplier operations, destination supply, certain transactional level taxes, costs related to Bodybuilding.com during our period of ownership as well as 
+related personnel and overhead costs, including stock-based compensation.
+
+Cost of revenue decreased $173 million and $145 million during the three and nine months ended September 30, 2020, compared to the same periods in 2019, primarily due to a decline in merchant fees resulting from lower transaction volumes, a decline in customer service and personnel costs, and lower cloud expenses, partially offset by higher payment processing costs related to Vrbo’s transition to merchant of record. In addition, the third quarter of 2019 and the first half of 2020 included costs
+related to Bodybuilding.com, which was disposed of in the second quarter of 2020. The year-to-date period decrease was also partially offset by higher bad debt reserves related to future collection risk from the impact of COVID-19.
+
+Selling and Marketing
+
+                                   Three months ended September 30,                                       Nine months ended September 30,                          
+                                   2020                                           2019      % Change      2020                                 2019      % Change  
+ ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+                                   ($ in millions)                                                        ($ in millions)                                          
+  Direct costs                     $                                     341      $             (76)      $                                    $             (65)  
+  Indirect costs                   188                                            248           (24)      640                                  769           (17)  
+  Total selling and marketing      $                                     529      $             (68)      $                                    $             (58)  
+  % of revenue                     35.2                                           46.3                    47.6                                 51.6                
+
+
+Selling and marketing expense primarily relates to direct costs, including traffic generation costs from search engines and internet portals, television, radio and print spending, private label and affiliate program commissions, public relations and other costs. The remainder of the expense relates to indirect costs, including personnel and related overhead in our various brands and global supply organization, as well as stock-based compensation costs.
+
+Selling and marketing expenses decreased $1.1 billion and $2.8 billion during the three and nine months ended September 30, 2020, compared to the same periods in 2019, primarily due to a decrease in direct costs driven by a significant reduction in marketing spend in March 2020 and continuing into the second and third quarter of 2020 related to the impact on travel demand from COVID-19.
+
+Technology and Content
+
+                                    Three months ended September 30,                                       Nine months ended September 30,                          
+                                    2020                                           2019      % Change      2020                                 2019      % Change  
+ ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+                                    ($ in millions)                                                        ($ in millions)                                          
+  Personnel and overhead            $                                     161      $             (29)      $                                    $             (18)  
+  Other                             63                                             77            (19)      221                                  215              3  
+  Total technology and content      $                                     224      $             (26)      $                                    $             (13)  
+  % of revenue                      14.9                                           8.5                     18.4                                 9.7                 
+
+Technology and content expense includes product development and content expense, as well as information technology costs to support our infrastructure, back-office applications and overall monitoring and security of our networks, and is principally comprised of personnel and overhead, including stock-based compensation, as well as other costs including cloud expense and licensing and maintenance expense.
+
+Technology and content expense decreased $80 million and $118 million during the three and nine months ended September 30, 2020, compared to the same periods in 2019, primarily reflecting lower personnel and related costs.
+
+General and Administrative
+
+                                        Three months ended September 30,                                       Nine months ended September 30,                          
+                                        2020                                           2019      % Change      2020                                 2019      % Change  
+ ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+                                        ($ in millions)                                                        ($ in millions)                                          
+  Personnel and overhead                $                                     102      $             (31)      $                                    $             (20)  
+  Professional fees and other           32                                             62            (48)      124                                  165           (24)  
+  Total general and administrative      $                                     134      $             (36)      $                                    $             (21)  
+  % of revenue                          8.9                                            5.9                     11.1                                 6.4                 
+
+General and administrative expense consists primarily of personnel-related costs, including our executive leadership, finance, legal and human resource functions and related stock-based compensation as well as fees for external professional services.
+
+General and administrative expense decreased $76 million and $126 million during the three and nine months ended September 30, 2020, compared to the same periods in 2019, mainly driven by lower personnel costs, professional fees and lower stock-based compensation.
+
+Depreciation and Amortization
+
+                                           Three months ended September 30,                                       Nine months ended September 30,                          
+                                           2020                                           2019      % Change      2020                                 2019      % Change  
+ ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+                                           ($ in millions)                                                        ($ in millions)                                          
+  Depreciation                             $                                     183      $                3      $                                    $         6         
+  Amortization of intangible assets        37                                             50            (26)      122                                  154       (21)      
+  Total depreciation and amortization      $                                     220      $              (3)      $                                    $         —         
+
+
+Depreciation increased $5 million and $29 million during the three and nine months ended September 30, 2020, compared to the same periods in 2019, due to depreciation related to our new headquarters and higher internal-use software and website development depreciation, partially offset by lower data center depreciation. Amortization of intangible assets decreased $13 million and $32 million during the three and nine months ended September 30, 2020, compared to the same periods in 2019 primarily 
+due to the completion of amortization related to certain intangible assets as well as the impact of definite-lived intangible impairments in the current year.
+
+Impairment of Goodwill and Intangible Assets
+
+During the three and nine months ended September 30, 2020, as a result of the significant negative impact related to the COVID-19, which has had a severe effect on the entire global travel industry, we recognized goodwill impairment charges of $14 million and $799 million as well as intangible asset impairment charges of $41 million and $172 million. See Note 3 - Fair Value Measurements in the notes to the consolidated financial statements for further information.
+
+Legal Reserves, Occupancy Tax and Other
+
+                                               Three months ended September 30,                              Nine months ended September 30,                                    
+                                               2020                                  2019      % Change      2020                                           2019      % Change  
+ ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+                                               ($ in millions)                                               ($ in millions)                                                    
+  Legal reserves, occupancy tax and other      $                                     $         (85)          $                                    (11)      $         N/A       
+  % of revenue                                 0.1                                   0.3                     (0.3)                                          0.3                 
+
+Legal reserves, occupancy tax and other consists of changes in our reserves for court decisions and the potential and final settlement of issues related to hotel occupancy and other taxes, expenses recognized related to monies paid in advance of occupancy and other tax proceedings (“pay-to-play”) as well as certain other legal reserves.
+
+During the nine months ended September 30, 2020, we recorded a $25 million gain in relation to a legal settlement, which was partially offset by changes in our reserve related to hotel occupancy and other taxes. During the nine months ended September 30, 2019, we received a $10 million refund of prepaid pay-to-play amounts from the State of Hawaii in connection with the general excise tax litigation resulting in a corresponding benefit during the period, which nets down increases in reserves for
+occupancy tax and other matters.
+
+Restructuring and Related Reorganization Charges
+
+In late February 2020, we committed to restructuring actions intended to simplify our businesses and improve operational efficiencies, which have resulted in headcount reductions, and, during the second and third quarter of 2020, the Company has accelerated further actions to adapt our business to the current environment. As a result, we recognized $78 million and $206 million in restructuring and related reorganization charges during the three and nine months ended September 30, 2020. Based on 
+current plans, which are subject to change, we expect total reorganization charges in the remainder of 2020 and into 2021 of approximately $75 million. However, we continue to actively evaluate additional cost reduction efforts and should we make decisions in future periods to take further actions we will incur additional reorganization charges.
+
+We also engaged in certain smaller scale restructure actions in 2019 to centralize and migrate certain operational functions and systems, for which we recognized $2 million and $16 million in restructuring and related reorganization charges during the three and nine months ended September 30, 2019, which were primarily related to severance and benefits.
+
+
+Operating Income (Loss)
+
+                               Three months ended September 30,                                         Nine months ended September 30,                          
+                               2020                                             2019      % Change      2020                                 2019      % Change  
+ ─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+                               ($ in millions)                                                          ($ in millions)                                          
+  Operating income (loss)      $                                     (113)      $         N/A           $                                    $         N/A       
+  % of revenue                 (7.5)                                            17.1                    (52.7)                               8.0                 
+
+During the three and nine months ended September 30, 2020, we had operating losses of $113 million and $2.3 billion, compared to operating income of $609 million and $743 million for the same periods in 2019, primarily due to declining revenue in the current year periods resulting from the COVID-19 pandemic as well as the intangible impairment charges mentioned above.
+
+Adjusted EBITDA by Segment
+
+                                                  Three months ended September 30,                                        Nine months ended September 30,                           
+                                                  2020                                           2019       % Change      2020                                 2019       % Change  
+ ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+                                                  ($ in millions)                                                         ($ in millions)                                           
+  Retail                                          $                                     429      $          (51)          $                                    $          (85)      
+  B2B                                             (52)                                           149        N/A           (154)                                351        N/A       
+  trivago                                         7                                              12         (45)          (10)                                 56         N/A       
+  Unallocated overhead costs (Corporate) (1)      (80)                                           (125)      (37)          (292)                                (370)      (21)      
+  Total Adjusted EBITDA (2)                       $                                     304      $          (67)          $                                    $          N/A       
+
+____________________________
+
+(1) Includes immaterial operating results of Bodybuilding.com subsequent to our acquisition in July 2019 through its sale in May 2020.
+
+(2) Adjusted EBITDA is a non-GAAP measure. See “Definition and Reconciliation of Adjusted EBITDA” below for more information.
+
+Adjusted EBITDA is our primary segment operating metric. See Note 12 - Segment Information in the notes to the consolidated financial statements for additional information on intersegment transactions, unallocated overhead costs and for a reconciliation of Adjusted EBITDA by segment to net income (loss) attributable to Expedia Group, Inc. for the periods presented above.
+
+Our Retail, B2B and trivago segment Adjusted EBITDA all declined during the three and nine months ended September 30, 2020, compared to the same periods in 2019, resulting from impacts of the COVID-19 pandemic as revenue decreased for the current year period, partially offset by a decline in direct sales and marketing expense.
+
+Unallocated overhead costs decreased $45 million and $78 million during the three and nine months ended September 30, 2020, compared to the same periods in 2019, primarily due to lower general and administrative expenses.
+
+Interest Income and Expense
+
+                        Three months ended September 30,                              Nine months ended September 30,                           
+                        2020                                  2019      % Change      2020                                 2019       % Change  
+ ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+                        ($ in millions)                                               ($ in millions)                                           
+  Interest income       $                                     $         (83)          $                                    $          (64)      
+  Interest expense      (113)                                 (40)      184           (258)                                (120)      115       
+
+Interest income decreased for the three and nine months ended September 30, 2020, compared to the same periods in 2019, as a result of lower rates of return. Interest expense increased for the three and nine months ended September 30, 2020, compared to the same periods in 2019, as a result of additional interest on the $1.25 billion senior unsecured notes issued in September 2019, the $2.75 billion senior unsecured notes issued in May 2020, the $1.25 billion senior unsecured notes issued in July
+2020 as well as outstanding amounts on our revolving credit facility since March 2020.
+
+
+Other, Net
+
+Other, net is comprised of the following:
+
+                                                          Three months ended September 30,                                   Nine months ended September 30,                      
+                                                          2020                                           2019                2020                                 2019            
+ ──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+                                                          ($ in millions)                                                                                                         
+  Foreign exchange rate gains (losses), net               $                                      10      $          (2)      $                                    $         (14)  
+  Gains (losses) on minority equity investments, net      (7)                                            (25)                (202)                                (13)            
+  Other                                                   (4)                                            2                   (8)                                  14              
+  Total other, net                                        $                                     (1)      $         (25)      $                                    $         (13)  
+
+During the nine months ended September 30, 2020, losses on minority equity investments, net included $134 million of impairment losses related to a minority investment as well as $68 million of mark-to-market losses related to our publicly traded marketable equity investment, Despegar. See Note 3 - Fair Value Measurements in the notes to the consolidated financial statements for further information.
+
+Provision for Income Taxes
+
+                                  Three months ended September 30,                                        Nine months ended September 30,                          
+                                  2020                                            2019      % Change      2020                                 2019      % Change  
+ ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+                                  ($ in millions)                                                         ($ in millions)                                          
+  Provision for income taxes      $                                     (24)      $         N/A           $                                    $         N/A       
+  Effective tax rate              10.8                                            27.4                    12.0                                 24.5                
+
+We determine our provision for income taxes for interim periods using an estimate of our annual effective tax rate. We record any changes affecting the estimated annual tax rate in the interim period in which the change occurs, including discrete items.
+
+For the three months ended September 30, 2020, the effective tax rate was a 10.8% benefit on a pre-tax loss, compared to a 27.4% expense on pre-tax income for the three months ended September 30, 2019. The change in the effective tax rate was primarily due to discrete items.
+
+For the nine months ended September 30, 2020, the effective tax rate was a 12.0% benefit on a pre-tax loss, compared to a 24.5% expense on pre-tax income for the nine months ended September 30, 2019. The change in the effective tax rate was primarily driven by nondeductible impairment charges and a valuation allowance principally related to unrealized capital losses recorded in the first quarter of 2020.
+
+We are subject to taxation in the United States and foreign jurisdictions. Our income tax filings are regularly examined by federal, state and foreign tax authorities. During the fourth quarter of 2019, the Internal Revenue Service (“IRS”) issued final adjustments related to transfer pricing with our foreign subsidiaries for our 2011 to 2013 tax years. The proposed adjustments would increase our U.S. taxable income by $696 million, which would result in federal tax of approximately $244 million,
+subject to interest. We do not agree with the position of the IRS. We filed a protest with the IRS for our 2011 to 2013 tax years and Appeals returned our case to Exam for further review. We are also under examination by the IRS for our 2014 to 2016 tax years. Subsequent years remain open to examination by the IRS. We do not anticipate a significant impact to our gross unrecognized tax benefits within the next 12 months related to these years.
+
+
+Definition and Reconciliation of Adjusted EBITDA
+
+We report Adjusted EBITDA as a supplemental measure to U.S. generally accepted accounting principles (“GAAP”). Adjusted EBITDA is among the primary metrics by which management evaluates the performance of the business and on which internal budgets are based. Management believes that investors should have access to the same set of tools that management uses to analyze our results. This non-GAAP measure should be considered in addition to results prepared in accordance with GAAP, but should not be
+considered a substitute for or superior to GAAP. Adjusted EBITDA has certain limitations in that it does not take into account the impact of certain expenses to our consolidated statements of operations. We endeavor to compensate for the limitation of the non-GAAP measure presented by also providing the most directly comparable GAAP measure and a description of the reconciling items and adjustments to derive the non-GAAP measure. Adjusted EBITDA also excludes certain items related to 
+transactional tax matters, which may ultimately be settled in cash, and we urge investors to review the detailed disclosure regarding these matters included above, in the Legal Proceedings section, as well as the notes to the financial statements. The non-GAAP financial measure used by the Company may be calculated differently from, and therefore may not be comparable to, similarly titled measures used by other companies.
+
+Adjusted EBITDA is defined as net income (loss) attributable to Expedia Group adjusted for (1) net income (loss) attributable to non-controlling interests; (2) provision for income taxes; (3) total other expenses, net; (4) stock-based compensation expense, including compensation expense related to certain subsidiary equity plans; (5) acquisition-related impacts, including (i) amortization of intangible assets and goodwill and intangible asset impairment, (ii) gains (losses) recognized on changes
+in the value of contingent consideration arrangements, if any, and (iii) upfront consideration paid to settle employee compensation plans of the acquiree, if any; (6) certain other items, including restructuring; (7) items included in legal reserves, occupancy tax and other; (8) that portion of gains (losses) on revenue hedging activities that are included in other, net that relate to revenue recognized in the period; and (9) depreciation.
+
+The above items are excluded from our Adjusted EBITDA measure because these items are noncash in nature, or because the amount and timing of these items is unpredictable, not driven by core operating results and renders comparisons with prior periods and competitors less meaningful. We believe Adjusted EBITDA is a useful measure for analysts and investors to evaluate our future on-going performance as this measure allows a more meaningful comparison of our performance and projected cash earnings
+with our historical results from prior periods and to the results of our competitors. Moreover, our management uses this measure internally to evaluate the performance of our business as a whole and our individual business segments. In addition, we believe that by excluding certain items, such as stock-based compensation and acquisition-related impacts, Adjusted EBITDA corresponds more closely to the cash operating income generated from our business and allows investors to gain an understanding 
+of the factors and trends affecting the ongoing cash earnings capabilities of our business, from which capital investments are made and debt is serviced.
+
+The reconciliation of net income (loss) attributable to Expedia Group, Inc. to Adjusted EBITDA is as follows:
+
+                                                                   Three months ended September 30,                   Nine months ended September 30,                         
+                                                                                               2020         2019                                 2020                   2019  
+                                                                                      (In millions)                                                                           
+ ──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Net income (loss) attributable to Expedia Group, Inc.                                           $      (192) $                                409 $      (2,229)         $  
+  Net income (loss) attributable to non-controlling interests                                   (8)          (2)                                (108)                      5  
+  Provision for income taxes                                                                   (24)          154                                (319)                    161  
+  Total other expense, net                                                                      111           48                                  400                     88  
+  Operating income (loss)                                                                     (113)          609                                           (2,256)       743  
+  Gain (loss) on revenue hedges related to revenue recognized                                    15            2                                   45                     13  
+  Restructuring and related reorganization charges                                               78            2                                  206                     16  
+  Legal reserves, occupancy tax and other                                                         2           11                                 (11)                     25  
+  Stock-based compensation                                                                       47           60                                  156                    175  
+  Depreciation and amortization                                                                 220          228                                  681                    684  
+  Impairment of goodwill                                                                         14            —                                  799                      —  
+  Impairment of intangible assets                                                                41            —                                  172                      —  
+  Adjusted EBITDA                                                                                 $        304 $                                912 $        (208)         $  
+
+
+Financial Position, Liquidity and Capital Resources
+
+Our principal sources of liquidity are typically cash flows generated from operations, cash available under our revolving credit facility as well as our cash and cash equivalents and short-term investment balances, which were $4.4 billion and $3.8 billion at September 30, 2020 and December 31, 2019. As of September 30, 2020, the total cash and cash equivalents and short-term investments held outside the United States was $934 million ($669 million in wholly-owned foreign subsidiaries and $265 
+million in majority-owned subsidiaries).
+
+Managing our balance sheet prudently and maintaining appropriate liquidity are high priorities during the current COVID-19 pandemic. In order to best position the Company to navigate our temporary working capital changes and depressed revenue, we have taken a number of actions to bolster our liquidity and preserve financial flexibility, including:
+
+• Suspension of Share Repurchases. We have not repurchased any shares since our earnings call on February 13, 2020, and have suspended future share repurchases.
+
+• Suspension of Quarterly Dividends. We do not expect to declare quarterly dividends on our common stock, at least until the current economic and operating environment improves.
+
+• Private Equity Investment. On April 23, 2020, we entered into an investment agreement with AP Fort Holdings, L.P., an affiliate of Apollo Global Management, Inc., and an investment agreement with SLP Fort Aggregator II, L.P. and SLP V Fort Holdings II, L.P., affiliates of Silver Lake Group, L.L.C., to raise approximately $1.2 billion in gross proceeds in a private placement of shares of a newly created series of preferred stock and warrants to purchase our common stock. The transaction was 
+completed on May 5, 2020.
+
+• Senior Notes Issuances. On May 5, 2020, we privately placed $2 billion of unsecured 6.250% senior notes that are due in May 2025 (the “6.25% Notes”) and $750 million of unsecured 7.000% senior notes due May 2025 (the “7.0% Notes”, and, together with the 6.25% Notes, the “6.25% and 7.0% Notes”). The 7.0% notes have certain redemption provisions starting with the second anniversary of the issuance. The 6.25% and 7.0 % Notes were issued at a price of 100% of the aggregate principal amount. 
+Interest is payable semi-annually in arrears in May and November of each year, beginning November 1, 2020. We expect to use the net proceeds of this offering for general corporate purposes, which may include, but are not limited to, the repayment or redemption of our 5.95% senior notes due 2020.
+
+On July 14, 2020, we privately placed $500 million of unsecured 3.600% senior notes due December 2023 (the “3.6% Notes”) and $750 million of unsecured 4.625% senior notes due August 2027 (the “4.625% Notes” and, together with the 3.6% Notes, the “3.6% and 4.625% Notes”). The 3.6% Notes were issued at a price of 99.922% of the aggregate principal amount. Interest is payable on the 3.6% Notes semi-annually in arrears in June and December of each year, beginning December 15, 2020. The 4.625% Notes 
+were issued at a price of 99.997% of the aggregate principal amount. Interest is payable on the 4.625% Notes semi-annually in arrears in February and August of each year, beginning February 1, 2021. We expect to use the net proceeds to redeem outstanding shares of our 9.5% Series A Preferred Stock after May 5, 2021, when the redemption premium is scheduled to decrease. Depending on business, liquidity and other trends or conditions, however, we may elect to use all or part of the proceeds for 
+other general corporate purposes, which may include repaying, prepaying, redeeming or repurchasing other indebtedness in lieu of or pending such redemption.
+
+• Revolving Credit Facility Updates. During March 2020, we increased our cash on hand by borrowing $1.9 billion under our then existing $2 billion revolving credit facility. This existing revolving credit facility was subsequently amended in May 2020 in connection with the issuance of the 6.25% and 7.0% Notes and private placement transaction, to, among other things, provide additional flexibility under pliable covenant provisions with the amended facility initially totaling $2 billion and 
+mature on May 31, 2023 (“Amended Credit Facility”).
+
+Pursuant to the terms of Amended Credit Facility, in early August 2020, we entered into a foreign credit facility with a group of lenders (“Foreign Credit Facility”) with aggregate commitments which total $855 million, and maturing on May 31, 2023. Substantially concurrently with the establishment of the Foreign Credit Facility, the Company reduced commitments under the Amended Credit Facility in an amount equal to $855 million and prepaid indebtedness under the Amended Credit Facility in an 
+amount equal to $772 million, which was then outstanding under the Foreign Credit Facility.
+
+On August 11, 2020, we repaid the outstanding amount of $772 million on the Foreign Credit Facility as well as $478 million under the Amended Credit Facility. As of September 30, 2020, there were no borrowings outstanding under the Foreign Credit Facility and $650 million was outstanding under the Amended Credit Facility with the interest rate on the outstanding balance of 2.41%.
+
+
+Our credit ratings are periodically reviewed by rating agencies. As of September 30, 2020, Moody’s rating was Baa3 with an outlook of “negative,” S&P’s rating was BBB- with an outlook of “negative” and Fitch’s rating was BBB- with an outlook of “negative.” The April 2020 rating agency downgrades were in connection with the severe disruption to global travel caused by the COVID-19 pandemic. Changes in our operating results, cash flows, financial position, capital structure, financial policy or 
+capital allocations to share repurchase, dividends, investments and acquisitions could impact the ratings assigned by the various rating agencies. Should our credit ratings be adjusted downward, we may incur higher costs to borrow and/or limited access to capital markets and interest rates on the 6.25% and 7.0% Notes issued in May 2020 as well as on the 3.6% and 4.625% issued in July 2020 will increase, which could have a material impact on our financial condition and results of operations.
+
+As of September 30, 2020, we were in compliance with the covenants and conditions in our revolving credit facilities and outstanding debt as detailed in Note 4 - Debt in the notes to the consolidated financial statements.
+
+Under the merchant model, we receive cash from travelers at the time of booking and we record these amounts on our consolidated balance sheets as deferred merchant bookings. We pay our airline suppliers related to these merchant model bookings generally within a few weeks after completing the transaction. For most other merchant bookings, which is primarily our merchant lodging business, we generally pay after the travelers’ use and, in some cases, subsequent billing from the hotel suppliers. 
+Therefore, generally we receive cash from the traveler prior to paying our supplier, and this operating cycle represents a working capital source of cash to us. Typically, the seasonal fluctuations in our merchant hotel bookings have affected the timing of our annual cash flows. Generally, during the first half of the year, hotel bookings have traditionally exceeded stays, resulting in much higher cash flow related to working capital. During the second half of the year, this pattern typically 
+reverses and cash flows are typically negative. With the impacts of the COVID-19 pandemic, including the high degree of cancellations and customer refunds, particularly during the first half of the year, and the lower new bookings in the merchant business model, these seasonal influences and the working capital source of cash to us has been significantly disrupted resulting in the Company experiencing unfavorable working capital trends and material negative cash flow in the first half of 2020 
+with the negative cash flow moderating as booking trends improved and cancellations stabilized during the third quarter of 2020. The full duration and total impact of COVID-19, and how the recovery will unfold, remains difficult to predict. We expect cash flow to remain negative until the decline in new merchant bookings improves further with cancellations either remaining stable or moderating further. In addition, we are experiencing much shorter booking windows in both our hotel and 
+alternative accommodation business, which could also impact the seasonality of our working capital and cash flow.
+
+Prior to COVID-19, we embarked on an ambitious cost reduction initiative to simplify the organization and increase efficiency. In response to COVID-19, Expedia Group has taken several additional actions to further reduce costs to help mitigate the financial impact from COVID-19 and continue to improve our long-term cost structure. In addition, certain capital expenditures were deferred, including temporarily halting construction on several real estate projects. After temporarily halting 
+construction on our new headquarters during initial quarantine order, we have restarted construction. We expect to spend approximately $900 million in total for the project. Of the total, approximately $680 million was spent between 2016 and 2019, and approximately $144 million was spent during the first nine months of 2020. Due to the delays related to COVID-19, we now expect the project to be complete in the first half of 2021.
+
+Our cash flows are as follows:
+
+                                                                                                                  Nine months ended September 30,                                                                 
+                                                                                                                  2020                                              2019                   $ Change               
+                                                                                                                  (In millions)                                                                                   
+ ──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Cash provided by (used in):                                                                                                                                                                                     
+  Operating activities                                                                                            $                                    (3,449)         $        2,426      $             (5,875)  
+  Investing activities                                                                                            (107)                                                       (1,429)                      1,322  
+  Financing activities                                                                                                                                   4,571       607                                   3,964  
+  Effect of foreign exchange rate changes on cash, cash equivalents and restricted cash and cash equivalents      (31)                                              (62)                   31                     
+
+For the nine months ended September 30, 2020, net cash used in operating activities was $3.4 billion compared to cash provided by operations of $2.4 billion for the nine months ended September 30, 2019. Impacts from the COVID-19 pandemic have resulted in a significant use of cash to fund working capital changes and operating losses in the current year compared to a prior year cash benefit from working capital. The largest driver of the swing in working capital relates to a significant use of 
+cash for deferred merchant bookings as refunds for cancelled bookings exceeded new bookings compared to an increase from deferred merchant bookings in the prior year period.
+
+
+For the nine months ended September 30, 2020 cash used by investing activities was $107 million compared to $1.4 billion for the nine months ended September 30, 2019. The change was due to net sales and maturities of investments of $476 million during the current year period compared to net purchases of investments of $648 million in the prior year as well as lower current year capital expenditures primarily related to our new headquarters.
+
+For the nine months ended September 30, 2020, cash provided by financing activities primarily included $3.9 billion of net proceeds from the issuance of senior notes issued in May and July 2020, $1.1 billion of net proceeds from our private equity investment, $650 million of net proceeds from our revolving credit facilities draws, as well as $105 million of proceeds from the exercise of options and employee stock purchase plans. These sources of cash were partially offset by cash paid to acquire
+shares of $419 million, including the repurchased shares in the first quarter of 2020 and treasury stock activity related to the vesting of equity instruments, and cash dividend payments of $65 million. For the nine months ended September 30, 2019, cash provided by financing activities primarily included $1.2 billion of net proceeds for the issuance of the 3.25% Notes in September 2019 as well as $277 million of proceeds from the exercise of options and employee stock purchase plans, partially 
+offset by $400 million payment of debt assumed in the Liberty Expedia transaction, cash dividend payments of $145 million and cash paid to acquire shares of $352 million, including the repurchased shares under the authorization discussed below as well as $20 million for repurchases with respect to the Liberty Expedia Holdings transaction.
+
+During the first nine months of 2020 and 2019, the Executive Committee, acting on behalf of the Board of Directors, declared and we paid the following common stock dividends:
+
+  Declaration Date                           Dividend      Record Date           Total Amount      Payment Date        
+                                            Per Share                           (in millions)                          
+  Nine Months Ended September 30, 2020                                                                                 
+  February 13, 2020                                 $      March 10, 2020                   $      March 26, 2020      
+  Nine Months Ended September 30, 2019                                                                                 
+  February 6, 2019                               0.32      March 7, 2019                   47      March 27, 2019      
+  May 1, 2019                                    0.32      May 23, 2019                    48      June 13, 2019       
+  July 24, 2019                                  0.34      August 22, 2019                 50      September 12, 2019  
+ ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+During the nine months ended September 30, 2020, we paid $17 million (or $14.58 per share of Series A Preferred Stock) of dividends on the Series A Preferred Stock. The Company does not expect to make future quarterly dividend payments on our common stock, at least until the current economic and operating environment improves. Future declarations of dividends are subject to final determination by our Board of Directors.
+
+Foreign exchange rate changes resulted in a decrease of our cash and restricted cash balances denominated in foreign currency during the nine months ended September 30, 2020 of $31 million reflecting a net depreciation in foreign currencies relative to the U.S. dollar during the period. Foreign exchange rate changes resulted in an decrease of our cash and restricted cash balances denominated in foreign currency during the nine months ended September 30, 2019 of $62 million reflecting a net 
+depreciation in foreign currencies during the period, partially offset by higher foreign-denominated cash balances.
+
+In our opinion, our liquidity position provides sufficient capital resources to meet our foreseeable cash needs. There can be no assurance, however, that the cost or availability of future borrowings, including refinancings, if any, will be available on terms acceptable to us.
+
+Summarized Financial Information for Guarantors and the Issuer of Guaranteed Securities
+
+Summarized financial information of Expedia Group, Inc. (the “Parent”) and our subsidiaries that are guarantors of our debt facility and instruments (the “Guarantor Subsidiaries”) is shown below on a combined basis as the “Obligor Group.” The debt facility and instruments are guaranteed by certain of our wholly-owned domestic subsidiaries and rank equally in right of payment with all of our existing and future unsecured and unsubordinated obligations. The guarantees are full, unconditional, 
+joint and several with the exception of certain customary automatic subsidiary release provisions. In this summarized financial information of the Obligor Group, all intercompany balances and transactions between the Parent and Guarantor Subsidiaries have been eliminated and all information excludes subsidiaries that are not issuers or guarantors of our debt facility and instruments, including earnings from and investments in these entities.
+
+
+                                                      September 30, 2020                   December 31, 2019                         
+                                                      (In millions)                                                                  
+ ─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Combined Balance Sheets Information:                                                                                               
+  Current Assets (1)                                  $                         5,915      $                                  6,185  
+  Non-Current Assets                                                            9,868                                        10,320  
+  Current Liabilities                                                           4,734                                         9,486  
+  Non-Current Liabilities                                                       9,421                                         4,710  
+  Series A Preferred Stock                                                      1,022      —                                         
+                                                      Nine Months Ended                    Year Ended December 31, 2019              
+  Combined Statements of Operations Information:                                                                                     
+  Revenue                                             $                         3,467      $                                  9,463  
+  Operating income (loss) (2)                                                 (1,592)      420                                       
+  Net income (loss)                                                           (1,733)      195                                       
+  Net income (loss) attributable to Obligors                                  (1,779)      198                                       
+
+(1) Current assets include intercompany receivables with non-guarantors of $918 million as of September 30, 2020 and $1.0 billion as of December 31, 2019.
+
+(2) Operating income (loss) includes intercompany expenses with non-guarantors of $561 million for the nine months ended September 30, 2020 and $1.2 billion for the year ended December 31, 2019.
+
+Contractual Obligations, Commercial Commitments and Off-balance Sheet Arrangements
+
+There have been no material changes outside the normal course of business to our contractual obligations and commercial commitments since December 31, 2019. Other than our contractual obligations and commercial commitments, we did not have any off-balance sheet arrangements as of September 30, 2020 or December 31, 2019.
+
+
+Part I. Item 3. Quantitative and Qualitative Disclosures About Market Risk
+
+Market Risk Management
+
+Other than the interest rate risk changes discussed below, there have been no material changes in our market risk during the three and nine months ended September 30, 2020. For additional information, see Item 7A, Quantitative and Qualitative Disclosures About Market Risk, in Part II of our Annual Report on Form 10-K for the year ended December 31, 2019.
+
+Interest Rate Risk
+
+In May 2020, we privately placed $2 billion of senior unsecured notes due May 2025 that bear interest at 6.25% and $750 million of senior unsecured notes due May 2025 that bear interest at 7.0%. In July 2020, we privately placed $500 million of senior unsecured notes due December 2023 that bear interest at 3.6% and $750 million of senior unsecured notes due August 2027 that bear interest at 4.625%. These senior unsecured notes issued in May and in July are subject to interest rate adjustments 
+should our credit ratings be adjusted downwards, which would result in increased interest expense in the future.
+
+During the nine months ended September 30, 2020, we made borrowings on our revolving credit facilities. As of September 30, 2020, we have $ 650 2.41
+
+
+Part I. Item 4. Controls and Procedures
+
+Evaluation of disclosure controls and procedures.
+
+As required by Rule 13a-15(b) under the Securities Exchange Act of 1934, as amended (the “Exchange Act”), our management, including our Chairman and Senior Executive, Chief Executive Officer and Chief Financial Officer, evaluated the effectiveness of our disclosure controls and procedures (as defined in Rule 13a-15(e) and 15d-15(e) under the Exchange Act). Based upon that evaluation, our Chairman and Senior Executive, Chief Executive Officer and Chief Financial Officer concluded that, as of the 
+end of the period covered by this report, our disclosure controls and procedures were effective.
+
+Changes in internal control over financial reporting.
+
+There were no changes to our internal control over financial reporting that occurred during the quarter ended September 30, 2020 that have materially affected, or are reasonably likely to materially affect, our internal control over financial reporting.
+
+

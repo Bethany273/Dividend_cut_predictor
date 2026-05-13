@@ -1,65 +1,4 @@
-""" # test_one.py
-import re
-import joblib
-
-model = joblib.load('dividend_cut_model.pkl')
-vectorizer = joblib.load('vectorizer.pkl')
-
-def predict(filepath):
-    with open(filepath, 'r', encoding='utf-8') as f:
-        text = f.read()
-    text = re.sub(r'[^a-z\s]', '', text.lower())
-    X = vectorizer.transform([text])
-    pred = model.predict(X)[0]
-    prob = model.predict_proba(X)[0]
-    print(f"Prediction: {'CUT' if pred == 1 else 'NO CUT'}")
-    print(f"Confidence: {prob[pred]:.2%}")
-
-# Test on a file
-predict("sec_filings_dataset/mda_extracts/cut/DIS_2020-05-05_MDA.txt")
-"""
-"""# test_compare.py
-import re
-import joblib
-import os
-
-model = joblib.load('dividend_cut_model.pkl')
-vectorizer = joblib.load('vectorizer.pkl')
-
-def predict(filepath):
-    with open(filepath, 'r', encoding='utf-8') as f:
-        text = f.read()
-    text = re.sub(r'[^a-z\s]', '', text.lower())
-    X = vectorizer.transform([text])
-    pred = model.predict(X)[0]
-    prob = model.predict_proba(X)[0]
-    return pred, prob
-
-# Test on a CUT company
-print("="*50)
-print("CUT COMPANY (Disney May 2020)")
-print("="*50)
-cut_pred, cut_prob = predict("sec_filings_dataset/mda_extracts/cut/DIS_2020-05-05_MDA.txt")
-print(f"Prediction: {'CUT' if cut_pred == 1 else 'NO CUT'}")
-print(f"Confidence: {cut_prob[cut_pred]:.2%}")
-print(f"  Cut probability: {cut_prob[1]:.2%}")
-print(f"  No cut probability: {cut_prob[0]:.2%}")
-
-# Test on a NON-CUT company
-print("\n" + "="*50)
-print("NON-CUT COMPANY (JNJ - any filing)")
-print("="*50)
-
-non_cut_folder = "sec_filings_dataset/mda_extracts/non_cut"
-non_cut_files = [f for f in os.listdir(non_cut_folder) if f.endswith('_MDA.txt')]
-if non_cut_files:
-    test_file = os.path.join(non_cut_folder, non_cut_files[0])
-    non_pred, non_prob = predict(test_file)
-    print(f"Testing on: {non_cut_files[0]}")
-    print(f"Prediction: {'CUT' if non_pred == 1 else 'NO CUT'}")
-    print(f"Confidence: {non_prob[non_pred]:.2%}")
-    print(f"  Cut probability: {non_prob[1]:.2%}")
-    print(f"  No cut probability: {non_prob[0]:.2%}")"""
+# test.py - prediction and Edgar MDA extraction test harness
 # "# evaluate_all.py
 # import os
 # import re
@@ -116,6 +55,7 @@ import os
 import re
 import joblib
 from edgar import *
+from extract_mda import extract_mda_bruteforce
 
 # Load your trained model
 model = joblib.load('dividend_cut_model.pkl')
@@ -129,6 +69,25 @@ def clean_text(text):
     text = re.sub(r'[^a-z\s]', '', text)
     text = re.sub(r'\s+', ' ', text)
     return text
+
+def get_mda_section(text):
+    extracted = extract_mda_bruteforce(text)
+    if extracted and len(extracted) > 1000:
+        return extracted
+
+    lower = text.lower()
+    start = lower.find("item 2")
+    if start < 0:
+        return text[:50000]
+
+    end = lower.find("item 3", start + 100)
+    if end < 0:
+        end = lower.find("part ii", start + 100)
+    if end < 0:
+        end = start + 50000
+
+    return text[start:end]
+
 
 def test_company(ticker, expected="CUT or NO CUT"):
     """Download and test a company's 2020 10-Q filings"""
@@ -149,16 +108,7 @@ def test_company(ticker, expected="CUT or NO CUT"):
             date = filing.filing_date.strftime('%Y-%m-%d')
             text = filing.text()
             
-            # Quick and dirty MDA extraction
-            mda_start = text.lower().find("item 2")
-            if mda_start > 0:
-                mda_end = text.lower().find("item 3", mda_start + 100)
-                if mda_end == -1:
-                    mda_end = mda_start + 50000
-                mda = text[mda_start:mda_end]
-            else:
-                mda = text[:50000]  # Fallback
-            
+            mda = get_mda_section(text)
             cleaned = clean_text(mda)
             X = vectorizer.transform([cleaned])
             pred = model.predict(X)[0]
@@ -169,7 +119,9 @@ def test_company(ticker, expected="CUT or NO CUT"):
             
             match = "✓" if (pred == 1 and expected == "CUT") or (pred == 0 and expected == "NO CUT") else "✗"
             print(f"  {match} {date}: {result} ({confidence:.0%})")
-            
+            print(f"    MDA length: {len(mda.split())} words")
+            print(f"    Extracted start: {mda[:120].strip().replace('\n', ' ')}...\n")
+
     except Exception as e:
         print(f"  Error: {e}")
 

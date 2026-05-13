@@ -95,4 +95,1542 @@ Some of our businesses have begun to re-open with limited operations. We have in
 items. As we resume production of film and television content, including live sporting events, we anticipate incurring similar costs and productions may take longer to complete. The timing, duration and extent of these costs will depend on the timing and scope of the resumption of our operations and we estimate these costs may total approximately $1 billion over the next 15 months. Some of these costs may be capitalized and amortized over future periods. With the unknown duration of COVID-19 and
 yet to be determined timing of the phased re-opening of many of our businesses, it is not possible to precisely estimate the impact in future quarters. As we re-open our businesses, we will no longer benefit from certain savings related to the closure of those businesses, such as related furloughs. The re-opening of our businesses is dependent on applicable government requirements, which vary by location and are subject to ongoing changes.
 
-Additionally, see 
+Additionally, see Part II. Other Information, Item 1A. Risk Factors - The adverse impact of COVID-19 on our businesses will continue for an unknown length of time and may hasten the erosion of certain of our historic sources of revenue.
+
+Direct-to-Consumer
+
+In November 2019, the Company launched Disney+, a subscription based DTC streaming service with Disney, Pixar, Marvel, Star Wars and National Geographic branded programming in the U.S. and four other countries and has expanded to select Western European countries in the Spring of 2020. In April 2020, our India Hotstar service was converted to Disney+ Hotstar, and in June 2020, current subscribers of the Disney Deluxe service in Japan were converted to Disney+. Further launches are planned for 
+Latin America in the fall of 2020, and Europe and various Asia-Pacific territories throughout calendar 2020 and calendar 2021.
+
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF
+
+FINANCIAL CONDITION AND RESULTS OF OPERATIONS - (continued)
+
+The Company plans to launch an international DTC general entertainment offering under the Star brand in calendar year 2021.
+
+As we will use our branded film and television content on our DTC offerings, we are forgoing certain licensing revenue from the sale of this content to third parties in TV/SVOD markets. We also expect to forgo revenue from linear channels in certain markets as a result of investment in our DTC offerings. In addition, we are increasing programming and production investments to create exclusive content for our DTC offerings.
+
+CURRENT QUARTER RESULTS COMPARED TO PRIOR-YEAR QUARTER
+
+As discussed in Note 4 to the Condensed Consolidated Financial Statements, the Company acquired TFCF on March 20, 2019. Additionally, in connection with the acquisition of TFCF, we acquired a controlling interest in Hulu. The Company began consolidating the results of TFCF and Hulu effective March 20, 2019.
+
+Revenues for the quarter decreased 42%, or $8.5 billion, to $11.8 billion; net income attributable to Disney decreased $6.5 billion, to a loss of $4.7 billion; and diluted earnings per share from continuing operations attributable to Disney (EPS) decreased to a loss of $2.61 compared to income of $0.79 in the prior-year quarter. The EPS decrease for the quarter was due to goodwill and intangible asset impairments at our International Channels business and lower segment operating income. These 
+decreases were partially offset by a non-cash investment gain in the current quarter and the comparison to an investment impairment in the prior-year quarter. The decrease in segment operating income was due to lower results at Parks, Experiences and Products and Studio Entertainment and higher losses at Direct-to-Consumer & International, partially offset by higher results at Media Networks.
+
+Revenues
+
+Service revenues for the quarter decreased 38%, or $6.8 billion, to $11.2 billion due to the closure of our theme parks and resorts, lower theatrical revenues due to theater closures, lower advertising revenue, the suspension of our cruise line operations and, to a lesser extent, decreased merchandise licensing revenue, all of which were driven by the impact of COVID-19. These decreases were partially offset by higher subscription revenue from Disney+ and Hulu.
+
+Product revenues for the quarter decreased 76%, or $1.7 billion, to $0.5 billion due to lower merchandise, food and beverage sales due to the closure of our theme parks, resorts and retail stores.
+
+Costs and expenses
+
+Cost of services for the quarter decreased 37%, or $4.3 billion, to $7.2 billion due to decreased sports and other programming costs, lower film cost amortization and theatrical distribution costs, the closure of our theme parks and resorts and the suspension of our cruise line operations. These decreases were partially offset by higher programming, production and technology costs for Disney+ and Hulu.
+
+Cost of products for the quarter decreased 50%, or $0.7 billion, to $0.7 billion due to the closure of our theme parks and resorts.
+
+Selling, general, administrative and other costs decreased 27%, or $0.9 billion, to $2.5 billion due to lower marketing cost driven by a decrease in spending at the theatrical distribution and theme parks and resorts businesses, partially offset by an increase at Disney+.
+
+Depreciation and amortization increased 5%, or $0.1 billion, to $1.4 billion, due to new attractions at our domestic parks and resorts.
+
+Restructuring and impairment charges
+
+Restructuring and impairment charges of $5,047 million for the current quarter were due to $4,953 million of impairment charges for goodwill and intangible assets at our International Channels business and $94 million of restructuring costs. Restructuring costs were primarily for severance and contract termination charges in connection with the acquisition and integration of TFCF.
+
+Restructuring and impairment charges of $207 million for the prior-year quarter were primarily for severance and equity based compensation costs in connection with the acquisition and integration of TFCF.
+
+Other income (expense), net
+
+Other income of $382 million in the current quarter was due to the DraftKings gain.
+
+Other expense of $123 million in the prior-year quarter was due to an adjustment to the Hulu gain.
+
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF
+
+FINANCIAL CONDITION AND RESULTS OF OPERATIONS - (continued)
+
+Interest expense, net
+
+Interest expense, net is as follows:
+
+                                                    Quarter Ended                                                          
+  (in millions)                                     June 27,                      June 29,                 % Change        
+                                                    2020                          2019                     Better/(Worse)  
+ ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Interest expense                                  $                  (456)      $             (472)      3               
+  Interest income, investment income and other      44                            61                       (28)            
+  Interest expense, net                             $                  (412)      $             (411)      —               
+
+The decrease in interest expense was due to lower average interest rates, partially offset by higher average debt balances and lower capitalized interest.
+
+The decrease in interest income, investment income and other was driven by a lower benefit related to pension and postretirement benefit costs, other than service cost and a decrease in interest income on cash balances due to lower average rates, partially offset by lower investment impairments.
+
+Equity in the income (loss) of investees
+
+Equity in the income (loss) of investees reflected income of $186 million in the current quarter compared to a loss of $1 million in the prior-year quarter. The change reflected the absence of an impairment that was recorded in the prior-year quarter on an investment in a cable channel at A+E Television Network.
+
+Effective Income Tax Rate
+
+                                                         Quarter Ended                                             
+ ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+                                                         June 27,           June 29,      Change                   
+  Effective income tax rate - continuing operations      6.8                19.6          12.8                ppt  
+
+The decrease in the effective income tax rate was due to the impairment of International Channels goodwill, which is not tax deductible.
+
+Noncontrolling Interests
+
+                                                                                      Quarter Ended                                                          
+  (in millions)                                                                       June 27,                      June 29,                 % Change        
+                                                                                      2020                          2019                     Better/(Worse)  
+ ─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Net income from continuing operations attributable to noncontrolling interests      $                  (209)      $             (186)      (12)            
+
+The increase in net income from continuing operations attributable to noncontrolling interests was driven by higher operating results at ESPN and accretion of the redeemable noncontrolling interest in Hulu, partially offset by lower results at Shanghai Disney Resort and Hong Kong Disneyland Resort.
+
+Net income attributable to noncontrolling interests is determined on income after royalties and management fees, financing costs and income taxes, as applicable.
+
+Certain Items Impacting Comparability
+
+Results for the quarter ended June 27, 2020 were impacted by the following:
+
+•Goodwill and intangible asset impairments of $4,953 million and restructuring charges of $94 million
+
+• Amortization expense of $683 million related to TFCF and Hulu intangible assets and fair value step-up on film and television costs
+
+•The DraftKings gain of $382 million
+
+Results for the quarter ended June 29, 2019 were impacted by the following:
+
+• Amortization expense of $779 million related to TFCF and Hulu intangible assets and fair value step-up on film and television costs
+
+•Restructuring charges of $207 million
+
+•Equity investment impairments totaling $185 million
+
+• An adjustment of $123 million to the Hulu gain recognized in the second quarter of fiscal 2019
+
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF
+
+FINANCIAL CONDITION AND RESULTS OF OPERATIONS - (continued)
+
+A summary of the impact of these items on EPS is as follows:
+
+  (in millions, except per share data)                                                                         Pre-Tax Income (Loss)                   Tax Benefit (Expense) (1)               After-Tax Income (Loss)                   EPS Favorable (Adverse) (2)  
+  Quarter Ended June 27, 2020:                                                                                                                                                                                                                                        
+ ──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Restructuring and impairment charges                                                                         $                          (5,047)      $                              408      $                            (4,639)      $                            
+  Amortization of TFCF and Hulu intangible assets and fair value step-up on film and television costs (3)      (683)                                   159                                     (524)                                     (0.28)                       
+  DraftKings gain                                                                                              382                                     (89)                                    293                                       0.16                         
+  Total                                                                                                        $                          (5,348)      $                              478      $                            (4,870)      $                            
+  Quarter Ended June 29, 2019:                                                                                                                                                                                                                                        
+  Amortization of TFCF and Hulu intangible assets and fair value step-up on film and television costs (3)      $                            (779)      $                              168      $                              (611)      $                            
+  Restructuring charges                                                                                        (207)                                   48                                      (159)                                     (0.09)                       
+  Impairment of equity investments                                                                             (185)                                   42                                      (143)                                     (0.08)                       
+  Hulu gain adjustment                                                                                         (123)                                   28                                      (95)                                      (0.05)                       
+  Total                                                                                                        $                          (1,294)      $                              286      $                            (1,008)      $                            
+
+(1) Tax benefit (expense) amounts are determined using the tax rate applicable to the individual item.
+
+(2) EPS is net of noncontrolling interest share, where applicable. Total may not equal the sum of the column due to rounding.
+
+(3) Includes amortization of intangibles related to TFCF equity investees.
+
+CURRENT PERIOD RESULTS COMPARED TO PRIOR-YEAR PERIOD
+
+The prior-year nine-month period includes the consolidated results of TFCF and Hulu for the period March 20, 2019 through June 29, 2019, whereas the current year results of TFCF and Hulu are included for the full nine month period. The impact of the approximately six month non-comparable period is referred to as the consolidation of TFCF and Hulu.
+
+Revenues for the nine-month period increased $0.2 billion, to $50.7 billion; net income attributable to Disney decreased $12.2 billion, to a loss of $2.2 billion; and EPS decreased to a loss of $1.17 compared to income of $5.97 in the prior-year nine-month period. The EPS decrease for the nine-month period was due to the goodwill and intangible asset impairments at our International Channels business, the comparison to the Hulu gain recognized in the prior-year period, lower segment operating 
+income and higher amortization of intangible assets and fair value step-up on film and television costs from the TFCF acquisition and the consolidation of Hulu. These decreases were partially offset by the comparison to non-cash investment impairments recorded in the prior-year period and an investment gain in the current period. The decrease in segment operating income was due to lower results at Parks, Experiences and Products and higher losses at Direct-to-Consumer & International, partially 
+offset by increases at our Media Networks and Studio Entertainment segments. Segment operating results for the current period include a $0.5 billion net benefit from the consolidation of TFCF and Hulu.
+
+Revenues
+
+Service revenues for the nine-month period increased 4%, or $1.6 billion, to $45.5 billion, due to the consolidation of TFCF and Hulu and an increase in subscription revenue from Disney+ and Hulu. These increases were partially offset by lower volumes at our theme parks, resorts and cruise line, lower advertising revenue, a decrease in theatrical distribution revenues, a decrease in sales of our television and film programs to third parties and lower affiliate fees. Theme park, resort and cruise
+line volumes, theatrical distribution revenue and advertising revenue were impacted by COVID-19 reflecting the suspension of the operations, closure of theaters and cancellations of and a shift in the timing of major sporting events, respectively.
+
+Product revenues for the nine-month period decreased 21%, or $1.4 billion, to $5.2 billion, due to lower volumes at our theme parks and resorts, which were impacted by the shutdown of operations, partially offset by the consolidation of TFCF and Hulu.
+
+Costs and expenses
+
+Cost of services for the nine-month period increased 12%, or $3.1 billion, to $29.3 billion, due to the consolidation of TFCF and Hulu, partially offset by lower theatrical and TV/SVOD amortization and distribution costs, lower volumes at our theme parks, resorts and cruise line and a decrease in programming and production costs. The decrease in programming and
+
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF
+
+FINANCIAL CONDITION AND RESULTS OF OPERATIONS - (continued)
+
+production costs reflected a shift in timing of major sporting events to later periods partially offset by costs for Disney+ programming.
+
+Cost of products for the nine-month period decreased 11%, or $0.4 billion, to $3.6 billion, due to lower volumes at our theme parks and resorts, partially offset by the consolidation of TFCF.
+
+Selling, general, administrative and other costs for the nine-month period increased 22%, or $1.7 billion, to $9.6 billion, due to the consolidation of TFCF and Hulu, partially offset by lower marketing costs. The decrease in marketing costs reflected lower spending at the theatrical distribution and theme parks and resorts businesses, partially offset by spend for Disney+.
+
+Depreciation and amortization increased 40%, or $1.1 billion, to $4.0 billion, due to the amortization of intangible assets arising from the acquisition of TFCF and Hulu and, to a lesser extent, new attractions at our domestic parks and resorts.
+
+Restructuring and impairment charges
+
+Restructuring and impairment charges of $5,342 million for the current period were due to $4,953 million of impairment charges for goodwill and intangible assets at our International Channels business and $389 million of restructuring costs. Restructuring costs were primarily for severance costs and contract termination charges in connection with the acquisition and integration of TFCF.
+
+Restructuring and impairment charges of $869 million in the prior-year period were primarily for severance and equity based compensation costs in connection with the acquisition and integration of TFCF.
+
+Other income (expense), net
+
+Other income (expense), net of $382 million in the current period was due to the DraftKings gain.
+
+Other income (expense), net of $4.8 billion for the prior-year period was due to the Hulu gain.
+
+Interest expense, net
+
+Interest expense, net is as follows:
+
+                                                    Nine Months Ended                                                            
+  (in millions)                                     June 27,                            June 29,                       % Change  
+                                                    2020                                2019                     Better/(Worse)  
+ ─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Interest expense                                  $                      (1,183)      $             (833)                (42)  
+  Interest income, investment income and other      188                                 216                                (13)  
+  Interest expense, net                             $                        (995)      $             (617)                (61)  
+
+The increase in interest expense for the nine-month period was due to higher average debt balances, partially offset by lower average interest rates.
+
+The decrease in interest income, investment income and other was due to a lower benefit related to pension and postretirement benefit costs, other than service cost and lower interest income on cash balances, partially offset by lower investment impairments and higher interest on long-term receivables for film and television program sales.
+
+Equity in the income (loss) of investees
+
+Equity in the income (loss) of investees reflected income of $545 million in the current period compared to a loss of $234 million in the prior-year period. The change reflected the comparison to impairments in the prior year period on our investment in Vice Group Holdings, Inc. and on an investment in a cable channel at A+E Television Networks and the impact of consolidating Hulu.
+
+Effective Income Tax Rate
+
+                                                         Nine Months Ended                                    
+ ──────────────────────────────────────────────────────────────────────────────────────────────────────────────
+                                                         June 27,               June 29,      Change          
+  Effective income tax rate - continuing operations      (55.9)                 21.2          nm              
+
+The effective income tax rate was negative in the current quarter due to the impairment of International Channels goodwill, which is not tax deductible.
+
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF
+
+FINANCIAL CONDITION AND RESULTS OF OPERATIONS - (continued)
+
+Noncontrolling Interests
+
+                                                                                      Nine Months Ended                                                          
+  (in millions)                                                                       June 27,                          June 29,                 % Change        
+                                                                                      2020                              2019                     Better/(Worse)  
+ ─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Net income from continuing operations attributable to noncontrolling interests      $                      (309)      $             (343)      10              
+
+The decrease in net income from continuing operations attributable to noncontrolling interests for the nine-month period was primarily due to lower results at Hong Kong Disneyland Resort and Shanghai Disney Resort and a higher loss from our DTC sports business. These decreases were partially offset by accretion of the redeemable noncontrolling interest in Hulu and higher operating results at ESPN.
+
+Certain Items Impacting Comparability
+
+Results for the nine months ended June 27, 2020 were impacted by the following:
+
+•Goodwill and intangible asset impairments of $4,953 million and restructuring charges of $389 million
+
+• Amortization expense of $2,106 million related to TFCF and Hulu intangible assets and fair value step-up on film and television costs
+
+•The DraftKings gain of $382 million
+
+Results for the nine months ended June 29, 2019 were impacted by the following:
+
+•The Hulu gain of $4,794 million
+
+•A benefit of $46 million from an insurance recovery related to a legal matter
+
+• A benefit of $34 million from the U.S federal income tax legislation enacted in fiscal 2018
+
+• Amortization expense of $884 million related to TFCF and Hulu intangible assets and fair value step-up on film and television costs
+
+•Restructuring charges of $869 million
+
+•Equity investment impairments totaling $538 million
+
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF
+
+FINANCIAL CONDITION AND RESULTS OF OPERATIONS - (continued)
+
+A summary of the impact of these items on EPS is as follows:
+
+  (in millions, except per share data)                                                                         Pre-Tax Income/(Loss)                   Tax Benefit/(Expense) (1)      After-Tax Income/(Loss)                   EPS Favorable/(Adverse) (2)              
+  Nine Months Ended June 27, 2020:                                                                                                                                                                                                                                       
+ ─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Restructuring and impairment charges                                                                         $                          (5,342)                              $      $                            (4,865)      $                                (2.69)  
+  Amortization of TFCF and Hulu intangible assets and fair value step-up on film and television costs (3)                                 (2,106)                            490                                   (1,616)      (0.86)                                   
+  DraftKings gain                                                                                              382                                                          (89)      293                                       0.16                                     
+  Total                                                                                                        $                          (7,066)                            878      $                            (6,188)      $                                (3.39)  
+  Nine Months Ended June 29, 2019:                                                                                                                                                                                                                                       
+  Hulu gain                                                                                                    $                            4,794                              $      $                              3,691      $                                  2.28  
+  Insurance recoveries related to a legal matter                                                               46                                                           (11)      35                                        0.02                                     
+  Net benefit from U.S. federal income tax legislation enacted in fiscal 2018                                  —                                                              34      34                                        0.02                                     
+  Amortization of TFCF and Hulu intangible assets and fair value step-up on film and television costs (3)      (884)                                                         191      (693)                                     (0.43)                                   
+  Restructuring and impairment charges                                                                         (869)                                                         200      (669)                                     (0.42)                                   
+  Impairment of equity investments                                                                             (538)                                                         123      (415)                                     (0.26)                                   
+  Total                                                                                                        $                            2,549                              $      $                              1,983      $                                  1.23  
+
+(1) Tax benefit/expense adjustments are determined using the tax rate applicable to the individual item affecting comparability.
+
+(2) EPS is net of noncontrolling interest share, where applicable. Total may not equal the sum of the column due to rounding.
+
+(3) Includes amortization of intangibles related to TFCF equity investees.
+
+SEASONALITY
+
+The Company’s businesses are subject to the effects of seasonality. Consequently, the operating results for the nine months ended June 27, 2020 for each business segment, and for the Company as a whole, are not necessarily indicative of results to be expected for the full year.
+
+Media Networks revenues are subject to seasonal advertising patterns, changes in viewership levels and timing of program sales. In general, advertising revenues are somewhat higher during the fall and somewhat lower during the summer months. Affiliate fees are generally recognized ratably throughout the year.
+
+Parks, Experiences and Products revenues fluctuate with changes in theme park attendance and resort occupancy resulting from the seasonal nature of vacation travel and leisure activities and seasonal consumer purchasing behavior, which generally results in increased revenues during the Company’s first and fourth fiscal quarter. Peak attendance and resort occupancy generally occur during the summer months when school vacations occur and during early winter and spring holiday periods. In addition,
+licensing revenues fluctuate with the timing and performance of our theatrical releases and cable programming broadcasts.
+
+Studio Entertainment revenues fluctuate due to the timing and performance of releases in the theatrical, home entertainment and television markets. Release dates are determined by several factors, including competition and the timing of vacation and holiday periods.
+
+Direct-to-Consumer & International revenues fluctuate based on: changes in subscriber levels; the timing and performance of releases of our digital media content; viewership levels on our cable channels and digital platforms; and the demand for sports and our content. Each of these may depend on the availability of content, which varies from time to time throughout the year based on, among other things, sports seasons and content production schedules.
+
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF
+
+FINANCIAL CONDITION AND RESULTS OF OPERATIONS - (continued)
+
+BUSINESS SEGMENT RESULTS
+
+The following table reconciles income (loss) from continuing operations before income taxes to total segment operating income:
+
+                                                                                                               Quarter Ended                                 % Change                   Nine Months Ended               
+  (in millions)                                                                                                June 27,           June 29,      Better/      June 27,                   June 29,               Better/  
+                                                                                                               2020               2019          (Worse)      2020                       2019                   (Worse)  
+ ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Income (loss) from continuing operations before income taxes                                                 $                  $             nm           $             (1,163)      $                      nm       
+  Add:                                                                                                                                                                                                                  
+  Corporate and unallocated shared expenses                                                                    179                238           25           604                        678                    11       
+  Restructuring and impairment charges                                                                                            207           >(100)                       5,342      869                    >(100)   
+  Other income                                                                                                 (382)              123           nm           (382)                                             92       
+  Interest expense, net                                                                                        412                411           —            995                        617                    (61)     
+  Amortization of TFCF and Hulu intangible assets and fair value step-up on film and television costs (1)      683                779           12                           2,106      884                    >(100)   
+  Impairment of equity investments                                                                             —                  185           100          —                          538                    100      
+  Total segment operating income                                                                               $                  $             (72)         $               7,502      $                      (34)     
+
+(1) Includes amortization of intangibles related to TFCF equity investees.
+
+The following is a summary of segment revenue and operating income:
+
+                                          Quarter Ended                                                                               
+  (in millions)                           June 27,                                    Better/                                Better/  
+                                          2020                                        (Worse)                                (Worse)  
+ ──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Revenues:                                                                                                                           
+  Media Networks                          $                    6,562       6,713          (2)       21,180       18,317      16       
+  Parks, Experiences and Products         983                              6,575         (85)       13,922       19,570      (29)     
+  Studio Entertainment                                         1,738       3,836         (55)        8,041        7,817      3        
+  Direct-to-Consumer & International                           3,969       3,875            2       12,114        5,940      >100     
+  Eliminations                                               (1,473)                    (100)      (4,576)      (1,155)      >(100)   
+                                          $                   11,779      20,262         (42)       50,681       50,489      —        
+  Segment operating income (loss):                                                                                                    
+  Media Networks                          $                    3,153       2,136           48        7,158        5,696      26       
+  Parks, Experiences and Products                            (1,960)       1,719           nm        1,017        5,377      (81)     
+  Studio Entertainment                    668                                            (16)        2,082        1,607      30       
+  Direct-to-Consumer & International      (706)                                          (26)      (2,226)      (1,084)      >(100)   
+  Eliminations                            (56)                                             58                                >(100)   
+                                          $                    1,099       3,952         (72)        7,502       11,422      (34)     
+
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF
+
+FINANCIAL CONDITION AND RESULTS OF OPERATIONS - (continued)
+
+Depreciation expense is as follows:
+
+                                             Quarter Ended                                 % Change                 Nine Months Ended               
+  (in millions)                                   June 27,      June 29,      Better/      June 27,                 June 29,               Better/  
+                                                      2020          2019      (Worse)      2020                     2019                   (Worse)  
+ ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Media Networks                                                                                                                                    
+  Cable Networks                                         $             $         (24)      $                89      $                         (13)  
+  Broadcasting                                          26            22         (18)      64                       62                         (3)  
+  Total Media Networks                                  62            51         (22)      153                      141                        (9)  
+  Parks, Experiences and Products                                                                                                                   
+  Domestic                                             426           366         (16)                    1,232                                (14)  
+  International                                        176           181            3      520                      549                          5  
+  Total Parks, Experiences and Products                602           547         (10)                    1,752                                 (7)  
+  Studio Entertainment                                  26            22         (18)      70                       53                        (32)  
+  Direct-to-Consumer & International                    80            88            9      224                      157                       (43)  
+  Corporate                                             52            43         (21)      129                      124                        (4)  
+  Total depreciation expense                             $             $          (9)      $             2,328      $                         (10)  
+
+Amortization of intangible assets is as follows:
+
+                                               Quarter Ended                                 % Change                 Nine Months Ended                
+  (in millions)                                June 27,           June 29,      Better/      June 27,                 June 29,               Better/   
+                                               2020               2019          (Worse)      2020                     2019                   (Worse)   
+  Media Networks                               $                  $             nm           $                 3      $                      nm        
+ ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Parks, Experiences and Products              27                 27            —            81                       81                     —         
+  Studio Entertainment                         14                 15            7            44                       46                     4         
+  Direct-to-Consumer & International           27                 23            (17)         84                       68                     (24)      
+  TFCF and Hulu                                486                490           1                          1,470      562                    >(100) %  
+  Total amortization of intangible assets      $                  $             —            $             1,682      $                      >(100) %  
+
+Media Networks
+
+Operating results for the Media Networks segment are as follows:
+
+                                                  Quarter Ended                                                       
+  (in millions)                                   June 27,                        June 29,                   Better/  
+                                                  2020                            2019                       (Worse)  
+ ──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Revenues                                                                                                            
+  Affiliate fees                                  $                    3,647      $               3,564            2  
+  Advertising                                                          1,115                      1,874         (41)  
+  TV/SVOD distribution and other                                       1,800                      1,275           41  
+  Total revenues                                                       6,562                      6,713          (2)  
+  Operating expenses                                                 (2,980)                    (4,092)           27  
+  Selling, general, administrative and other      (583)                           (626)                            7  
+  Depreciation and amortization                   (63)                            (51)                          (24)  
+  Equity in the income of investees               217                             192                             13  
+  Operating Income                                $                    3,153      $               2,136           48  
+
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF
+
+FINANCIAL CONDITION AND RESULTS OF OPERATIONS - (continued)
+
+Revenues
+
+The increase in affiliate fees was due to an increase of 7% from higher contractual rates, partially offset by a decrease of 4% from fewer subscribers. The subscriber decline was net of a benefit from the ACC Network launch in August 2019.
+
+The decrease in advertising revenues was due to decreases of $617 million at Cable Networks, from $1,015 million to $398 million and $142 million at Broadcasting, from $859 million to $717 million. Cable Networks advertising revenue reflected decreases of 50% from lower impressions reflecting lower average viewership and, to a lesser extent, units delivered and 8% from lower rates. Lower average viewership was due to the absence of major sporting events as a result of COVID-19. Broadcasting 
+advertising revenue reflected decreases of 11% from the owned television stations and 7% from lower network impressions reflecting lower average viewership and units delivered.
+
+The increase in TV/SVOD distribution and other revenue of $525 million was due to sales of Disney Television Studios (i.e. ABC and 20th Century Fox Television studios), FX and Disney Channel programs. The increase in Disney Television Studios program sales was due to third-party sales and sales to Hulu. Third-party sales were driven byThe Wilds, How To Get Away With Murder, Lost, Modern Family, Homeland and The Politician. Sales to Hulu were due toLove, Victor and Helstrom. Higher sales of FX 
+and Disney Channel programs were due to sales to Hulu and Disney+, respectively.
+
+Costs and Expenses
+
+Operating expenses include programming and production costs, which decreased $963 million, from $3,781 million to $2,818 million. At Cable Networks, programming and production costs decreased $1,194 million due to the shift in the timing of major sporting events as a result of COVID-19. Programming costs for the NBA and MLB were shifted to later quarters when we expect the events to occur. At Broadcasting, programming and production costs increased $231 million due to higher program sales and a 
+timing impact from new accounting guidance, partially offset by lower network programming and production costs due to production shutdowns as a result of COVID-19. The new accounting guidance generally results in lower amortization of capitalized episodic television costs during the network airings for shows we also expect to utilize on our DTC services. The new guidance also removed certain limitations on the capitalization of episodic television costs. See Note 8 to the Condensed Consolidated 
+Financial Statements. Compared to the previous accounting, programming and production expense will generally be lower in the first half of the fiscal year and higher in the second half of the fiscal year as the capitalized costs are amortized.
+
+Selling, general, administrative and other costs decreased $43 million, from $626 million to $583 million, due to lower marketing costs at the FX and ABC Television Networks.
+
+Equity in the Income of Investees
+
+Income from equity investees increased $25 million, from $192 million to $217 million, driven by higher income from A+E Television Networks due to lower programming and marketing costs.
+
+Segment Operating Income
+
+Segment operating income increased 48%, or $1,017 million to $3,153 million due to higher results at ESPN, the ABC Television Network and FX Networks and an increase in income from program sales. These increases were partially offset by lower results at the owned television stations.
+
+The following table presents supplemental revenue and operating income detail for the Media Networks segment:
+
+                                            Quarter Ended                                                   
+  (in millions)                             June 27,                      June 29,                 Better/  
+                                            2020                          2019                     (Worse)  
+ ────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Supplemental revenue detail                                                                               
+  Cable Networks                            $                  4,034      $             4,464         (10)  
+  Broadcasting                                                 2,528                    2,249           12  
+                                            $                  6,562      $             6,713          (2)  
+  Supplemental operating income detail                                                                      
+  Cable Networks                            $                  2,459      $             1,637           50  
+  Broadcasting                              477                           307                           55  
+  Equity in the income of investees         217                           192                           13  
+                                            $                  3,153      $             2,136           48  
+
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF
+
+FINANCIAL CONDITION AND RESULTS OF OPERATIONS - (continued)
+
+Items Excluded from Segment Operating Income Related to Media Networks
+
+The following table presents supplemental information for items related to the Media Network segment that are excluded from segment operating income:
+
+                                                                                                      Quarter Ended                             
+  (in millions)                                                                                       June 27,           June 29,      Better/  
+                                                                                                      2020               2019          (Worse)  
+ ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Amortization of TFCF intangible assets and fair value step-up on film and television costs (1)      $                  $                   2  
+  Restructuring and impairment charges                                                                (4)                (20)               80  
+  Impairment of equity investments                                                                    —                  (185)             100  
+
+(1) In the current quarter, amortization of step-up on film and television costs was $163 million and amortization of intangible assets was $152 million. In the prior-year quarter, amortization of step-up on film and television costs was $186 million and amortization of intangible assets was $136 million.
+
+Parks, Experiences and Products
+
+Operating results for the Parks, Experiences and Products segment are as follows:
+
+                                                          Quarter Ended                                                       
+  (in millions)                                                June 27,                   June 29,                   Better/  
+                                                                   2020                   2019                       (Worse)  
+ ──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Revenues                                                                                                                    
+  Theme park admissions                                               $           34      $               1,956         (98)  
+  Parks & Experiences merchandise, food and beverage                 63                                   1,515         (96)  
+  Resorts and vacations                                              80                                   1,610         (95)  
+  Merchandise licensing and retail                                  639                   993                           (36)  
+  Parks licensing and other                                         167                   501                           (67)  
+  Total revenues                                                    983                                   6,575         (85)  
+  Operating expenses                                                         (1,801)                    (3,482)           48  
+  Selling, general, administrative and other                      (507)                   (800)                           37  
+  Depreciation and amortization                                   (629)                   (574)                         (10)  
+  Equity in the loss of investees                                   (6)                   —                               nm  
+  Operating Income (Loss)                                             $      (1,960)      $               1,719           nm  
+
+Revenues
+
+Revenues at the Parks, Experiences and Products segment were impacted by COVID-19, which led to the closure of our domestic and international theme parks and resorts, suspension of cruise ship sailings, disruptions in our merchandise licensing business and closure of our retail stores. Walt Disney World Resort, Disneyland Resort and Disneyland Paris were closed for all of the current quarter, while Shanghai Disney Resort re-opened in May and Hong Kong Disneyland Resort re-opened in late June 
+(and closed again in July). We estimate that the impact of COVID-19 on current quarter segment operating income was approximately $3.5 billion, which is net of cost reductions from initiatives to mitigate the impacts of COVID-19.
+
+The decrease in revenues from theme park admissions, merchandise, food and beverage sales, and resorts and vacations was due to the closure of the parks and resorts and suspension of cruise ship sailings.
+
+Merchandise licensing and retail revenue was lower due to decreases of 21% from merchandise licensing and 13% from retail reflecting the impact of COVID-19 on retailers and the closure of our owned retail stores.
+
+The decrease in parks licensing and other revenue was due to lower sponsorship revenue and a decrease in Tokyo Disney Resort royalties due to the closure of the parks.
+
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF
+
+FINANCIAL CONDITION AND RESULTS OF OPERATIONS - (continued)
+
+In addition to revenue, costs and operating income, management uses the following key metrics to analyze trends and evaluate the overall performance of our theme parks and resorts, and we believe these metrics are useful to investors in analyzing the business:
+
+                                                Domestic                                     International (1)                                Total          
+                                                Quarter Ended                                    Quarter Ended                                Quarter Ended  
+                                                Jun 27,            Jun 29,      Jun 27,                Jun 29,      Jun 27,      Jun 29,                     
+                                                2020                  2019      2020                      2019      2020            2019                     
+ ─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Parks                                                                                                                                                      
+  Increase/(decrease)                                                                                                                                        
+  Attendance (2)                                (100)                  (3)      (90)                       (7)      (97)             (4)                     
+  Per Capita Guest Spending (3)                 nm                      10      (12)                        17      nm                12                     
+  Hotels (4)                                                                                                                                                 
+  Occupancy (5)                                 nm                      88      nm                          83      nm                87                     
+  Available Room Nights (in thousands) (6)      nm                              nm                         793      nm                                       
+  Per Room Guest Spending (7)                   nm                    $366      nm                        $331      nm              $358                     
+
+(1) Per capita guest spending growth rate is stated on a constant currency basis. Per room guest spending is stated at the average foreign exchange rate for the same period in the prior year.
+
+(2) Attendance is used to analyze volume trends at our theme parks and is based on the number of unique daily entries, i.e. a person visiting multiple theme parks in a single day is counted only once. Our attendance count includes complimentary entries but excludes entries by children under the age of three.
+
+(3) Per capita guest spending is used to analyze guest spending trends and is defined as total revenue from ticket sales and sales of food, beverage and merchandise in our theme parks, divided by total theme park attendance.
+
+(4) Hotel metrics in the current quarter are not meaningful given the closure of our resorts.
+
+(5) Occupancy is used to analyze the usage of available capacity at hotels and is defined as the number of room nights occupied by guests as a percentage of available hotel room nights.
+
+(6) Available hotel room nights are defined as the total number of room nights that are available at our hotels and at Disney Vacation Club (DVC) properties located at our theme parks and resorts that are not utilized by DVC members. Available hotel room nights include rooms temporarily taken out of service.
+
+(7) Per room guest spending is used to analyze guest spending at our hotels and is defined as total revenue from room rentals and sales of food, beverage and merchandise at our hotels, divided by total occupied hotel room nights.
+
+Costs and Expenses
+
+Operating expenses include operating labor, which decreased $943 million from $1,587 million to $644 million, cost of goods sold and distribution costs, which decreased $460 million from $698 million to $238 million, and infrastructure costs, which decreased $45 million from $607 million to $562 million, all of which were lower as a result of the closure of our theme parks, resorts and retail stores and the suspension of cruise ship sailings. The decrease in labor costs also included the benefit
+of government credits for certain employee costs. Lower infrastructure costs from the closures were partially offset by the write-down of assets at our retail stores. Other operating expenses, which include costs for such items as supplies, commissions/fees and entertainment offerings, decreased $233 million, from $590 million to $357 million due to the suspension of operations, partially offset by higher charges for capital project abandonments.
+
+Selling, general, administrative and other costs decreased $293 million from $800 million to $507 million due to marketing and general and administrative cost reductions resulting from initiatives to mitigate the impacts of COVID-19.
+
+Depreciation and amortization increased $55 million from $574 million to $629 million due to new attractions at our domestic parks and resorts.
+
+Equity in the Loss of Investees
+
+Loss from equity investees was $6 million, reflecting a loss from Villages Nature, in which Disneyland Paris has a 50% interest.
+
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF
+
+FINANCIAL CONDITION AND RESULTS OF OPERATIONS - (continued)
+
+Segment Operating Income (Loss)
+
+Segment operating income decreased $3.7 billion to a loss of $2.0 billion due to decreases at our domestic and international parks and experiences and to a lesser extent, our merchandise licensing and retail businesses.
+
+The following table presents supplemental revenue and operating income (loss) detail for the Parks, Experiences and Products segment:
+
+                                                   Quarter Ended                                                  
+  (in millions)                                    June 27,                        June 29,                       
+                                                   2020                            2019                           
+ ──────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Supplemental revenue detail                                                                                     
+  Parks & Experiences                                                                                             
+  Domestic                                         $                      213      $             4,420      (95)  
+  International                                    116                                           1,126      (90)  
+  Consumer Products                                654                                           1,029      (36)  
+                                                   $                      983      $             6,575      (85)  
+  Supplemental operating income (loss) detail                                                                     
+  Parks & Experiences                                                                                             
+  Domestic                                         $                  (1,584)      $             1,157      nm    
+  International                                    (438)                           189                      nm    
+  Consumer Products                                62                              373                      (83)  
+                                                   $                  (1,960)      $             1,719      nm    
+
+Studio Entertainment
+
+Operating results for the Studio Entertainment segment are as follows:
+
+                                                  Quarter Ended                                                     
+  (in millions)                                   June 27,                      June 29,                   Better/  
+                                                  2020                          2019                       (Worse)  
+ ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Revenues                                                                                                          
+  Theatrical distribution                         $                     51      $               2,240         (98)  
+  Home entertainment                              395                           432                            (9)  
+  TV/SVOD distribution and other                                     1,292                      1,164           11  
+  Total revenues                                                     1,738                      3,836         (55)  
+  Operating expenses                              (777)                                       (2,013)           61  
+  Selling, general, administrative and other      (253)                         (994)                           75  
+  Depreciation and amortization                   (40)                          (37)                           (8)  
+  Operating Income                                $                    668      $                 792         (16)  
+
+Revenues
+
+The decrease in theatrical distribution revenue reflected no releases in the current quarter compared to the release ofAvengers: Endgame andAladdin in the prior-year quarter. The current quarter results were impacted by theater closures globally due to COVID-19. The prior-year quarter also includedToy Story 4, Dumbo, Dark Phoenix and Captain Marvel.
+
+Lower home entertainment revenue was driven by a decrease of 12% from lower unit sales, partially offset by an increase of 5% from higher average net effective pricing. The decrease in worldwide unit sales was driven by fewer new release titles in the current quarter, includingStar Wars: The Rise of Skywalker andFrozen II, compared to Captain Marvel, Bohemian Rhapsody, Ralph Breaks the Internet andMary Poppins Returns in the prior-year quarter. The increase in average net effective pricing was 
+due to higher rates, partially offset by lower mix of higher priced new release titles.
+
+Growth in TV/SVOD distribution and other revenue was due to an increase of 27% from TV/SVOD distribution, partially offset by decreases of 14% from stage plays reflecting the impact of theater closures in response to COVID-19 and 4% from lower Parks, Experiences and Products segment revenue share. The increase in TV/SVOD distribution was due to sales of
+
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF
+
+FINANCIAL CONDITION AND RESULTS OF OPERATIONS - (continued)
+
+content to Disney+, which included Artemis Fowl, Star Wars: The Rise of Skywalker, Onward, Maleficent: Mistress of Evil and various library titles, partially offset by lower sales to third parties in the pay television window.
+
+Costs and Expenses
+
+Operating expenses include film cost amortization, which decreased $913 million, from $1,555 million to $642 million. The decrease in film cost amortization was due to a decrease in theatrical distribution revenue, lower film cost impairments and a decrease in Parks, Experiences and Products segment revenue share, partially offset by higher TV/SVOD distribution revenues. Operating expenses also include cost of goods sold and distribution costs, which decreased $323 million, from $458 million to 
+$135 million. Lower cost of goods sold and distribution costs were due to decreases in theatrical and stage play distribution costs driven by theater closures.
+
+Selling, general, administrative and other costs decreased $741 million from $994 million to $253 million due to lower theatrical and, to a lesser extent, home entertainment marketing costs.
+
+Segment Operating Income
+
+Segment operating income decreased $124 million, to $668 million due to lower theatrical distribution results, partially offset by increases in TV/SVOD and home entertainment distribution results and lower film cost impairments.
+
+Items Excluded from Segment Operating Income Related to Studio Entertainment
+
+The following table presents supplemental information for items related to the Studio Entertainment segment that are excluded from segment operating income:
+
+                                                                                                      Quarter Ended                                                      % Change  
+  (in millions)                                                                                       June 27,                     June 29,                 Better/                
+                                                                                                      2020                         2019                     (Worse)                
+ ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Amortization of TFCF intangible assets and fair value step-up on film and television costs (1)      $                  (49)      $             (121)      60                     
+  Restructuring and impairment charges                                                                (45)                         (59)                     24                     
+
+(1) In the current quarter, amortization of step-up on film and television costs was $22 million and amortization of intangible assets was $27 million. In the prior-year quarter, amortization of step-up on film and television costs was $92 million and amortization of intangible assets was $29 million.
+
+Direct-to-Consumer & International
+
+Operating results for the Direct-to-Consumer & International segment are as follows:
+
+                                                  Quarter Ended                                                       
+  (in millions)                                   June 27,                        June 29,                   Better/  
+                                                  2020                            2019                       (Worse)  
+ ──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Revenues                                                                                                            
+  Affiliate fees                                  $                      848      $               1,006      (16)     
+  Advertising                                     786                                             1,492      (47)     
+  Subscription fees                                                    2,129      950                        >100     
+  TV/SVOD distribution and other                  206                             427                        (52)     
+  Total revenues                                                       3,969                      3,875      2        
+  Operating expenses                                                 (3,565)                    (3,580)      —        
+  Selling, general, administrative and other      (985)                           (753)                      (31)     
+  Depreciation and amortization                   (107)                           (111)                      4        
+  Equity in the income / (loss) of investees      (18)                            7                          nm       
+  Operating Loss                                  $                    (706)      $               (562)      (26)     
+
+Revenues
+
+The decrease in affiliate fees was due to decreases of 7% from fewer subscribers driven by the expiration of certain contracts and channel closures in Europe, 7% from an unfavorable foreign exchange impact and 2% from lower rates.
+
+The decrease in advertising revenues was due to decreases of 37% from our International Channels and 10% from lower addressable advertising sales. Lower advertising revenues at our International Channels was driven by decreased impressions, which reflected a shift in the timing of Indian Premier League (IPL) cricket matches to later quarters as a result of COVID-19
+
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF
+
+FINANCIAL CONDITION AND RESULTS OF OPERATIONS - (continued)
+
+and the comparison to the prior-year broadcast of the International Cricket Council World Cup (ICC WC) matches. The ICC WC is held every four years. The decrease in addressable advertising sales was due to lower rates and impressions.
+
+The increase in subscription fees was due to subscriber growth reflecting the launch of Disney+ starting in November 2019 and increased subscribers at Hulu and ESPN+, and higher rates driven by an increase in retail pricing for the Hulu Live TV + SVOD service.
+
+Lower TV/SVOD distribution and other revenue was primarily due to the comparison to the sub-licensing of ICC WC rights to third-party broadcasters in the prior-year quarter.
+
+The following table presents the number of paid subscribers(1)(in millions) for Disney+, ESPN+ and Hulu as of:
+
+                      June 27,      June 29,      Better/  
+                          2020      2019          (Worse)  
+  Disney+ (3)             57.5      —             nm       
+ ───────────────────────────────────────────────────────────
+  ESPN+                    8.5      2.4           >100     
+  Hulu                                                     
+  SVOD Only               32.1      25.7          25       
+  Live TV + SVOD           3.4      2.2           55       
+  Total Hulu              35.5      27.9          27       
+
+The following table presents the average monthly revenue per paid subscriber(2) for the quarter ended:
+
+                      June 27,      June 29,                 Better/  
+                          2020      2019                     (Worse)  
+  Disney+ (3)            $4.62      $                 —      nm       
+ ──────────────────────────────────────────────────────────────────────
+  ESPN+ (4)              $4.18      $              5.33      (22)     
+  Hulu                                                                
+  SVOD Only             $11.39      $             12.68      (10)     
+  Live TV + SVOD        $68.11      $             58.42      17       
+
+(1) A subscriber for which we recognized subscription revenue. A subscriber ceases to be a paid subscriber as of their effective cancellation date or as a result of a failed payment method. A subscription bundle is considered a paid subscriber for each service included in the bundle. Subscribers include those who receive the service through wholesale arrangements in which we receive a fee for the distribution of Disney+ to each subscriber to an existing content distribution tier. When we 
+aggregate the total number of paid subscribers across our DTC services, whether acquired individually, through a wholesale arrangement or via the bundle, we refer to them as paid subscriptions.
+
+(2) Revenue per paid subscriber is calculated based upon the average of the monthly average paid subscribers for each month in the period. The monthly average paid subscribers is calculated as the sum of the beginning of the month and end of the month paid subscriber count, divided by two. Disney+ average monthly revenue per paid subscriber is calculated using a daily average of paid subscribers for the period beginning at launch and ending on the last day of the quarter. The average revenue per
+subscriber is net of discounts offered on bundled services. The discount is allocated to each service based on the relative retail price of each service on a standalone basis. In general, wholesale arrangements have a lower average monthly revenue per paid subscriber than subscribers that we acquire directly or through third party platforms like Apple.
+
+(3) Disney+ Hotstar launched on April 3, 2020 (as a conversion of the preexisting Hotstar service in India) and is included in the number of paid subscribers and average monthly revenue per paid subscriber. The average monthly revenue per paid subscriber for Disney+ Hotstar is significantly lower than the average monthly revenue per paid subscriber in North America and Europe.
+
+(4) Excludes Pay-Per-View revenue.
+
+The average monthly revenue per paid subscriber for ESPN+ decreased from $5.33 to $4.18 due to the introduction of a bundled subscription package offering of Disney+, ESPN+ and Hulu beginning in November 2019 and lower per-subscriber advertising revenue. The bundled offering has a lower retail price than the aggregate standalone retail prices of the individual services.
+
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF
+
+FINANCIAL CONDITION AND RESULTS OF OPERATIONS - (continued)
+
+The average monthly revenue per paid subscriber for the Hulu SVOD Only service decreased from $12.68 to $11.39 due to lower per-subscriber advertising revenue. The average monthly revenue per paid subscriber for the Hulu Live TV + SVOD service increased from $58.42 to $68.11 due to an increase in retail pricing and higher per-subscriber advertising revenue, partially offset by the introduction of the bundled subscription package.
+
+Costs and Expenses
+
+Operating expenses include a $115 million decrease in programming and production costs, from $3,011 million to $2,896 million and a $100 million increase in other operating expenses, from $569 million to $669 million. The decrease in programming and production costs includes lower costs for sports programming and, to a lesser extent, cost reductions due to production shutdowns and channel closures and a favorable foreign exchange impact. These decreases were partially offset by higher costs for 
+the launch of Disney+ and an increase at Hulu driven by subscriber growth. Lower sports programming costs were primarily due to the comparison to ICC WC in the prior-year quarter and the shift in timing of IPL. Programming costs for IPL were shifted to later quarters when we expect the events to occur. Programming and production costs include the costs of content provided by other segments. Other operating expenses, which include technical support and distribution costs, increased due to the 
+launch of Disney+.
+
+Selling, general, administrative and other costs increased $232 million from $753 million to $985 million due to the launch of Disney+.
+
+Equity in the Income (Loss) of Investees
+
+Income from equity investees in the prior-year quarter of $7 million decreased by $25 million to a loss of $18 million in the current quarter, reflecting lower results at Tata Sky.
+
+Segment Operating Loss
+
+Segment operating loss increased to $706 million from $562 million due to costs associated with the launch of Disney+, partially offset by increases at Star and ESPN+.
+
+The following table presents supplemental revenue and operating income (loss) detail for the Direct-to-Consumer & International segment:
+
+                                                   Quarter Ended                                                   
+  (in millions)                                    June 27,                      June 29,                 Better/  
+                                                   2020                          2019                     (Worse)  
+ ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Supplemental revenue detail                                                                                      
+  International Channels                           $                  1,098      $             1,974         (44)  
+  Direct-to-Consumer services                                         2,680                    1,529           75  
+  Other (1)                                        191                           372                         (49)  
+                                                   $                  3,969      $             3,875            2  
+  Supplemental operating income (loss) detail                                                                      
+  International Channels                           $                    223      $               193           16  
+  Direct-to-Consumer services                      (801)                         (600)                       (34)  
+  Other (1)                                        (110)                         (162)                         32  
+  Equity in the loss of investees                  (18)                          7                             nm  
+                                                   $                  (706)      $             (562)         (26)  
+
+(1) Primarily addressable ad sales related to domestic Media Networks branded properties (addressable ad sales related to our Direct-to-Consumer services, principally Hulu, are reflected in “Direct-to-Consumer services”)
+
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF
+
+FINANCIAL CONDITION AND RESULTS OF OPERATIONS - (continued)
+
+Items Excluded from Segment Operating Loss Related to Direct-to-Consumer & International
+
+The following table presents supplemental information for items related to the Direct-to-Consumer & International segment that are excluded from segment operating loss:
+
+                                                                                                               Quarter Ended                                                          % Change  
+  (in millions)                                                                                                June 27,                        June 29,                 Better/                 
+                                                                                                               2020                            2019                     (Worse)                 
+ ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Amortization of TFCF and Hulu intangible assets and fair value step-up on film and television costs (1)      $                    (317)      $             (334)      5                       
+  Hulu gain                                                                                                    —                               (123)                    (100)                   
+  Restructuring and impairment charges (2)                                                                                        (4,988)      (106)                    >(100) %                
+
+(1) In the current quarter, amortization of intangible assets was $305 million, amortization of intangible assets related to TFCF equity investees was $7 million and amortization of step-up on film and television costs was $5 million. In the prior-year quarter, amortization of intangible assets was $323 million, amortization of intangible assets related to TFCF equity investees was $15 million and amortization of step-up on film and television costs was a benefit of $4 million.
+
+(2) The current quarter includes goodwill and intangible asset impairments at our International Channels business ($4,953 million).
+
+Eliminations
+
+Intersegment content transactions are as follows:
+
+                                                                    Quarter Ended                                                      
+  (in millions)                                                     June 27,                        June 29,                 Better/   
+                                                                    2020                            2019                     (Worse)   
+ ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Revenues                                                                                                                             
+  Studio Entertainment:                                                                                                                
+  Content transactions with Media Networks                          $                    ( 36)      $             ( 41)      12        
+  Content transactions with Direct-to-Consumer & International      ( 506)                          ( 82)                    >(100) %  
+  Media Networks:                                                                                                                      
+  Content transactions with Direct-to-Consumer & International      ( 931)                          ( 614)                   (52)      
+  Total                                                             $                  (1,473)      $             (737)      (100)     
+  Operating income                                                                                                                     
+  Studio Entertainment:                                                                                                                
+  Content transactions with Media Networks                          $                        2      $             ( 16)      nm        
+  Content transactions with Direct-to-Consumer & International      27                              ( 35)                    nm        
+  Media Networks:                                                                                                                      
+  Content transactions with Direct-to-Consumer & International      ( 85)                           ( 82)                    (4)       
+  Total                                                             $                     (56)      $             (133)      58        
+
+Revenues
+
+The increase in revenue eliminations was due to sales of Studio Entertainment content to Disney + and sales of Media Networks content to Disney+ and Hulu. Studio Entertainment titles sold to Disney+ includedArtemis Fowl, Star Wars: The Rise of Skywalker and Onward. Media Networks sales to Disney+ reflected the sale of library series, including The Simpsons and Disney Channel titles. The increase in Media Networks sales to Hulu reflected sales ofMrs. America, Love Victor andHelstrom, and an 
+increase in affiliate fees received from Hulu reflecting subscriber growth to our networks included in the Hulu Live TV service.
+
+Operating Income
+
+The decrease in the impact from eliminations was due to the recognition of previously deferred profit on sales of Studio Entertainment titles to Disney+, the International Channels and the FX Networks.
+
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF
+
+FINANCIAL CONDITION AND RESULTS OF OPERATIONS - (continued)
+
+BUSINESS SEGMENT RESULTS - Nine Month Results
+
+Media Networks
+
+Operating results for the Media Networks segment are as follows:
+
+                                                  Nine Months Ended                                                         
+  (in millions)                                   June 27,                             June 29,                    Better/  
+                                                  2020                                 2019                        (Worse)  
+ ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Revenues                                                                                                                  
+  Affiliate Fees                                  $                        11,041      $                9,873           12  
+  Advertising                                                               4,841                       5,521         (12)  
+  TV/SVOD distribution and other                                            5,298                       2,923           81  
+  Total revenues                                                           21,180                      18,317           16  
+  Operating expenses                                                     (12,529)                    (11,439)         (10)  
+  Selling, general, administrative and other                              (1,926)                     (1,594)         (21)  
+  Depreciation and amortization                   (156)                                (141)                          (11)  
+  Equity in the income of investees               589                                  553                               7  
+  Operating Income                                $                         7,158      $                5,696           26  
+
+Revenues
+
+The increase in affiliate fees was due to increases of 9% from the consolidation of TFCF and 7% from higher contractual rates, partially offset by a decrease of 3% from fewer subscribers. The subscriber decline was net of a benefit from the ACC Network launch in August 2019.
+
+The decrease in advertising revenues was due to decreases of $487 million at Cable Networks, from $2,774 million to $2,287 million and $193 million at Broadcasting, from $2,747 million to $2,554 million. Cable Networks advertising revenue reflected decreases of 23% from lower impressions reflecting lower average viewership, due to the impact COVID-19 had on live sports events, and 2% from lower rates. These decreases were partially offset by an increase of 9% from the consolidation of TFCF. 
+Broadcasting advertising revenue reflected decreases of 5% from lower average network viewership and 5% from the owned television stations, partially offset by increases of 3% from higher network rates and 2% from the consolidation of TFCF.
+
+The increase in TV/SVOD distribution and other revenue of $2,375 million was due to the consolidation of TFCF, which consisted primarily of program sales, and higher program sales at Disney Television Studios, FX and Disney Channel. The increase in Disney Television Studios was due to program sales to Hulu and Disney+ driven by sales of Little Fires Everywhere, The Simpsons andHigh Fidelity, while the increases at FX and Disney Channel were due to program sales to Hulu and Disney+, respectively.
+
+Costs and Expenses
+
+Operating expenses include programming and production costs, which increased $1,090 million from $10,828 million to $11,918 million. At Cable Networks, programming and production costs decreased $260 million due to the shift in timing of cost for NBA and MLB to later quarters when we expect the events to occur, partially offset by the consolidation of TFCF and contractual increases for NFL, college football playoffs and other college sports. At Broadcasting, programming and production costs 
+increased $1,350 million due to the consolidation of TFCF and higher program sales at Disney Television Studios.
+
+Selling, general, administrative and other costs increased $332 million from $1,594 million to $1,926 million, due to the consolidation of TFCF.
+
+Equity in the Income of Investees
+
+Income from equity investees increased $36 million, from $553 million to $589 million, driven by higher income from A+E Television Networks due to lower programming costs, higher program sales and a decrease in marketing costs, partially offset by lower advertising revenue.
+
+Segment Operating Income
+
+Segment operating income increased 26%, or $1,462 million to $7,158 million due to the consolidation of TFCF and increases at ESPN, Disney Television Studios and FX Networks. These increases were partially offset by lower results at the owned television stations.
+
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF
+
+FINANCIAL CONDITION AND RESULTS OF OPERATIONS - (continued)
+
+The following table provides supplemental revenue and segment operating income detail for the Media Networks segment:
+
+                                         Nine Months Ended                                                     
+  (in millions)                          June 27,                           June 29,                  Better/  
+                                         2020                               2019                      (Worse)  
+ ───────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Revenues                                                                                                     
+  Cable Networks                         $                      13,245      $             12,243            8  
+  Broadcasting                                                   7,935                     6,074           31  
+                                         $                      21,180      $             18,317           16  
+  Segment operating income                                                                                     
+  Cable Networks                         $                       5,120      $              4,169           23  
+  Broadcasting                                                   1,449      974                            49  
+  Equity in the income of investees      589                                553                             7  
+                                         $                       7,158      $              5,696           26  
+
+Items Excluded from Segment Operating Income Related to Media Networks
+
+The following table presents supplemental information for items related to the Media Networks segment that are excluded from segment operating income:
+
+                                                                                                      Nine Months Ended                                                          
+  (in millions)                                                                                       June 27,                          June 29,                 % Change        
+                                                                                                      2020                              2019                     Better/(Worse)  
+  Amortization of TFCF intangible assets and fair value step-up on film and television costs (1)      $                      (926)      $             (372)      >(100)          
+ ─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Restructuring and impairment charges                                                                (26)                              (84)                     69              
+  Impairment of equity investments                                                                    —                                 (185)                    100             
+
+(1) In the current nine-month period, amortization of step-up on film and television costs was $468 million and amortization of intangible assets was $458 million. In the prior-year nine-month period, amortization of step-up on film and television costs was $218 million and amortization of intangible assets was $154 million.
+
+Parks, Experiences and Products
+
+Operating results for the Parks, Experiences and Products segment are as follows:
+
+                                                          Nine Months Ended                                                        
+  (in millions)                                           June 27,                            June 29,                    Better/  
+                                                          2020                                2019                        (Worse)  
+ ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Revenues                                                                                                                         
+  Theme park admissions                                   $                        3,655      $                5,657         (35)  
+  Parks & Experiences merchandise, food and beverage                               3,030                       4,491         (33)  
+  Resorts and vacations                                                            3,088                       4,644         (34)  
+  Merchandise licensing and retail                                                 3,024                       3,285          (8)  
+  Parks licensing and other                                                        1,125                       1,493         (25)  
+  Total revenues                                                                  13,922                      19,570         (29)  
+  Operating expenses                                                             (9,059)                    (10,229)           11  
+  Selling, general, administrative and other                                     (1,998)                     (2,237)           11  
+  Depreciation and amortization                                                  (1,833)                     (1,715)          (7)  
+  Equity in the loss of investees                         (15)                                (12)                           (25)  
+  Operating Income                                        $                        1,017      $                5,377         (81)  
+
+Revenues
+
+The decrease in theme park admissions revenue was due to a decrease of 38% from lower attendance driven by the closure of the parks, partially offset by an increase of 5% from higher average ticket prices prior to the closure.
+
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF
+
+FINANCIAL CONDITION AND RESULTS OF OPERATIONS - (continued)
+
+Parks & Experiences merchandise, food and beverage revenue was lower compared to the prior-year nine-month period due to a decrease of 38% from lower volumes driven by the closure of the parks and resorts, partially offset by an increase of 5% from higher average guest spending prior to the closure.
+
+The decrease in resorts and vacations revenue was due to decreases of 18% from lower occupied room nights and 11% from fewer passenger cruise days driven by the closure of the resorts and suspension of cruise ship sailings, respectively.
+
+Merchandise licensing and retail revenue was lower due to decreases of 4% from merchandise licensing, 3% from retail and 2% from games. The decrease at merchandise licensing was primarily due to lower minimum guarantee shortfall recognition and a decrease in sales of merchandise based on Mickey and Minnie, Avengers, Disney Princesses, Toy Story and Cars, partially offset by higher sales of Frozen merchandise. Merchandise licensing revenues for the current nine-month period were adversely 
+impacted by COVID-19. The decrease in revenues at retail was due to the closure of our retail stores as a result of COVID-19, partially offset by higher online sales. The decrease at games was driven by the prior-year sale of rights to a video game.
+
+The decrease in parks licensing and other revenue was primarily due to lower sponsorship revenue and a decrease in Tokyo Disney Resort royalties due to the closure of the parks.
+
+The following table presents supplemental park and hotel statistics:
+
+                                                Domestic                                           International (1)                                  Total              
+                                                Nine Months Ended                                  Nine Months Ended                                  Nine Months Ended  
+                                                June 27,               June 29,      June 27,      June 29,               June 27,      June 29,                         
+                                                2020                   2019              2020      2019                       2020          2019                         
+ ─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Parks                                                                                                                                                                  
+  Increase/(decrease)                                                                                                                                                    
+  Attendance (2)                                (35)                   —                 (51)      (5)                        (40)           (2)                         
+  Per Capita Guest Spending (3)                 9                      7                  (3)      12                            9             8                         
+  Hotels                                                                                                                                                                 
+  Occupancy (4)                                 53                     92                  41      83                           51            89                         
+  Available Room Nights (in thousands) (5)                                                                                                                               
+  Per Room Guest Spending (6)                   $373                   $359              $306      $306                       $361          $347                         
+
+(1) Per capita guest spending growth rate is stated on a constant currency basis. Per room guest spending is stated at the average foreign exchange rate for the same period in the prior year.
+
+(2) Attendance is used to analyze volume trends at our theme parks and is based on the number of unique daily entries, i.e. a person visiting multiple theme parks in a single day is counted only once. Our attendance count includes complimentary entries but excludes entries by children under the age of three.
+
+(3) Per capita guest spending is used to analyze guest spending trends and is defined as total revenue from ticket sales and sales of food, beverage and merchandise in our theme parks, divided by total theme park attendance.
+
+(4) Occupancy is used to analyze the usage of available capacity at hotels and is defined as the number of room nights occupied by guests as a percentage of available hotel room nights.
+
+(5) Available hotel room nights are defined as the total number of room nights that are available at our hotels and at DVC properties located at our theme parks and resorts that are not utilized by DVC members. Available hotel room nights include rooms temporarily taken out of service.
+
+(6) Per room guest spending is used to analyze guest spending at our hotels and is defined as total revenue from room rentals and sales of food, beverage and merchandise at our hotels, divided by total occupied hotel room nights.
+
+Costs and Expenses
+
+Operating expenses include operating labor, which decreased $698 million from $4,595 million to $3,897 million, cost of goods sold and distribution costs, which decreased $384 million from $2,151 million to $1,767 million, and infrastructure costs, which increased $67 million from $1,754 million to $1,821 million. The decrease in operating labor was primarily due to lower volumes and the benefit of government credits for certain employee costs, partially offset by inflation and new guest 
+offerings. Lower cost of goods sold and distribution costs were due to lower volumes. The increase in infrastructure costs includes the
+
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF
+
+FINANCIAL CONDITION AND RESULTS OF OPERATIONS - (continued)
+
+write-down of assets at our retail stores and higher costs for new guest offerings, partially offset by a decrease in operations support costs. Other operating expenses, which include costs for such items as supplies, commissions/fees and entertainment offerings, decreased $155 million, from $1,729 million to $1,574 million, primarily due to lower volumes, partially offset by higher charges for capital project abandonments.
+
+Selling, general, administrative and other costs decreased $239 million from $2,237 million to $1,998 million due to marketing cost reductions resulting from initiatives to mitigate the impacts of COVID-19.
+
+Depreciation and amortization increased $118 million from $1,715 million to $1,833 million primarily due to new attractions at our domestic parks and resorts.
+
+Segment Operating Income
+
+Segment operating income decreased 81%, or $4.4 billion, to $1.0 billion due to decreases at our domestic and international parks and experiences and to a lesser extent, our retail and merchandise licensing businesses.
+
+The following table presents supplemental revenue and operating income detail for the Parks, Experiences and Products segment:
+
+                                            Nine Months Ended                                                  
+  (in millions)                             June 27,                           June 29,                        
+                                            2020                               2019                            
+ ───────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Supplemental revenue detail                                                                                  
+  Parks & Experiences                                                                                          
+  Domestic                                  $                       9,291      $             13,100      (29)  
+  International                                                     1,546                     3,068      (50)  
+  Consumer Products                                                 3,085                     3,402       (9)  
+                                            $                      13,922      $             19,570      (29)  
+  Supplemental operating income detail                                                                         
+  Parks & Experiences                                                                                          
+  Domestic                                  $                         649      $              3,685      (82)  
+  International                             (730)                              331                         nm  
+  Consumer Products                                                 1,098                     1,361      (19)  
+                                            $                       1,017      $              5,377      (81)  
+
+Studio Entertainment
+
+Operating results for the Studio Entertainment segment are as follows:
+
+                                                  Nine Months Ended                                                       
+  (in millions)                                   June 27,                            June 29,                   Better/  
+                                                  2020                                2019                       (Worse)  
+ ──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Revenues                                                                                                                
+  Theatrical distribution                         $                        2,062      $               3,365         (39)  
+  Home entertainment                                                       1,333                      1,127           18  
+  TV/SVOD distribution and other                                           4,646                      3,325           40  
+  Total revenues                                                           8,041                      7,817            3  
+  Operating expenses                                                     (3,835)                    (3,891)            1  
+  Selling, general, administrative and other                             (2,010)                    (2,220)            9  
+  Depreciation and amortization                   (114)                               (99)                          (15)  
+  Operating Income                                $                        2,082      $               1,607           30  
+
+Revenues
+
+The decrease in theatrical distribution revenue was due to fewer significant releases, which included the impact of theater closures as a result of COVID-19, partially offset by the consolidation of TFCF. Significant titles in the current period included Frozen II, Star Wars: The Rise of Skywalker and Maleficent: Mistress Of Evil. Significant titles in the prior-year period
+
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF
+
+FINANCIAL CONDITION AND RESULTS OF OPERATIONS - (continued)
+
+includedAvengers: Endgame, Captain Marvel, Aladdin, Ralph Breaks the Internet, Toy Story 4, Mary Poppins Returns and Dumbo.
+
+Higher home entertainment revenue was due to an increase of 22% from the consolidation of TFCF.
+
+Higher TV/SVOD distribution and other revenue was due to increases of 25% from TV/SVOD distribution and 19% from the consolidation of TFCF, partially offset by a decrease of 6% from stage plays. The increase in TV/SVOD distribution was due to sales of content to Disney+, partially offset by lower sales to third parties in the pay and free television windows.
+
+Costs and Expenses
+
+Operating expenses include cost of goods sold and distribution costs, which decreased $199 million, from $1,020 million to $821 million. Lower cost of goods sold and distribution costs were driven by decreases in theatrical and stage play distribution costs due to theater closures, partially offset by the consolidation of TFCF. Operating expenses also include film cost amortization, which increased $143 million, from $2,871 million to $3,014 million due to the consolidation of TFCF and higher 
+TV/SVOD distribution revenue, partially offset by lower theatrical distribution revenue.
+
+Selling, general, administrative and other costs decreased $210 million from $2,220 million to $2,010 million due to lower theatrical and home entertainment marketing costs, partially offset by the consolidation of TFCF.
+
+Segment Operating Income
+
+Segment operating income increased 30%, or $475 million, to $2,082 million due to increases in TV/SVOD and home entertainment distribution results, partially offset by lower stage play results.
+
+Items Excluded from Segment Operating Income Related to Studio Entertainment
+
+The following table presents supplemental information for items related to the Studio Entertainment segment that are excluded from segment operating income:
+
+                                                                                                      Nine Months Ended                                                          
+  (in millions)                                                                                       June 27,                          June 29,                 % Change        
+                                                                                                      2020                              2019                     Better/(Worse)  
+ ─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Amortization of TFCF intangible assets and fair value step-up on film and television costs (1)      $                      (211)      $             (121)      (74)            
+  Restructuring and impairment charges                                                                (102)                             (170)                    40              
+
+(1) In the current nine-month period, amortization of step-up on film and television costs was $130 million and amortization of intangible assets was $81 million. In the prior-year nine-month period, amortization of step-up on film and television costs was $87 million and amortization of intangible assets was $34 million.
+
+Direct-to-Consumer & International
+
+Operating results for the Direct-to-Consumer & International segment are as follows:
+
+                                                  Nine Months Ended                                                        
+  (in millions)                                   June 27,                             June 29,                   Better/  
+                                                  2020                                 2019                       (Worse)  
+ ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Revenues                                                                                                                 
+  Affiliate fees                                  $                         2,783      $               1,742      60       
+  Advertising                                                               3,244                      2,364      37       
+  Subscription fees                                                         5,251                      1,136      >100     
+  TV/SVOD distribution and other                  836                                  698                        20       
+  Total revenues                                                           12,114                      5,940      >100     
+  Operating expenses                                                     (10,878)                    (5,332)      >(100)   
+  Selling, general, administrative and other                              (3,148)                    (1,245)      >(100)   
+  Depreciation and amortization                   (308)                                (225)                      (37)     
+  Equity in the loss of investees                 (6)                                  (222)                      97       
+  Operating Loss                                  $                       (2,226)      $             (1,084)      >(100)   
+
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF
+
+FINANCIAL CONDITION AND RESULTS OF OPERATIONS - (continued)
+
+Revenues
+
+The increase in affiliate fees was due to an increase of 71% from the consolidation of TFCF, partially offset by decreases of 6% from an unfavorable foreign exchange impact and 5% from fewer subscribers driven by the expiration of certain contracts and channel closures in Europe.
+
+The increase in advertising revenues was due to an increase of 38% from higher addressable advertising sales, partially offset by a decrease of 1% from our International Channels. Higher addressable advertising sales were due to the consolidation of Hulu and TFCF’s operations, partially offset by lower rates. Advertising revenues at our International Channels were comparable to the prior-year period as a decrease from lower average viewership was largely offset by the consolidation of TFCF. The 
+decrease in average viewership reflected a shift in the timing of IPL cricket matches to later quarters as a result of COVID-19 and the comparison to the prior-year broadcast of ICC WC matches.
+
+The increase in subscription fees was due to the consolidation of Hulu’s operations and subscriber growth reflecting the launch of Disney+ starting in November 2019 and, to a lesser extent, increased subscribers at Hulu and ESPN+.
+
+Growth in TV/SVOD distribution and other revenue was due to the consolidation of TFCF and Hulu’s operations and an increase in Ultimate Fighting Championship (UFC) pay-per-view fees, partially offset by the comparison to the sub-licensing of ICC WC rights to third-party broadcasters in the prior-year period.
+
+The following table presents the average monthly revenue per paid subscriber(1) for the nine-month period ended:
+
+                      June 27,      June 29,                 Better/  
+                          2020      2019                     (Worse)  
+  Disney+                $5.03      $                 —      nm       
+ ──────────────────────────────────────────────────────────────────────
+  ESPN+ (2)              $4.26      $              5.10      (16)     
+  Hulu (3)                                                            
+  SVOD Only             $12.14      $             13.25      (8)      
+  Live TV + SVOD        $65.19      $             54.73      19       
+
+(1) Revenue per paid subscriber is calculated based upon the average of the monthly average paid subscribers for each month in the period. The monthly average paid subscribers is calculated as the sum of the beginning of the month and end of the month paid subscriber count, divided by two. Disney+ average monthly revenue per paid subscriber for the nine-month period ended June 27, 2020 is calculated using a daily average of paid subscribers for the period beginning at launch and ending on the 
+last day of the period. The average revenue per subscriber is net of discounts offered on bundled services. The discount is allocated to each service based on the relative retail price of each service on a standalone basis. In general, wholesale arrangements have a lower average monthly revenue per paid subscriber than subscribers that we acquire directly or through third party platforms like Apple.
+
+(2) Excludes Pay-Per-View revenue.
+
+(3) Hulu’s average monthly revenue per paid subscriber for the period September 30, 2018 to March 19, 2019 is not reflected in the Company’s prior-year revenues, but is included in the average monthly revenue per paid subscriber reported in the table. Includes advertising revenue (including amounts generated during free trial subscription periods).
+
+The average monthly revenue per paid subscriber for ESPN+ decreased from $5.10 to $4.26 due to the introduction of a bundled subscription package offering of Disney+, ESPN+ and Hulu beginning in November 2019 and lower per-subscriber advertising revenue. The bundled offering has a lower retail price than the aggregate standalone retail prices of the individual services.
+
+The average monthly revenue per paid subscriber for the Hulu SVOD Only service decreased from $13.25 to $12.14 driven by a decrease in retail pricing and lower per-subscriber advertising revenue. The average monthly revenue per paid subscriber for the Hulu Live TV + SVOD service increased from $54.73 to $65.19 due to increases in retail pricing and higher per-subscriber Live TV advertising revenue.
+
+Costs and Expenses
+
+Operating expenses include a $4,555 million increase in programming and production costs, from $4,229 million to $8,784 million, and a $991 million increase in other operating expenses, from $1,103 million to $2,094 million. The increase in programming and production costs was due to the consolidation of Hulu and TFCF’s operations, the launch of Disney+ and increases at Hulu, driven by subscriber growth, and at ESPN+, driven by UFC programming rights. These increases were partially offset by the
+comparison to ICC WC in the prior-year period and the shift in the timing of IPL. Programming and
+
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF
+
+FINANCIAL CONDITION AND RESULTS OF OPERATIONS - (continued)
+
+production costs include the costs of content provided by other segments. Other operating expenses, which include technical support and distribution costs, increased due to the consolidation of Hulu and TFCF’s operations and the launch of Disney+.
+
+Selling, general, administrative and other costs increased $1,903 million, from $1,245 million to $3,148 million, due to the launch of Disney+ and the consolidation of Hulu and TFCF’s operations.
+
+Depreciation and amortization increased $83 million, from $225 million to $308 million, due to the consolidation of Hulu and TFCF’s operations.
+
+Equity in the Loss of Investees
+
+Loss from equity investees in the prior-year period of $222 million improved by $216 million to a loss of $6 million, primarily due to the consolidation of Hulu’s operations. In the current period, Hulu’s results are reported in revenues and expenses. In the prior-year period, prior to March 20, 2019, the Company recognized its ownership share of Hulu’s results in equity in the loss of investees.
+
+Segment Operating Loss
+
+Segment operating loss increased from $1,084 million to $2,226 million due to costs associated with the launch of Disney+ and, to a lesser extent, the consolidation of Hulu and TFCF’s operations, partially offset by an increase at Star.
+
+The following table presents supplemental revenue and operating income (loss) detail for the Direct-to-Consumer & International segment:
+
+                                                   Nine Months Ended                                                       
+  (in millions)                                    June 27,                            June 29,                   Better/  
+                                                   2020                                2019                       (Worse)  
+ ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Supplemental revenue detail                                                                                              
+  International Channels                           $                        4,089      $               3,085      33       
+  Direct-to-Consumer services                                               7,142                      1,805      >100     
+  Other (1)                                        883                                                 1,050      (16)     
+                                                   $                       12,114      $               5,940      >100     
+  Supplemental operating income (loss) detail                                                                              
+  International Channels                           $                          825      $                 442      87       
+  Direct-to-Consumer services                                             (2,757)      (994)                      >(100)   
+  Other (1)                                        (288)                               (310)                      7        
+  Equity in the loss of investees                  (6)                                 (222)                      97       
+                                                   $                      (2,226)      $             (1,084)      >(100)   
+
+(1) Primarily addressable ad sales related to domestic Media Networks branded properties (addressable ad sales related to our Direct-to-Consumer services, principally Hulu, are reflected in “Direct-to-Consumer services”)
+
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF
+
+FINANCIAL CONDITION AND RESULTS OF OPERATIONS - (continued)
+
+Items Excluded from Segment Operating Loss Related to Direct-to-Consumer & International
+
+The following table presents supplemental information for items related to the Direct-to-Consumer & International segment that are excluded from segment operating loss:
+
+                                                                                                               Nine Months Ended                                                            
+  (in millions)                                                                                                June 27,                            June 29,                 % Change        
+                                                                                                               2020                                2019                     Better/(Worse)  
+  Amortization of TFCF and Hulu intangible assets and fair value step-up on film and television costs (1)      $                        (963)      $             (389)      >(100)          
+ ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Hulu gain                                                                                                    —                                                 4,794      (100)           
+  Restructuring and impairment charges (2)                                                                                            (5,160)      (244)                    >(100)          
+  Impairment of equity investments                                                                             —                                   (353)                    100             
+
+(1) In the current nine-month period, amortization of intangible assets was $925 million, amortization of intangible assets related to TFCF equity investees was $23 million and amortization of step-up on film and television costs was $15 million. In the prior-year nine-month period, amortization of intangible assets was $373 million, amortization of intangible assets related to TFCF equity investees was $15 million and amortization of step-up on film and television costs was $1 million.
+
+(2) The current nine-month period includes goodwill and intangible asset impairments at our International Channels business ($4,953 million).
+
+Eliminations
+
+Intersegment content transactions are as follows:
+
+                                                                    Nine Months Ended                                                       
+  (in millions)                                                     June 27,                            June 29,                   Better/  
+                                                                    2020                                2019                       (Worse)  
+ ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Revenues                                                                                                                                  
+  Studio Entertainment:                                                                                                                     
+  Content transactions with Media Networks                          $                        (147)      $                (75)      (96)     
+  Content transactions with Direct-to-Consumer & International                             (1,652)      (182)                      >(100)   
+  Media Networks:                                                                                                                           
+  Content transactions with Direct-to-Consumer & International                             (2,777)      (898)                      >(100)   
+  Total                                                             $                      (4,576)      $             (1,155)      >(100)   
+  Operating income                                                                                                                          
+  Studio Entertainment:                                                                                                                     
+  Content transactions with Media Networks                          $                          (8)      (11)                       27       
+  Content transactions with Direct-to-Consumer & International      (246)                               (79)                       >(100)   
+  Media Networks:                                                                                                                           
+  Content transactions with Direct-to-Consumer & International      (275)                               (84)                       >(100)   
+  Total                                                             $                        (529)      $               (174)      >(100)   
+
+Revenues
+
+The increase in revenue eliminations was due to sales of Studio Entertainment content to Disney+ and sales of Media Networks content to Hulu and Disney+. Media Networks sales to Hulu included original and library titles, including both ABC Studios and Twentieth Century Fox Television content. Media Networks sales include the affiliate fees received from Hulu for networks included in the Hulu Live TV + SVOD service. Media Networks sales to Disney+ were due to sales of library series, includingThe
+Simpsons and Disney Channel titles, and, to a lesser extent, original series. Studio Entertainment content sold to Disney+ included original titles Noelle, Lady and the Tramp, and Artemis Fowl and theatrically released titlesThe Lion King, Toy Story 4 andStar Wars: The Rise of Skywalker.
+
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF
+
+FINANCIAL CONDITION AND RESULTS OF OPERATIONS - (continued)
+
+Operating Income
+
+The increase in the impact from eliminations was due to sales of Media Networks content to Hulu and Disney+ and sales of Studio Entertainment content to Disney+.
+
+CORPORATE AND UNALLOCATED SHARED EXPENSES
+
+                                                 Quarter Ended                                            % Change      Nine Months Ended               
+  (in millions)                                  June 27,                      June 29,      Better/      June 27,      June 29,               Better/  
+                                                 2020                          2019          (Worse)      2020          2019                   (Worse)  
+ ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Corporate and unallocated shared expenses      $                  (179)      $             25           $             $                      11       
+
+Corporate and unallocated shared expenses decreased $59 million from $238 million to $179 million for the quarter and decreased $74 million from $678 million to $604 million for the nine-month period. The decrease in the quarter was due to lower compensation costs and a decrease in TFCF integration costs, partially offset by the absence of a benefit from amortization of a deferred gain on a sale leaseback due to the adoption of new lease accounting guidance (lease gain). The decrease for the 
+nine-month period was due to lower costs related to TFCF, lower compensation costs, partially offset by the absence of the lease gain. The decrease in TFCF costs in the nine-month period was due to lower acquisition and integration costs, partially offset by the consolidation of TFCF.
+
+RESTRUCTURING IN CONNECTION WITH THE ACQUISITION OF TFCF
+
+See Note 18 to the Condensed Consolidated Financial Statements for information regarding the Company’s restructuring activities in connection with the acquisition of TFCF.
+
+FINANCIAL CONDITION
+
+The change in cash and cash equivalents is as follows:
+
+                                                                              Nine Months Ended                                                     
+  (in millions)                                                               June 27,                            June 29,                          
+                                                                              2020                                2019                              
+ ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Cash provided by operations - continuing operations                         $                        5,949      $                4,266      39    
+  Cash used in investing activities - continuing operations                                          (3,320)                    (13,785)      76    
+  Cash provided by financing activities - continuing operations                                       14,919                      12,533      19    
+  Cash provided by operations - discontinued operations                       2                                   320                         (99)  
+  Cash provided by investing activities - discontinued operations             198                                 —                           nm    
+  Cash used in financing activities - discontinued operations                 —                                   (179)                       —     
+  Impact of exchange rates on cash, cash equivalents and restricted cash      (49)                                47                          nm    
+  Change in cash, cash equivalents and restricted cash                        $                       17,699      $                3,202      >100  
+
+Operating Activities
+
+Cash provided by continuing operating activities increased 39% to $5.9 billion for the current nine months compared to $4.3 billion in the prior-year nine months. The increase in cash provided by operations was due to the payment of approximately $5.5 billion of tax obligations that arose from the spin-off of Fox Corporation in connection with the TFCF acquisition in the prior-year period and higher operating cash flow at Studio Entertainment and Media Networks, partially offset by lower 
+operating cash flow at Parks, Experiences and Products and Direct-to-Consumer & International. Higher operating cash flow at Studio Entertainment was due to higher operating cash receipts driven by collections of receivables. The increase at Media Networks was due to higher operating cash receipts driven by an increase in revenue and collections of receivables, partially offset by higher television production spending. Lower operating cash flows at Parks, Experiences and Products were due to 
+lower cash receipts driven by decreased revenues, partially offset by lower cash disbursements. Lower cash disbursements were due to lower operating expenses, partially offset by the pay down of accounts payable. The decrease at Direct-to-Consumer & International was due to higher film and television spending and an increase in operating cash disbursements due to higher operating expenses, partially offset by higher operating cash receipts driven by revenues from the consolidation of TFCF and 
+Hulu and the launch of Disney+.
+
+Produced and licensed content costs
+
+The Company’s Studio Entertainment, Media Networks and Direct-to-Consumer & International segments incur costs to license and produce feature film and television programming. Film and television production costs include all internally produced content such as live-action and animated feature films, animated direct-to-video programming, television series,
+
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF
+
+FINANCIAL CONDITION AND RESULTS OF OPERATIONS - (continued)
+
+television specials, theatrical stage plays or other similar product. Programming costs include film or television product licensed for a specific period from third parties for airing on the Company’s broadcast and cable networks, television stations and DTC services. Programming assets are generally recorded when the programming becomes available to us with a corresponding increase in programming liabilities. Accordingly, we analyze our programming assets net of the related liability.
+
+The Company’s film and television production and programming activity for the nine months ended June 27, 2020 and June 29, 2019 are as follows:
+
+                                                                                                       Nine Months Ended                                            
+  (in millions)                                                                                        June 27,                             June 29,                
+                                                                                                       2020                                 2019                    
+ ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Beginning balances:                                                                                                                                               
+  Produced and licensed content assets                                                                 $                        27,407      $                9,202  
+  Programming liabilities                                                                                                      (4,061)                     (1,178)  
+                                                                                                                                23,346                       8,024  
+  Spending:                                                                                                                                                         
+  Television program licenses and rights                                                                                         9,700                       7,521  
+  Film and television production                                                                                                 6,615                       5,581  
+                                                                                                                                16,315                      13,102  
+  Amortization:                                                                                                                                                     
+  Television program licenses and rights                                                                                       (7,703)                     (7,938)  
+  Film and television production                                                                                               (7,129)                     (5,223)  
+                                                                                                                              (14,832)                    (13,161)  
+  Change in film and television production and licensed content                                                                  1,483      (59)                    
+  Net film and television production costs from the acquisition of TFCF and consolidation of Hulu      —                                                    15,156  
+  Other non-cash activity                                                                              258                                  (61)                    
+  Ending balances:                                                                                                                                                  
+  Produced and licensed content assets                                                                                          28,695                      27,078  
+  Programming liabilities                                                                                                      (3,608)                     (4,018)  
+                                                                                                       $                        25,087      $               23,060  
+
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF
+
+FINANCIAL CONDITION AND RESULTS OF OPERATIONS - (continued)
+
+Investing Activities
+
+Investing activities consist principally of investments in parks, resorts and other property and acquisition and divestiture activity. The Company’s investments in parks, resorts and other property for the nine months ended June 27, 2020 and June 29, 2019 are as follows:
+
+  (in millions)                              June 27,                 June 29,             
+                                                 2020                     2019             
+ ───────────────────────────────────────────────────────────────────────────────────────────
+  Media Networks                                                                           
+  Cable Networks                                    $         49             $         60  
+  Broadcasting                                     48                       65             
+  Total Media Networks                             97                      125             
+  Parks, Experiences and Products                                                          
+  Domestic                                                 1,857                    2,491  
+  International                                   625                      611             
+  Total Parks, Experiences and Products                    2,482                    3,102  
+  Studio Entertainment                             61                       61             
+  Direct-to-Consumer & International              407                      137             
+  Corporate                                       246                      142             
+                                                    $      3,293             $      3,567  
+
+Capital expenditures at Media Networks primarily reflect investments in facilities and equipment for expanding and upgrading broadcast centers, production facilities and television station facilities.
+
+Capital expenditures for the Parks, Experiences and Products segment are principally for theme park and resort expansion, new attractions, cruise ships, capital improvements and systems infrastructure. The decrease in the period compared to the prior-year period was primarily due to lower spend onStar Wars: Galaxy’s Edge at both the Walt Disney World and Disneyland resorts. Capital spending in the current period also reflected the suspension of certain capital projects as a result of COVID-19.
+
+Capital expenditures at Direct-to-Consumer & International primarily reflect investments in technology. The increase in the current period compared to the prior-year period was due to investments in technology to support our streaming services.
+
+Capital expenditures at Corporate primarily reflect investments in corporate facilities, information technology infrastructure and equipment. The increase in the current period compared to the prior-year period was due to higher spending on facilities.
+
+The Company currently expects its fiscal 2020 capital expenditures will be approximately $0.7 billion lower than fiscal 2019 capital expenditures of $4.9 billion due to lower investments at our domestic parks and resorts, in part reflecting a reduction in spending in response to COVID-19, partially offset by increased spending on technology at Direct-to-Consumer & International and on facilities at Corporate.
+
+Other Investing Activities
+
+Cash used for acquisitions of $9.9 billion in the prior nine-month period reflects $35.7 billion of cash paid to acquire TFCF less $25.7 billion of cash acquired in the transaction (See Note 4 to the Condensed Consolidated Financial Statements).
+
+Financing Activities
+
+Cash provided by financing activities was $14.9 billion in the current nine-month period due to borrowings, partially offset by dividend payments.
+
+Cash provided by financing activities was $14.9 billion in the current nine-month period compared to $12.5 billion in the prior-year nine-month period. In the current nine-month period, the Company received higher cash proceeds from net borrowings ($17.1 billion compared to $15.3 billion in the prior-year nine-month period).
+
+See Note 6 to the Condensed Consolidated Financial Statements for a summary of the Company’s borrowing activities during the quarter ended June 27, 2020 and information regarding the Company’s bank facilities. The Company may use commercial paper borrowings up to the amount of its unused $12.25 billion bank facilities maturing in March 2021, March 2023 and March 2025, unused availability under the $5.0 billion bank facility maturing in April 2021, incremental term debt issuances and operating 
+cash flows, to retire or refinance other borrowings before or as they come due.
+
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF
+
+FINANCIAL CONDITION AND RESULTS OF OPERATIONS - (continued)
+
+See Note 12 to the Condensed Consolidated Financial Statements for a summary of the Company’s dividends in fiscal 2020 and 2019.
+
+The Company’s operating cash flow and access to the capital markets can be impacted by factors outside of its control, including COVID-19, which has affected our segment operations in a number of ways, and as a result, had an adverse impact on the Company’s operating cash flows. We have taken a number of measures to mitigate the impact on the Company’s financial position. We have significantly increased the Company’s cash balances through the issuance of commercial paper, as well as the issuance
+of senior notes in March and May 2020. In addition, we entered into an additional $5.0 billion credit facility in April 2020, bringing the total capacity of our bank facilities to $17.25 billion. See Significant Developments for the impact COVID-19 had on our operations and mitigating measures.
+
+Despite the impact of COVID-19, we believe that the Company’s financial condition remains strong and that its cash balances, other liquid assets, operating cash flows, access to debt and equity capital markets and borrowing capacity under current bank facilities, taken together, provide adequate resources to fund ongoing operating requirements and upcoming debt maturities as well as future capital expenditures related to the expansion of existing businesses and development of new projects, 
+although these activities have been scaled back or suspended in light of COVID-19. In addition to measures the Company has already taken in response to COVID-19, there are a number of additional mitigating actions the Company may take in the future such as not declaring dividends; reducing, or not making certain payments, such as some contributions to our pension and postretirement medical plans; raising additional financing; further suspending capital spending; reducing film and television 
+content investments; or implementing additional furloughs or reductions in force.
+
+The Company’s borrowing costs can also be impacted by short- and long-term debt ratings assigned by nationally recognized rating agencies, which are based, in significant part, on the Company’s performance as measured by certain credit metrics such as interest coverage and leverage ratios. As of June 27, 2020, Moody’s Investors Service’s long- and short-term debt ratings for the Company were A2 and P-1, respectively, Standard and Poor’s long- and short-term debt ratings for the Company were A- 
+and A-2, respectively, and Fitch’s long- and short-term debt ratings for the Company were A- and F2, respectively. Standard and Poor’s has placed the Company’s long-term rating on CreditWatch with negative implications and Fitch has placed the Company’s long-term debt rating on Negative Outlook. The Company’s bank facilities contain only one financial covenant, relating to interest coverage, which the Company met on June 27, 2020, by a significant margin. The Company’s bank facilities also 
+specifically exclude certain entities, including the Asia Theme Parks, from any representations, covenants or events of default.
+
+The duration of business closures and other impacts related to COVID-19, and the corresponding duration of the impacts to our operating cash flows, are subject to substantial uncertainty. These impacts to our operating cash flows require us to rely more heavily on external funding sources, such as debt and other types of financing.
+
+SUPPLEMENTAL GUARANTOR FINANCIAL INFORMATION
+
+On March 20, 2019 as part of the acquisition of TFCF, The Walt Disney Company (“TWDC”) became the ultimate parent of TWDC Enterprises 18 Corp. (formerly known as The Walt Disney Company) (“Legacy Disney”). Legacy Disney and TWDC are collectively referred to as “Obligor Group”, and individually, as a “Guarantor”. Concurrent with the close of the TFCF acquisition, $16.8 billion of TFCF’s assumed public debt (which then constituted 96% of such debt) was exchanged for senior notes of TWDC (the 
+“exchange notes”) issued pursuant to an exemption from registration under the Securities Act of 1933, as amended (the “Securities Act”), pursuant to an Indenture, dated as of March 20, 2019, between TWDC, Legacy Disney, as guarantor, and Citibank, N.A., as trustee (the “TWDC Indenture”) and guaranteed by Legacy Disney. On November 26, 2019, $14.0 billion of the outstanding exchange notes were exchanged for new senior notes of TWDC registered under the Securities Act, issued pursuant to the TWDC 
+Indenture and guaranteed by Legacy Disney. In addition, contemporaneously with the closing of the March 20, 2019 exchange offer, TWDC entered into a guarantee of the registered debt securities issued by Legacy Disney under the Indenture dated as of September 24, 2001 between Legacy Disney and Wells Fargo Bank, National Association, as trustee (the “2001 Trustee”) (as amended by the first supplemental indenture among Legacy Disney, as issuer, TWDC, as guarantor, and the 2001 Trustee, as trustee).
+
+Other subsidiaries of the Company do not guarantee the registered debt securities of either TWDC or Legacy Disney (such subsidiaries are referred to as the “non-Guarantors”). The par value and carrying value of total outstanding and guaranteed registered debt securities of the Obligor Group at June 27, 2020 was as follows:
+
+                                                    TWDC                                                                                  Legacy Disney   
+  (in millions)                                     Par Value                  Carrying Value                  Par Value                  Carrying Value  
+  Registered debt with unconditional guarantee      $              38,984      $                   41,456      $              13,266      $               
+
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF
+
+FINANCIAL CONDITION AND RESULTS OF OPERATIONS - (continued)
+
+The guarantees by TWDC and Legacy Disney are full and unconditional and cover all payment obligations arising under the guaranteed registered debt securities. The guarantees may be released and discharged upon (i) as a general matter, the indebtedness for borrowed money of the consolidated subsidiaries of TWDC in aggregate constituting no more than 10% of all consolidated indebtedness for borrowed money of TWDC and its subsidiaries (subject to certain exclusions), (ii) upon the sale, transfer or
+disposition of all or substantially all of the equity interests or all or substantially all, or substantially as an entirety, the assets of Legacy Disney to a third party, and (iii) other customary events constituting a discharge of a guarantor’s obligations. In addition, in the case of Legacy Disney’s guarantee of registered debt securities issued by TWDC, Legacy Disney may be released and discharged from its guarantee at any time Legacy Disney is not a borrower, issuer or guarantor under 
+certain material bank facilities or any debt securities.
+
+Operations are conducted almost entirely through the Company’s subsidiaries. Accordingly, the Obligor Group’s cash flow and ability to service its debt, including the public debt, are dependent upon the earnings of the Company’s subsidiaries and the distribution of those earnings to the Obligor Group, whether by dividends, loans or otherwise. Holders of the guaranteed registered debt securities have a direct claim only against the Obligor Group.
+
+Set forth below are summarized financial information for the Obligor Group on a combined basis after elimination of (i) intercompany transactions and balances between TWDC and Legacy Disney and (ii) equity in the earnings from and investments in any subsidiary that is a non-Guarantor. This summarized financial information has been prepared and presented pursuant to the Securities and Exchange Commission Regulation S-X Rule 13-01, “Financial Disclosures about Guarantors and Issuers of Guaranteed 
+Securities” and is not intended to present the financial position or results of operations of the Obligor Group in accordance with U.S. GAAP.
+
+  Results of operations (in millions)                      Nine Months Ended June 27, 2020  
+  Revenues                                                 $                                
+ ────────────────────────────────────────────────────────────────────────────────────────────
+  Costs and expenses                                       —                                
+  Net income (loss) from continuing operations             (811)                            
+  Net income (loss)                                        (811)                            
+  Net income (loss) attributable to TWDC shareholders      (811)                            
+
+  Balance Sheet (in millions)                                                                  
+ ───────────────────────────────────────────────────────────────────────────────────────────────
+  Current assets                                                          18,084        1,145  
+  Noncurrent assets                                                        1,315        1,398  
+  Current liabilities                                                     10,858        9,405  
+  Noncurrent liabilities (excluding intercompany to non-Guarantors)       57,341       41,728  
+  Intercompany payables to non-Guarantors                                144,953      143,574  
+
+COMMITMENTS AND CONTINGENCIES
+
+Legal Matters
+
+As disclosed in Note 14 to the Condensed Consolidated Financial Statements, the Company has exposure for certain legal matters.
+
+Guarantees
+
+See Note 15 to the Consolidated Financial Statements in the 2019 Annual Report on Form 10-K for information regarding the Company’s guarantees.
+
+Tax Matters
+
+As disclosed in Note 10 to the Consolidated Financial Statements in the 2019 Annual Report on Form 10-K, the Company has exposure for certain tax matters.
+
+Contractual Commitments
+
+See Note 15 to the Consolidated Financial Statements in the 2019 Annual Report on Form 10-K for information regarding the Company’s contractual commitments.
+
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF
+
+FINANCIAL CONDITION AND RESULTS OF OPERATIONS - (continued)
+
+OTHER MATTERS
+
+Accounting Policies and Estimates
+
+We believe that the application of the following accounting policies, which are important to our financial position and results of operations, require significant judgments and estimates on the part of management. For a summary of our significant accounting policies, including the accounting policies discussed below, see Note 2 to the Consolidated Financial Statements in the 2019 Annual Report on Form 10-K.
+
+Produced and Acquired/Licensed Content Costs
+
+At the beginning of fiscal 2020, the Company adopted on a prospective basis, new FASB guidance that updates the accounting for film and television content costs. Under that new guidance, we amortize and test for impairment capitalized film and television production costs based on whether the content is predominantly monetized individually or as a group. See Note 8 to the Condensed Consolidated Financial Statements for further discussion.
+
+Production costs that are classified as individual are amortized based upon the ratio of the current period’s revenues to the estimated remaining total revenues (Ultimate Revenues).
+
+With respect to produced films intended for theatrical release, the most sensitive factor affecting our estimate of Ultimate Revenues is theatrical performance. Revenues derived from other markets subsequent to the theatrical release are generally highly correlated with theatrical performance. Theatrical performance varies primarily based upon the public interest and demand for a particular film, the popularity of competing films at the time of release and the level of marketing effort. Upon a 
+film’s release and determination of the theatrical performance, the Company’s estimates of revenues from succeeding windows, including intersegment content transactions, and markets are revised based on historical relationships and an analysis of current market trends.
+
+With respect to capitalized television production costs that are classified as individual, the most sensitive factors affecting estimates of Ultimate Revenues are program ratings of the content on our licensees’ platforms. Program ratings, which are an indication of market acceptance, directly affect the program’s ability to generate advertising and subscriber revenues and are correlated with the license fees we can charge for the content in subsequent windows and for subsequent seasons.
+
+Ultimate Revenues are reassessed each reporting period and the impact of any changes on amortization of production cost is accounted for as if the change occurred at the beginning of the current fiscal year. If our estimate of Ultimate Revenues decreases, amortization of costs may be accelerated or result in an impairment. Conversely, if our estimate of Ultimate Revenues increases, cost amortization may be slowed.
+
+Produced content costs that are part of a group and acquired/licensed content costs are amortized based on projected usage typically resulting in an accelerated or straight-line amortization pattern. The determination of projected usage requires judgement and is reviewed periodically for changes. If projected usage changes we may need to accelerate or slow the recognition of amortization expense.
+
+The amortization of multi-year sports rights is based on our projections of revenues over the contract period, which include advertising revenue and an allocation of affiliate revenue (relative value). If the annual contractual payments related to each season approximate each season’s estimated relative value, we expense the related contractual payments during the applicable season. If estimated relative values by year were to change significantly, amortization of our sports rights costs may be 
+accelerated or slowed.
+
+Revenue Recognition
+
+The Company has revenue recognition policies for its various operating segments that are appropriate to the circumstances of each business. Refer to Note 3 to the Consolidated Financial Statements in the 2019 Annual Report on Form 10-K for our revenue recognition policies.
+
+Pension and Postretirement Medical Plan Actuarial Assumptions
+
+The Company’s pension and postretirement medical benefit obligations and related costs are calculated using a number of actuarial assumptions. Two critical assumptions, the discount rate and the expected return on plan assets, are important elements of expense and/or liability measurement, which we evaluate annually. Refer to the 2019 Annual Report on Form 10-K for estimated impacts of changes in these assumptions. Other assumptions include the healthcare cost trend rate and employee demographic
+factors such as retirement patterns, mortality, turnover and rate of compensation increase.
+
+The discount rate enables us to state expected future cash payments for benefits as a present value on the measurement date. A lower discount rate increases the present value of benefit obligations and increases pension and postretirement medical expense. The guideline for setting this rate is a high-quality long-term corporate bond rate. The Company’s discount rate was
+
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF
+
+FINANCIAL CONDITION AND RESULTS OF OPERATIONS - (continued)
+
+determined by considering yield curves constructed of a large population of high-quality corporate bonds and reflects the matching of the plans’ liability cash flows to the yield curves.
+
+To determine the expected long-term rate of return on the plan assets, we consider the current and expected asset allocation, as well as historical and expected returns on each plan asset class. A lower expected rate of return on plan assets will increase pension and postretirement medical expense.
+
+Goodwill, Other Intangible Assets, Long-Lived Assets and Investments
+
+The Company is required to test goodwill and other indefinite-lived intangible assets for impairment on an annual basis and if current events or circumstances require, on an interim basis. Goodwill is allocated to various reporting units, which are an operating segment or one level below the operating segment. The Company compares the fair value of each reporting unit to its carrying amount, and to the extent the carrying amount exceeds the fair value, an impairment of goodwill is recognized for
+the excess up to the amount of goodwill allocated to the reporting unit.
+
+The impairment test for goodwill requires judgment related to the identification of reporting units, the assignment of assets and liabilities to reporting units including goodwill, and the determination of fair value of the reporting units. To determine the fair value of our reporting units, we apply what we believe to be the most appropriate valuation methodology for each of our reporting units. We generally use a present value technique (discounted cash flows) corroborated by market multiples 
+when available and as appropriate. The projected cash flows of our reporting units reflect intersegment revenues and expenses for the sale and use of intellectual property. The discounted cash flow analyses are sensitive to our estimates of future revenue growth and margins for these businesses. In times of adverse economic conditions in the global economy, the Company’s long-term cash flow projections are subject to a greater degree of uncertainty than usual.
+
+The Company is required to compare the fair values of other indefinite-lived intangible assets to their carrying amounts. If the carrying amount of an indefinite-lived intangible asset exceeds its fair value, an impairment loss is recognized for the excess. Fair values of other indefinite-lived intangible assets are determined based on discounted cash flows or appraised values, as appropriate.
+
+The Company tests long-lived assets, including amortizable intangible assets, for impairment whenever events or changes in circumstances (triggering events) indicate that the carrying amount may not be recoverable. Once a triggering event has occurred, the impairment test employed is based on whether the Company’s intent is to hold the asset for continued use or to hold the asset for sale. The impairment test for assets held for use requires a comparison of the estimated undiscounted future cash
+flows expected to be generated over the useful life of an asset group to the carrying value of the asset group. An asset group is generally established by identifying the lowest level of cash flows generated by a group of assets that are largely independent of the cash flows of other assets. If the carrying value of an asset group exceeds the estimated undiscounted future cash flows, an impairment is measured as the difference between the fair value of the asset group and the carrying value of 
+the asset group. For assets held for sale, to the extent the carrying value is greater than the asset’s fair value less costs to sell, an impairment loss is recognized for the difference. Determining whether a long-lived asset is impaired requires various estimates and assumptions, including whether a triggering event has occurred, the identification of asset groups, estimates of future cash flows and the discount rate used to determine fair values.
+
+The Company has investments in equity securities. For equity securities that do not have a readily determinable fair value, we consider forecasted financial performance of the investee companies, as well as volatility inherit in the external markets for these investments. If these forecasts are not met, impairment charges may be recorded.
+
+Allowance for Credit Losses
+
+We evaluate our allowance for credit losses and estimate collectability of accounts receivable based on our analysis of historical bad debt experience in conjunction with our assessment of the financial condition of individual companies with which we do business. In times of domestic or global economic turmoil, including COVID-19, our estimates and judgments with respect to the collectability of our receivables are subject to greater uncertainty than in more stable periods. If our estimate of 
+uncollectible accounts is too low, costs and expenses may increase in future periods, and if it is too high, costs and expenses may decrease in future periods. In addition, see Note 3.
+
+Contingencies and Litigation
+
+We are currently involved in certain legal proceedings and, as required, have accrued estimates of the probable and estimable losses for the resolution of these proceedings. These estimates are based upon an analysis of potential results, assuming a combination of litigation and settlement strategies and have been developed in consultation with outside counsel as appropriate. From time to time, we are also involved in other contingent matters for which we accrue estimates for a probable and 
+estimable loss. It is possible, however, that future results of operations for any particular quarterly or annual period could be materially affected by changes in our assumptions or the effectiveness of our strategies related to legal proceedings or our
+
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF
+
+FINANCIAL CONDITION AND RESULTS OF OPERATIONS - (continued)
+
+assumptions regarding other contingent matters. See Note 14 to the Condensed Consolidated Financial Statements for more detailed information on litigation exposure.
+
+Income Tax
+
+As a matter of course, the Company is regularly audited by federal, state and foreign tax authorities. From time to time, these audits result in proposed assessments. Our determinations regarding the recognition of income tax benefits are made in consultation with outside tax and legal counsel, where appropriate, and are based upon the technical merits of our tax positions in consideration of applicable tax statutes and related interpretations and precedents and upon the expected outcome of 
+proceedings (or negotiations) with taxing and legal authorities. The tax benefits ultimately realized by the Company may differ from those recognized in our future financial statements based on a number of factors, including the Company’s decision to settle rather than litigate a matter, relevant legal precedent related to similar matters and the Company’s success in supporting its filing positions with taxing authorities.
+
+Impacts of COVID-19 on Accounting Policies and Estimates
+
+In light of the currently unknown ultimate duration and severity of COVID-19, we face a greater degree of uncertainty than normal in making the judgments and estimates needed to apply our significant accounting policies. As COVID-19 continues to develop, we may make changes to these estimates and judgments over time, which could result in meaningful impacts to our financial statements in future periods. A more detailed discussion of the impact of COVID-19 on the Accounting Policies and Estimates
+follows.
+
+Produced and Acquired/Licensed Content Costs
+
+Certain of our completed or in progress film and television productions have had their initial release dates delayed or cancelled. The duration of the delay, market conditions when we release the content, or a change in our release strategy (e.g. bypassing certain distribution windows) could have an impact on Ultimate Revenues, which may accelerate amortization or result in an impairment of capitalized film and television production costs.
+
+Given the ongoing uncertainty around the resumption and continuation of live sporting events, the amount and timing of revenues derived from the broadcast of these events may differ from the projections of revenues that support our amortization pattern of the rights costs we pay for these events. Such changes in revenues could result in an acceleration or slowing of the amortization of our sports rights costs.
+
+Revenue Recognition
+
+Certain of our affiliate contracts contain commitments with respect to the content to be aired on our television networks (e.g. live sports or original content). Depending on the duration of the suspension of live sporting events and film and television content production activities and our assessment of the contractual obligations, we may need to adjust the revenue that we recognize in future periods related to these contracts.
+
+Pension and Postretirement Medical Plan Actuarial Assumptions
+
+The discount rate and expected long-term rate of return of plan assets could be significantly different at our next measurement date at the end of the current fiscal year when compared to our last measurement date. If the discount rate or asset return rate is lower, our underfunded status and future plan expense would increase (absent additional contributions).
+
+Goodwill, Other Intangible Assets, Long-Lived Assets and Investments
+
+Given the ongoing impacts of COVID-19 across our businesses, the projected cash flows that we use to assess the fair value of our businesses and assets for purposes of impairment testing are subject to greater uncertainty than normal. If in the future we reduce our cash flow projections, we may need to impair some of these assets.
+
+As discussed in the Critical Accounting Policies and Estimates section of our fiscal 2019 Annual Report on Form 10-K, the fair value of our International Channels reporting unit exceeded the carrying value by less than 10% at September 28, 2019. Our International Channels reporting unit, which is part of the Direct-to-Consumer & International segment, comprises the Company’s international television networks. Our international television networks primarily derive revenues from affiliate fees 
+charged to MVPDs for the right to deliver our programming under multi-year licensing agreements and the sales of advertising time/space on the networks. A majority of the operations in this reporting unit were acquired in the TFCF acquisition and therefore the fair value of these businesses approximated the carrying value at the date of the acquisition of TFCF.
+
+The International Channels business has been negatively impacted by the COVID-19 pandemic resulting in decreased viewership and lower advertising revenue related to the availability of content, including the deferral or cancellation of certain live sporting events. The Company’s increased focus on DTC distribution in international markets is expected to negatively impact the International Channels business as we shift the primary means of monetizing our film and television content from licensing
+of linear channels to use on our DTC services because the International Channels reporting unit valuation does not include the value derived from this shift, which is reflected in other reporting units. In addition, the industry shift to DTC,
+
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF
+
+FINANCIAL CONDITION AND RESULTS OF OPERATIONS - (continued)
+
+including by us and many of our distributors, who are pursuing their own DTC strategies, has changed the competitive dynamics for the International Channels business and resulted in unfavorable affiliation renewal terms for certain of our distribution agreements.
+
+In the current quarter, we assessed the International Channels’ long-lived assets and goodwill for impairment and recorded impairments of $1.9 billion related to MVPD agreement intangible assets and $3.1 billion related to goodwill.
+
+See Note 18 to the Condensed Consolidated Financial Statements for additional detail on the impairment tests performed in the third quarter of fiscal 2020 and the June 27, 2020 quarter-to-date financial results.
+
+Income Tax (See Note 9 to the Condensed Consolidated Financial Statements)
+
+The determination of interim period tax provisions generally requires the use of a forecasted full year effective tax rate, which in turn requires a full year forecast of earnings before tax and tax expense. Given the uncertainties created by COVID-19, these forecasts are subject to greater than normal variability, which could lead to volatility in our reported quarterly effective tax rates.
+
+Risk Management Contracts
+
+The Company employs a variety of financial instruments (derivatives) including interest rate and cross-currency swap agreements and forward and option contracts to manage its exposure to fluctuations in interest rates, foreign currency exchange rates and commodity prices.
+
+Changes to our hedged cash flows from a decrease in projected revenues of the Company or reductions of projected usage of commodities as compared to our projections when we entered into hedges may cause us to recognize gains or losses on our hedging instruments in our income statement prior to when the hedged transaction was projected to occur.
+
+New Accounting Pronouncements
+
+See Note 19 to the Condensed Consolidated Financial Statements for information regarding new accounting pronouncements.
+
+MARKET RISK
+
+The Company is exposed to the impact of interest rate changes, foreign currency fluctuations, commodity fluctuations and changes in the market values of its investments.
+
+Policies and Procedures
+
+In the normal course of business, we employ established policies and procedures to manage the Company’s exposure to changes in interest rates, foreign currencies and commodities using a variety of financial instruments.
+
+Our objectives in managing exposure to interest rate changes are to limit the impact of interest rate volatility on earnings and cash flows and to lower overall borrowing costs. To achieve these objectives, we primarily use interest rate swaps to manage net exposure to interest rate changes related to the Company’s portfolio of borrowings. By policy, the Company targets fixed-rate debt as a percentage of its net debt between minimum and maximum percentages.
+
+Our objective in managing exposure to foreign currency fluctuations is to reduce volatility of earnings and cash flow in order to allow management to focus on core business issues and challenges. Accordingly, the Company enters into various contracts that change in value as foreign exchange rates change to protect the U.S. dollar equivalent value of its existing foreign currency assets, liabilities, commitments and forecasted foreign currency revenues and expenses. The Company utilizes option 
+strategies and forward contracts that provide for the purchase or sale of foreign currencies to hedge probable, but not firmly committed, transactions. The Company also uses forward and option contracts to hedge foreign currency assets and liabilities. The principal foreign currencies hedged are the euro, Japanese yen, British pound, Chinese yuan and Canadian dollar. Cross-currency swaps are used to effectively convert foreign currency denominated borrowings to U.S. dollar denominated 
+borrowings. By policy, the Company maintains hedge coverage between minimum and maximum percentages of its forecasted foreign exchange exposures generally for periods not to exceed four years. The gains and losses on these contracts offset changes in the U.S. dollar equivalent value of the related exposures. The economic or political conditions in a country could reduce our ability to hedge exposure to currency fluctuations in the country or our ability to repatriate revenue from the country.
+
+Our objectives in managing exposure to commodity fluctuations are to use commodity derivatives to reduce volatility of earnings and cash flows arising from commodity price changes. The amounts hedged using commodity swap contracts are based on forecasted levels of consumption of certain commodities, such as fuel oil and gasoline.
+
+It is the Company’s policy to enter into foreign currency and interest rate derivative transactions and other financial instruments only to the extent considered necessary to meet its objectives as stated above. The Company does not enter into these transactions or any other hedging transactions for speculative purposes.
+

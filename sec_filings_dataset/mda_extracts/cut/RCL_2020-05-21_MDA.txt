@@ -1,388 +1,610 @@
-Item 2. Management’s Discussion and Analysis of Financial Condition and Results of Operations for a cautionary note regarding forward-looking statements.
+Item 2. Management’s Discussion and Analysis of Financial Condition and Results of Operations
 
-The global COVID-19 pandemic has had, and will continue to have, a material adverse impact on our business and results of operations. The global spread of COVID-19 and the unprecedented responses by governments and other authorities to control and contain the spread has caused significant disruptions, created new risks, and exacerbated existing risks to our business.
+Cautionary Note Concerning Forward-Looking Statements
 
-We have been, and will continue to be, negatively impacted by the COVID-19 pandemic, including impacts that resulted from actions taken in response to the outbreak. Examples of these include, but are not limited to, travel bans and cruising advisories and the resulting temporary suspension of our operations, which is expected to continue until at least July 31, 2020 and China sailings until at least June 30, 2020, restrictions on the movement and gathering of people, social distancing measures, 
-shelter-in-place/stay-at-home orders, and disruptions to businesses in our supply chain. In addition to the imposed restrictions affecting our business, the extent, duration, and magnitude of the COVID-19 pandemic’s effect on the economy and consumer demand for cruising and travel is still rapidly fluctuating and difficult to predict. As such, these impacts may persist for an extended period of time or even become more pronounced, even after we are permitted to and/or begin to resume operations.
+The discussion under this caption "Management's Discussion and Analysis of Financial Condition and Results of Operations" and elsewhere in this document includes "forward-looking statements" within the meaning of the Private Securities Litigation Reform Act of 1995. All statements other than statements of historical fact, business and industry prospects or future results of operations or financial position, made in this Quarterly Report on Form 10-Q are forward-looking. Words such as 
+"anticipate," "believe," "could," "estimate," "expect," "goal," "intend," "may," "plan," "project," "seek," "should," "will," "driving" and similar expressions are intended to further identify any of these forward-looking statements. Forward-looking statements reflect management's current expectations but they are based on judgments and are inherently uncertain. Furthermore, they are subject to risks, uncertainties and other factors that could cause our actual results, performance or 
+achievements to differ materially from the future results, performance or achievements expressed or implied in those forward-looking statements. Examples of these risks, uncertainties and other factors include, but are not limited to, those discussed in this Quarterly Report on Form 10-Q and, in particular, the risks discussed under the caption "Risk Factors" in Part II, Item 1A herein.
 
-The COVID-19 pandemic also has elevated risks affecting significant parts of our business:
+All forward-looking statements made in this Quarterly Report on Form 10-Q speak only as of the date of this document. Given these risks and uncertainties, readers are cautioned not to place undue reliance on such forward-looking statements. We undertake no obligation to publicly update or revise any forward-looking statements, whether as a result of new information, future events or otherwise.
 
-•Operations: Due to the global public health circumstances, we have decided to extend the suspension of sailings of our global fleet through at least July 31, 2020 and China sailings until at least June 30, 2020. It is uncertain as to whether we will need to suspend additional sailings and to what extent. The suspension of sailings and the expected reduction in demand for future cruising once we resume sailing has led to a significant decline in our revenues and cash inflows, which has required 
-us to take cost and capital expenditure containment actions. Consequently, we have reduced and furloughed our workforce, with approximately 23% of our U.S. shoreside employee base being impacted and, except for the minimum safe manning shipboard crew required to operate the ships during the suspension of operations, our shipboard crew were notified that their contracts would end early and they would be notified about new assignments when operations resume in the future, which may delay our 
-ability to rebuild our workforce in the case of
+Overview
 
-improved conditions. In addition, we have reduced our planned capital spending through 2021, which may negatively impact our execution of planned growth strategies, particularly as it relates to investments in our ships, technology, and our expansion of land-based developments. Furthermore, we have taken actions to monitor and mitigate changes in our supply chain, and port destination availability, which may strain relationships with our vendors and port partners. Due to the unprecedented and 
-uncertain nature of the COVID-19 pandemic, it is difficult to predict the impact of further disruptions and their magnitude. The impact of further disruptions may depend on how they coincide with the timing of when we seek to resume sailing. In addition, we have never previously experienced a complete cessation of our cruising operations, and as a consequence, our ability to predict the impact of such a cessation on our brands and future prospects is limited and such impact is uncertain.
+The discussion and analysis of our financial condition and results of operations is organized to present the following:
 
-•Results of Operations: Our decision to suspend sailings of our global fleet through at least July 31, 2020 and China sailings until at least June 30, 2020 and the resulting trip cancellations have materially impacted the results of our operations. We have incurred and will continue to incur significant costs associated with cancellations as we accommodate passengers with refunds and future cruise credits; as well as assisting our crew with their return home, food, housing, and medical needs. In
-addition, although cruise operations are currently suspended, we have incurred and will likely continue to incur significant overhead costs associated with layup of our fleet and enhanced COVID-19 related sanitation procedures. As we cannot control adverse media coverage and we cannot predict exactly when we will resume sailing operations, we are experiencing and may continue to experience weak demand for cruising for an undeterminable length of time and we cannot predict when we will return to 
-pre-outbreak demand or fare pricing or if we will return to such levels in the foreseeable future. In turn, these negative impacts to our financial performance have resulted and may continue to result in impairments of our long-lived and intangible assets. For the three months ended March 31, 2020, we incurred impairment charges of $1.1 billion primarily related to the impairment of goodwill attributable to our Silversea Cruises reporting unit and several of our vessels. Additionally, future 
-profitability will be impacted by increased debt service costs as a result of our liquidity actions.
+• a review of our financial presentation, including discussion of certain operational and financial metrics we utilize to assist us in managing our business;
 
-•Liquidity: The suspension of our sailings and the reduction in demand for future cruising has adversely impacted our liquidity as we have experienced a significant increase in refunds of customer deposits while cash inflows from new or existing bookings on future sailings has reduced sharply. As a result, we have taken actions to increase our liquidity through a combination of capital and operating expense reductions and financing activities. For instance, we borrowed an aggregate principal 
-amount of $2.2 billion on March 23, 2020 and an additional $150 million on May 4, 2020 pursuant to a 364-day senior secured term loan. On March 27, 2020, we drew down all the remaining capacity of our revolving credit facilities for a total of $3.475 billion outstanding. On May 19, 2020, we issued $3.32 billion in senior secured notes of which $1.0 billion is due in 2023 and $2.32 billion is due in 2025. The previously mentioned $2.35 billion, 364-day senior secured loan was repaid in its 
-entirety with a portion the proceeds of these notes. On April 2, 2020, S&P Global downgraded us from BBB- to BB and on May 13, 2020, Moody’s downgraded us from Baa3 to Ba2. These downgrades reduce our ability to incur secured indebtedness by reducing the amount of indebtedness that we are permitted to secure. In April and May 2020, we obtained interim debt service and financial covenant holidays under certain of our export-credit backed loan facilities to generate a cumulative $0.8 billion of 
-incremental liquidity through April 2021. Our ability to raise additional financing, whether or not secured, could be limited if our credit rating is further downgraded, and/or if we fail to comply with applicable covenants governing our outstanding indebtedness, and/or if overall financial market conditions worsen. Additionally, due to the complexity of the pandemic’s impact to the economy and uncertainty of its duration, we cannot guarantee that assumptions used to project our liquidity needs 
-will be correct, which may result in the need for additional financing and/or may result in the inability to satisfy covenants required by our current credit facilities. If we raise additional funds through equity or debt issuances, our shareholders could experience dilution of their ownership interest, and these securities could have rights, preferences, and privileges that are superior to that of holders of our ordinary shares. If we raise additional funds by issuing debt, we may be subject to
-limitations on our operations due to restrictive covenants, which may be more restrictive than the covenants in our existing debt agreements, and we may be required to further encumber our assets. If adequate funds are not available on acceptable terms, or at all, we may be unable to fund our operations, or respond to competitive pressures, any of which could negatively affect our business. There is no guarantee that financing will be available in the future or that such financing will be 
-available with similar terms or terms that are commercially acceptable to us. Further, if any government agrees to provide us with disaster relief assistance, or other assistance due to the impacts of the COVID-19 pandemic, and we determine it is beneficial to seek such government assistance, it may impose restrictions on executive compensation, share buybacks, dividends, prepayment of debt and other similar restrictions until the aid is repaid or redeemed in full, which could significantly 
-limit our corporate
+• a discussion of our results of operations for the quarter ended March 31, 2020 compared to the same period in 2019;
 
-activities and adversely impact our business and operations. We cannot assure you that any such disaster relief would be available to us.
+• a discussion of our business outlook
 
-Adverse worldwide economic or other conditions could result in prolonged reduction in the demand for cruises and passenger spending, adversely impacting our operating results, cash flows and financial condition including impairing the value of our goodwill, ships, trademarks and other assets and potentially affecting other critical accounting estimates where the change may be material to our operating results.
+• a discussion of our liquidity and capital resources, including our future capital and contractual commitments and potential funding sources.
 
-In addition to health and safety concerns, demand for cruises is affected by international, national, and local economic conditions. Weak or uncertain economic conditions may impact consumer confidence and pose a risk as vacationers postpone or reduce discretionary spending. This, in turn, may result in cruise booking slowdowns, decreased cruise prices and lower onboard revenues, even after the COVID-19 pandemic has ended and/or related health and safety concerns are reduced. Given the global 
-nature of our business, we are exposed to many different economies and our business could be hurt by challenging conditions in any of our markets. Any significant deterioration of international, national, or local economic conditions, including those resulting from geopolitical events and/or international disputes and the current economic and employment impact of the COVID-19 pandemic in countries where many of our customers reside could result in a prolonged period of booking slowdowns, 
-depressed cruise prices and/or reduced onboard revenues, even after the COVID-19 pandemic has ended and/or related health and safety concerns are reduced. The COVID-19 pandemic could cause a global recession, which would have a further adverse impact on our financial condition and results of operations. In past recessions, demand in the cruise industry was significantly negatively impacted resulting in lower occupancy rates and adverse pricing, with a corresponding increase in the use of credits
-and other means to attract travelers. Additionally, the impact of COVID-19 on the financial markets is complicated and we cannot predict its effect on geopolitical events and/or international trade policies as countries attempt to mitigate the impact as economies re-open.
 
-Our operating costs could increase due to market forces and economic or geopolitical factors beyond our control.
+Critical Accounting Policies
 
-Our operating costs, including fuel, food, payroll and benefits, airfare, taxes, insurance, and security costs, are all subject to increases due to market forces and economic or geopolitical conditions or other factors beyond our control, including as a result of rerouting itineraries due to ports closing or not accepting passengers in connection with the COVID-19 pandemic. Increases in these operating costs could adversely affect our future profitability when an economic recovery begins.
+Valuation of Goodwill, Indefinite-Lived Intangible Assets and Long-Lived Assets
 
-Conducting business globally may result in increased costs and other risks.
+The outbreak of COVID-19 has resulted in an unprecedented global response to contain the spread of the disease. These global efforts have resulted in travel restrictions and created significant uncertainty regarding worldwide port closures and availability. As part of the global containment effort, the Company previously announced a voluntary suspension of its global cruise operations from March 13 through at least July 31, 2020 and China sailings until at least June 30, 2020. Continued 
+disruptions to travel and port operations in various regions may result in further suspensions. Refer to Note 1. General to our consolidated financial statements for further information regarding COVID-19 and its impact to the Company.
 
-We operate our business globally, which exposes us to a number of risks, including increased exposure to a wider range of regional and local economic conditions, volatile local political conditions, potential changes in duties and taxes, including changing and/or uncertain interpretations of existing tax laws and regulations, required compliance with additional laws and policies affecting cruising, vacation or maritime businesses or governing the operations of foreign-based companies, currency 
-fluctuations, interest rate movements, difficulties in operating under local business environments, port quality and availability in certain regions, U.S. and global anti-bribery laws or regulations, imposition of trade barriers and restrictions on repatriation of earnings.
+As a result of these developments, we performed an interim impairment evaluation on our goodwill, indefinite-lived intangible assets and long-lived assets as discussed below in connection with the preparation of our financial statements for the quarter ended March 31, 2020.
 
-Our future growth strategies increasingly depend on the growth and sustained profitability of international markets. Factors that will be critical to our success in these markets include our ability to continue to raise awareness of our products and our ability to adapt our offerings to best suit rapidly evolving consumer demands. This risk is further heightened by the COVID-19 pandemic, as authorities in many of these markets have implemented numerous measures to contain the spread and impact 
-of COVID-19, such as travel bans and restrictions, shelter-in-place/stay-at-home orders, and other limitations on business activity, including business closures. The execution of our planned growth strategies is dependent on meeting the governmental and regulatory measures and policies in each of these markets as they begin to re-open. Our ability to realize our future growth strategy is highly dependent on our ability to satisfy country-specific policies and requirements in order to return to 
-service, as well as meeting the needs of region specific consumer preferences as services come back online. These factors may cause us to reevaluate some of our international business strategies.
+When performing the goodwill impairment test, the fair value of the reporting unit is determined and compared to the carrying value of the net assets allocated to the reporting unit. We typically estimate the fair value of our reporting units using a probability-weighted discounted cash flow model, which may also include a combination of a market based valuation approach. The estimation of fair value utilizing discounted expected future cash flows includes numerous uncertainties which require 
+our significant judgment when making assumptions of expected revenues, operating costs, marketing, selling and administrative expenses, interest rates, ship additions and retirements as well as assumptions regarding the cruise vacation industry's competitive environment and general economic and business conditions, among other factors. The principal assumptions we use in the discounted cash flow model are projected operating results, weighted-average cost of capital, and terminal value. The 
+discounted cash flow model uses the most current projected operating results for the upcoming fiscal year as a base. To that base, we add future years' cash flows assuming multiple revenue and expense scenarios that reflect the impact of different global economic environments beyond the base year on the reporting unit. We discount the projected cash flows using rates specific to the reporting unit based on its weighted-average cost of capital. If the fair value of the reporting unit exceeds its 
+carrying value, no write-down of goodwill is required. As amended by ASU No. 2017-04, Intangibles - Goodwill and Other (Topic 350) - Simplifying the Test for Goodwill Impairment, if the fair value of the reporting unit is less than the carrying value of its net assets, an impairment is recognized based on the amount by which the carrying amount of a reporting unit exceeds its fair value, not to exceed the total amount of goodwill allocated to such reporting unit.
 
-Operating globally also exposes us to numerous and sometimes conflicting legal, regulatory and tax requirements. In many parts of the world, including countries in which we operate, practices in the local business communities might not conform to international business standards. These legal and regulatory requirements and standards may change in response to the COVID-19 pandemic, and there may be greater uncertainty as to the interpretation and enforcement of applicable laws and
+For further discussion of our critical accounting policies, refer to Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations within our Annual Report on Form 10-K for the year ended December 31, 2019, as updated by our Current Report on Form 8-K dated May 13, 2020. For further discussion on impairment losses recorded in the three months ended March 31, 2020, refer to Note 3. I mpairment and Credit Losses to our consolidated financial statements.
 
-regulations, including those introduced in response to the COVID-19 pandemic. We cannot guarantee consistent interpretation, application, and enforcement of rules and regulations put in place in response to the COVID-19 pandemic, which could place limits on our operations or increase our costs, as well as negatively impact our future growth strategies in our key growth markets. We must adhere to policies designed to promote legal and regulatory compliance as well as applicable laws and 
-regulations. However, we might not be successful in ensuring that our employees, agents, representatives and other third parties with whom we associate throughout the world properly adhere to them. In addition, we may be exposed to the risk of penalties and other liabilities if we fail to comply with all applicable legal and regulatory requirements introduced in response to the COVID-19 pandemic, which may be subject to frequent and rapid change. Failure by us, our employees or any of these 
-third parties to adhere to our policies or applicable laws or regulations could result in penalties, sanctions, damage to our reputation and related costs, which in turn could negatively affect our results of operations and cash flows.
+Royal Caribbean International Reporting Unit
 
-We have operations in, and source passengers from, the United Kingdom and the European Union. On January 31, 2020, the United Kingdom withdrew from the European Union and immediately entered an 11-month transition period. Uncertainty during the transition period (including any impact that COVID-19 may have on the negotiations during this transition period) could lead to adverse effects on the economy of the United Kingdom, including the value of the British Pound, and the other economies in 
-which we operate, making it more difficult to source passengers from these regions. Additionally, if the withdrawal is not executed effectively, it could adversely affect tax, legal and regulatory regimes to which our business in the region is subject. The withdrawal could also, among other potential outcomes, disrupt the free movement of goods, services and people between the United Kingdom and the European Union, if not executed effectively.
+We performed an interim impairment evaluation of Royal Caribbean International’s goodwill in connection with the preparation of our financial statements during the quarter ended March 31, 2020. As a result of the test, we determined that the fair value of the Royal Caribbean International reporting unit exceeded its carrying value by approximately 32% resulting in no impairment to the Royal Caribbean International goodwill. As of March 31, 2020, the carrying amount of goodwill attributable to 
+our Royal Caribbean reporting unit was $296.3 million.
 
-As a global operator, our business also may be impacted by changes in U.S. policy or priorities in areas such as trade, immigration (including any continuation of any of the immigration policies put in place by the U.S. government in response to the COVID-19 pandemic) and/or environmental or labor regulations, among others. Depending on the nature and scope of any such changes, they could impact our domestic and international business operations. Any such changes, and any international response 
-to them, could potentially introduce new barriers to passenger or crew travel and/or cross border transactions, impact our guest experience and/or increase our operating costs.
+Silversea Cruises Reporting Unit
 
-If we are unable to address these risks adequately, our financial position and results of operations could be adversely affected, including impairing the value of our ships and other assets.
+We performed an interim impairment evaluation of Silversea Cruises’ goodwill and trade name in connection with the preparation of our financial statements for the quarter ended March 31, 2020. As a result of this analysis, we determined that the carrying value of the Silversea Cruises reporting unit exceeded its fair value. Similarly, we determined that the carrying value of Silversea Cruises’ trade name exceeded its fair value as well. Accordingly, upon the completion of the impairment test, we
+recognized impairment charges of $576.2 million and $30.8 million for goodwill and the trade name, respectively, during the quarter ended March 31, 2020.
 
-Price increases for commercial airline service for our guests or major changes or reduction in commercial airline service and/or availability could adversely impact the demand for cruises and undermine our ability to provide reasonably priced vacation packages to our guests.
+Long-lived Assets
 
-Many of our guests depend on scheduled commercial airline services to transport them to or from the ports where our cruises embark or disembark. Increases in the price of airfare would increase the overall price of the cruise vacation to our guests, which may adversely impact demand for our cruises. In addition, changes in the availability and/or regulations governing commercial airline services, including those resulting from the COVID-19 pandemic, have adversely affected and could continue to 
-adversely affect our guests’ ability to obtain air travel, as well as our ability to transfer our guests to or from our cruise ships, which could adversely affect our results of operations.
+We identified that the undiscounted cash flows of certain long-lived assets, consisting of 8 ships and certain right-of-use assets, were less than their carrying values. Events surrounding the COVID-19 pandemic negatively impacted the expected undiscounted cash flows of these assets. As a result of this determination, we evaluated these assets pursuant to our long -lived asset impairment test, which resulted in an impairment charge of $463.0 million to write down these assets to their estimated 
+fair values during the quarter ended March 31, 2020.
 
-Fears of terrorist attacks, war, and other hostilities could have a negative impact on our results of operations.
 
-Events such as terrorist attacks, war (or war-like conditions), conflicts (domestic or cross-border), civil unrest and other hostilities, including an escalation in the frequency or severity of incidents, and the resulting political instability, travel restrictions and advisories, and concerns over safety and security aspects of traveling or the fear of any of the foregoing have had, and could have in the future, a significant adverse impact on demand and pricing in the travel and vacation 
-industry. In view of our global operations, we are susceptible to a wide range of adverse events. These events could also result in additional security measures taken by local authorities which may potentially impact access to ports and/or destinations.
+The combined impairment charge of $1.1 billion related to our goodwill, trademarks and trade names, vessels and right-of-use assets was recognized in earnings during the quarter ended March 31, 2020 and is reported within Impairment and credit losseswithin our consolidate d statements of comprehensive income (loss). For further information on the impairment losses and the fair value measurements used to estimate the fair value of these assets, refer to Note 3. Impairment and Credit Lossesand 
+Note 13. Fair Value Measurements and Derivative Instrumentst o our consolidated financial statements.
 
-Fluctuations in foreign currency exchange rates, fuel prices and interest rates could affect our financial results.
+These impairment assessments and the resulting charges were determined based on management’s current estimates and projections using information through the time of the issuance of these financial statements. The adverse impact COVID-19 will continue to have on our business, operating results, cash flows and overall financial condition is uncertain and may result in changes to the assumptions used in the impairment tests discussed above, which may result in additional impairments of our 
+goodwill, indefinite-lived intangible assets and long-lived assets in the future. Refer toRisk Factors in Part 2, Item 1A. for further discussion on risks related to the COVID-19 pandemic.
 
-We are exposed to market risk attributable to changes in foreign currency exchange rates, fuel prices and interest rates. Significant changes in any of the foregoing could have a material impact on our financial results, net of the impact of our hedging activities and natural offsets. Our operating results have been and will continue to be impacted, often significantly, by changes in each of these factors. The value of our earnings in foreign currencies is adversely impacted by a strong U.S. 
-dollar. In addition, any significant increase in fuel prices could materially and adversely affect our business as fuel prices not only impact our fuel costs, but also some of our other expenses, such as crew travel, freight, and commodity prices. Mandatory fuel restrictions, such as the International Maritime Organization’s 2020 Low Sulphur Regulation (“IMO 2020”), may also create uncertainty related to the price and availability of certain fuel types potentially impacting operating costs and 
-the value of our related hedging instruments. Also, a significant increase in interest rates could materially impact the cost of our floating rate debt. Furthermore, regulatory changes, such as the announcement of the United Kingdom’s Financial Conduct Authority to
+Seasonality
 
-phase out LIBOR by the end of 2021, may adversely affect our portfolio of floating-rate debt and interest rate derivatives. If LIBOR ceases to exist, we may need to renegotiate any credit agreements or interest rate derivatives agreements extending beyond 2021 that utilize LIBOR as a factor in determining the interest rate or hedge rate, which could adversely impact our cost of debt.
+Our revenues are seasonal based on demand for cruises. Demand has historically been strongest for cruises during the Northern Hemisphere’s summer months and holidays. In order to mitigate the impact of the winter weather in the Northern Hemisphere and to capitalize on the summer season in the Southern Hemisphere, our brands have focused on deployment to the Caribbean, Asia and Australia during that period.
 
-Changes in U.S. or other countries’ foreign travel policy may affect our results of operations.
+Financial Presentation
 
-Changes in U.S. foreign policy could result in the imposition of travel restrictions or travel bans on U.S. persons to certain countries or result in the imposition of U.S. travel advisories, warnings, rules, regulations or legislation that could expose us to penalties or claims of monetary damages. The timing and scope of these changes are unpredictable, and they could cause us to cancel scheduled sailings, possibly on short notice, or could result in possible litigation against us. This, in 
-turn, could decrease our revenue, increase our operating costs and otherwise impair our profitability. For instance, in June 2019, the U.S. government announced that cruise ships would no longer be allowed to travel between the U.S. and Cuba. This required us to change our high yielding Cuba sailings on short notice, which impacted our earnings. Moreover, in May 2019, the U.S. government activated Title III of the Cuban Liberty and Solidarity (Libertad) Act of 1996, popularly known as the 
-Helms-Burton Act. This allowed certain individuals whose property was confiscated by the Cuban government to sue in U.S. courts anyone who “traffics” in the property in question. The activation of Title III has resulted in litigation against us and others in the tourism industry.
+Description of Certain Line Items
 
-Additionally, in the first quarter of 2020, the U.S. Department of State, along with other governments, including Canada, issued travel advisories warning against cruise travel as a result of the COVID-19 pandemic and subsequently imposed restrictions on those entering the U.S. and many nations imposed strict temporary restrictions on international travel. This, combined with other factors, ultimately lead to the company voluntarily suspending the sailings of our fleet globally through at least 
-July 31, 2020 and China sailings until at least June 30, 2020 and may limit or slow our ability to resume operations in the near term. In addition to the loss of revenues, our financial condition is affected by refund requests, future cruise credit issuances, and other costs associated with returning passengers and crew home safely.
+Revenues
 
-Disease outbreaks and an increase in concern about the risk of illness could adversely impact our business and results from operations.
+Our revenues are comprised of the following:
 
-Disease outbreaks and increased concern related to illness when travelling to, from, and on our ships could cause a drop in demand for cruises, guest cancellations, travel restrictions, an unavailability of ports and/or destinations, cruise cancellations, ship redeployments and an inability to source our crew, provisions or supplies from certain places. Due to the complex and evolving nature of the COVID-19 pandemic we cannot predict the duration of the effect of the current pandemic, and the 
-magnitude is dependent on the development of future events and responses from governments, other authorities, and individual consumers. Our industry may be subject to enhanced health and safety requirements in the future which may be costly and take a significant amount of time to implement across our fleet and we may be subject to concerns that cruises are susceptible to the spread of infectious diseases such as COVID-19. These effects may extend beyond any resolution of the current COVID-19 
-pandemic through the development of a vaccine or effective therapeutic treatment, and the impact of any of these factors could have a material adverse effect on our business and results of operations.
+• Passenger ticket revenues, which consist of revenue recognized from the sale of passenger tickets and the sale of air transportation to and from our ships; and
 
-Incidents on ships, at port facilities, land destinations and/or affecting the cruise vacation industry in general, and the associated negative media coverage and publicity, could affect our reputation and impact our sales and results of operations.
+• Onboard and other revenues, which consist primarily of revenues from the sale of goods and/or services onboard our ships not included in passenger ticket prices, cancellation fees, sales of vacation protection insurance, pre- and post-cruise tours and fees for operating certain port facilities. Onboard and other revenues also include revenues we receive from independent third party concessionaires that pay us a percentage of their revenues in exchange for the right to provide selected goods 
+and/or services onboard our ships, as well as revenues received for our bareboat charter, procurement and management related services we perform on behalf of our unconsolidated affiliates.
 
-The ownership and/or operation of cruise ships, private destinations, port facilities and shore excursions involves the risk of accidents, illnesses, mechanical failures, environmental incidents and other incidents which may bring into question safety, health, security and vacation satisfaction and can negatively impact our sales, operations and reputation. Incidents involving cruise ships, and, in particular the safety, health and security of guests and crew and the media coverage thereof, 
-including those related to the COVID-19 pandemic, have impacted and could continue to impact demand for our cruises and pricing in the industry. In particular, we cannot predict the impact on our financial performance and our cash flows required for cash refunds of deposits as a result of the pause in our global fleet cruise operations, which may be prolonged, and the public’s concern regarding the health and safety of travel, especially by cruise ship, and related decreases in demand for travel
-and cruising. Moreover, our ability to attract and retain guests and crew depends, in part, upon the perception and reputation of our company and our brands and the public’s concerns regarding the health and safety of travel generally, as well as regarding the cruising industry and our ships specifically. Our reputation and our business could also be damaged by continued or additional negative publicity regarding the cruise industry in general, including publicity regarding the spread of 
-contagious disease such as COVID-19, over-tourism in key ports and destinations and the potentially adverse environmental impacts of cruising. The considerable expansion in the use of social and digital media over recent years has compounded the potential scope and reach of
+Cruise Operating Expenses
 
-any negative publicity. In addition, incidents involving cruise ships may result in additional costs to our business, increasing government or other regulatory oversight and, in certain cases, potential litigation.
+Our cruise operating expenses are comprised of the following:
 
-Significant weather, climate events and/or natural disasters could adversely impact our business and results from operations.
+•Commissions, transportation and other expenses, which consist of those costs directly associated with passenger ticket revenues, including travel agent commissions, air and other transportation expenses, port costs that vary with passenger head counts and related credit card fees;
 
-Natural disasters (e.g. earthquakes, volcanos), weather and/or climate events (including hurricanes and typhoons) could impact our source markets and operations resulting in travel restrictions, guest cancellations, an inability to source our crew or our provisions and supplies from certain places. We are often forced to alter itineraries and occasionally cancel a cruise or a series of cruises or to redeploy our ships due to these types of events, which could have an adverse effect on our sales,
-operating costs and profitability in the current and future periods. Increases in the frequency, severity or duration of these types of events could exacerbate their impact and cause further disruption to our operations or make certain destinations less desirable or unavailable impacting our revenues and profitability further. Any of the foregoing could have an adverse impact on our results of operations and on industry performance.
+• Onboard and other expenses, which consist of the direct costs associated with onboard and other revenues, including the costs of products sold onboard our ships, vacation protection insurance premiums, costs associated with pre- and post-cruise tours and related credit card fees, as well as, the minimal costs associated with concession revenues, as the costs are mostly incurred by third-party concessionaires, and costs incurred for the procurement and management related services we perform on 
+behalf of our unconsolidated affiliates;
 
-Our reliance on shipyards, their subcontractors and our suppliers to implement our newbuild and ship upgrade programs and to repair and maintain our ships exposes us to risks which, if realized, could adversely impact our business.
+•Payroll and related expenses, which consist of costs for shipboard personnel (costs associated with our shoreside personnel are included inMarketing, selling and administrative expenses);
 
-We rely on shipyards, their subcontractors and our suppliers to effectively construct our new ships and to repair, maintain, and upgrade our existing ships on a timely basis and in a cost effective manner; and there are a limited number of shipyards with the capability and capacity to build, repair, maintain and/or upgrade our ships. As such, any disruptions effecting the newbuild or fleet modernization supply chain will adversely impact our business as there are limited substitutes.
+• Food expenses, which include food costs for both guests and crew;
 
-The COVID-19 pandemic has led to suspensions and/or a slowdowns of work at certain shipyards, which impacts our ability to construct new ships when and as planned, our ability to timely and cost-effectively procure new capacity, and our ability to execute scheduled drydocks and/or fleet modernizations. We believe the effects of the COVID-19 pandemic on the shipyards, their subcontractors, and our suppliers will result in a delay in ship deliveries and we cannot yet reasonably predict the extent 
-and duration of such delays. Variations from our plan could have a significant negative impact on our business operations and financial condition.
+•Fuel expenses, which include fuel and related delivery, storage and emission consumable costs and the financial impact of fuel swap agreements; and
 
-Building, repairing, maintaining and/or upgrading a ship is sophisticated work that involves significant risks. In addition, the prices of labor and/or various commodities that are used in the construction of ships can be subject to volatile price changes, including the impact of fluctuations in foreign exchange rates. Shipyards, their subcontractors, and/or our suppliers may encounter financial, technical or design problems when doing these jobs. If materialized, these problems could impact the
-timely delivery or costs of new ships or the ability of shipyards to repair and upgrade our fleet in accordance with our needs or expectations. In addition, delays, mechanical faults and/or unforeseen incidents may result in cancellation of cruises, or, in more severe situations, delays of new ship orders, or necessitate unscheduled drydocks. Such events could result in lost revenue, increased operating expenses, or both, and thus adversely affect our results of operations.
+•Other operating expenses, which consist primarily of operating costs such as repairs and maintenance, port costs that do not vary with passenger head counts, vessel related insurance, entertainment and gains and/or losses related to the sale of our ships, if any.
 
-An increase in capacity worldwide or excess capacity in a particular market could adversely impact our cruise sales and/or pricing.
 
-Although our ships can be redeployed, cruise sales and/or pricing may be impacted by the introduction of new ships into the marketplace, reductions in cruise capacity, overall market growth and deployment decisions of ourselves and our competitors. As of December 31, 2019, a total of 67 new ships with approximately 159,000 berths are on order for delivery through 2024 in the cruise industry, including 15 ships currently scheduled to be delivered to us through 2024. The further net growth in 
-capacity from these new ships and future orders, without an increase in the cruise industry’s demand and/or share of the vacation market, could depress cruise prices and impede our ability to achieve yield improvement. Additionally, due to our global suspension of operations and the suspension of operations by other cruise operators, cruise prices and yield improvement are further at risk depending on how, when, and where global operations resume.
+We do not allocate payroll and related expenses, food expenses, fuel expenses or other operating expenses to the expense categories attributable to passenger ticket revenues or onboard and other revenues since they are incurred to provide the total cruise vacation experience.
 
-In addition, to the extent that we or our competitors deploy ships to a particular itinerary/region and the resulting capacity in that region exceeds the demand, we may lower pricing and profitability may be lower than anticipated. This risk exists in emerging cruise markets, where capacity has grown rapidly over the past few years and in mature markets where excess capacity is typically redeployed. Any of the foregoing could have an adverse impact on our results of operations, cash flows and 
-financial condition, including potentially impairing the value of our ships and other assets.
+Selected Operational and Financial Metrics
 
-Unavailability of ports of call may adversely affect our results of operations.
+We utilize a variety of operational and financial metrics which are defined below to evaluate our performance and financial condition. As discussed in more detail herein, certain of these metrics are non-GAAP financial measures. These non-GAAP financial measures are provided along with the related GAAP financial measures as we believe they provide useful information to investors as a supplement to our consolidated financial statements, which are prepared and presented in accordance with GAAP. 
+The presentation of non-GAAP financial information is not intended to be considered in isolation or as a substitute for, or superior to, the financial information prepared and presented in accordance with GAAP.
 
-We believe that port destinations are a major reason why guests choose to go on a particular cruise or on a cruise vacation. The availability of ports and destinations is affected by a number of factors, including industry demand and competition for key ports and destinations, existing capacity constraints, constraints related to the size of certain ships, security, financial limitations
+Adjusted (Loss) Earnings per Share ("Adjusted EPS") represents Adjusted Net (Loss) Income attributable to Royal Caribbean Cruises Ltd. divided by weighted average shares outstanding or by diluted weighted average shares outstanding, as applicable. We believe that this non-GAAP measure is meaningful when assessing our performance on a comparative basis.
 
-on port development, exclusivity arrangements that ports may have with our competitors, geopolitical developments and local governmental regulations; and in light of the COVID-19 pandemic, port availability could also be subject to immediate change depending on local and/or onboard disease outbreaks or other government restrictions as well as limited availability when sailing resumes. In addition, higher fuel costs may adversely impact the destinations we choose to call upon on certain of our 
-itineraries as they become too costly to include.
+Adjusted Net (Loss) Income represents net (loss) income less net income attributable to noncontrolling interest excluding certain items that we believe adjusting for is meaningful when assessing our performance on a comparative basis. For the periods presented, these items included (i) asset impairment and credit losses recorded in the first quarter of 2020 as a result of the impact of COVID-19; (ii) the change in fair value in the Silversea Cruises contingent consideration; (iii) net insurance 
+recoveries related to the collapse of the drydock structure at the Grand Bahama Shipyard involving Oasis of the Seas; (iv) restructuring charges incurred in relation to the reorganization of our international sales and marketing structure and other initiatives expenses; (v) the amortization of the Silversea Cruises intangible assets resulting from the acquisition; (vi) the noncontrolling interest adjustment to exclude the impact of the contractual accretion requirements associated with the put 
+option held by Heritage Cruise Holding Ltd.'s (previously known as Silversea Cruises Group Ltd.) noncontrolling interest; (vii) transaction costs related to the Silversea Cruises acquisition and (viii) equity investment impairment..
 
-Increased demand and competition for key ports of call or destinations, limitations on the availability or feasibility of use of specific ports of call and/or constraints on the availability of shore excursions and other service providers at such ports or destinations could adversely affect our results of operations.
+Available Passenger Cruise Days(“APCD”) is our measurement of capacity and represents double occupancy per cabin multiplied by the number of cruise days for the period, which excludes canceled cruise days and drydock days. We use this measure to perform capacity and rate analysis to identify our main non-capacity drivers that cause our cruise revenue and expenses to vary.
 
-Growing anti-tourism sentiments and environmental concerns related to cruising could adversely impact our operations.
+Gross Cruise Costs represent the sum of total cruise operating expenses plus marketing, selling and administrative expenses. For the periods presented, Gross Cruise Costs exclude (i) restructuring charges incurred in relation to the reorganization of our international sales and marketing structure and other initiative costs and (ii) transaction costs related to the Silversea Cruises acquisition, which were included withinMarketing, selling and administrative expenses.
 
-Certain ports and destinations are facing a surge of both cruise and non-cruise tourism which, in certain cases, has fueled anti-tourism sentiments and related countermeasures to limit the volume of tourists allowed in these destinations. In certain destinations, countermeasures to limit the volume of tourists are being contemplated and/or put into effect, including proposed limits on cruise ships and cruise passengers. Potential restrictions in ports and destinations such as Venice and 
-Barcelona could limit the itinerary and destination options we can offer our passengers going forward. Some environmental groups have also generated negative publicity about the environmental impact of the cruise vacation industry and are advocating for more stringent regulation of ship emissions at berth and at sea. These anti-tourism sentiments and growing environmental scrutiny of the cruise industry and any related countermeasures could adversely impact our operations and financial results 
-and subject us to increasing compliance costs.
+Gross Yields represent total revenues per APCD.
 
-We may lose business to competitors throughout the vacation market.
+Net Cruise Costs andNet Cruise Costs Excluding Fuel represent Gross Cruise Costs excluding commissions, transportation and other expenses and onboard and other expenses and, in the case of Net Cruise Costs Excluding Fuel, fuel expenses (each of which is described above under theDescription of Certain Line Items heading). In measuring our ability to control costs in a manner that positively impacts net income, we believe changes in Net Cruise Costs and Net Cruise Costs Excluding Fuel to be the 
+most relevant indicators of our performance. A reconciliation of historical Gross Cruise Costs to Net Cruise Costs and Net Cruise Costs Excluding Fuel is provided below underResults of Operations. Net Cruise Costs and Net Cruise Costs Excluding Fuel exclude net insurance recoveries related to the collapse of the drydock structure at Grand Bahama Shipyard involving Oasis of the Seas.
 
-We operate in the vacation market and cruising is one of many alternatives for people choosing a vacation. We therefore risk losing business not only to other cruise lines, but also to other vacation operators, which provide other leisure options, including hotels, resorts, internet-based alternative lodging sites and package holidays and tours.
+Net Revenues represent total revenues less commissions, transportation and other expenses and onboard and other expenses (each of which is described above under the Description of Certain Line Items heading).
 
-We face significant competition from other cruise lines on the basis of cruise pricing, travel agent preference and also in terms of the nature of ships, services and destinations that we offer to guests. Our principal competitors within the cruise vacation industry include Carnival Corporation & plc, which owns, among others, Aida Cruises, Carnival Cruise Line, Costa Cruises, Cunard Line, Holland America Line, P&O Cruises, Princess Cruises and Seabourn; Disney Cruise Line; MSC Cruises; and 
-Norwegian Cruise Line Holdings Ltd, which owns Norwegian Cruise Line, Oceania Cruises and Regent Seven Seas Cruises. Our revenues are sensitive to the actions of other cruise lines in many areas including pricing, scheduling, capacity and promotions, which can have a substantial adverse impact not only on our revenues, but on overall industry revenues.
+Net Yields represent Net Revenues per APCD. We utilize Net Revenues and Net Yields to manage our business on a day-to-day basis as we believe that they are the most relevant measures of our pricing performance because they reflect the cruise revenues earned by us net of our most significant variable costs, which are commissions, transportation and other expenses and onboard and other expenses. A reconciliation of historical Gross Yields to Net Yields is provided below under Results of 
+Operations.
 
-In the event that we do not effectively market or differentiate our cruise brands from our competitors or otherwise compete effectively with other vacation alternatives and new or existing cruise companies, our results of operations and financial position could be adversely affected.
+Occupancy, in accordance with cruise vacation industry practice, is calculated by dividing Passenger Cruise Days by APCD. A percentage in excess of 100% indicates that three or more passengers occupied some cabins.
 
-We may not be able to obtain sufficient financing or capital for our needs or may not be able to do so on terms that are acceptable or consistent with our expectations.
+Passenger Cruise Days represent the number of passengers carried for the period multiplied by the number of days of their respective cruises.
 
-To fund our capital expenditures (including new ship orders), operations and scheduled debt payments, we have historically relied on a combination of cash flows provided by operations, drawdowns under available credit facilities, the incurrence of additional indebtedness and the sale of equity or debt securities in private or public securities markets. Any circumstance or event which leads to a decrease in consumer cruise spending, such as worsening global economic conditions or significant 
-incidents impacting the cruise industry, including the COVID-19 pandemic, negatively affects our operating cash flows. In the case of the COVID-19 pandemic and the resulting suspension of our operations, these circumstances have also resulted in credit rating downgrades. See “ - Adverse worldwide economic or other conditions could result in prolonged reduction in the demand for cruises and passenger spending, adversely impacting our operating results, cash flows and financial condition including
-potentially impairing the value of our goodwill, ships, trademarks and other assets and potentially affecting other critical accounting estimates where the change may be material to our operating results” and “ - Incidents on ships, at port facilities, land destinations and/or affecting the cruise vacation industry in general, and the associated negative media coverage and publicity, could affect our reputation and impact our sales and results of operations” for more information.
 
-Our ability to access additional funding as and when needed, our ability to timely refinance and/or replace our outstanding debt securities and credit facilities on acceptable terms and our cost of funding will depend upon numerous factors including, but not limited to, the recovery and strength of the financial markets, our financial performance, the performance of our industry in general and the size, scope and timing of our financial needs. In addition, even where financing commitments have 
-been secured, significant disruptions in the capital and credit markets could cause our banking and other counterparties to breach their contractual obligations to us or could cause the conditions to the availability of such funding not to be satisfied.
+We believe Net Yields, Net Cruise Costs and Net Cruise Costs Excluding Fuel are our most relevant non-GAAP financial measures. However, a significant portion of our revenue and expenses are denominated in currencies other than the United States dollar. Because our reporting currency is the United States dollar, the value of these revenues and expenses can be affected by changes in currency exchange rates. Although such changes in local currency prices are just one of many elements impacting our 
+revenues and expenses, they can be an important element. For this reason, we also monitor Net Yields, Net Cruise Costs and Net Cruise Costs Excluding Fuel as if the current period's currency exchange rates had remained constant with the comparable prior period's rates, or on a “Constant Currency” basis.
 
-This could include failures of banks or other financial service companies to fund required borrowings under our loan agreements or to pay us amounts that may become due or return collateral that is refundable under our derivative contracts for hedging of fuel prices, interest rates and foreign currencies or other agreements. If any of the foregoing occurs for a prolonged period of time it will have a long-term negative impact on our cash flows and our ability to meet our obligations cannot be 
-guaranteed.
+It should be emphasized that Constant Currency is primarily used for comparing short-term changes and/or projections. Changes in guest sourcing and shifting the amount of purchases between currencies can change the impact of the purely currency-based fluctuations.
 
-Our liquidity could be adversely impacted if we are unable to satisfy the covenants required by our credit facilities.
+The use of certain significant non-GAAP measures, such as Net Yields, Net Cruise Costs and Net Cruise Costs Excluding Fuel, allows us to perform capacity and rate analysis to separate the impact of known capacity changes from other less predictable changes which affect our business. We believe these non-GAAP measures provide expanded insight to measure revenue and cost performance in addition to the standard GAAP based financial measures. There are no specific rules or regulations for 
+determining non-GAAP and Constant Currency measures, and as such, they may not be comparable to other companies within the industry.
 
-Our debt agreements contain covenants, including financial and other covenants restricting our ability, or requiring us, to take certain actions. Certain of our separate unsecured bank facilities totaling an outstanding principal amount of approximately $4.7 billion as of March 31, 2020 contain covenants that require us, among other things, to maintain a fixed charge coverage ratio of at least 1.25x and limit our net debt-to-capital ratio to no more than 62.5%. In May 2020, the requisite lenders
-under such unsecured bank facilities agreed to waive the requirement to comply with such financial covenants, so that the next time we will be required to comply with such covenants will be for the three months ended June 30, 2021. As a condition to obtaining such waivers, we agreed to certain additional covenants during the covenant waiver period, including that we maintain at least $300 million in unrestricted cash and cash equivalents (tested monthly) and that we are not permitted during the 
-covenant waiver period, subject to limited exceptions, to pay cash dividends or make share repurchases unless we would have been compliant with our fixed charge coverage ratio at such time. In addition, the lenders under such unsecured bank facilities required a number of structural enhancements to such facilities. Among other things, certain of our subsidiaries that directly own other of our subsidiaries that own certain of our cruise ships are not permitted to incur or guarantee debt in excess
-of $1.7 billion in the aggregate prior to April 5, 2022 and, in certain circumstances, are required to provide additional guarantees for the benefit of the lenders under such facilities. Until such additional guarantees are released, which will occur automatically in certain circumstances where we eliminate secured and guaranteed debt, certain of our subsidiaries will be subject to limitations on incurring debt and creating liens on their assets and we and our subsidiaries will be subject to 
-limitations on selling assets that are subject to such guarantees.
+Recent Developments: COVID-19
 
-In addition, our ability to maintain our credit facilities may also be impacted by changes in our ownership base. More specifically, we may be required to prepay our bank financing facilities if any person acquires ownership of more than 50% of our common stock or, subject to certain exceptions, during any 24-month period, a majority of our board of directors is no longer comprised of individuals who were members of our board of directors on the first day of such period. Our public debt 
-securities also contain change of control provisions that would be triggered by a third-party acquisition of greater than 50% of our common stock coupled with a ratings downgrade, which would require us to offer to repurchase our public debt securities in the event of such change of control.
+The disruptions to our operations resulting from the COVID-19 pandemic (“COVID-19”) have had, and continue to have, a material negative impact on our financial condition and results of operations. The outbreak of COVID-19 has resulted in an unprecedented global response to contain the spread of the disease. These global efforts have resulted in travel restrictions and created significant uncertainty regarding worldwide port closures and availability. As part of the global containment effort, the
+Company previously announced a voluntary suspension of its global cruise operations from March 13 through at least July 31, 2020 and China sailings until at least June 30, 2020. Continued disruptions to travel and port operations in various regions may result in further suspensions.
 
-Failure to comply with the terms of these debt facilities, or any prepayment or repurchase obligations, could result in an event of default. Generally, if an event of default under any debt agreement or debt security occurs, then pursuant to cross default acceleration clauses, our outstanding debt and derivative contract payables could become due and/or terminated. In addition, in such events, our credit card processors could hold back payments to create a reserve. We cannot provide assurances 
-that we would have sufficient liquidity to repay, or the ability to refinance the debt if such amounts were accelerated upon an event of default.
+The Company has been developing a comprehensive and multi-faceted program to address the unique public health challenges posed by COVID-19. This includes, among other things, enhanced screening, upgraded cleaning and disinfection protocols and plans for social distancing. The Company will continue to work with the Centers for Disease Control and Prevention, global public health authorities and national and local governments to enhance measures to protect the health, safety and security of 
+guests, crew and the communities visited when we are out of service and once operations resume.
 
-If we are unable to appropriately balance our cost management and capital allocation strategies with our goal of satisfying guest expectations, it may adversely impact our business success.
+Update on Bookings
 
-Our goals call for us to provide high quality products and deliver high quality services. There can be no assurance that we can successfully balance these goals with our cost management and capital allocation strategies. Our business also requires us to make capital allocation decisions across a broad scope of investment options with varying return profiles and time horizons for value realization. These include significant capital investment decisions such as ordering new ships, upgrading our 
-existing fleet, enhancing our technology and/or data capabilities, and expanding our portfolio of land-based assets, based on expected market preferences, competition and projected demand. There can be no assurance that our strategies will be successful, which could adversely impact our business, financial condition and results of operations. Investments in older tonnage, in particular, run the risk of not meeting expected returns and diluting related asset values.
+Prior to the outbreak of COVID-19, the Company started the year in a strong booked position and at higher prices on a prior year comparable basis. Given the impact of COVID-19, booking volumes for the remainder of 2020 are meaningfully lower than the same time last year at prices that are down low-single digits. Due to the suspension in sailings, booking trends reflect elevated cancellations for 2020 and more typical levels for 2021 and beyond. Although still early in the booking cycle, the 
+booked position for 2021 is within historical ranges when compared to same time last year with 2021 prices up mid-single digits compared to 2020, subject to the uncertainty around the duration of our suspension of sailings and resumption of service.
 
-Our attempts to expand our business into new markets and new ventures may not be successful.
+The Company has instituted several programs in order to best serve its guests: for cancelled cruises, guests are offered the choice of future cruise credits valued at 125% of the initial cruise fare paid in lieu of providing cash refunds. These future cruise credits can be redeemed on any sailing on or before December 31, 2021. As of April 30, 2020, approximately 45% of the guests booked on cancelled sailings have requested cash refunds. For non-cancelled cruises, the Company has implemented a 
+“Cruise with Confidence” policy. This policy allows guests to cancel up to 48 hours prior to sailing (for sailings on or before August 1, 2020) and receive a full credit for their fare usable until April 30, 2022.
 
-We opportunistically seek to grow our business through, among other things, expansion into new destinations or source markets and establishment of new ventures complementary to our current offerings. These attempts to expand our business increase the complexity of our business, require significant levels of investment and can strain our management, personnel, operations and systems. In addition, we may be unable to execute our attempts to expand our business as a result of the impacts of the 
-COVID-19 pandemic, as described elsewhere herein. There can be no assurance that these business expansion efforts will
+As of March 31, 2020, the Company had $2.4 billion in customer deposits. This includes approximately $0.8 billion of future cruise credits related to previously announced voyage cancellations. The Company also continues to take future bookings for 2020, 2021 and 2022, and receive new customer deposits and final payments on these bookings.
 
-develop as anticipated or that we will succeed, and if we do not, we may be unable to recover our investment, which could adversely impact our business, financial condition and results of operations.
+Update on Recent Liquidity Actions and Ongoing Uses of Cash
 
-Risks associated with our development and operation of key land-based destination projects may adversely impact our business or results of operations.
+As of April 30, 2020, the Company had liquidity of approximately $2.3 billion all in the form of cash and cash equivalents. In response to the financial impacts of COVID-19, the Company has taken preemptive actions that focus on strengthening liquidity through significant cost and capital reductions, cash conservation and additional financing sources, as described below.
 
-We have invested, either directly or indirectly through joint ventures and partnerships, in a growing portfolio of key land-based projects including port and terminal facilities, private destinations and multi-brand destination projects. These investments can increase our exposure to certain key risks depending on the scope, location, and the ownership and management structure of these projects. These risks include susceptibility to weather events, exposure to local political/regulatory 
-developments and policies, logistical challenges and human resource and labor risks; in addition to location-specific safety, environmental, and health risks, including challenges posed by the COVID-19 pandemic and its effects locally where we have these projects and relationships.
+Reduced Operating Expenses
 
-Our reliance on travel agencies to sell and market our cruises exposes us to certain risks which, if realized, could adversely impact our business.
+The Company has taken significant actions to reduce operating expenses during the suspension of its global cruise operations. In particular, we:
 
-We rely on travel agencies to generate the majority of bookings for our ships. Accordingly, we must ensure that our commission rates and incentive structures remain competitive. If we fail to offer competitive compensation packages or fail to maintain our relationships, these agencies may be incentivized to sell cruises offered by our competitors to our detriment, which could adversely impact our operating results. Our reliance on third-party sellers is particularly pronounced in certain 
-markets. In addition, the travel agent industry is sensitive to economic conditions that impact discretionary income of consumers. Significant disruptions, such as those caused by the COVID-19 pandemic, or contractions in the industry could reduce the number of travel agencies available for us to market and sell our cruises, which could have an adverse impact on our financial condition and results of operations. Additionally, the strength of our recovery from suspended operations could be 
-delayed if we are not aligned and partnered with key travel agencies.
+• significantly reduced ship operating expenses, including crew payroll, food, fuel, insurance and port charges;
 
-Disruptions in our shoreside or shipboard operations or our information systems may adversely affect our results of operations.
+• further reduced operating expenses as the Company’s ships are currently transitioning into various levels of layup with several ships in the fleet transitioning into cold layup;
 
-Our principal executive office and principal shoreside operations are located in Florida, and we have shoreside offices throughout the world. Actual or threatened natural disasters (e.g., hurricanes/typhoons, earthquakes, tornadoes, fires or floods), municipal lockdowns, curfews, quarantines, or similar events in these locations may have a material impact on our business continuity, reputation and results of operations. For instance, virtually all Company shoreside operations are working 
-remotely due to the COVID-19 pandemic, which may pose increased technological risks. In addition, substantial or repeated information system failures, computer viruses or cyber attacks impacting our shoreside or shipboard operations could adversely impact our business. We do not generally carry business interruption insurance for our shoreside or shipboard operations or our information systems. As such, any losses or damages incurred by us could have an adverse impact on our results of 
-operations.
+• eliminated or significantly reduced marketing and selling expenses for the remainder of 2020;
 
-The loss of key personnel, our inability to recruit or retain qualified personnel, or disruptions among our shipboard personnel due to strained employee relations could adversely affect our results of operations.
+• reduced and furloughed our workforce, with approximately 23% of our US shoreside employee base being impacted; and
 
-Our success depends, in large part, on the skills and contributions of key executives and other employees, and on our ability to recruit, develop and retain high quality personnel as well as having adequate succession plans and back-up operating plans for when critical executives are unable to serve. As demand for qualified personnel in the industry grows, we must continue to effectively recruit, train, motivate and retain our employees, both shoreside and on our ships, in order to effectively 
-compete in our industry, maintain our current business and support our projected global growth. In addition, we may experience difficulties in recruiting and retaining qualified personnel if we reduce the levels of fixed or variable compensation that we offer (including equity compensation impacted by the trading price of our equity), whether in response to the impacts of the COVID-19 pandemic or otherwise.
+• suspended travel for shoreside employees and instituted a hiring freeze across the organization.
 
-As of December 31, 2019, 89% of our shipboard employees were covered by collective bargaining agreements. A dispute under our collective bargaining agreements could result in a work stoppage of those employees covered by the agreements. We may not be able to satisfactorily renegotiate these collective bargaining agreements when they expire. In addition, existing collective bargaining agreements may not prevent a strike or work stoppage on our ships. We may also be subject to or affected by work 
-stoppages unrelated to our business or collective bargaining agreements. Any such work stoppages or potential work stoppages could have a material adverse effect on our financial results, as could a loss of key employees, our inability to recruit or retain qualified personnel or disruptions among our personnel.
+The Company estimates that its average ongoing ship operating expenses and administrative expenses are approximately $150 million to $170 million per month during a prolonged suspension of operations. The Company may seek to further reduce this average monthly requirement under a further prolonged non-revenue scenario.
 
-Business activities that involve our co-investments with third parties may subject us to additional risks.
+Reduced Capital Expenditures
 
-Partnerships, joint ventures and other business structures involving our co-investments with third parties generally include some form of shared control over the operations of the business and create additional risks, including the possibility that other investors in such ventures could become bankrupt or otherwise lack the financial resources to meet their obligations, or could have or develop business interests, policies or objectives that are inconsistent with ours. In addition to financial 
-risks, our co-investment activities may also present managerial and operational risks and expose us to reputational or legal concerns. These or other issues related to our co-investments with third parties could adversely impact our operations or liquidity. Due to the COVID-19 pandemic, our Pullmantur, TUI Cruises and Silversea affiliate cruise lines have suspended sailings and their operations, results of operations and liquidity have been and will continue to be adversely materially impacted. 
-The Company may be required to provide funding for these affiliated operations and it is unclear when and to what extent these brands will resume operations and our ability to provide such funding will be limited by the level and terms of our outstanding indebtedness. Further, due to the arrangements we have in place with our partners in these ventures, we are limited in our ability to control the strategy of these ventures if and when they resume operations, or their use of capital and other 
-key factors to their results of operation which could adversely affect our investments and impact our results of operations.
+Since the start of February 2020, the Company has identified approximately $3.0 billion and $1.4 billion of capital expenditure reductions or deferrals in 2020 and 2021, respectively. The reductions or deferrals of capital expenditures in 2020 comprise:
 
-We have a partial ownership interest in Silversea Cruises and as a result may be unable to control the amount of cash we receive or retain from the operation of Silversea Cruises and are limited in the flexibility we have to support Silversea Cruises’ operations.
+• $1.2 billion of non-newbuild, discretionary capital expenditures; and
 
-On July 31, 2018, we acquired a 66.7% equity stake in Silversea Cruises. In connection with the acquisition of our equity stake in Silversea Cruises, we with the other shareholder of Silversea Cruises became party to a Shareholders’ Agreement with Silversea Cruises and Silversea Cruises Group Ltd. (the “Shareholders’ Agreement”). Among other things, the Shareholders’ Agreement contains certain provisions concerning our funding and support of Silversea Cruises. We have provided and expect to 
-continue to provide significant operational support and funding to Silversea Cruises. However our ability to control the operational support and funding that we believe is advisable to provide to Silversea Cruises is limited by provisions of the Shareholders’ Agreement. To the extent we continue to own less than 100% of Silversea Cruises and Silversea Cruises requires additional operational support and funding, our flexibility to contribute such support and funding is limited by the rights of 
-the other shareholder of Silversea Cruises. Our inability, or limited ability, to control the operations and/or management of Silversea Cruises may limit the business strategies and operational results of Silversea Cruises and the value of our investment. Further, our continued significant operational support and funding of Silversea Cruises may have an adverse impact on our business and results of operation.
+• $1.8 billion in reduced spend or deferred installment payments for newbuild related payments which the Company is currently finalizing.
 
-In addition, we and Silversea Cruise Holding Ltd. are guarantors of the 7.25% senior secured notes 2025 issued by Silversea Cruise Finance Ltd. (the “Silversea Notes”). The Silversea Notes are rated Baa3 by Moody’s and BBB- by S&P. If the credit rating of the Silversea Notes is downgraded to below investment grade by one rating agency, then Silversea Cruises and its restricted subsidiaries will become subject to certain restrictive and other covenants, the application of which is currently 
-suspended unless and until any such downgrade occurs. For example, if the credit rating of the Silversea Notes is downgraded to below investment grade, among other things, Silversea Cruises and its restricted subsidiaries will be subject to limitations on the incurrence of indebtedness, limitations on entering into transactions with affiliates (including Royal Caribbean and its subsidiaries that are not restricted subsidiaries of Silversea Cruises) and limitations on the payment of dividends and
-other distributions from Silversea Cruises to Royal Caribbean, each of which may limit our ability to obtain funding and may decrease our operational and financial flexibility, including the ability to make upstream payments from Silversea Cruises. The Silversea Notes are guaranteed by the Company on a senior unsecured basis. Any event of default or acceleration of the indebtedness under the Silversea Notes could cause the borrowings under other of our debt instruments that contain cross-default
-provisions to be accelerated or become payable on demand.
+The Company believes COVID-19 has impacted shipyard operations and will result in delivery delays of ships previously planned for delivery in 2020 and 2021.
 
-Past or pending business acquisitions or potential acquisitions that we may decide to pursue in the future carry inherent risks which could adversely impact our financial performance and condition.
+Debt Maturities, New Financings and Other Liquidity Actions
 
-The Company, from time to time, has engaged in acquisitions (e.g., our Silversea Cruises acquisition) and may pursue acquisitions in the future, which are subject to, among other factors, the Company’s ability to identify attractive business opportunities and to negotiate favorable terms for such opportunities. Accordingly, the Company cannot make any assurances that potential acquisitions will be completed timely or at all, or that if completed, we would realize the anticipated benefits of such
-acquisition. Acquisitions also carry inherent risks such as, among others: (1) the potential delay or failure of our efforts to successfully integrate business processes and realizing expected synergies; (2) difficulty in aligning procedures, controls and/or policies; and (3) future unknown liabilities and costs that may be associated with an acquisition. In addition, acquisitions may also adversely impact our liquidity and/or debt levels, and the recognized value of goodwill and other 
-intangible assets can be negatively affected by unforeseen events and/or circumstances, which may result in an impairment charge. Any of the foregoing events could adversely impact our financial condition and results of operations.
+Since the start of February 2020, the Company has taken several additional actions to further improve its liquidity position and manage cash flow. In particular, we:
 
-We rely on supply chain vendors and third-party service providers who are integral to the operations of our businesses. These vendors and service providers are also affected by COVID-19 and may be unable or unwilling to deliver on their commitments or may act in ways that could harm our business.
+• increased the capacity under our revolving credit facilities by $0.6 billion, and fully drew on both facilities;
 
-We rely on supply chain vendors to deliver key products to the operations of our businesses around the world. Any event impacting a vendor’s ability to deliver goods of the expected quality at the location and time needed could negatively impact our ability to deliver our cruise experience. Events impacting our supply chain could be caused by factors beyond the control of our suppliers or us, including inclement weather, natural disasters, increased demand, problems in production or distribution
-and/or disruptions in third-party logistics or transportation systems, such as those caused by the COVID-19 pandemic. Any such interruptions to our supply chain could increase our costs and could limit the availability of products critical to our operations.
+• entered into a $2.35 billion 364-day senior secured loan agreement with an option to extend the maturity for an additional 364 days secured by 28 ships with a net book value of approximately $12 billion as of March 31, 2020, after giving effect to the vessel impairment described in Note 3. Impairment and Credit Losses in the Notes to our Consolidated Financial Statements;
 
-In order to achieve cost and operational efficiencies, we outsource to third-party vendors certain services that are integral to the operations of our global businesses, such as our onboard concessionaires, certain of our call center operations and operation of a large part of our information technology systems, which are also affected by the COVID-19 pandemic. We are subject to the risk that certain decisions are subject to the control of our third-party service providers and that these 
-decisions may adversely affect our activities. A failure to adequately monitor a third-party service provider’s compliance with a service level agreement or regulatory or legal requirements could result in significant economic and reputational harm to us. There is also a risk the confidentiality, privacy and/or security of data held by third parties or communicated over third-party networks or platforms could become compromised.
+• issued $3.32 billion in senior secured notes, of which $1.0 billion is due in 2023 and $2.32 billion is due in 2025. The previously mentioned $2.35 billion, 364-day senior secured loan was repaid in its entirety with a portion of the proceeds of these notes;
 
-If we are unable to keep pace with developments in technology or technological obsolescence, including technology in response to the COVID-19 pandemic, our operations or competitive position could become impaired.
+• obtained a $0.8 billion, 12-month debt amortization and financial covenant holiday with respect to certain export-credit backed facilities;
 
-Our business continues to demand the use of sophisticated technology and systems. These technologies and systems require significant investment and must be proven, refined, updated, upgraded and/or replaced with more advanced systems in order to continue to meet our customers’ demands and expectations. If we are unable to do so in a timely manner or within reasonable cost parameters or if we are unable to appropriately and timely train our employees to operate any of these new systems, our 
-business could suffer. We also may not achieve the benefits that we anticipate from any new technology or system, which could result in higher than anticipated costs or impair our operating results.
+• amended certain of our non-export-credit backed bank facilities to incorporate a 12-month financial covenant holiday; and
 
-In response to the COVID-19 pandemic, there has been a search for technology to accurately detect, either directly or indirectly, whether an individual is or has been infected with the virus or has been exposed to someone who is or might be infected. While this technology is in the early stages, as this technology continues to develop we may be faced with decisions regarding what technology to adopt for testing our passengers and employees, and what safety procedures to adopt for future 
-sailings. We may be unable to obtain appropriate technology in a timely manner or at all or we may incur significant costs in doing so. A failure to adopt the appropriate technology, a failure or obsolescence in the technology that we do adopt, or a failure in our safety procedures could adversely affect our results of operations.
+• agreed with certain of our lenders that we will not pay dividends or engage in stock repurchases for so long as our debt covenant waivers are in effect.
 
-We are exposed to cyber security attacks and data breaches, including the risks and costs associated with protecting our systems and maintaining integrity and security of our business information, as well as personal data of our guests, employees and business partners.
+Expected debt maturities for the remainder of 2020 and 2021 are $0.4 billion and $0.9 billion, respectively. The expected debt maturities do not include the repayment at maturity of the $2.35 billion 364-day senior secured loan agreement, which we repaid in full with a portion of the proceeds from the issuance of the $3.32 billion secured senior notes.
 
-We are subject to cyber security attacks. These cyber attacks can vary in scope and intent from attacks with the objective of compromising our systems, networks and communications for economic gain to attacks with the objective of disrupting, disabling or otherwise compromising our maritime and/or shoreside operations. The attacks can encompass a wide range of methods and intent, including phishing attacks, illegitimate requests for payment, theft of intellectual property, theft of confidential 
-or non-public information, installation of malware, installation of ransomware and theft of personal or business information. The breadth and scope of these attacks, as well as the techniques and sophistication used to conduct these attacks, have grown over time.
+The Company estimates its cash burn to be, on average, in the range of approximately $250 million to $275 million per month during a prolonged suspension of operations. This range includes ongoing ship operating expenses, administrative
 
-A successful cyber security attack may target us directly, or it may be the result of a third party’s inadequate care. In either scenario, the Company may suffer damage to its systems and data that could interrupt our operations, adversely impact our reputation and brand and expose us to increased risks of governmental investigation, litigation, fines and other liability, any of which could adversely affect our business. Furthermore, responding to such an attack and mitigating the risk of future
-attacks could result in additional operating and capital costs in systems technology, personnel, monitoring and other investments.
+expenses, debt service expense, hedging costs, expected necessary capital expenditures (net of committed financings in the case of newbuilds) and excludes cash refunds of customer deposits as well as cash inflows from new and existing bookings. The Company is considering ways to further reduce the average monthly requirement under a further prolonged out-of-service scenario and during start-up of operations.
 
-In addition, we are also subject to various risks associated with the collection, handling, storage and transmission of sensitive information. In the course of doing business, we collect large volumes of employee, customer and other third-party data, including personally identifiable information and individual credit data, for various business purposes. We are subject to federal, state and international laws (including the European Union General Data Protection Regulation), as well as industry 
-standards, relating to the collection, use, retention, security and transfer of personally identifiable information and individual
+The Company continues to identify and evaluate further actions to improve its liquidity. These include and are not limited to: further reductions in capital expenditures, operating expenses and administrative costs and additional financings.
 
-credit data. In many cases, these laws apply not only to third-party transactions, but also to transfers of information between the Company and its subsidiaries, and among the Company, its subsidiaries and other parties with which the Company has commercial relations. Several jurisdictions have passed laws in this area, and other jurisdictions are considering imposing additional restrictions. These laws continue to develop and may be inconsistent from jurisdiction to jurisdiction. Complying with
-emerging and changing international requirements has caused, and may cause us to incur substantial costs or require us to change our business practices. If we fail to comply with the various applicable data collection and privacy laws, we could be exposed to fines, penalties, restrictions, litigation or other expenses, and our business could be adversely impacted.
+Furthermore, certain of our separate unsecured bank facilities totaling an outstanding principal amount of approximately $4.7 billion as of March 31, 2020 contain covenants that require us, among other things, to maintain a fixed charge coverage ratio of at least 1.25x and limit our net debt-to-capital ratio to no more than 62.5%. In May 2020, the requisite lenders under such unsecured bank facilities agreed to waive the requirement to comply with such financial covenants, so that the next time 
+we will be required to comply with such covenants will be for the three months then ended June 30, 2021. As a condition to obtaining such waivers, we agreed to certain additional covenants during the covenant waiver period, including that we maintain at least $300 million in unrestricted cash and cash equivalents (tested monthly) and that we are not permitted during the covenant waiver period, subject to limited exceptions, to pay cash dividends or make share repurchases unless we would have 
+been compliant with our fixed charge coverage ratio at such time.
 
-While we continue to evolve our cyber security practices in line with our business’ reliance on technology and the changing external threat landscape, and we invest time, effort and financial resources to secure our systems, networks and communications, our security measures cannot provide absolute assurance that we will be successful in preventing or responding to all cyber security attacks. There can be no assurance that any breach or incident will not have a material impact on our operations 
-and financial results.
+Results of Operations
 
-Any breach, theft, loss, or fraudulent use of guest, employee, third-party or company data, could adversely impact our reputation and brand and our ability to retain or attract new customers, and expose us to risks of data loss, business disruption, governmental investigation, litigation and other liability, any of which could adversely affect our business. Significant capital investments and other expenditures could be required to remedy the problem and prevent future breaches, including costs 
-associated with additional security technologies, personnel, experts and credit monitoring services for those whose data has been breached. Further, if we or our vendors experience significant data security breaches or fail to detect and appropriately respond to significant data security breaches, we could be exposed to government enforcement actions and private litigation.
+Summary
 
-Litigation, enforcement actions, fines or penalties could adversely impact our financial condition or results of operations and/or damage our reputation.
+Net Loss attributable to Royal Caribbean Cruises Ltd.and Adjusted Loss attributable to Royal Caribbean Cruises Ltd. for the first quarter of 2020 were $(1.4) billion and $(310.4) million, or $(6.91) and $(1.48) per share on a diluted basis, respectively, reflecting the impact of our suspension of global fleet sailings starting in mid-March, compared to Net Income attributable to Royal Caribbean Cruises Ltd. and Adjusted Net Income attributable Royal Caribbean Cruises Ltd. of $249.7 million and 
+$275.8 million, or $1.19 and $1.31 per share on a diluted basis, respectively, for the first quarter of 2019.
 
-Our business is subject to various U.S. and international laws and regulations that could lead to enforcement actions, fines, civil or criminal penalties or the assertion of litigation claims and damages. In addition, improper conduct by our employees, agents or joint venture partners could damage our reputation and/or lead to litigation or legal proceedings that could result in civil or criminal penalties, including substantial monetary fines. In certain circumstances it may not be economical 
-to defend against such matters and/or our legal strategy may not ultimately result in us prevailing in a matter. Such events could lead to an adverse impact on our financial condition or results of operations. In addition, we have experienced, and may continue to experience, increases in litigation pertaining to the COVID-19 crisis. We cannot predict the quantum or outcome of any such proceedings and the impact that they will have on our financial results, but any such impact may be material. 
-While some of these claims are covered by insurance, we cannot be certain that all of them will be, which could have an adverse impact on our financial condition or results of operations.
+Significant items for the quarter ended March 31, 2020 include:
 
-The potential unavailability of insurance coverage, an inability to obtain insurance coverage at commercially reasonable rates or our failure to have coverage in sufficient amounts to cover our incurred losses may adversely affect our financial condition or results of operations.
+• Total revenues, excluding the effect of changes in foreign currency exchange rates, decreased $385.3 million for the quarter ended March 31, 2020 as compared to the same period in 2019, reflecting the volume impact of our cancelled sailings during the first quarter of 2020 as a result of the COVID-19 pandemic.
 
-We seek to maintain appropriate insurance coverage at commercially reasonable rates. We normally insure based on the cost of an asset rather than replacement value and we also elect to self-insure, co-insure, or use deductibles in certain circumstances for certain risks such as loss of use of a ship or a cyber security breach. The limits of insurance coverage we purchase are based on the availability of the coverage, evaluation of our risk profile and cost of coverage. We do not carry business 
-interruption insurance and accordingly we have no insurance coverage for loss of revenues or earnings from our ships or other operations. Accordingly, we are not protected against all risks and we cannot be certain that our coverage will be adequate for liabilities actually incurred which could result in an unexpected decrease in our revenue and results of operations in the event of an incident.
+• The effect of changes in foreign currency exchange rates related to our passenger ticket and onboard and other revenue transactions, denominated in currencies other than the United States dollar, resulted in a decrease in total revenues of $21.6 million for the quarter ended March 31, 2020 compared to the same period in 2019.
 
-We are members of four Protection and Indemnity (“P&I”) clubs, which are part of a worldwide group of 13 P&I clubs, known as the International Group of P&I Clubs (the “IG”). P&I coverage provided by the clubs is on a mutual basis and we are subject to additional premium calls in the event of a catastrophic loss incurred by any member of the 13 P&I clubs, whereby the reinsurance limits purchased by the IG are exhausted. We are also subject to additional premium calls based on investment and 
-underwriting shortfalls experienced by our own individual insurers. Certain liabilities, costs, and expenses associated with the COVID-19 pandemic are insured by our participation in these P&I clubs.
+• Total cruise operating expenses, excluding the effect of changes in foreign currency exchange rates, increased $105.4 million for the quarter ended March 31, 2020 as compared to the same period in 2019. The increase was primarily due to incremental costs incurred as a result of the COVID-19 pandemic.
 
-We cannot be certain that insurance and reinsurance coverage will be available to us and at commercially reasonable rates in the future or at all or, if available, that it will be sufficient to cover potential claims. Additionally, if we or other insureds sustain significant losses, the result may be higher insurance premiums, cancellation of coverage, or the inability to obtain coverage. Such events could adversely affect our financial condition or results of operations.
+• The effect of changes in foreign currency exchange rates related to our cruise operating expenses, denominated in currencies other than the United States dollar, resulted in a decrease in total operating expenses of $8.3 million for the quarter ended March 31, 2020 compared to the same period in 2019.
 
-Environmental, labor, health and safety, financial responsibility and other maritime regulations could affect operations and increase operating costs.
+• During the quarter ended March 31, 2020, as a result of the current and expected ongoing impact of COVID-19 pandemic on our operations and cash flows, we recorded total impairment and credit losses of $1.1 billion related to goodwill, intangibles, vessels, operating lease right-of-use assets and credit losses related to other long-lived assets.
 
-The U.S. and various state and foreign government or regulatory agencies have enacted or may enact environmental regulations or policies, such as requiring the use of low sulfur fuels (e.g. IMO 2020), that could increase our direct cost to operate in certain markets, increase our cost for fuel, limit the supply of compliant fuel, cause us to incur significant expenses to purchase and/or develop new equipment and adversely impact the cruise vacation industry. While we have taken and expect to 
-continue to take a number of actions to mitigate the potential impact of certain of these regulations, there can be no assurances that these efforts will be successful or completed on a timely basis.
+• Our consolidated results of operations for the quarter ended March 31, 2020 include the results for October, November and December 2019 for Silversea Cruises due to the three month reporting lag for the entity.
 
-There is increasing global regulatory focus on climate change, greenhouse gas and other emissions. These regulatory efforts, both internationally and in the U.S. are still developing, and we cannot yet determine what the final regulatory programs or their impact will be in any jurisdiction where we do business. However, such climate change-related regulatory activity in the future may adversely affect our business and financial results by requiring us to reduce our emissions, purchase allowances
-or otherwise pay for our emissions. Such activity may also impact us by increasing our operating costs, including fuel costs.
+• In March 2020, we increased the capacity of our $1.7 billion and $1.2 billion unsecured revolving credit facilities due in 2024 and 2022, by $200 million and $400 million, respectively.
 
-In addition, we are subject to various international, national, state and local laws, regulations and treaties that govern, among other things, discharge from our ships, safety standards applicable to our ships, treatment of disabled persons, health and sanitary standards applicable to our guests, security standards on board our ships and at the ship/port interface areas, and financial responsibilities to our guests. These issues are, and we believe will continue to be, an area of focus by the 
-relevant authorities throughout the world. This could result in the enactment of more stringent regulation of cruise ships that could subject us to increasing compliance costs in the future.
+• In March 2020, we borrowed $2.2 billion pursuant to a 364-day senior secured term loan agreement which would have matured 364 days after funding and could have been extended at our option for an additional 364 days. Subsequently, the term loan was increased to $2.35 billion and was repaid on May 19, 2020.
 
-A change in our tax status under the U.S. Internal Revenue Code, or other jurisdictions, may have adverse effects on our income.
+• In March 2020, we took delivery of Celebrity Apex.
 
-We and a number of our subsidiaries are foreign corporations that derive income from a U.S. trade or business and/or from sources within the U.S. In connection with the year end audit, each year, Faegre Drinker Biddle & Reath LLP, our U.S. tax counsel, delivers to us an opinion, based on certain representations and assumptions set forth in it, to the effect that this income, to the extent derived from or incidental to the international operation of a ship or ships, is excluded from gross income 
-for U.S. federal income tax purposes pursuant to Section 883 of the Internal Revenue Code. We believe that most of our income (including that of our subsidiaries) is derived from or incidental to the international operation of ships.
+Operating results for the quarter ended March 31, 2020 compared to the same period in 2019 are shown in the following table (in thousands, except per share data):
 
-Our ability to rely on Section 883 could be challenged or could change in the future. Provisions of the Internal Revenue Code, including Section 883, are subject to legislative change at any time. Moreover, changes could occur in the future with respect to the identity, residence or holdings of our direct or indirect shareholders, trading volume or trading frequency of our shares, or relevant foreign tax laws of Liberia or Bahamas, such that they no longer qualify as equivalent exemption 
-jurisdictions, that could affect our eligibility for the Section 883 exemption. Accordingly, there can be no assurance that we will continue to be exempt from U.S. income tax on U.S. source shipping income in the future. If we were not entitled to the benefit of Section 883, we and our subsidiaries would be subject to U.S. taxation on a portion of the income derived from or incidental to the international operation of our ships, which would reduce our net income.
+                                                                      Quarter Ended March 31,                                                                  
+                                                                      2020                                                                               2019  
+ ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+                                                                                                                    % of Total                     % of Total  
+  Passenger ticket revenues                                           $                              1,376,851            67.7      1,709,984            70.1  
+  Onboard and other revenues                                                                           655,899            32.3        729,783            29.9  
+  Total revenues                                                                                     2,032,750           100.0      2,439,767           100.0  
+  Cruise operating expenses:                                                                                                                                   
+  Commissions, transportation and other                                                                317,129            15.6        363,155            14.9  
+  Onboard and other                                                                                    123,718             6.1        135,170             5.5  
+  Payroll and related                                                                                  330,390            16.3        269,532            11.0  
+  Food                                                                                                 121,316             6.0        139,534             5.7  
+  Fuel                                                                                                 194,268             9.6        160,171             6.6  
+  Other operating                                                                                      423,998            20.9        346,142            14.2  
+  Total cruise operating expenses                                                                    1,510,819            74.3      1,413,704            57.9  
+  Marketing, selling and administrative expenses                                                       395,890            19.5        414,947            17.0  
+  Depreciation and amortization expenses                                                               324,330            16.0        292,285            12.0  
+  Impairment and credit losses                                                                       1,108,118            54.5                              —  
+  Operating (Loss) Income                                                                          (1,306,407)          (64.3)        318,831            13.1  
+  Other (expense) income:                                                                                                                                      
+  Interest income                                                                                        5,534             0.3          9,784             0.4  
+  Interest expense, net of interest capitalized                                                       (92,911)           (4.6)      (100,415)           (4.1)  
+  Equity investment (loss) income                                                                     (10,392)           (0.5)         33,694             1.4  
+  Other expense                                                                                       (32,859)           (1.6)        (5,088)           (0.2)  
+                                                                                                     (130,628)           (6.4)       (62,025)           (2.5)  
+  Net (Loss) Income                                                                                (1,437,035)          (70.7)        256,806            10.5  
+  Less: Net Income attributable to noncontrolling interest                                               7,444             0.4          7,125             0.3  
+  Net (Loss) Income attributable to Royal Caribbean Cruises Ltd.      $                            (1,444,479)          (71.1)        249,681            10.2  
+  Diluted (Loss) Earnings per Share                                   $                                 (6.91)                           1.19                  
 
-Additionally, portions of our business are operated by companies that are within the United Kingdom tonnage tax regime. Further, some of our operations are conducted in jurisdictions where we rely on tax treaties to provide exemption from taxation. To the extent the United Kingdom tonnage tax laws change or we do not continue to meet the applicable qualification requirements or if tax treaties are changed or revoked, we may be required to pay higher income tax in these jurisdictions, adversely 
-impacting our results of operations.
+Adjusted Net (Loss) Income attributable to Royal Caribbean Cruises Ltd and Adjusted (Loss) Earnings per Share attributable to Royal Caribbean Cruises Ltd were calculated as follows (in thousands, except per share data):
 
-As budgetary constraints continue to adversely impact the jurisdictions in which we operate, increases in income tax regulations, tax audits or tax reform affecting our operations may be imposed.
+                                                                                              Quarter Ended March 31,                                          
+                                                                                              2020                                          2019               
+ ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Net (Loss) Income attributable to Royal Caribbean Cruises Ltd.                              $                            (1,444,479)      $         249,681  
+  Adjusted Net (Loss) Income attributable to Royal Caribbean Cruises Ltd.                                                    (310,412)                275,847  
+  Net Adjustments to Net (Loss) Income attributable to Royal Caribbean Cruises Ltd.           $                              1,134,067      $          26,166  
+  Adjustments to Net (Loss) Income attributable to Royal Caribbean Cruises Ltd.:                                                                               
+  Impairment and credit losses (1)                                                            $                              1,108,118      $               —  
+  Equity investment impairment (2)                                                                                              39,735      —                  
+  Change in fair value of the Silversea contingent consideration (3)                                                          (51,019)      —                  
+  Net insurance recoveries of Oasis of the Seas incident (4)                                                                   (1,938)      —                  
+  Restructuring charges and other initiatives expense (5)                                                                       12,043      —                  
+  Amortization of Silversea Cruises intangible assets resulting from the acquisition (3)                                         3,069                  3,069  
+  Noncontrolling interest adjustment (6)                                                                                        24,059                 21,911  
+  Transaction costs related to Silversea acquisition (3)                                      —                                                         1,186  
+  Net Adjustments to Net (Loss) Income attributable to Royal Caribbean Cruises Ltd.           $                              1,134,067      $          26,166  
+  Basic:                                                                                                                                                       
+  (Loss) Earnings per Share                                                                   $                                 (6.91)      $            1.19  
+  Adjusted (Loss) Earnings per Share                                                          $                                 (1.48)      $            1.32  
+  Diluted:                                                                                                                                                     
+  (Loss) Earnings per Share                                                                   $                                 (6.91)      $            1.19  
+  Adjusted (Loss) Earnings per Share                                                          $                                 (1.48)      $            1.31  
+  Weighted-Average Shares Outstanding:                                                                                                                         
+  Basic                                                                                                                        209,097                209,322  
+  Diluted                                                                                                                      209,097                209,874  
 
-We are not a U.S. corporation and our shareholders may be subject to the uncertainties of a foreign legal system in protecting their interests.
+(1) Represents asset impairment and credit losses recorded in the first quarter of 2020 as a result of the impact of COVID-19.
 
-Our corporate affairs are governed by our Articles of Incorporation and By-Laws and by the Business Corporation Act of Liberia. The provisions of the Business Corporation Act of Liberia resemble provisions of the corporation laws of a number of states in the U.S. However, while most states have a fairly well developed body of case law interpreting their respective corporate statutes, there are very few judicial cases in Liberia interpreting the Business Corporation Act of Liberia. As such, the 
-rights and fiduciary responsibilities of directors under Liberian law are not as clearly established as the rights and fiduciary responsibilities of directors under statutes or judicial precedent in certain U.S. States jurisdictions. For example, the right of shareholders to bring a derivative action in Liberian courts may be more limited than in U.S. jurisdictions. There may also be practical difficulties for shareholders attempting to bring suit in Liberia and Liberian courts may or may not 
-recognize and
+(2) Represents equity investment asset impairment, primarily for our investment in Grand Bahama Shipyard, recorded in the first quarter of 2020 as a result of the impact of COVID-19.
 
-enforce foreign judgments. Thus, our public shareholders may have more difficulty in protecting their interests with respect to actions by management, directors or controlling shareholders than would shareholders of a corporation incorporated in a U.S. jurisdiction.
+(3) Related to the Silversea Cruises acquisition.
 
-Provisions of our Articles of Incorporation, By-Laws and Liberian law could inhibit others from acquiring us, prevent a change of control, and may prevent efforts by our shareholders to change our management.
+(4) Amount includes net insurance recoveries related to the collapse of the drydock structure at the Grand Bahama Shipyard involving Oasis of the Seas.
 
-Certain provisions of our Articles of Incorporation and By-Laws and Liberian law may inhibit third parties from effectuating a change of control of the Company without approval from our board of directors which could result in the entrenchment of current management. These include provisions in our Articles of Incorporation that prevent third parties, other than A. Wilhelmsen AS. and Cruise Associates, from acquiring beneficial ownership of more than 4.9% of our outstanding shares without the 
-consent of our board of directors.
+(5) Represents restructuring charges incurred in relation to the reorganization of our international sales and marketing structure and other initiatives expenses.
 
-Item 2. Unregistered Sales of Equity Securities and Use of Proceeds
+(6) Adjustment made to exclude the impact of the contractual accretion requirements associated with the put option held by Silversea Cruises Group Ltd.'s noncontrolling interest.
 
-Share Repurchases
+Selected statistical information is shown in the following table:
 
-The following table provides information about our repurchase of common stock during the quarter ended March 31, 2020,
+                             Quarter Ended March 31, (1)                                            
+                             2020                                             2019                  
+  Passengers Carried                                          1,239,817                  1,533,226  
+  Passenger Cruise Days                                       8,467,106                 10,561,817  
+  APCD                                                        8,217,133                  9,860,600  
+  Occupancy                  103.0                                           107.1                  
 
-  Period                                    Total number of shares purchased (1)                  Average price paid per share                  Total number of shares purchased as part of publicly announced plans or programs      Approximate dollar value of shares that may yet be purchased under the plans or programs  
- ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
-  January 1, 2020 - January 31,2020         —                                                     —                                             —                                                                                                                                                                 $600,000,000  
-  February 1, 2020 - February 29, 2020      —                                                     —                                             —                                                                                                                                                                 $600,000,000  
-  March 1, 2020 - March 31, 2020                                                      52,927      $                                 111.47      —                                                                                                                                                                 $600,000,000  
-  Total                                                                               52,927      $                                 111.47                                                                                                                                                                                      
+(1) Due to the three-month reporting lag, these metrics include October, November and December amounts for Silversea Cruises.
 
-(1) Includes shares related to employee stock plans, primarily withheld by us to cover withholding taxes due at the election of certain holders.
+Gross Yields and Net Yields were calculated as follows (in thousands, except APCD and Yields):
 
-As of March 31, 2020, we have approximately $600.0 million that remains available for future stock repurchase transactions under a 24-month common stock repurchase program for up to $1.0 billion authorized by our board of directors on May 9, 2018. Subsequent to March 31, 2020, we agreed with our lenders not to engage in stock repurchases for so long as our debt covenant waivers are in effect.
+                                             Quarter Ended March 31,                                                                                                
+                                             2020                                        2020 On a Constant Currency Basis                     2019                 
+ ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Passenger ticket revenues                  $                            1,376,851      $                                      1,391,923      $         1,709,984  
+  Onboard and other revenues                                                655,899                                               662,465                  729,783  
+  Total revenues                                                          2,032,750                                             2,054,388                2,439,767  
+  Less:                                                                                                                                                             
+  Commissions, transportation and other                                     317,129                                               320,131                  363,155  
+  Onboard and other                                                         123,718                                               124,119                  135,170  
+  Net Revenues                               $                            1,591,903      $                                      1,610,138      $         1,941,442  
+  APCD                                                                    8,217,133                                             8,217,133                9,860,600  
+  Gross Yields                               $                               247.38      $                                         250.01      $            247.43  
+  Net Yields                                 $                               193.73      $                                         195.95      $            196.89  
 
-Item 6. Exhibits
+Gross Cruise Costs, Net Cruise Costs and Net Cruise Costs Excluding Fuel were calculated as follows (in thousands, except APCD and costs per APCD):
 
-  10.1      Form of Commitment Increase Agreement (incorporated by reference to Exhibit 10.1 to the C ompany 's C urrent R eport on Form 8-K filed on March 11, 2020).                                            
-  10.2      Form of Added Lender Agreement (incorporated by reference to Exhibit 10.2 to the C ompany 's C urrent R eport on Form 8-K filed on March 11, 2020).                                                   
-  10.3      Term Loan Agreement, dated as of March 23, 2020, among Royal Caribbean Cruises Ltd., the various financial institutions as are or shall become parties thereto and Morgan Stanley Senior Funding,...  
-  10.4      First Supplemental Agreement relating to Hull No. L34 at Chantiers de l’Atlantique (previously known as STX France S.A.), dated as of March 12, 2020, by and among Houatorris Finance Limited, Ch...  
-  10.5      First Supplemental Agreement relating to Hull No. M34 at Chantiers de l’Atlantique (previously known as STX France S.A.), dated as of March 12, 2020, by and among Hoediscus Finance Limited, Cha...  
-  10.6      First Supplemental Agreement relating to Hull No. C34 at Chantiers de l’Atlantique (previously known as STX France S.A.), dated as of March 12, 2020, by and among Hibisyeu Finance Limited as bo...  
- ──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
-  31.1      Certification of the Chairman and Chief Executive Officer pursuant to Rule 13a-14(a) of the Securities Exchange Act of 1934*                                                                          
-  31.2      Certification of the Chief Financial Officer pursuant to Rule 13a-14(a) of the Securities Exchange Act of 1934*                                                                                       
-  32.1      Certifications of the Chairman and Chief Executive Officer and the Chief Financial Officer pursuant to Rule 13a-14(b) of the Securities Exchange Act of 1934 and Section 1350 of Chapter 63 of Ti...  
+                                                                                                                    Quarter Ended March 31,                                                                                                
+                                                                                                                    2020                                        2020 On a Constant Currency Basis                     2019                 
+ ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Total cruise operating expenses                                                                                   $                            1,510,819      $                                      1,519,124      $         1,413,704  
+  Marketing, selling and administrative expenses (1) (2)                                                                                           383,847                                               385,694                  413,761  
+  Gross Cruise Costs                                                                                                                             1,894,666                                             1,904,818                1,827,465  
+  Less:                                                                                                                                                                                                                                    
+  Commissions, transportation and other                                                                                                            317,129                                               320,131                  363,155  
+  Onboard and other                                                                                                                                123,718                                               124,119                  135,170  
+  Net Cruise Costs Including Other Costs                                                                                                         1,453,819                                             1,460,568                1,329,140  
+  Less:                                                                                                                                                                                                                                    
+  Net insurance recoveries related to the Oasis of the Seas incident included within cruise operating expenses                                     (1,580)                                               (1,580)      —                    
+  Net Cruise Costs                                                                                                                               1,455,399                                             1,462,148                1,329,140  
+  Less:                                                                                                                                                                                                                                    
+  Fuel (3)                                                                                                                                         193,458                                               193,463                  160,171  
+  Net Cruise Costs Excluding Fuel                                                                                   $                            1,261,941      $                                      1,268,685      $         1,168,969  
+  APCD                                                                                                                                           8,217,133                                             8,217,133                9,860,600  
+  Gross Cruise Costs per APCD                                                                                       $                               230.58      $                                         231.81      $            185.33  
+  Net Cruise Costs per APCD                                                                                         $                               177.12      $                                         177.94      $            134.79  
+  Net Cruise Costs Excluding Fuel per APCD                                                                          $                               153.57      $                                         154.40      $            118.55  
 
-  Filed herewith      
-  Furnished herewith  
+(1) For the quarter ended March 31, 2020, the amount does not include restructuring charges and other initiatives expense of $12.0 million.
 
-Interactive Data File
+(2) For the quarter ended March 31, 2019, the amount does not include the transaction costs related to the Silversea Cruises acquisition of $1.2 million.
 
-101 The following financial statements of Royal Caribbean Cruises Ltd. for the period ended March 31, 2020, formatted in iXBRL (Inline extensible Reporting Language) are filed herewith:
+(3) For the quarter ended March 31, 2020, the amount does not include the fuel impact of the Oasis of the Seas incident of $0.8 million already considered to arrive at Net Cruise Costs.
 
-(i) the Consolidated Statements of Comprehensive Income (Loss) for the quarter ended March 31, 2020 and 2019;
+2020 Outlook
 
-(ii) the Consolidated Balance Sheets at March 31, 2020 and December 31, 2019;
+On March 10, 2020, we withdrew our full-year 2020 guidance due to the heightened impact and uncertainty of changes in the magnitude, duration and geographic reach of COVID-19. The duration and intensity of this global health crisis and related disruptions continue to be highly uncertain. The adverse impact of the COVID-19 pandemic on our revenues, consolidated results of operations, cash flows and financial condition will be material in 2020. We expect to report a loss for the second quarter 
+ended June 30, 2020 and the year ended December 31, 2020, the extent of which will depend on the timing and extent of our return to service. However, we cannot reasonably estimate the magnitude of the expected loss or any future results as it is not known when the COVID-19 pandemic will end, when or how quickly the current travel restrictions and advisories will be modified or cease to be necessary and the resulting impact on the global economy and the Company’s operations.
 
-(iii) the Consolidated Statements of Cash Flows for the three months ended March 31, 2020 and 2019; and
+Quarter Ended March 31, 2020 Compared to Quarter Ended March 31, 2019
 
-(iv) the Notes to the Consolidated Financial Statements, tagged in summary and detail.
+In this section, references to 2020 refer to the quarter ended March 31, 2020 and references to 2019 refer to the quarter ended March 31, 2019.
 
-104 Cover page interactive data file (the cover page XBRL tags are embedded within the Inline XBRL document).
+Revenues
 
-SIGNATURES
+Total revenues for 2020 decreased $407.0 million, or 16.7%, to $2.0 billion from $2.4 billion in 2019.
 
-Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
+Passenger ticket revenues comprised 67.7% of our 2020 total revenues. Passenger ticket revenues for 2020 decreased by $333.1 million, or 19.5%, from 2019. The decrease was due to a 16.7% decrease in capacity, which decreasedPassenger ticket revenues by $285.2 million, driven by our cancelled sailings resulting from the suspension of our global fleet operations in mid-March 2020 in response to the COVID-19 pandemic. To a lesser degree, we experienced decreased capacity due to a higher number of 
+drydock days in 2020, partially offset by the inclusion of Spectrum of the Seas in our fleet during the first quarter of 2020.
 
-  ROYAL CARIBBEAN CRUISES LTD.                                 
-  (Registrant)                                                 
-  /s/ JASON T. LIBERTY                                         
-  Jason T. Liberty                                             
-  Executive Vice President, Chief Financial Officer            
-  (Principal Financial Officer and duly authorized signatory)
+Passenger ticket revenues was also affected negatively by unfavorable foreign currency exchange rates movements related to our revenue transactions denominated in currencies other than the United States dollar of $15.0 million.
+
+The remaining 32.3% of 2020 total revenues was comprised ofOnboard and other revenues, which decreased $73.9 million, or 10.1%, to $655.9 million in 2020 from $729.8 million in 2019. The decrease inOnboard and other revenues was primarily due to the 16.7% decrease in capacity noted above, and was partially offset by higher cancellation fee revenue associated with non-refundable deposits.
+
+Unfavorable movements in foreign currency exchange rates related to our revenue transactions denominated in currencies other than the United States dollar decreased Onboard and other revenues by $6.6 million.
+
+Onboard and other revenues included concession revenues of $72.0 million in 2020 and $91.7 million in 2019.
+
+Cruise Operating Expenses
+
+TotalCruise operating expenses for 2020 increased $97.1 million, or 6.9%, to $1.5 billion from $1.4 billion in 2019. The increase was primarily due to:
+
+• a $60.8 million increase in Payroll and related costs primarily due to crew contract terminations and higher repatriation costs as a result our cancelled sailings due to the COVID-19 pandemic;
+
+• a $34.1 million increase in Fuel expenses;
+
+• an increase in commissions as a result of sailing cancellations, mostly recorded in Other operating and
+
+• to a lesser extent, an increase in running costs related to the inclusion of Spectrum of the Seas in 2020.
+
+The increase in Cruise operating expenses was partially offset by:
+
+• a $11.5 million decrease in Onboard and other expenses and $18.2 million decrease in Food due to the decrease in capacity discussed above and
+
+• the favorable effect of changes in foreign currency exchange rates related to our cruise operating expenses denominated in currencies other than the United States dollar of $8.3 million.
+
+Marketing, Selling and Administrative Expenses
+
+Marketing, selling and administrative expenses for 2020 decreased $19.1 million, or 4.6%, to $395.9 million from $414.9 million in 2019. The decrease was primarily due to a lower stock price year over year related to our performance share awards, partially offset by an increase in payroll and benefits expense primarily driven by an increase in headcount.
+
+Depreciation and Amortization Expenses
+
+Depreciation and amortization expenses for 2020 increased $32.0 million, or 11.0%, to $324.3 million from $292.3 million in 2019. The increase was primarily due to new shipboard additions associated with our 2019 ship modernization projects, additions related to A Perfect Day and the addition of Spectrum of the Seas in the first quarter of 2019.
+
+Impairment and Credit Losses
+
+During the quarter ended March 31, 2020, as a result of the current and expected ongoing impact of COVID-19 pandemic on our operations and cash flows, we recorded total impairment and credit losses of $1.1 billion related to goodwill, intangibles, vessels, operating lease right-of-use assets and credit losses related to other long-lived assets.
+
+Other Income (Expense)
+
+Interest expense, net of interest capitalizedfor 2020 decreased $7.5 million, or 7.5%, to $92.9 million from $100.4 million in 2019. The decrease was primarily due to lower interest rates overall and as a result of debt refinancing in 2019.
+
+Equity investment (loss) income was a loss of ($10.4) million for the three months ended March 31, 2020. The loss includes a $39.7 million impairment charge of equity investments, primarily Grand Bahama Shipyard, that we deemed to be impaired due to the impact of the COVID-19 pandemic to our business. Excluding the impairment loss, we reported equity investment income of $29.3 million in 2020 compared to income of $33.7 million in 2019.
+
+Other expense for 2020 increased $27.8 million to $32.9 million from $5.1 million in 2019. The increase was primarily due to a net $26.6 million loss related the change in fair value of fuel swaps with no hedge accounting and $11.1 million in foreign currency losses on the remeasurement of monetary assets.
+
+Gross and Net Yields
+
+Gross and Net Yields remained flat and decreased 1.6%, respectively, in 2020 compared to 2019. Gross and Net Yields on a Constant Currency basis increased 1.0% and decreased 0.5%, respectively, in 2020 compared to 2019.
+
+Gross and Net Cruise Costs
+
+Gross Cruise Costs increased 3.7% in 2020 compared to 2019 primarily due to the net increase in cruise operating expenses discussed above. Net Cruise Costs increased 9.5% in 2020 compared to 2019 primarily due to a decrease in Commissions, transportation and other and Onboard and other related to the decrease in capacity discussed above. Gross and Net Cruise Costs per APCD increased 24.4% and 31.4%, respectively, in 2020 compared to 2019 and Gross and Net Cruise Costs per APCD on a Constant 
+Currency basis increased 25.1% and 32.0%, respectively, in 2020 compared to 2019 due to the increase in Gross Cruise Costs and Net Cruise Costs discussed above applied to a lower number of APCD's in 2020.
+
+Net Cruise Costs Excluding Fuel
+
+Net Cruise Costs Excluding Fuel per APCD increased 29.5% in 2020 compared to 2019 and increased 30.2% in 2020 compared to 2019 on a Constant Currency basis.
+
+Other Comprehensive (Loss) Income
+
+Other comprehensive (loss) in 2020 was $(297.9) million compared to Other comprehensive income of $48.8 million in 2019. The increase in loss of $(346.7) million was primarily due to a Loss on cash flow derivative hedges in 2020 of $(300.6) million compared to a Gain on cash flow derivative hedgesin2019 of $48.8 million.
+
+Future Application of Accounting Standards
+
+Refer to Note 2. Summary of Significant Accounting Policies to our consolidated financial statements for further information on Recent Accounting Pronouncements.
+
+Liquidity and Capital Resources
+
+Sources and Uses of Cash
+
+As a result of the COVID-19 impact on our business, including the suspension of global sailings, we have experienced a decrease in bookings and an increase in customer deposit refunds in the first quarter of 2020 which has significantly affected our liquidity and cash flow. Net cash provided by operating activities decreased $879.7 million to $198.7 million for the first three months in 2020 compared to $1.1 billion for the same period in 2019. The current disruptions to our business led to a 
+decrease in customer deposits of $959.6 million in the first three months of 2020. Also affecting our operating cash flows, we experienced a decrease of Onboard and other revenues of $73.9 million and a decrease of $40.4 million in dividends received from unconsolidated affiliates during the first three months in 2020 compared to the same period in 2019.
+
+Net cash used in investing activitiesincreased $890.7 million to $1.3 billion for the first three months in 2020 compared to $450.4 million for the same period in 2019. The increase in investing activities was primarily attributable to an increase in
+
+capital expenditures of $782.4 million due to the delivery ofCelebrity Apex in the first three months of 2020 compared to no ship deliveries or purchases during the same period in 2019.
+
+Net cash provided by financing activities was$4.8 billion for the first three months in 2020 compared to Net cash used in financing activitiesof$667.7 million for the same period in 2019. The change was primarily attributable to an increase in debt proceeds of $6.7 billion for the first three months in 2020 compared to the same period in 2019, partially offset by an increase of debt repayments of $224.8 million. Also offsetting the increase in debt proceeds, was net repayments of commercial 
+paper of $1.1 billion during the first three months of 2020 compared to net borrowings of commercial paper of $328.6 million during the same period in 2019. The increase in debt proceeds was primarily due to the $2.2 billion 364-day senior secured term loan agreement and the $722.2 million unsecured term loan borrowed to financeCelebrity Apex, both borrowed in March 2020, and higher drawings on our revolving credit facilities, resulting in a fully drawn balance, during the first three months of 
+2020, compared to the same period in 2019.
+
+Future Capital Commitments
+
+Capital Expenditures
+
+As of March 31, 2020, our Global Brands and our Partner Brands have 16 ships on order. Their original contractual delivery dates and their approximate berths are listed below. COVID-19 has impacted shipyard operations and we expect that this will result in delivery delays of ships on order and will adjust the timing of our contractual ship deliveries:
+
+  Ship                                      Shipyard                       Contractual Delivery Date      Approximate  
+                                                                                                               Berths  
+ ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Royal Caribbean International —                                                                                      
+  Oasis-class:                                                                                                         
+  Wonder of the Seas                        Chantiers de l'Atlantique      2nd Quarter 2021                     5,700  
+  Unnamed                                   Chantiers de l'Atlantique      4nd Quarter 2023                     5,700  
+  Quantum-class:                                                                                                       
+  Odyssey of the Seas                       Meyer Werft                    4th Quarter 2020                     4,200  
+  Icon-class:                                                                                                          
+  Unnamed                                   Meyer Turku Oy                 2nd Quarter 2022                     5,600  
+  Unnamed                                   Meyer Turku Oy                 2nd Quarter 2024                     5,600  
+  Unnamed                                   Meyer Turku Oy                 2nd Quarter 2025                     5,600  
+  Celebrity Cruises —                                                                                                  
+  Edge-class:                                                                                                          
+  Celebrity Beyond                          Chantiers de l'Atlantique      4th Quarter 2021                     3,250  
+  Unnamed                                   Chantiers de l'Atlantique      4th Quarter 2022                     3,250  
+  Silversea Cruises —                                                                                                  
+  Silver Origin                             De Hoop                        2nd Quarter 2020                       100  
+  Muse-Class:                                                                                                          
+  Silver Moon                               Fincantieri                    3rd Quarter 2020                       550  
+  Silver Dawn                               Fincantieri                    3rd Quarter 2021                       550  
+  Evolution Class:                                                                                                     
+  Unnamed                                   Meyer Werft                    1st Quarter 2022                       600  
+  Unnamed                                   Meyer Werft                    1st Quarter 2023                       600  
+  TUI Cruises (50% joint venture) (2)—                                                                                 
+  Mein Schiff 7                             Meyer Turku Oy                 2nd Quarter 2023                     2,900  
+  Unnamed                                   Fincantieri                    3rd Quarter 2024                     4,100  
+  Unnamed                                   Fincantieri                    1st Quarter 2026                     4,100  
+  Total Berths                                                                                                 52,400  
+
+In April 2019, we entered into an agreement with Chantiers de l’Atlantique to build the fifth Edge-class ship for Celebrity Cruises. The ship is expected to have an aggregate capacity of approximately 3,200 berths and is expected to enter service in the
+
+fourth quarter of 2024. The order with Chantiers de l’Atlantique is contingent upon completion of conditions precedent and financing.
+
+Our future capital commitments consist primarily of new ship orders. As of March 31, 2020, the aggregate cost of our ships on order presented in the table above, excluding any ships on order by our Partner Brands, was $13.8 billion, of which we had deposited $810.9 million. Approximately 63.6% of the aggregate cost was exposed to fluctuations in the Euro exchange rate at March 31, 2020. These amounts do not include the ship order placed by Silversea Cruises during the reporting lag period. Refer
+to Note 13. Fair Value Measurements and Derivative Instruments to our consolidated financial statements.
+
+Decreased demand for cruising as a result of concerns regarding the COVID-19 pandemic has had, and is expected to continue to have, a material impact on our cash flows, liquidity and financial position. In order to preserve liquidity throughout the COVID-19 pandemic, we deferred a significant portion of our planned 2020 and 2021 capital expenditures. As of March 31, 2020, we anticipate overall full year capital expenditures, based on our existing ships on order, will be approximately $0.5 
+billion for 2020 and $2.1 billion for 2021. These amounts do not include any ships on order by our Partner Brands.
+
+Contractual Obligations
+
+As of March 31, 2020, our contractual obligations were as follows (in thousands):
+
+                                      Payments due by period                                                                                              
+                                                                                  Less than                                                               
+                                      Total                                       1 year                                                                  
+  Operating Activities:                                                                                                                                   
+  Operating lease obligations(1)      $                              915,129      $                127,273         219,304        168,384        400,168  
+  Interest on debt(2)                                              2,416,916                       516,618         826,821        454,155        619,322  
+  Other(3)                                                           510,721                       241,783         224,488         22,347         22,103  
+  Investing Activities:               0                                                                                                                   
+  Ship purchase obligations(4)                                    10,629,536                     1,551,358       4,920,903      2,981,077      1,176,198  
+  Financing Activities:               0                                                                                                                   
+  Commercial paper(5)                                                343,557                       343,557                                                
+  Debt obligations(6)                                             15,458,844                     3,377,652       4,902,203      3,361,788      3,817,201  
+  Finance lease obligations(7)                                       226,471                        34,342          49,605         10,601        131,923  
+  Other(8)                                                            19,132                         6,366           9,790          2,976                 
+  Total                               $                           30,520,306      $              6,198,949      11,153,114      7,001,328      6,166,915  
+
+(1) We are obligated under noncancelable operating leases primarily for preferred berthing arrangements, real estate and shipboard equipment. Amounts represent contractual obligations with initial terms in excess of one year.
+
+(2) Long-term debt obligations mature at various dates through fiscal year 2037 and bear interest at fixed and variable rates. Interest on variable-rate debt is calculated based on forecasted debt balances, including the impact of interest rate swap agreements using the applicable rate at March 31, 2020. Debt denominated in other currencies is calculated based on the applicable exchange rate at March 31, 2020. The interest related to the $2.2 billion 364-day secured term loan is reported in the 
+Less than 1 year column. Subsequent to March 31, 2020, the $2.2 billion 364-day term loan was fully repaid with a portion of the proceeds from the $3.32 billion secured bond issued in May 2020.
+
+(3) Amounts primarily represent future commitments with remaining terms in excess of one year to pay for our usage of certain port facilities, marine consumables, services and maintenance contracts.
+
+(4) Amounts are based on contractual installment and delivery dates for our ships on order. Included in these figures are $8.8 billion in final contractual installments, which have committed financing. COVID-19 has impacted shipyard operations and we expect that this will result in delivery delays of ships on order and will adjust the timing of our contractual ship deliveries. Amounts do not include potential obligations which remain subject to cancellation at our sole discretion or any 
+agreements entered for ships on order that remain contingent upon completion of conditions precedent. Additionally, amounts do not include activity related to Silversea Cruises, including ships placed on order, if any, during the three-month reporting lag period.
+
+(5) Refer to Note 7. Debt to our consolidated financial statements for further information.
+
+(6) Amounts represent debt obligations with initial terms in excess of one year. Debt denominated in other currencies is calculated based on the applicable exchange rate at March 31, 2020. In addition, debt obligations presented above are
+
+net of debt issuance costs of $254.7 million as of March 31, 2020. The $2.2 billion 364-day secured term loan is reported in the "Less than 1 year" column. Subsequent to March 31, 2020, the term loan was refinanced with debt maturing in 2023 and 2025.
+
+(7) Amounts represent finance lease obligations with initial terms in excess of one year, net of imputed interest.
+
+(8) Amounts represent fees payable to sovereign guarantors in connection with certain of our export credit debt facilities and facility fees on our revolving credit facilities.
+
+Please refer to Funding Needs and Sources for discussion on the planned funding of the above contractual obligations.
+
+As a normal part of our business, depending on market conditions, pricing and our overall growth strategy, we continuously consider opportunities to enter into contracts for the building of additional ships. We may also consider the sale of ships or the purchase of existing ships. We continuously consider potential acquisitions and strategic alliances. If any of these were to occur, they would be financed through the incurrence of additional indebtedness, the issuance of additional shares of 
+equity securities or through cash flows from operations.
+
+Off-Balance Sheet Arrangements
+
+TUI Cruises has entered into various ship construction and credit agreements that include certain restrictions on each of our and TUI AG’s ability to reduce our current ownership interest in TUI Cruises below 37.55% through May 2031.
+
+Some of the contracts that we enter into include indemnification provisions that obligate us to make payments to the counterparty if certain events occur. These contingencies generally relate to changes in taxes, increased lender capital costs and other similar costs. The indemnification clauses are often standard contractual terms and are entered into in the normal course of business. There are no stated or notional amounts included in the indemnification clauses and we are not able to estimate
+the maximum potential amount of future payments, if any, under these indemnification clauses. We have not been required to make any payments under such indemnification clauses in the past and, under current circumstances, we do not believe an indemnification obligation is probable.
+
+On April 2, 2020, S&P Global downgraded us from BBB- to BB and on May 13, 2020, Moody’s downgraded us from Baa3 to Ba2. Our access to, and cost of debt financing is negatively impacted by by the downgrades. Based on our current projected fair value of certain derivative instruments in net liability positions, on or prior to September 23, 2020, we will be required to post collateral of approximately $80.4 million as a result of the downgrades.
+
+As of March 31, 2020, other than the items described above, we are not party to any other off-balance sheet arrangements, including guarantee contracts, retained or contingent interest, certain derivative instruments and variable interest entities, that either have, or are reasonably likely to have, a current or future material effect on our financial position.
+
+Funding Needs and Sources
+
+Historically, we relied on a combination of cash flows provided by operations, draw downs under our available credit facilities, the incurrence of additional debt and/or the refinancing of our existing debt and the issuance of additional shares of equity securities to fund our obligations. The impact of COVID-19 resulted in our previously announced voluntary suspension of global cruise operations from March 13 through at least July 31, 2020 and China sailings until at least June 30, 2020. This 
+suspension of operations has strained our sources of cash flow and liquidity, causing us to take actions resulting in reductions in our operating expenses, reductions in our capital expenses and new financings and other liquidity actions.
+
+The Company continues to identify and evaluate further actions to improve its liquidity. These include and are not limited to: further reductions in capital expenditures, operating expenses and administrative costs and additional financings. See further discussion on these liquidity actions at Recent Developments - COVID-19.
+
+We have significant contractual obligations of which our debt service obligations and the capital expenditures associated with our ship purchases represent our largest funding needs. As of March 31, 2020, we had $8.8 billion of committed financing for final delivery installments on our ships on order.
+
+As of March 31, 2020, we had $6.2 billion in contractual obligations due through March 31, 2021, of which approximately $3.4 billion relates to debt maturities, $516.6 million relates to interest on debt and $1.6 billion relates to progress payments on our ship orders and the final installments payable due upon the delivery of Odyssey of the Seas, Silver Origin and Silver Moon, based on their contractual delivery dates. The $2.2 billion 364-day secured term loan is reported as maturing prior to 
+March 31, 2021; however, subsequent to March 31, 2020, the term loan was refinanced with debt maturing in 2023 and 2025.
+
+As of March 31, 2020, we had liquidity of $3.6 billion, consisting of cash and cash equivalents, net of commercial paper issuances. As of March 31, 2020, our revolving credit facilities were fully drawn. Subsequent to March 31, 2020, we agreed
+
+with certain of our lenders not to pay dividends or engage in stock repurchases. Refer to Note 11. Shareholders' Equity to our consolidated financial statements for further information.
+
+Based on our assumptions and estimates and our financial condition, we believe that the liquidity resulting from the actions mentioned above will be sufficient to fund our liquidity requirements over at least the next twelve months. However, there is no assurance that our assumptions and estimates are accurate due to possible unknown variables related this unprecedented suspension of our operations and, as such, there is inherent uncertainty in our ability to predict future liquidity 
+requirements.
+
+If any person acquires ownership of more than 50% of our common stock or, subject to certain exceptions, during any 24-month period, a majority of our board of directors is no longer comprised of individuals who were members of our board of directors on the first day of such period, we may be obligated to prepay indebtedness outstanding under our credit facilities, which we may be unable to replace on similar terms. Our public debt securities also contain change of control provisions that would 
+be triggered by a third-party acquisition of greater than 50% of our common stock coupled with a ratings downgrade. If this were to occur, it would have an adverse impact on our liquidity and operations.
+
+Debt Covenants
+
+Certain of our financing agreements contain covenants that require us, among other things, to maintain minimum net worth of at least $9.9 billion, a fixed charge coverage ratio of at least 1.25x and limit our net debt-to-capital ratio to no more than 62.5%. The fixed charge coverage ratio is calculated by dividing net cash from operations for the past four quarters by the sum of dividend payments plus scheduled principal debt payments in excess of any new financings for the past four quarters. 
+Our minimum net worth and maximum net debt-to-capital calculations exclude the impact of Accumulated other comprehensive lossonTotal shareholders’ equity.
+
+We were in compliance with our financial covenants as of March 31, 2020. However, we amended these debt agreements to waive the quarterly testing of our financing covenants through and including the first quarter of 2021. In addition to the above, as of March 31, 2020, we were not in compliance with one covenant in our Port of Miami Terminal "A" operating lease agreement which we subsequently obtained a waiver for and amended our agreement with the lessor to increase the lien basket in line with
+our debt facilities.
+
+As part of obtaining these debt compliance waivers, we are now required to maintain a minimum of $300 million in cash and cash equivalents tested on a monthly basis through March 31, 2021, and we are not permitted during the covenant waiver period, subject to limited exceptions, to pay cash dividends or make share repurchases unless we would have been compliant with our fixed charge coverage ratio at such time. In addition, the lenders under such unsecured bank facilities required a number of 
+structural enhancements to such facilities. Under certain of our agreements, the contractual interest rate, facility fee and/or export credit agency fee vary with our debt rating. On April 2, 2020, S&P Global downgraded us from BBB- to BB and on May 13, 2020, Moody’s downgraded us from Baa3 to Ba2.
+
+Any covenant waiver may lead to increased costs, increased interest rates, additional restrictive covenants and other available lender protections that would be applicable. There can be no assurance that we would be able to obtain waivers in a timely manner, or on acceptable terms at all. If we were not able to obtain waivers or repay the debt facilities, this would lead to an event of default and potential acceleration of amounts due under all of our outstanding debt and derivative contract 
+payables.
+
+Dividends
+
+During the first quarter of 2020, we declared a cash dividend on our common stock of $0.78 per share, which was paid in April 2020. During the first quarter of 2020, we also paid a cash dividend on our common stock of $0.78 per share, which was declared during the fourth quarter of 2019.
+
+During the first quarter of 2019, we declared a cash dividend on our common stock of $0.70 per share, which was paid in April 2019. During the first quarter of 2019, we also paid a cash dividend on our common stock of $0.70 per share, which was declared during the fourth quarter of 2018. Subsequent to March 31, 2020, we agreed with certain of our lenders not to pay dividends for so long as our debt covenant waivers are in effect.
+

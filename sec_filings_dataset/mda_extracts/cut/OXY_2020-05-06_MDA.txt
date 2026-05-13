@@ -1,0 +1,304 @@
+Item 2. Management’s Discussion and Analysis of Financial Condition and Results of Operations (MD&A)
+
+The following discussion should be read together with the Consolidated Condensed Financial Statements and the Notes to Consolidated Condensed Financial Statements, which are included in this report in Part I, Item 1; the information set forth in Risk Factors under Part II, Item 1A; the Consolidated Financial Statements and the Notes to the Consolidated Financial Statements, which are included in Part II, Item 8 of Occidental's Annual Report on Form 10-K for the year ended December 31, 2019 (the 
+2019 Form 10-K); and the information set forth in Risk Factors under Part I, Item 1A of the 2019 Form 10-K.
+
+  INDEX                                                                PAGE  
+  Cautionary Statement Regarding Forward-Looking Statements              29  
+  Current Business Outlook                                               30  
+  Consolidated Results of Operations                                     33  
+  Segment Results of Operations and Items Affecting Comparability        34  
+  Income Taxes                                                           38  
+  Liquidity and Capital Resources                                        39  
+  Environmental Liabilities and Expenditures                             39  
+  Lawsuits, Claims, Commitments and Contingencies                        40  
+  Recently Adopted Accounting and Disclosure Changes                     40  
+
+  CAUTIONARY STATEMENT REGARDING FORWARD-LOOKING STATEMENTS  
+
+In this report, “Occidental” means Occidental Petroleum Corporation (OPC), or OPC and one or more entities in which it owns a controlling interest (subsidiaries). Portions of this report contain forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended. All statements other than statements of historical fact are “forward-looking statements” for purposes of federal and state securities
+laws, and they include, but are not limited to: any projections of earnings, revenue or other financial items or future financial position or sources of financing; any statements of the plans, strategies and objectives of management for future operations or business strategy; any statements regarding future economic conditions or performance; any statements of belief; and any statements of assumptions underlying any of the foregoing. Words such as “estimate,” “project,” “predict,” “will,” 
+“would,” “should,” “could,” “may,” “might,” “anticipate,” “plan,” “intend,” “believe,” “expect,” “aim,” “goal,” “target,” “objective,” “likely” or similar expressions that convey the prospective nature of events or outcomes are generally indicative of forward-looking statements. You should not place undue reliance on these forward-looking statements, which speak only as of the date of this report. Unless legally required, Occidental does not undertake any obligation to update, modify or withdraw
+any forward-looking statements as a result of new information, future events or otherwise.
+
+Although Occidental believes that the expectations reflected in any of our forward-looking statements are reasonable, actual results may differ from anticipated results, sometimes materially. Factors that could cause results to differ from those projected or assumed in any forward-looking statement include, but are not limited to: the extent to which Occidental is able to successfully integrate Anadarko Petroleum Corporation (Anadarko), manage expanded operations and realize the anticipated 
+benefits of combining Occidental and Anadarko; the scope and duration of the COVID-19 pandemic and actions taken by governmental authorities and other third parties in response to the pandemic; Occidental’s indebtedness and other payment obligations, including the need to generate sufficient cash flows to fund operations; Occidental’s ability to successfully monetize select assets, repay or refinance debt and the impact of changes to Occidental’s credit ratings; assumptions about energy markets 
+and fluctuations in global and local commodity and commodity-futures prices; supply and demand considerations for, and the prices of, Occidental’s products and services; actions by OPEC and non-OPEC oil producing countries; results from operations and competitive conditions; unexpected changes in costs; availability of capital resources, levels of capital expenditures and contractual obligations; the regulatory approval environment; not successfully completing, or any material delay of, field 
+developments, expansion projects, capital expenditures, efficiency projects, acquisitions or dispositions; uncertainties and liabilities associated with acquired and divested properties and businesses; risks associated with acquisitions, mergers and joint ventures, such as difficulties integrating businesses, uncertainty associated with financial projections, projected synergies, restructuring, increased costs and adverse tax consequences; uncertainties about the estimated quantities of oil, 
+natural gas and natural gas liquids reserves; lower-than-expected production from development projects or acquisitions; Occidental’s ability to realize the anticipated benefits from prior or future streamlining actions to reduce fixed costs, simplify or improve processes and improve Occidental’s competitiveness; exploration, drilling or other operational risks; disruptions to, capacity constraints in, or other limitations on the pipeline systems that deliver Occidental’s oil and natural gas and 
+other processing and transportation considerations; general economic conditions, including slowdowns, domestically or internationally, and volatility in the securities, capital or credit markets; uncertainty from the expected discontinuance of LIBOR and transition to any other interest rate benchmark; adverse tax consequences; governmental actions and political conditions and events; legislative or regulatory changes; environmental risks and liability under international, provincial, federal, 
+regional, state, tribal, local and foreign environmental laws and regulations (including remedial actions); asset and goodwill impairments; litigation; disruption or interruption of production or manufacturing or facility damage due to accidents, chemical releases, labor unrest, weather, natural disasters, cyber-attacks or insurgent activity; the creditworthiness and performance of our counterparties; failure of risk management; Occidental’s ability to retain and hire key personnel; 
+reorganization or restructuring of Occidental’s operations; changes in tax rates; and actions by third parties that are beyond Occidental's control. The unprecedented nature of the COVID-19 pandemic and recent market decline may make it more difficult to identify potential risks, give rise to risks that are currently unknown or amplify the impact of known risks.
+
+Additional information concerning these and other factors can be found in Occidental’s filings with the U.S. Securities and Exchange Commission, including Occidental’s 2019 Form 10-K, Quarterly Reports on Form 10-Q and Current Reports on Form 8-K.
+
+  CURRENT BUSINESS OUTLOOK  
+
+Occidental’s operations, financial condition, cash flows and levels of expenditures are highly dependent on oil prices and, to a lesser extent, natural gas and NGL prices, the Midland to Gulf Coast oil spreads and the prices it receives for its chemical products. Beginning in the first quarter of 2020, the worldwide economy has been severely impacted by the ongoing effects of the COVID-19 pandemic, which has resulted in a dramatic reduction in oil and gas demand as travel restrictions and 
+stay-at-home orders are in place for much of the world. In March 2020, despite falling demand, certain members of the Organization of the Petroleum Exporting Countries and its broader partners (OPEC+) announced their intention to increase crude oil production, and the resulting oversupply led to further declines in oil and gas prices. Since March 6, 2020, the date that OPEC+ did not initially agree on production cuts, the spot price for West Texas Intermediate (WTI) fell approximately 63 
+percent, closing on March 31, 2020 at $20.48. On April 12, 2020, certain members of OPEC+ agreed to production cuts intended to mitigate the oil supply and demand imbalance to stabilize prices; however, these production cuts are not expected to be enough to offset near-term demand loss attributable to the COVID-19 pandemic and near-term oil prices have continued to decline throughout April 2020. As of April 30, 2020, the oil futures price for the remainder of calendar 2020 is down approximately 
+20% from March 31, 2020. In addition, oil spreads and pricing at physical markets have been negatively impacted and domestic storage capacity is expected to be fully utilized by the end of May 2020. We expect that oil prices and the availability of storage capacity in the near-term will continue to be influenced by the duration and severity of the COVID-19 pandemic and its resulting impact on oil and gas demand and the extent to which countries abide by the OPEC+ production agreement.
+
+LIQUIDITY
+
+In response to the dramatic drop in oil prices, Occidental has taken significant measures to reduce its 2020 capital expenditures and cash operating and corporate costs to increase its liquidity. Specifically, Occidental has:
+
+• Reduced its 2020 capital budget to a range of $2.4 to $2.6 billion from $5.2 to $5.4 billion, a midpoint reduction of more than 50%;
+
+• Made significant cuts to its 2020 operating and corporate costs that are expected to result in cash savings of over $1.0 billion, including significant salary reductions for officers and employees;
+
+• Announced the Board of Directors' intention on March 10, 2020 to reduce the quarterly common stock dividend to $0.11 per share from $0.79 per share, effective July 2020, subject to Board approval, which on an annualized basis will reduce its dividend outlay by approximately $2.4 billion to enhance Occidental’s liquidity;
+
+• Elected to pay its quarterly dividend on the Series A preferred stock in the form of shares of common stock, in lieu of cash, for the second quarter 2020, preserving $200 million of liquidity. The Board of Directors will assess market conditions and Occidental's financial position on a quarterly basis to determine whether the Series A preferred stock dividend will be paid in shares of common stock, in cash or a combination of shares of common stock and cash; and
+
+• Availed itself of certain temporary tax and deferred pension funding measures included in the Coronavirus Aid, Relief and Economic Security (CARES) Act, which is expected to increase its 2020 liquidity by an estimated $275 million.
+
+Occidental entered into three-way oil collar derivative instruments in 2019 to reduce its exposure to commodity-price risk and increase the predictability of near-term cash flows. As of March 31, 2020, these three-way oil collars covered 350 MBOED for the remainder of calendar year 2020. As of March 31, 2020, Occidental had a receivable of $108 million associated with these instruments, which was received in April 2020, and the remaining net fair value of the three-way collars was $776 million. 
+SeeNote 6 - Derivative s in the Notes to Consolidated Condensed Financial Statements in Part I, Item 1 of this Form 10-Q.
+
+Occidental believes that the significant actions outlined above enhance its liquidity position to fund its operations. Occidental will continue to evaluate the economic environment as well as the commodity price environment and may make further adjustments to its levels of expenditures, operating and corporate costs and dividends. However, the ultimate impact of the COVID-19 pandemic on Occidental's results of operations, cash flows and financial position are unknown, and those impacts could be 
+material. Additionally, actions taken in response to the current macro-environment may result in the long-term reduction of its capital expenditure and production profile.
+
+DEBT MATURITIES
+
+As of March 31, 2020, Occidental had $2.0 billion of cash and cash equivalents on hand, and as of the date of this filing, $5 billion of borrowing capacity under its existing revolving credit facility (RCF) which matures in 2023. Occidental has debt maturities of approximately $6.4 billion in 2021 (including $2.4 billion due in the first quarter of 2021) and $4.7 billion in 2022. In addition, Occidental’s Zero Coupon senior notes due 2036 (Zero Coupons) have an aggregate principal amount due at 
+maturity of approximately $2.3 billion in 2036. The Zero Coupons can be put to Occidental in
+
+October of each year, in whole or in part, for the then-accreted value of the outstanding Zero Coupons. The Zero Coupons can next be put to Occidental in October 2020, which, if put in whole, would require a payment of $992 million at such date. Occidental currently has the intent and ability to meet this obligation using amounts available under the RCF should the put right be exercised.
+
+Occidental continues to pursue divestitures of certain assets and intends to use the proceeds from any asset sales to repay its nearer-term debt maturities, but the expected timing and final proceeds from such asset sales are uncertain. While Occidental currently expects its cash on hand and funds available under its RCF to be sufficient to meet its debt maturities, operating expenditures and other obligations for the next twelve months from the date of this filing; given the inherent 
+uncertainty associated with the duration and severity of the COVID-19 pandemic and its resulting impact on oil demand, Occidental may need to seek additional liquidity sources, extend debt maturities, or both, to fund its operations.
+
+DEBT RATINGS
+
+In March 2020, Occidental's long-term debt credit ratings were downgraded. As of March 31, 2020, Occidental’s long-term debt was rated BB+ by both Standard and Poor’s (S&P) and Fitch Ratings (Fitch), and Ba1 by Moody’s Investors Service (Moody’s). The downgrade in credit ratings could impact Occidental's ability to access capital and increase its cost of capital. In addition, as a result of the credit ratings downgrades, Occidental may be requested, and in some cases required, to provide 
+collateral in the form of letters of credit, surety bonds, cash or other acceptable support as financial assurance of its performance and payment obligations under certain contractual arrangements such as pipeline transportation contracts, oil and gas purchase contracts and certain derivative instruments. As of the date of this filing, Occidental has provided financial assurances through a combination of cash, surety bonds, and letters of credit made available to us on a bilateral basis and have
+not issued any letters under the RCF. For additional information, seeRisk Factors in Part 1, Item 1A of Occidental’s 2019 Form 10-K.
+
+IMPACT OF COVID-19 PANDEMIC TO GLOBAL OPERATIONS
+
+Occidental is focused on protecting the health and safety of its employees and contractors during the COVID-19 pandemic. Occidental has already implemented workplace restrictions, including guidance for our employees to work remotely if able, in our offices and work sites for health and safety reasons and are continuing to monitor national, state and local government directives. To date, Occidental has not incurred any significant disruptions to its day-to-day operations as a result of any 
+workplace restrictions related to the COVID-19 pandemic.
+
+Occidental's current and future operations are impacted by the low crude oil price environment. Measures taken by management to reduce 2020 capital and operating expenditures to increase liquidity have resulted in certain onshore oil and gas production to be temporarily shut-in resulting in declines in future production. In addition to temporary shut-ins, Occidental and other U.S. producers started reducing drilling operations as early as mid-March 2020. Domestic crude oil supply continues to 
+exceed demand, which has led to record level of storage builds across the United States and globally. As storage capacity fills, possibly as early as the end of May 2020, Occidental may be forced to curtail some portion of our production. Depending on the length and severity of the current environment and management's response, additional declines in production declines may occur.
+
+POTENTIAL FOR ADDITIONAL FUTURE IMPAIRMENTS
+
+The precipitous fall in oil prices resulted in Occidental recognizing asset impairments of approximately $534 million in the first quarter of 2020. These impairments were primarily associated with project cancellations, expiring leaseholds as a result of the decrease in near-term capital spending and assets nearing the end of their productive life. Since March 31, 2020, the near-term futures price for oil has decreased, as inventory and supply imbalances, and limitations on available domestic 
+storage capacity, have magnified as a result of the pandemic-related drop in demand for oil. As such, based on the conditions existing as of the date of this filing, it is likely that most, if not all, of Occidental’s oil and properties will be tested for impairment during the second quarter of 2020, which could result in additional non-cash asset impairments, and such impairments could be material to Occidental’s consolidated financial statements. Occidental’s net book value with respect to its
+proved and unproved oil and gas properties was $67 billion as of March 31, 2020. This includes $44 billion related to oil and gas properties that were recorded at fair value as of the date of the Acquisition. The three-year average WTI oil futures price was approximately $51 per barrel on the date the Acquisition closed.
+
+In addition, in the first quarter of 2020 Occidental fully impaired $1.2 billion of goodwill that was related to its investment in WES. Given the significant drop in WES’s market capitalization from year-end 2019, Occidental determined that it was more likely than not that the fair value of the reporting unit was below the carrying value of the reporting unit. Occidental’s equity method investment carrying amount in WES is $4.8 billion as of March 31, 2020. The initial carrying amount was 
+established based on WES’s market capitalization as of December 31, 2019 upon Occidental’s loss of control of WES’s general partner, and accordingly, Occidental has concluded that the short-term loss in value did not meet the other-than-temporary criteria under accounting literature governing equity method investments as of March 31, 2020. However, if WES’s unit price remains significantly below its year-end 2019 unit price
+
+for a sustained period of time, Occidental would be required to reduce the carrying amount of its equity method investment in WES.
+
+PROVED RESERVES
+
+Occidental's proved reserves are estimated using the unweighted arithmetic average of the first-day-of-the-month price for each month within the applicable year. The average prices used to compute proved reserves at December 31, 2019, were $55.69 per barrel for WTI, $63.03 per barrel for Brent, and $2.58 per MMBtu for Henry Hub. The current commodity price environment is significantly lower than the average prices above, closing at $20.48 per barrel for WTI, $22.74 per barrel for Brent and $1.64
+per MMBtu for Henry Hub on March 31, 2020. The average first-day-of-the-month prices for first five months of 2020 are $39.49 per barrel for WTI, $45.17 per barrel for Brent, and $1.80 per MMBtu for Henry Hub. If commodity prices continue to remain below the average prices used to estimate December 2019 proved reserves, Occidental would expect negative price-related reserve revisions during 2020, the magnitude of which could be significant. In addition, as Occidental lowers its projected capital
+spending this could result in a material amount of proved undeveloped reserves no longer being supportable within a five-year development plan and thus no longer meeting the criteria to be classified as proved. Occidental had proved undeveloped reserves of 904 MMBOE at December 31, 2019.
+
+The most significant ongoing financial statement effect from a change in Occidental’s oil and gas reserves or impairment of its proved properties would be to the DD&A rate. For example, a 5% increase or decrease in the amount of oil and gas reserves would change the DD&A rate by approximately $1.15 per barrel, which would increase or decrease pre-tax income by approximately $530 million annually at current production rates.
+
+  CONSOLIDATED RESULTS OF OPERATIONS  
+
+Occidental reported a loss from continuing operations of $2.0 billion for the first quarter of 2020 on net sales of $6.4 billion, compared to income from continuing operations of $631 million on net sales of $4.0 billion for the first quarter of 2019. Diluted earnings from continuing operations per share was a loss of $2.49 for the first quarter of 2020 compared to earnings of $0.84 for the first quarter of 2019.
+
+Excluding the impact of asset impairments, gains on the oil collars and calls, net losses on the interest rate swaps and acquisition-related costs the decrease in income from continuing operations for the three months ended March 31, 2020, compared to the same periods in 2019, is primarily related to lower crude oil prices, lower realized caustic soda prices and lower marketing margins, the effects of which were partially offset by higher crude oil production volumes acquired with the 
+Acquisition.
+
+SELECTED STATEMENTS OF OPERATIONS ITEMS
+
+Net sales increased for the three months ended March 31, 2020, compared to the same period in 2019, primarily due to increased production from the assets acquired through the Acquisition. These results were partially offset by lower oil prices.
+
+Oil and gas operating expense and transportation expense increased for the three months ended March 31, 2020, compared to the same period in 2019, primarily due to higher production costs for surface operations and maintenance due to increased production as a result of the Acquisition. Purchased commodities increased for the three months ended March 31, 2020, compared to the same period in 2019, due to higher third-party crude purchases related to the midstream and marketing segment. DD&A 
+(depreciation, depletion and amortization) expense increased for the three months ended March 31, 2020, compared to the same period in 2019, primarily due to depreciation associated with assets acquired through the Acquisition.
+
+Interest and debt expense, net, increased for the three months ended March 31, 2020, compared to the same period in 2019, due to the increase in debt issued to partially fund the Acquisition, as well as the debt assumed through the Acquisition.
+
+The decrease in the provision for income taxes for the three months ended March 31, 2020 compared to the same period in 2019 reflects lower pre-tax income which is primarily offset by the impairment of the WES goodwill and foreign assets, for which the company receives no tax benefit.
+
+The difference between the 4 percent effective tax rate for the first quarter of 2020 and the 21 percent U.S. federal statutory tax rate is primarily driven by the impairment of the WES goodwill and foreign assets, for which the company receives no tax benefit.
+
+  SEGMENT RESULTS OF OPERATIONS AND ITEMS AFFECTING COMPARABILITY  
+ ───────────────────────────────────────────────────────────────────
+
+SEGMENT RESULTS OF OPERATIONS
+
+Occidental’s principal businesses consist of three reporting segments: oil and gas, chemical, and midstream and marketing. The oil and gas segment explores for, develops and produces oil and condensate, natural gas liquids (NGL) and natural gas. The chemical segment (OxyChem) mainly manufactures and markets basic chemicals and vinyls. The midstream and marketing segment purchases, markets, gathers, processes, transports and stores oil, condensate, NGL, natural gas, carbon dioxide (CO2) and 
+power. It also trades around its assets, including transportation and storage capacity, and invests in entities that conduct similar activities such as Western Midstream Partners, L.P. (WES).
+
+The following table sets forth the sales and earnings of each operating segment and corporate items for the three months ended March 31, 2020, and 2019:
+
+                                                Three months ended March 31,                                              
+  millions                                      2020                                                    2019              
+ ──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Net sales (a)                                                                                                           
+  Oil and Gas                                   $                                   4,857               $          2,351  
+  Chemical                                      962                                                                1,059  
+  Midstream and Marketing                       790                                                     816               
+  Eliminations                                  (199)                                                   (222)             
+  Total                                         $                                   6,410               $          4,004  
+  Income from continuing operations                                                                                       
+  Oil and Gas                                   $                                     179      (b)      $            484  
+  Chemical                                      186                                                     265               
+  Midstream and Marketing                                                         (1,287)      (c)      279               
+  Total                                         $                                   (922)               $          1,028  
+  Unallocated corporate items                                                                                             
+  Interest expense, net                         (352)                                                   (83)              
+  Income tax benefit (expense)                  82                                                      (225)             
+  Other items, net                              (821)                                          (d)      (89)              
+  Income (loss) from continuing operations      $                                 (2,013)               $            631  
+
+(a) Intersegment sales eliminate upon consolidation and are generally made at prices approximating those that the selling entity would be able to obtain in third-party transactions.
+
+(b) Includes $317 million related to domestic asset impairments and other charges, $952 million gain on the oil collars and calls and $264 million related to foreign asset impairments for the three months ended March 31, 2020.
+
+(c) Includes $1.4 billion impairment related to the write-off of goodwill and a loss from an equity investment related to WES's write-off of its goodwill for the three months ended March 31, 2020.
+
+(d) Includes $148 million in expenses related to Anadarko acquisition-related costs, $669 million loss on interest rate swaps and $84 million in warrant gains for the three months ended March 31, 2020.
+
+ITEMS AFFECTING COMPARABILITY
+
+The following table sets forth items affecting the comparability of Occidental's earnings that either arose in connection with the Acquisition or vary widely and unpredictably in nature, timing, and amount:
+
+  millions                                                             
+ ───────────────────────────────────────────────────────────────────────
+  Oil and Gas                                                          
+  Asset impairments - domestic                     $            (317)  
+  Asset impairments - international                (264)               
+  Oil collars mark-to-market gain                  952                 
+  Total oil and gas                                $              371  
+  Midstream and Marketing                                              
+  Goodwill impairment and equity losses            $          (1,458)  
+  Corporate                                                            
+  Anadarko acquisition-related costs               $            (148)  
+  Interest rate swaps mark-to-market loss          (669)               
+  Total corporate                                  $            (733)  
+  Total                                            $          (1,765)  
+
+There were no items affecting comparability for the three months ended March 31, 2019.
+
+OIL AND GAS SEGMENT
+
+Oil and gas segment earnings were $179 million for the three months ended March 31, 2020, compared with segment earnings of $484 million for the same period of 2019. Excluding the impact of asset impairments and other charges and gains on the oil collars and calls, the decrease in earnings primarily reflected lower realized crude oil, NGL and natural gas prices, partially offset by higher crude oil, NGL and natural gas sales volumes mostly due to added production from the Acquisition.
+
+The following table sets forth the total sales volumes per day for oil and NGL in thousands of barrels (MBBL) or millions of cubic feet per day for natural gas (MMCF):
+
+                                                      Three months ended March 31,                       
+                                                                              2020                 2019  
+ ─────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Sales Volumes per Day                                                                                  
+  Oil (MBBL)                                                                                             
+  United States                                                                662                  277  
+  Middle East                                                                   85                  139  
+  Latin America                                                                 35                   27  
+  NGL (MBBL)                                                                                             
+  United States                                                                230                   79  
+  Middle East                                                                   33                   34  
+  Natural Gas (MMCF)                                                                                     
+  United States                                                                         1,695       389  
+  Middle East                                                                  528                  544  
+  Latin America                                                                  8                    6  
+  Total Continuing Operations Volumes (MBOE) (a)                                        1,417       713  
+  Discontinued Operations - Africa                                              78                    —  
+  Total Sales Volumes (MBOE) (a)                                                        1,495       713  
+
+(a) Natural gas volumes have been converted to barrels of oil equivalent (BOE) based on energy content of six MCF of gas to one barrel of oil. Barrels of oil equivalent does not necessarily result in price equivalence.
+
+Average daily sales volumes from continuing operations were 1,417 thousands of barrels of oil equivalent per day (MBOED) for the first quarter of 2020, compared to 713 MBOED for the first quarter of 2019. The increase in average daily sales volumes from continuing operations of 704 MBOED is primarily due to acquired production from the Acquisition, including 326 MBOED in the DJ Basin, 180 MBOED in the Delaware Basin and 163 MBOED in the Gulf of Mexico.
+
+The following table presents information about Occidental's average realized prices and index prices:
+
+                                                                     Three months ended March 31,                                  
+                                                                     2020                                         2019             
+ ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Average Realized Prices                                                                                                          
+  Oil ($/BBL)                                                                                                                      
+  United States                                                      $                                 45.71      $         48.38  
+  Middle East                                                        $                                 57.75      $         60.50  
+  Latin America                                                      $                                 47.20      $         55.52  
+  Total Worldwide                                                    $                                 47.08      $         52.62  
+  NGL ($/BBL)                                                                                                                      
+  United States                                                      $                                 11.98      $         16.79  
+  Middle East                                                        $                                 18.85      $         21.30  
+  Total Worldwide                                                    $                                 12.82      $         18.14  
+  Natural Gas ($/MCF)                                                                                                              
+  United States                                                      $                                  1.18      $          1.36  
+  Latin America                                                      $                                  6.62      $          7.37  
+  Total Worldwide                                                    $                                  1.32      $          1.55  
+  Average Index Prices                                                                                                             
+  WTI oil ($/BBL)                                                    $                                 46.17      $         54.90  
+  Brent oil ($/BBL)                                                  $                                 50.95      $         63.90  
+  NYMEX gas ($/MCF)                                                  $                                  2.05      $          3.24  
+  Average Realized Prices as Percentage of Average Index Prices                                                                    
+  Worldwide oil as a percentage of average WTI                       102                                          96               
+  Worldwide oil as a percentage of average Brent                     92                                           82               
+  Worldwide NGL as a percentage of average WTI                       28                                           33               
+  Domestic natural gas as a percentage of average NYMEX              58                                           42               
+
+CHEMICAL SEGMENT
+
+Chemical segment earnings for the three months ended March 31, 2020, and 2019 were $186 million and $265 million, respectively. The decline in the first quarter of 2020 primarily reflected a decline in realized caustic soda prices slightly offset by lower raw material ethylene and natural gas costs.
+
+MIDSTREAM AND MARKETING SEGMENT
+
+Midstream and marketing segment loss for the three months ended March 31, 2020 was $1.3 billion compared with earnings of $279 million for the same period in 2019. Segment losses for the three months ended March 31, 2020 included impairments and related charges of $1.4 billion, primarily related to the impairment of goodwill related to WES, a loss from an equity investment related to WES's write-off of its goodwill and impairments to record inventory at the lower of cost or net realizable value.
+Excluding these impairments, midstream and marketing earnings declined compared to the prior period mainly due to the decline in crude oil spreads on increased marketing volume as a result of the Acquisition, lower sulfur prices impacting gas processing and lower pipeline income from the sale of the Plains equity investment in the third quarter of 2019.
+
+  INCOME TAXES  
+
+The following table sets forth the calculation of the worldwide effective tax rate for income from continuing operations:
+
+                                                                    Three months ended March 31,                                     
+  millions, except percentages                                      2020                                           2019              
+ ─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Income (loss) from continuing operations before income taxes      $                                 (2,095)      $            856  
+  Income tax (expense) benefit                                                                                                       
+  Federal and state                                                 90                                             (74)              
+  Foreign                                                           (8)                                            (151)             
+  Total income tax (expense) benefit                                $                                      82      $          (225)  
+  Income (loss) from continuing operations                          $                                 (2,013)      $            631  
+  Worldwide effective tax rate                                      4                                              26                
+
+The difference between the 4 percent effective tax rate for the first quarter of 2020 and the 21 percent U.S. federal statutory tax rate is primarily driven by the impairment of the WES goodwill and foreign assets, for which the company receives no tax benefit.
+
+On March 27, 2020, the President signed into law the Coronavirus Aid, Relief and Economic Security Act (hereafter, CARES Act), an economic stimulus package in response to the COVID-19 pandemic. The CARES Act contains several corporate income tax provisions, including provisions allowing for immediate refund of remaining unutilized AMT credits as well as allowing a 5-year carryback of net operating losses generated in tax years 2018, 2019, and 2020. Occidental anticipates a cash refund of 
+approximately $195 million as a result of the aforementioned AMT credit and NOL carryback provisions enacted as of March 31, 2020. However, Occidental does not currently expect the various provisions of the CARES Act to have a material effect on current income tax expense or the realizability of deferred income tax assets. Occidental will continue to monitor additional guidance issued by the U.S. Treasury Department and the Internal Revenue Service.
+
+  LIQUIDITY AND CAPITAL RESOURCES  
+
+At March 31, 2020, Occidental had $2.0 billion in cash and cash equivalents and $0.2 billion in restricted cash and restricted cash equivalents, which was primarily associated with a benefits trust for former Anadarko employees that was funded as part of the Acquisition. Restricted cash within the benefits trust will be made available to Occidental as payments are made to former Anadarko employees. Refer to the Current Business Outlook section of the Management’s Discussion and Analysis for 
+actions Occidental has taken to improve its liquidity position in the current business environment.
+
+Operating cash flow from continuing operations was $1.2 billion for the first three months of 2020, compared to $0.9 billion for the same period of 2019. The increase in operating cash flow from continuing operations mainly reflected higher production, which was partially offset by lower oil prices and Acquisition-related costs.
+
+Occidental’s net cash used by investing activities from continuing operations was $1.5 billion for the first three months of 2020, compared to $1.4 billion for the same period of 2019. Capital expenditures for the first three months of 2020 and 2019 were $1.3 billion, of which substantially all was for the oil and gas segment. The primary use of cash for investing activities was capital expenditures related to Permian assets.
+
+Occidental’s net cash used by financing activities from continuing operations was $1.0 billion for the first three months of 2020, compared to $0.8 billion cash used for the same period of 2019. Cash used by financing activities for the first three months of 2020 mainly reflected the payment of dividends.
+
+As of March 31, 2020, and as of the date of this filing, Occidental was in compliance with all covenants of its financing agreements. While Occidental currently expects its cash on hand and funds available under its RCF to be sufficient to meet its debt maturities, operating expenditures and other obligations for the next twelve months from the date of this filing; given the inherent uncertainty associated with the duration and severity of the COVID-19 pandemic and its resulting impact on oil 
+demand, Occidental may need to seek additional liquidity sources, extend debt maturities, or both, to fund its operations.
+
+For more information regarding upcoming debt maturities, liquidity-improvement initiatives and the impact of the COVID-19 pandemic and challenging oil and gas demand environment on Occidental’s liquidity and capital resources, see the Current Business Outlook section of the Management’s Discussion and Analysis.
+
+  ENVIRONMENTAL LIABILITIES AND EXPENDITURES  
+
+Occidental’s operations are subject to stringent federal, state, local and foreign laws and regulations related to improving or maintaining environmental quality. Occidental’s environmental compliance costs have generally increased over time and are expected to rise in the future. Occidental factors environmental expenditures for its operations as an integral part of its business planning process.
+
+The laws that require or address environmental remediation, including CERCLA and similar federal, state, local and international laws, may apply retroactively and regardless of fault, the legality of the original activities or the current ownership or control of sites. OPC or certain of its subsidiaries participate in or actively monitor a range of remedial activities and government or private proceedings under these laws with respect to alleged past practices at operating, closed and 
+third-party sites. Remedial activities may include one or more of the following: investigation involving sampling, modeling, risk assessment or monitoring; cleanup measures including removal, treatment or disposal; or operation and maintenance of remedial systems. The environmental proceedings seek funding or performance of remediation and, in some cases, compensation for alleged property damage, punitive damages, civil penalties, injunctive relief and government oversight costs.
+
+SeeNote 1 1 - Environmental Liabilities and Expenditures in the Notes to the Consolidated Condensed Financial Statements in Part I, Item 1 of this Form 10-Q and to the Environmental Liabilities and Expenditures section of Management’s Discussion and Analysis of Financial Condition and Results of Operations in the 2019 Form 10-K for additional information regarding Occidental’s environmental liabilities and expenditures.
+
+  LAWSUITS, CLAIMS, COMMITMENTS AND CONTINGENCIES  
+
+Occidental accrues reserves for outstanding lawsuits, claims and proceedings when it is probable that a liability has been incurred and the liability can be reasonably estimated. Occidental has disclosed its reserve balances for environmental remediation matters and its estimated range of reasonably possible additional losses for such matters. SeeNote 10 - Lawsuits, Claims, Commitments and Contingencies, in the Notes to Consolidated Condensed Financial Statements in Part I, Item 1 of this Form 
+10-Q for further information.
+
+  RECENTLY ADOPTED ACCOUNTING AND DISCLOSURE STANDARDS  
+
+SeeNote 2 - Accounting and Disclosure Changes, in the Notes to Consolidated Condensed Financial Statements in Part I, Item 1 of this Form 10-Q.
+

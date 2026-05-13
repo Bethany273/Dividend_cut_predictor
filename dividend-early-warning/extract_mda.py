@@ -13,6 +13,35 @@ MDA_NON_CUT_DIR = os.path.join(MDA_BASE_DIR, "non_cut")
 for folder in [MDA_BASE_DIR, MDA_CUT_DIR, MDA_NON_CUT_DIR]:
     os.makedirs(folder, exist_ok=True)
 
+
+def is_table_of_contents_match(text, start):
+    line_start = text.rfind('\n', 0, start) + 1
+    line_end = text.find('\n', start)
+    if line_end == -1:
+        line_end = len(text)
+    line = text[line_start:line_end].strip()
+    line_lower = line.lower()
+
+    if any(keyword in line_lower for keyword in [
+        'table of contents',
+        'contents',
+        'index',
+        'item 1',
+        'item 1a',
+        'part i',
+        'part i-a',
+    ]):
+        return True
+
+    if re.search(r'item\s+2[\.:]?\s+.*\d+\s*$', line_lower):
+        return True
+
+    if re.search(r'\bpage\s*\d+\b', line_lower):
+        return True
+
+    return False
+
+
 def extract_mda_bruteforce(text):
     """
     Brute force approach:
@@ -70,6 +99,8 @@ def extract_mda_bruteforce(text):
             score -= 30
         if re.search(r'index', chunk_lower):
             score -= 20
+        if is_table_of_contents_match(text, start):
+            score -= 500
         
         # Longer chunk with real content is better
         # Count how many actual words (not numbers or symbols)
@@ -85,14 +116,18 @@ def extract_mda_bruteforce(text):
         return None
     
     start = best_match.start()
+    end_search_start = best_match.end()
     
-    # Find end (next Item 3 or PART II)
-    remaining = text[start+100:]
-    end_pattern = re.compile(r'Item\s+3[\.:]?|PART\s+II', re.IGNORECASE)
+    # Find end at the next major section boundary after Item 2
+    remaining = text[end_search_start:]
+    end_pattern = re.compile(
+        r'^(?:Item\s+2A[\.:]?|Item\s+3[\.:]?|PART\s+II)',
+        re.IGNORECASE | re.MULTILINE
+    )
     end_match = end_pattern.search(remaining)
     
     if end_match:
-        end = start + 100 + end_match.start()
+        end = end_search_start + end_match.start()
     else:
         end = min(len(text), start + 150000)
     
