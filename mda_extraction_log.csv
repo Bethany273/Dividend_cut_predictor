@@ -31,9 +31,6 @@ HD,2020-11-24,sec_filings_dataset\non_cut\HD_2020-11-24.txt,sec_filings_dataset\
 JNJ,2020-04-29,sec_filings_dataset\non_cut\JNJ_2020-04-29.txt,sec_filings_dataset\mda_extracts\non_cut\JNJ_2020-04-29_MDA.txt,50000,non_cut
 JNJ,2020-07-24,sec_filings_dataset\non_cut\JNJ_2020-07-24.txt,sec_filings_dataset\mda_extracts\non_cut\JNJ_2020-07-24_MDA.txt,50000,non_cut
 JNJ,2020-10-23,sec_filings_dataset\non_cut\JNJ_2020-10-23.txt,sec_filings_dataset\mda_extracts\non_cut\JNJ_2020-10-23_MDA.txt,50000,non_cut
-JPM,2020-05-07,sec_filings_dataset\non_cut\JPM_2020-05-07.txt,sec_filings_dataset\mda_extracts\non_cut\JPM_2020-05-07_MDA.txt,50000,non_cut
-JPM,2020-08-03,sec_filings_dataset\non_cut\JPM_2020-08-03.txt,sec_filings_dataset\mda_extracts\non_cut\JPM_2020-08-03_MDA.txt,50000,non_cut
-JPM,2020-11-02,sec_filings_dataset\non_cut\JPM_2020-11-02.txt,sec_filings_dataset\mda_extracts\non_cut\JPM_2020-11-02_MDA.txt,50000,non_cut
 KO,2020-04-24,sec_filings_dataset\non_cut\KO_2020-04-24.txt,sec_filings_dataset\mda_extracts\non_cut\KO_2020-04-24_MDA.txt,20039,non_cut
 KO,2020-07-22,sec_filings_dataset\non_cut\KO_2020-07-22.txt,sec_filings_dataset\mda_extracts\non_cut\KO_2020-07-22_MDA.txt,22301,non_cut
 KO,2020-10-22,sec_filings_dataset\non_cut\KO_2020-10-22.txt,sec_filings_dataset\mda_extracts\non_cut\KO_2020-10-22_MDA.txt,23848,non_cut

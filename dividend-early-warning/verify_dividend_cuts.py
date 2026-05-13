@@ -12,6 +12,11 @@ CUT_COMPANIES = {
     "MRO": "Marathon Oil",
     "HAL": "Halliburton",
     "OXY": "Occidental Petroleum",
+    "GM": "General Motors",
+    "LVS": "Las Vegas Sands",
+    "HOG": "Harley-Davidson",
+    "EXPE": "Expedia",
+
 }
 
 # Manually verified non-cut companies
@@ -25,7 +30,9 @@ NON_CUT_COMPANIES = {
     "MCD": "McDonald's",
     "WMT": "Walmart",
     "HD": "Home Depot",
-    "JPM": "JPMorgan Chase",
+    "CAT" : "Caterpillar",
+    "CL" : "Colgate-Palmolive",
+    "SYY" : "Sysco"
 }
 
 def main():

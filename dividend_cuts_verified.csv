@@ -5,8 +5,13 @@ BA,Boeing,True,2020,Known dividend cut/suspension in 2020
 CCL,Carnival,True,2020,Known dividend cut/suspension in 2020
 DAL,Delta Air Lines,True,2020,Known dividend cut/suspension in 2020
 RCL,Royal Caribbean,True,2020,Known dividend cut/suspension in 2020
+MRO,Marathon Oil,True,2020,Known dividend cut/suspension in 2020
 HAL,Halliburton,True,2020,Known dividend cut/suspension in 2020
 OXY,Occidental Petroleum,True,2020,Known dividend cut/suspension in 2020
+GM,General Motors,True,2020,Known dividend cut/suspension in 2020
+LVS,Las Vegas Sands,True,2020,Known dividend cut/suspension in 2020
+HOG,Harley-Davidson,True,2020,Known dividend cut/suspension in 2020
+EXPE,Expedia,True,2020,Known dividend cut/suspension in 2020
 JNJ,Johnson & Johnson,False,,Maintained dividend through 2020
 PG,Procter & Gamble,False,,Maintained dividend through 2020
 KO,Coca-Cola,False,,Maintained dividend through 2020
@@ -16,4 +21,6 @@ PEP,PepsiCo,False,,Maintained dividend through 2020
 MCD,McDonald's,False,,Maintained dividend through 2020
 WMT,Walmart,False,,Maintained dividend through 2020
 HD,Home Depot,False,,Maintained dividend through 2020
-JPM,JPMorgan Chase,False,,Maintained dividend through 2020
+CAT,Caterpillar,False,,Maintained dividend through 2020
+CL,Colgate-Palmolive,False,,Maintained dividend through 2020
+SYY,Sysco,False,,Maintained dividend through 2020
