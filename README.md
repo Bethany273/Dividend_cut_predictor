@@ -7,6 +7,9 @@ scikit-learn: Build the actual prediction model
 Analyses and uses actual SEC filing text to predict when a company might cut its dividend.
 
 # Dividend Cut Predictor
+1. Extracts Management Discussion & Analysis (MD&A) section from 10-Q filings
+2. Uses TF-IDF to convert text to numerical features
+3. Random Forest classifier predicts cut risk based on language patterns
 
 A machine learning system that analyzes SEC 10-Q filings to predict whether a company will cut its dividend based on language patterns in the Management Discussion & Analysis (MD&A) section.
 
