@@ -1,0 +1,428 @@
+Item 2. Management's Discussion and Analysis of Financial Condition and Results of Operations
+
+The following discussion and analysis of our financial condition and results of operations should be read in conjunction with our unaudited condensed consolidated financial statements and related notes included elsewhere in this Quarterly Report on Form 10-Q and with our Annual Report on Form 10-K for the fiscal year ended December 31, 2019.
+
+Forward-Looking Statements
+
+This Quarterly Report on Form 10-Q contains forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended (the "Exchange Act"). These statements include, but are not limited to, statements related to our expectations regarding the impact of the COVID-19 pandemic, the performance of our business, our financial results, our liquidity and capital resources and other non-historical 
+statements. In some cases, you can identify these forward-looking statements by the use of words such as "outlook," "believes," "expects," "potential," "continues," "may," "will," "should," "could," "seeks," "projects," "predicts," "intends," "plans," "estimates," "anticipates" or the negative version of these words or other comparable words. Such forward-looking statements are subject to various risks and uncertainties including, among others, risks inherent to the hospitality industry, 
+macroeconomic factors beyond our control, risks related to the impact of the COVID-19 pandemic, competition for hotel guests and management and franchise contracts, risks related to doing business with third-party hotel owners, performance of our information technology systems, growth of reservation channels outside of our system, risks of doing business outside of the U.S. and our indebtedness. Accordingly, there are or will be important factors that could cause actual outcomes or results to 
+differ materially from those indicated in these statements. We believe these factors include but are not limited to those described under "Part I - Item 1A. Risk Factors" of our Annual Report on Form 10-K for the fiscal year ended December 31, 2019, as updated under "Part II. Other Information - Item 1A. Risk Factors" of this Quarterly Report on Form 10-Q. These factors should not be construed as exhaustive and should be read in conjunction with the other cautionary statements that are included 
+elsewhere in this Quarterly Report on Form 10-Q. We undertake no obligation to publicly update or review any forward-looking statement, whether as a result of new information, future developments or otherwise, except as required by law.
+
+COVID-19 Pandemic
+
+During the nine months ended September 30, 2020, the COVID-19 pandemic significantly impacted the global economy and strained the hospitality industry due to travel restrictions and stay-at-home directives in place at various times during the period, resulting in cancellations and significantly reduced travel around the world. The reduction in travel has resulted in complete and partial suspensions of hotel operations in many of the locations, where our hotels are located, for an indeterminate 
+duration, which, outside of China, largely began in mid-March, and included approximately 20 percent of our global hotel properties for some portion of the reporting period. As such, it had a material adverse impact on our results for the three and nine months ended September 30, 2020 and, based on the potential impact of further restrictions and health and safety concerns, we expect it to continue to have a material adverse impact on our results in future periods, as described below under " - 
+Results of Operations."
+
+As of November 2, 2020, 97 percent of our global hotel properties were open, while approximately 190 hotels had temporarily suspended operations. However, in late October, certain geographic areas have re-imposed additional travel restrictions, which may result in further adverse impacts to our hotel operations. Hotels that have reopened generally have experienced significantly lower occupancy as compared with periods before the onset of the pandemic.
+
+In response to this global crisis, we have taken actions to prioritize the safety and security of our guests, employees and owners and support our communities. During the summer, we launched Hilton CleanStay to deliver a new standard of cleanliness and disinfection to our properties worldwide and Hilton EventReady, which focuses on cleanliness and customer service specific to meetings and events. We also found alternative uses for certain of our hotel properties, including providing housing for 
+first responders and healthcare workers, and provided financial assistance to organizations helping those affected by COVID-19 through our Hilton Effect Foundation. Additionally, we have taken several steps to help our business withstand this uncertain time, as detailed in " - Liquidity and Capital Resources."
+
+Overview
+
+Our Business
+
+Hilton is one of the largest hospitality companies in the world, with 6,333 properties comprising 998,282 rooms in 118 countries and territories as of September 30, 2020. Our premier brand portfolio includes: our luxury and lifestyle hotel brands, Waldorf Astoria Hotels & Resorts, LXR Hotels & Resorts, Conrad Hotels & Resorts, Canopy by Hilton, Tempo by Hilton and Motto by Hilton; our full service hotel brands, Signia by Hilton, Hilton Hotels & Resorts, Curio Collection by Hilton, DoubleTree by 
+Hilton, Tapestry Collection by Hilton and Embassy Suites by Hilton; our focused service hotel brands, Hilton Garden Inn, Hampton by Hilton, Tru by Hilton, Homewood Suites by Hilton and Home2 Suites by Hilton; and our timeshare brand, Hilton Grand Vacations. As of September 30, 2020, we had 110 million members in our award-winning guest loyalty program, Hilton Honors.
+
+Segments and Regions
+
+We analyze our operations and business by both operating segments and geographic regions. Our operations consist of two reportable segments that are based on similar products or services: (i) management and franchise and (ii) ownership. The management and franchise segment provides services, including hotel management and licensing of our brands and IP. This segment generates its revenue from: (i) management and franchise fees charged to third-party hotel owners; (ii) licensing fees from HGV and
+strategic partnerships for the right to use certain Hilton marks and IP; and (iii) fees for managing our owned and leased hotels. As a manager of hotels, we typically are responsible for supervising or operating the property in exchange for management fees. As a franchisor of hotels, we charge franchise fees in exchange for the use of one of our brand names and related commercial services, such as our reservation system, marketing and information technology services, while a third party manages 
+or operates such franchised hotels. The ownership segment primarily derives earnings from providing nightly hotel room sales, food and beverage sales and other services at our owned and leased hotels.
+
+Geographically, we conduct business through three distinct geographic regions: (i) the Americas; (ii) Europe, Middle East and Africa ("EMEA"); and (iii) Asia Pacific. The Americas region includes North America, South America and Central America, including all Caribbean nations. Although the U.S. is included in the Americas, it represents a significant portion of our system-wide hotel rooms, 72 percent as of September 30, 2020; therefore, the U.S. is often analyzed separately and apart from the 
+Americas region and, as such, it is presented separately within the analysis herein. The EMEA region includes Europe, which represents the western-most peninsula of Eurasia stretching from Iceland in the west to Russia in the east, and the Middle East and Africa ("MEA"), which represents the Middle East region and all African nations, including the Indian Ocean island nations. Europe and MEA are often analyzed separately and, as such, are presented separately within the analysis herein. The Asia
+Pacific region includes the eastern and southeastern nations of Asia, as well as India, Australia, New Zealand and the Pacific Island nations.
+
+System Growth and Development Pipeline
+
+Our strategic objectives include the continued expansion of our global footprint and fee-based business. As we enter into new management and franchise contracts, we expand our business with minimal or no capital investment by us as the manager or franchisor, since the capital required to build and maintain hotels is typically provided by the third-party owner of the hotel with whom we contract to provide management services or license our brand names and IP. Prior to approving the addition of 
+new properties to our management and franchise development pipeline, we evaluate the economic viability of the property based on its geographic location, the credit quality of the third-party owner and other factors. By increasing the number of management and franchise contracts with third-party owners, over time we expect to increase revenues, overall return on invested capital and cash available to support our business needs. While these objectives have not changed as a result of the COVID-19 
+pandemic, the current economic environment has posed certain challenges to the execution of our strategy, which have included and may continue to include delays in openings and new development. See further discussion on our cash management policy, as detailed in " - Liquidity and Capital Resources."
+
+As of September 30, 2020, we had approximately 2,640 hotels in our development pipeline that we expect to add as open hotels in our system, representing more than 408,000 rooms under construction or approved for development throughout 120 countries and territories, including 33 countries and territories where we do not currently have any open hotels. Despite the adverse effects of the COVID-19 pandemic, we added nearly 70 hotels, on a net basis, to our development pipeline during the nine months
+ended September 30, 2020. Nearly all of the rooms in the development pipeline are within our management and franchise segment. Additionally, of the rooms in the development pipeline, 237,000 rooms were located outside the U.S., and 217,000 rooms were under construction. We do not consider any individual development project to be material to us.
+
+Brexit
+
+In June 2016, the United Kingdom ("U.K.") held a referendum in which voters approved an exit from the European Union ("E.U.") (commonly referred to as "Brexit"). The U.K.'s withdrawal from the E.U. occurred on January 31, 2020, beginning the implementation period, which is set to end on December 31, 2020. The effects of Brexit will depend on the final terms that will be negotiated during the implementation period, including the terms of any trade agreements that will dictate the U.K.’s access to
+E.U. markets. While our results as of and for the nine months ended September 30, 2020 were not materially affected by Brexit, the final outcomes are not yet certain. Brexit measures could potentially disrupt the markets we serve and cause tax and foreign currency volatility, which could have adverse effects on our business. We will continue to monitor the potential impact of Brexit on our business in future periods.
+
+Key Business and Financial Metrics Used by Management
+
+Comparable Hotels
+
+We define our comparable hotels as those that: (i) were active and operating in our system for at least one full calendar year as of the end of the current period, and open January 1st of the previous year; (ii) have not undergone a change in brand or ownership type during the current or comparable periods reported; and (iii) have not sustained substantial property damage, business interruption, undergone large-scale capital projects or for which comparable results were not available. Of the 
+6,278 hotels in our system as of September 30, 2020, 4,996 hotels were classified as comparable hotels. Our 1,282 non-comparable hotels included 152 hotels, or approximately two percent of the total hotels in our system, that were removed from the comparable group during the last twelve months because they sustained substantial property damage, business interruption, underwent large-scale capital projects or comparable results were otherwise not available.
+
+When considering business interruption in the context of our definition of comparable hotels, any hotel that had completely or partially suspended operations on a temporary basis at any point during the nine months ended September 30, 2020 as a result of the COVID-19 pandemic was considered to be part of the definition of comparable hotels. Despite these temporary suspensions of hotel operations, we believe that including these hotels within occupancy, average daily rate and revenue per 
+available room reflects the underlying results of our business for the three and nine months ended September 30, 2020.
+
+Occupancy
+
+Occupancy represents the total number of room nights sold divided by the total number of room nights available at a hotel or group of hotels for a given period. Occupancy measures the utilization of our hotels' available capacity. Management uses occupancy to gauge demand at a specific hotel or group of hotels in a given period. Occupancy levels also help us determine achievable average daily rate pricing levels as demand for hotel rooms increases or decreases.
+
+Average Daily Rate ("ADR")
+
+ADR represents hotel room revenue divided by the total number of room nights sold for a given period. ADR measures average room price attained by a hotel, and ADR trends provide useful information concerning the pricing environment and the nature of the customer base of a hotel or group of hotels. ADR is a commonly used performance measure in the industry, and we use ADR to assess pricing levels that we are able to generate by type of customer, as changes in rates charged to customers have a 
+different effect on overall revenues and incremental profitability than changes in occupancy, as described above.
+
+Revenue per Available Room ("RevPAR")
+
+RevPAR is calculated by dividing hotel room revenue by the total number of room nights available to guests for a given period. We consider RevPAR to be a meaningful indicator of our performance as it provides a metric correlated to two primary and key drivers of operations at a hotel or group of hotels, as previously described: occupancy and ADR. RevPAR is also a useful indicator in measuring performance over comparable periods for comparable hotels.
+
+References to RevPAR, ADR and occupancy are presented on a comparable basis, and references to RevPAR and ADR are presented on a currency neutral basis, unless otherwise noted. As such, comparisons of these hotel operating statistics for the three and nine months ended September 30, 2020 and 2019 use the exchange rates for the three and nine months ended September 30, 2020, respectively.
+
+EBITDA and Adjusted EBITDA
+
+EBITDA reflects net income (loss), excluding interest expense, income tax benefit (expense) and depreciation and amortization.
+
+Adjusted EBITDA is calculated as EBITDA, as previously defined, further adjusted to exclude certain items, including gains, losses, revenues and expenses in connection with: (i) asset dispositions for both consolidated and unconsolidated equity investments; (ii) foreign currency transactions; (iii) debt restructurings and retirements; (iv) furniture, fixtures and equipment ("FF&E") replacement reserves required under certain lease agreements; (v) reorganization, severance, relocation and other 
+related expenses; (vi) share-based compensation; (vii) non-cash impairment; (viii) amortization of contract acquisition costs; (ix) the net effect of reimbursable costs included in other revenues and other expenses from managed and franchised properties; and (x) other items.
+
+We believe that EBITDA and Adjusted EBITDA provide useful information to investors about us and our financial condition and results of operations for the following reasons: (i) these measures are among the measures used by our management team to evaluate our operating performance and make day-to-day operating decisions and (ii) these measures are frequently used by securities analysts, investors and other interested parties as a common performance measure to compare results or estimate 
+valuations across companies in our industry. Additionally, these measures exclude certain items that can vary widely across different industries and among competitors within our industry. For instance, interest expense and income taxes are dependent on company specifics, including, among other things, capital structure and operating jurisdictions, respectively, and, therefore, could vary significantly across companies. Depreciation and amortization, as well as amortization of contract 
+acquisition costs, are dependent upon company policies, including the method of acquiring and depreciating assets and the useful lives that are used. For Adjusted EBITDA, we also exclude items such as: (i) FF&E replacement reserves for leased hotels to be consistent with the treatment of FF&E for owned hotels, where it is capitalized and depreciated over the life of the FF&E; (ii) share-based compensation expense (benefit), as this could vary widely among companies due to the different plans in 
+place and the usage of them; (iii) the net effect of our cost reimbursement revenues and reimbursed expenses, as we contractually do not operate the related programs to generate a profit over the terms of the respective contracts; and (iv) other items, including reorganization and related severance costs, that are not core to our operations and are not reflective of our operating performance.
+
+EBITDA and Adjusted EBITDA are not recognized terms under GAAP and should not be considered as alternatives to net income (loss) or other measures of financial performance or liquidity derived in accordance with GAAP. EBITDA and Adjusted EBITDA have limitations as analytical tools and should not be considered as alternatives, either in isolation or as a substitute, for net income (loss), cash flow or other methods of analyzing our results as reported under GAAP. Some of these limitations are:
+
+• EBITDA and Adjusted EBITDA do not reflect changes in, or cash requirements for, our working capital needs;
+
+• EBITDA and Adjusted EBITDA do not reflect our interest expense, or the cash requirements necessary to service interest or principal payments, on our indebtedness;
+
+• EBITDA and Adjusted EBITDA do not reflect income tax expenses or benefits or the cash requirements to pay our taxes;
+
+• EBITDA and Adjusted EBITDA do not reflect historical cash expenditures or future requirements for capital expenditures or contractual commitments;
+
+• EBITDA and Adjusted EBITDA do not reflect the effect on earnings or changes resulting from matters that we consider not to be indicative of our future operations;
+
+• although depreciation and amortization are non-cash charges, the assets being depreciated and amortized will often have to be replaced in the future, and EBITDA and Adjusted EBITDA do not reflect any cash requirements for such replacements; and
+
+• other companies in our industry may calculate EBITDA and Adjusted EBITDA differently, limiting their usefulness as comparative measures.
+
+Because of these limitations, EBITDA and Adjusted EBITDA should not be considered as discretionary cash available to us to reinvest in the growth of our business or as measures of cash that will be available to us to meet our obligations.
+
+Results of Operations
+
+The hotel operating statistics by region for our system-wide comparable hotels were as follows:
+
+                                 Three Months Ended                       Variance                Nine Months Ended                        Variance  
+                                 September 30, 2020                  2020 vs. 2019                September 30, 2020                  2020 vs. 2019  
+ ─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  U.S.                                                                                                                                               
+  Occupancy                      44.3                                       (34.8)      pts.      42.5                                       (34.6)  
+  ADR                            $                       109.45             (26.0)                $                       122.07             (17.6)  
+  RevPAR                         $                        48.47             (58.6)                $                        51.88             (54.6)  
+  Americas (excluding U.S.)                                                                                                                          
+  Occupancy                      24.8                                       (48.4)      pts.      29.9                                       (40.1)  
+  ADR                            $                        85.84             (27.1)                $                       102.91             (12.0)  
+  RevPAR                         $                        21.25             (75.3)                $                        30.74             (62.4)  
+  Europe                                                                                                                                             
+  Occupancy                      31.6                                       (51.5)      pts.      30.6                                       (46.0)  
+  ADR                            $                       103.45             (28.0)                $                       111.79             (18.4)  
+  RevPAR                         $                        32.71             (72.6)                $                        34.22             (67.4)  
+  MEA                                                                                                                                                
+  Occupancy                      25.2                                       (42.8)      pts.      34.1                                       (34.0)  
+  ADR                            $                       117.71             (12.5)                $                       126.52              (9.5)  
+  RevPAR                         $                        29.65             (67.6)                $                        43.20             (54.7)  
+  Asia Pacific                                                                                                                                       
+  Occupancy                      53.1                                       (21.0)      pts.      40.0                                       (29.8)  
+  ADR                            $                        85.45             (25.2)                $                        92.61             (19.6)  
+  RevPAR                         $                        45.35             (46.4)                $                        37.02             (54.0)  
+  System-wide                                                                                                                                        
+  Occupancy                      42.5                                       (36.0)      pts.      40.4                                       (35.4)  
+  ADR                            $                       105.87             (26.0)                $                       118.23             (17.3)  
+  RevPAR                         $                        44.95             (59.9)                $                        47.74             (55.9)  
+
+During the three and nine months ended September 30, 2020, we experienced significant declines in RevPAR in all regions compared to the same periods in 2019, due to both occupancy and ADR decreases resulting from the COVID-19 pandemic. Our Asia Pacific region experienced the effects of the pandemic early in 2020, with suspensions of hotel operations beginning in late January. Pronounced negative results in the Americas and EMEA regions lagged the Asia Pacific region, with hotel suspensions in 
+those regions beginning in mid-March. Of the approximately 1,270 properties that had suspended hotel operations at some point during the nine months ended September 30, 2020, approximately 44 percent were in the U.S., 9 percent were in the Americas (excluding U.S.), 26 percent were in Europe, 5 percent were in MEA and 16 percent were in Asia Pacific. As of November 2, 2020, the operations at approximately 190 hotels, primarily located in the U.S., were temporarily suspended. However, properties 
+that have reopened have experienced significantly lower occupancy compared with periods prior to the onset of the pandemic as business and transient demand remains lower and travel restrictions and stay-at-home directives are still in place in many areas.
+
+On a global level, the pervasiveness of the COVID-19 impact began in late March, with its most significant adverse impact on occupancy and RevPAR seen in April. Since April, system-wide occupancy has increased month over month, with the most notable recoveries in Asia Pacific, the U.S. and Europe, with comparable hotel occupancy levels up approximately 32 percentage points, 32 percentage points and 31 percentage points, respectively, from April to September.
+
+The table below provides a reconciliation of net income (loss) to EBITDA and Adjusted EBITDA:
+
+                                                                 Three Months Ended                  Nine Months Ended                       
+                                                                 September 30,                           September 30,                       
+                                                                 2020                      2019                   2020      2019             
+                                                                 (in millions)                                                               
+ ─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Net income (loss)                                              $                       (81) $                  290 $         $        710  
+  Interest expense                                               116                        105                    316       304             
+  Income tax expense (benefit)                                   (33)                       131                   (80)       291             
+  Depreciation and amortization                                  90                          86                    269       256             
+  EBITDA                                                         92                         612                     10                1,561  
+  Gain on sale of assets, net                                    —                         (81)                      —      (81)             
+  Loss (gain) on foreign currency transactions                   12                         (7)                     16       (4)             
+  FF&E replacement reserves                                      18                          13                     39        42             
+  Share-based compensation expense                               25                          42                     37       123             
+  Reorganization costs                                           —                            —                     38         —             
+  Impairment losses                                              9                            —                    136         —             
+  Amortization of contract acquisition costs                     7                            7                     22        21             
+  Net other expenses from managed and franchised properties      44                           9                    281        21             
+  Other adjustment items (1)                                     17                          10                     59        39             
+  Adjusted EBITDA                                                $                        224 $                  605 $         $      1,722  
+
+____________
+
+(1) Includes severance not related to the reorganization and other items. The three and nine months ended September 30, 2020 also include costs recognized for the settlement of a dispute with an owner of a managed hotel. Additionally, the nine months ended September 30, 2020 includes losses related to the disposal of an investment and a loan guarantee for a franchised hotel. The three and nine months ended September 30, 2019 also include expenses recognized in connection with the refinancings 
+and repayments of our senior secured credit facilities.
+
+Revenues
+
+                                      Three Months Ended                Percent            Nine Months Ended                           Percent        
+                                      September 30,                     Change             September 30,                               Change         
+                                      2020                    2019      2020 vs. 2019      2020                   2019                 2020 vs. 2019  
+                                      (in millions)                                        (in millions)                                              
+ ──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Franchise and licensing fees        $                       $         (45.6)             $                      $         1,269      (43.9)         
+  Base and other management fees      $                       $         (70.0)             $                      $           249      (63.1)         
+  Incentive management fees           7                       54        (87.0)             25                     167                  (85.0)         
+  Total management fees               $                       $         (76.9)             $                      $           416      (71.9)         
+
+The COVID-19 pandemic and the related reduction in global travel and tourism resulted in the complete or partial suspensions of hotel operations at approximately 1,235 of our managed and franchised properties at some point during the nine months ended September 30, 2020. Of these hotels, all but approximately 200 had reopened as of September 30, 2020.
+
+On a comparable basis, decreases in occupancy and ADR led to reduced RevPAR, resulting in decreases in franchise fees and management fees from our comparable managed and franchised properties. For the three months ended September 30, 2020, RevPAR decreased 55.1 percent at our comparable franchised properties and 72.0 percent at our comparable managed properties, resulting from reduced occupancy of 32.8 percentage points and 44.8 percentage points, respectively, and reduced ADR of 23.1 percent 
+and 33.2 percent, respectively. For the nine months ended September 30, 2020, RevPAR decreased 52.8 percent at our comparable franchised properties and 63.1 percent at our comparable managed properties, resulting from reduced occupancy of 33.3 percentage points and 41.1 percentage points, respectively, and reduced ADR of 16.1 percent and 17.7 percent, respectively.
+
+Incentive fees decreased during the periods as they are based on hotels' operating profits, which have declined compared with prior year results as a result of the COVID-19 pandemic.
+
+Additionally, licensing and other fees decreased $22 million and $75 million during the three and nine months ended September 30, 2020, respectively, primarily due to decreased licensing fees from both our strategic partnerships and HGV as a result of the COVID-19 pandemic.
+
+Including new development and ownership type transfers, from January 1, 2019 to September 30, 2020, we added 653 managed and franchised properties on a net basis, providing an additional 86,673 rooms to our management and franchise segment. While we have historically experienced increases to management and franchise fees as new hotels are a part of our system for full periods, the impact of the COVID-19 pandemic has outweighed the impact of these property additions in 2020.
+
+                               Three Months Ended                         Percent            Nine Months Ended                Percent        
+                               September 30,                              Change             September 30,                    Change         
+                               2020                    2019               2020 vs. 2019      2020                   2019      2020 vs. 2019  
+                               (in millions)                                                 (in millions)                                   
+ ─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Owned and leased hotels      $                       $         361      (74.0)             $                      $         (68.4)         
+
+Owned and leased hotel revenues decreased primarily due to the COVID-19 pandemic and the related reduction in global travel and tourism. As a result of the COVID-19 pandemic, approximately 35 hotels in our ownership segment had temporarily suspended operations at some point in time during the nine months ended September 30, 2020. All of these hotels have reopened as of September 30, 2020. On a comparable basis, decreases in occupancy and ADR led to reduced RevPAR, resulting in decreases in 
+revenues from our comparable owned and leased hotels. For the three and nine months ended September 30, 2020, RevPAR decreased 78.8 percent and 72.2 percent, respectively, resulting from reduced occupancy of 58.2 percentage points and 49.8 percentage points, respectively, and reduced ADR of 28.1 percent and 20.1 percent, respectively. Additionally, owned and leased hotel revenues decreased $8 million and $36 million during the three and nine months ended September 30, 2020, respectively, due to 
+properties being sold or lease agreements terminated and the hotels being transferred to our managed and franchised segment during 2019.
+
+                      Three Months Ended                Percent            Nine Months Ended                Percent        
+                      September 30,                     Change             September 30,                    Change         
+                      2020                    2019      2020 vs. 2019      2020                   2019      2020 vs. 2019  
+                      (in millions)                                        (in millions)                                   
+ ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Other revenues      $                       $         (17.4)             $                      $         (30.7)         
+
+The decreases in other revenues during the three and nine months ended September 30, 2020 were primarily due to decreases in revenues from our purchasing operations related to delayed hotel improvement projects and lower volume purchasing based on reduced hotel demand as a result of the COVID-19 pandemic.
+
+Operating Expenses
+
+                               Three Months Ended                         Percent            Nine Months Ended                Percent        
+                               September 30,                              Change             September 30,                    Change         
+                               2020                             2019      2020 vs. 2019      2020                   2019      2020 vs. 2019  
+                               (in millions)                                                 (in millions)                                   
+ ─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Owned and leased hotels      $                       144      $         (53.5)             $                      $         (49.3)         
+
+Owned and leased hotel expen ses decreased primarily due to decreases in occupancy resulting from the COVID-19 pandemic and approximately35 hotels temporarily suspending operations at some point in time during the nine months ended September 30, 2020. Further, as a result of declining performance, variable rent expense was reduced at most leased hotels with a variable rent structure. However, certain fixed costs of maintaining these hotels, such as fixed rent and certain minimum maintenance and 
+utility costs, even while temporarily closed or operating with very low occupancy, could not be reduced at the same rate as the hotel revenue decreases during the periods. Additionally, owned and leased hotel expenses decreased $10 million and $35 million during the three and nine months ended September 30, 2020, respectively, related to properties being sold or lease agreements terminated and the hotels being transferred to our managed and franchised segment during 2019.
+
+                                     Three Months Ended                Percent            Nine Months Ended                Percent        
+                                     September 30,                     Change             September 30,                    Change         
+                                     2020                    2019      2020 vs. 2019      2020                   2019      2020 vs. 2019  
+                                     (in millions)                                        (in millions)                                   
+ ──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Depreciation and amortization      $                       $         4.7                $                      $         5.1            
+  General and administrative         66                      107       (38.3)             189                    327       (42.2)         
+  Reorganization costs               —                       —         NM (1)             38                     —         NM (1)         
+  Impairment losses                  9                       —         NM (1)             136                    —         NM (1)         
+  Other expenses                     21                      11        90.9               48                     46        4.3            
+
+____________
+
+(1) Fluctuation in terms of percentage change is not meaningful.
+
+The increases in depreciation and amortization expense were primarily due to increases in amortization expense resulting from additions to capitalized software costs during 2020 and 2019, partially offset by reduced amortization expense due primarily to impairment losses on other intangible assets related to our leased properties that were recognized during the nine months ended September 30, 2020.
+
+General and administrative expenses decreased primarily as a result of actions taken by the Company during the nine months ended September 30, 2020 to reduce or eliminate certain corporate costs in response to the COVID-19 pandemic, which included workforce reductions, temporary furloughs and salary reductions of corporate employees; refer to " - Liquidity and Capital Resources" for additional information. These actions are expected to also reduce costs in future periods. In addition, 
+share-based compensation expense decreased due to the determination that the performance conditions of our outstanding performance shares were no longer probable of achievement, resulting in a reversal of previously recognized expense for the outstanding 2020 performance awards during the three months ended September 30, 2020 and for all outstanding performance awards during the nine months ended September 30, 2020; see Note 11: "Share-Based Compensation" in our unaudited condensed consolidated 
+financial statements for additional information.
+
+During the nine months ended September 30, 2020, we recognized reorganization costs related to activities undertaken in response to the COVID-19 pandemic, primarily relating to reductions in our workforce and associated costs.
+
+During the three months ended September 30, 2020, we recognized impairment losses of $3 million and $6 million on property and equipment related to our leased properties and management contract acquisition costs, respectively. During the nine months ended September 30, 2020, we recognized impairment losses of $51 million, $24 million, $15 million and $46 million on hotel operating lease ROU assets, property and equipment related to our leased properties, management contract acquisition costs and
+other intangible assets related to our leased hotel properties, respectively. These impairment losses were due to a decline in results and expected future performance at the related hotels as a result of the COVID-19 pandemic, as well as actual and expected early terminations of management contracts.
+
+Other expenses increased primarily as a result of costs recognized for the settlement of a dispute with an owner of a managed hotel and increases in amounts accrued related to our performance guarantees during the three and nine months ended September 30, 2020, partially offset by decreases in expenses from our purchasing operations, resulting from reduced demand.
+
+Gain on Sale of Assets, Net
+
+                                   Three Months Ended                Percent            Nine Months Ended                Percent        
+                                   September 30,                     Change             September 30,                    Change         
+                                   2020                    2019      2020 vs. 2019      2020                   2019      2020 vs. 2019  
+                                   (in millions)                                        (in millions)                                   
+ ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Gain on sale of assets, net      $                       $         (100.0)            $                      $         (100.0)        
+
+In September 2019, we recognized a gain upon completion of the sale of the Hilton Odawara. See Note 3: "Disposal" in our unaudited condensed consolidated financial statements for additional information.
+
+Non-operating Income and Expenses
+
+                                                    Three Months Ended                 Percent            Nine Months Ended                 Percent        
+                                                    September 30,                      Change             September 30,                     Change         
+                                                    2020                    2019       2020 vs. 2019      2020                    2019      2020 vs. 2019  
+                                                    (in millions)                                         (in millions)                                    
+ ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Interest expense                                  $                       $          10.5               $                          $      3.9            
+  Gain (loss) on foreign currency transactions      (12)                    7          NM (1)             (16)                       4      NM (1)         
+  Other non-operating income (loss), net            3                       —          NM (1)             (20)                     (8)      NM (1)         
+  Income tax benefit (expense)                      33                      (131)      NM (1)             80                     (291)      NM (1)         
+
+____________
+
+(1) Fluctuation in terms of percentage change is not meaningful.
+
+The increases in interest expense for the three and nine months ended September 30, 2020 were primarily due to the full draw down on the Revolving Credit Facility in March 2020, the issuances of the 5.375% 2025 Senior Notes and the 2028 Senior Notes in April 2020 and, for the nine months ended September 30, 2020, the issuance of the 4.875% Senior Notes due 2030 in June 2019. The increases were partially offset by a decrease in interest expense on our Term Loans due to a 2019 principal repayment 
+of $500 million and a decline in variable interest rate, as well as decreased variable interest expense of certain finance leases for our hotels that resulted from a decline in operating performance.
+
+The gains and losses on foreign currency transactions included changes in foreign currency exchange rates on certain intercompany financing arrangements, including short-term cross-currency intercompany loans. The changes were the result of various currencies, but primarily in the euro and the Australian dollar. Additionally, during the three and nine months ended September 30, 2020, we recognized losses related to the liquidation of investments in foreign entities that were reclassified out of 
+accumulated other comprehensive loss.
+
+Other non-operating loss, net for the nine months ended September 30, 2020 primarily included losses related to a loan guarantee for a franchised hotel and the disposal of an investment. Other non-operating loss, net for the nine months ended September 30, 2019 primarily included a loss on the disposal of an unconsolidated real estate investment and expenses recognized in connection with the refinancings and repayments of our senior secured credit facilities.
+
+The changes in the income tax provisions were primarily attributable to decreases in income before income taxes, offset by reductions in the tax benefits recognized for the expected NOLs generated in 2020 in certain foreign jurisdictions. For additional information, see Note 10: "Income Taxes" in our unaudited condensed consolidated financial statements.
+
+Segment Results
+
+Refer to Note 14: "Business Segments" in our unaudited condensed consolidated financial statements for reconciliations of revenues for our reportable segments to consolidated amounts and of segment operating income to consolidated income (loss) before income taxes. We evaluate our business segment operating performance using segment operating income (loss), without allocating other revenues and expenses or general and administrative expenses.
+
+Refer to " - Revenues" for further discussion of the decreases in revenues from our managed and franchised properties, which are correlated to our management and franchise segment revenues and segment operating income. Refer to " - Revenues" and " - Operating Expenses" for further discussion of the decreases in revenues and operating expenses at our owned and leased hotels, which are correlated with our ownership segment revenues and segment operating income (loss).
+
+Liquidity and Capital Resources
+
+Overview
+
+As of September 30, 2020, we had total cash and cash equivalents of $3,468 million, including $63 million of restricted cash and cash equivalents. The majority of our restricted cash and cash equivalents balance related to cash collateral on our self-insurance programs and cash held for FF&E reserves.
+
+Although we cannot presently estimate the ultimate and total financial impact of the unprecedented COVID-19 pandemic, which is highly dependent on the severity and duration of the pandemic, we expect it will continue to have a significant adverse
+
+impact on our results of operations in future periods. As such, due to the uncertainties associated with the COVID-19 pandemic and the indeterminate length of time it will affect the hospitality industry, we have taken certain proactive measures to secure our liquidity position to be able to meet our obligations for the foreseeable future, which have included: (i) fully drawing down on our $1.75 billion Revolving Credit Facility; (ii) suspending dividend payments and share repurchases; (iii) 
+implementing strict cost management measures, such as temporarily halting certain marketing programs, temporarily eliminating non-essential expenses, including capital expenditures, and reducing payroll and related costs through workforce reductions, furloughs and temporary salary reductions; (iv) consummating the Honors Points Pre-Sale; and (v) issuing $1.0 billion aggregate principal amount of senior notes.
+
+Our known short-term liquidity requirements primarily consist of funds necessary to pay for operating and other expenditures, including costs associated with the management and franchising of hotels, corporate expenses, payroll and compensation costs, taxes and compliance costs, interest payments on our outstanding indebtedness, contract acquisition costs and capital expenditures for renovations and maintenance at the hotels within our ownership segment. While our accounts receivable balance as 
+of September 30, 2020 is less than periods prior to the start of the pandemic, we are generally experiencing slower payment of certain fees due to us. As such, we have considered the implications of these delayed payment trends in developing our estimates of expected future credit losses.
+
+Our long-term liquidity requirements primarily consist of funds necessary to pay for scheduled debt maturities, capital improvements to the hotels within our ownership segment, commitments to owners in our management and franchise segment and corporate capital and information technology expenditures. We have currently suspended dividend payments and share repurchases, but expect that these activities will result in uses of liquidity in future periods.
+
+We have a long-term investment policy that is focused on the preservation of capital and maximizing the return on new and existing investments and returning available capital to stockholders through dividends and share repurchases. However, the COVID-19 pandemic has caused us to temporarily change our cash management strategy as described above. Within the framework of our long-term investment policy, we currently intend to continue to finance our business activities primarily with cash on our 
+balance sheet as of September 30, 2020 and cash generated from our operations.
+
+After considering our approach to liquidity and accessing our available sources of cash, we believe that our cash position will be adequate to meet anticipated requirements for operating and other expenditures, including corporate expenses, payroll and related benefits, taxes and compliance costs and other commitments for the foreseeable future based on current conditions. The objectives of our cash management policy are to maintain the availability of liquidity while minimizing operational 
+costs.
+
+We may from time to time issue or incur or increase our capacity to incur new debt and/or purchase our outstanding debt through underwritten offerings, open market transactions, privately negotiated transactions or otherwise. Issuances or incurrence of new debt (or an increase in our capacity to incur new debt) and/or purchases or retirement of outstanding debt, if any, will depend on prevailing market conditions, liquidity requirements, contractual restrictions and other factors. The amounts 
+involved may be material.
+
+We formally suspended share repurchases given the current economic environment and our efforts to preserve cash, and no share repurchases have been made since March 5, 2020. The stock repurchase program remains authorized by the board of directors, and we may resume share repurchases in the future at any time, depending on market conditions, our capital needs and other factors. Prior to the suspension, during the nine months ended September 30, 2020, we repurchased 2.6 million shares of our 
+common stock under our stock repurchase program for $279 million, which we funded principally with available cash. As of September 30, 2020, approximately $2.2 billion remained available for share repurchases under the program.
+
+Sources and Uses of Our Cash and Cash Equivalents
+
+The following table summarizes our net cash flows:
+
+                                                           Nine Months Ended                            Percent        
+                                                           September 30,                                Change         
+                                                           2020                               2019      2020 vs. 2019  
+                                                           (in millions)                                               
+ ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Net cash provided by operating activities                $                        846          $      (28.4)         
+  Net cash used in investing activities                    (89)                               (47)      89.4           
+  Net cash provided by (used in) financing activities                             2,087      (808)      NM (1)         
+
+____________
+
+(1) Fluctuation in terms of percentage change is not meaningful.
+
+Operating Activities
+
+The decrease in net cash provided by operating activities was primarily the result of decreases in cash inflows generated from our management and franchise properties and our owned and leased hotels, largely as a result of decreases in system-wide RevPAR due to the COVID-19 pandemic, as further discussed in " - Revenues." The decrease in net cash provided by operating activities was partially offset by $1.0 billion of cash received in connection with the Honors Points Pre-Sale and a decrease in 
+cash paid for taxes of $171 million, primarily resulting from decreases in income before income taxes, as well as NOLs that were generated in 2020 in many foreign tax jurisdictions that had taxable income in 2019.
+
+Investing Activities
+
+Net cash used in investing activities primarily related to capital expenditures for property and equipment and capitalized software costs. Beginning in March 2020, we took steps to temporarily eliminate non-essential expenses, including capital expenditures, in response to the COVID-19 pandemic. While we do not expect to be able to fully eliminate such expenditures, we expect to materially reduce our spending on an annual basis, when compared to the prior year. Our capital expenditures for 
+property and equipment primarily consisted of expenditures related to our corporate facilities and the renovation of hotels in our ownership segment, and our capitalized software costs related to various systems initiatives, for the benefit of both our hotel owners and our overall corporate operations. During the nine months ended September 30, 2019, we received cash proceeds of $120 million relating to the sale of the Hilton Odawara that partially offset capital expenditures for property and 
+equipment, capitalized software costs and other uses of cash for investing activities.
+
+Financing Activities
+
+The change in cash flows related to financing activities was primarily attributable to a $1.5 billion increase in cash inflows from net borrowings and repayments under our Revolving Credit Facility, a $500 million decrease in cash outflows from net borrowings and repayments under our Term Loans and an $878 million decrease in share repurchases and dividend payments.
+
+Debt and Borrowing Capacity
+
+As of September 30, 2020, our total indebtedness, excluding unamortized deferred financing costs and discount, was approximately $10.6 billion. For additional information on our total indebtedness, including fully drawing down our Revolving Credit Facility, our issuance of $1.0 billion aggregate principal amount of senior notes and guarantees on our debt, refer to Note 7: "Debt" in our unaudited condensed consolidated financial statements.
+
+If we are unable to generate sufficient cash flow from operations in the future to service our debt, we may be required to reduce capital expenditures or issue additional equity securities. Our ability to make scheduled principal payments and to pay interest on our debt depends on our future operating performance, which is subject to general conditions in or affecting the hospitality industry that may be beyond our control. The COVID-19 pandemic negatively impacted our cash flows from operations
+during the period, and will continue to do so for an indeterminate period of time. Although our operating activities provided cash during the nine months ended September 30, 2020, it was primarily a result of the Honors Points Pre-Sale. We have taken precautions to secure our cash position, as discussed above, and expect to be able to meet our current obligations. Furthermore, we do not have any material indebtedness outstanding that matures prior to June 2024.
+
+Contractual Obligations
+
+During the nine months ended September 30, 2020, we fully drew down $1.69 billion under our Revolving Credit Facility, after giving effect to the letters of credit outstanding, which matures in 2024 and is repayable by us at any time. Further, we issued $500 million aggregate principal amount of senior notes due 2025 and $500 million aggregate principal amount of senior notes due 2028. Other than these borrowings, there were no material changes to our contractual obligations from what we 
+previously disclosed in our Annual Report on Form 10-K for the fiscal year ended December 31, 2019.
+
+Off-Balance Sheet Arrangements
+
+See Note 15: "Commitments and Contingencies" in our unaudited condensed consolidated financial statements for a discussion of our off-balance sheet arrangements.
+
+Summarized Guarantor Financial Information
+
+HOC is the issuer of the Senior Notes and is 100 percent owned by Hilton Worldwide Parent LLC ("HWP"), which, in turn, is 100 percent owned directly by the Parent. The Senior Notes are guaranteed jointly and severally on a senior unsecured basis by the Parent, HWP and substantially all of the Parent's direct and indirect wholly owned domestic restricted subsidiaries, except for HOC, the issuer (together, the "Guarantors"). The indentures that govern the Senior Notes provide that any subsidiary 
+of the Company that provides a guarantee of our senior secured credit facilities will guarantee the Senior Notes. As of September 30, 2020, none of our foreign subsidiaries or domestic subsidiaries owned by foreign subsidiaries or conducting foreign operations or our non-wholly owned subsidiaries guaranteed the Senior Notes.
+
+The guarantees are full and unconditional, subject to certain customary release provisions. The indentures that govern the Senior Notes provide that any Guarantor may be released from its guarantee so long as: (i) the subsidiary is sold or sells all of its assets; (ii) the subsidiary is released from its guarantee under our senior secured credit facilities; (iii) the subsidiary is declared "unrestricted" for covenant purposes; or (iv) the requirements for legal defeasance or covenant defeasance 
+or to discharge the indenture have been satisfied, in each case in compliance with applicable provisions of the indentures.
+
+Neither HOC nor any of the Guarantors has any reporting obligation under the Exchange Act in respect of the Senior Notes; however, we are supplementally providing the information set forth below. The following tables present summarized financial information for HOC, along with the Parent and all other Guarantors, on a combined basis:
+
+                                          As of                            
+                                          September 30, 2020               
+                                          (in millions)                    
+ ───────────────────────────────────────────────────────────────────────────
+  ASSETS                                                                   
+  Total current assets                    $                           840  
+  Intangible assets, net                                            8,788  
+  Total intangibles and other assets                                9,297  
+  TOTAL ASSETS                                                     10,137  
+  LIABILITIES AND DEFICIT                                                  
+  Total current liabilities                                         1,759  
+  Long-term debt                                                   10,266  
+  Total liabilities                                                16,170  
+  Total Hilton stockholders' deficit                              (6,033)  
+  TOTAL LIABILITIES AND DEFICIT                                    10,137  
+
+                                                             Nine Months Ended September 30, 2020             
+                                                             (in millions)                                    
+ ──────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Revenues                                                                                                    
+  Revenues                                                   $                                           762  
+  Other revenues from managed and franchised properties                                                1,966  
+  Total revenues                                             $                                         2,728  
+  Expenses                                                                                                    
+  Expenses                                                   $                                           368  
+  Other expenses from managed and franchised properties                                                2,201  
+  Total expenses                                             $                                         2,569  
+  Operating income                                           $                                           159  
+  Interest expense                                           (304)                                            
+  Income tax benefit                                         35                                               
+  Net loss                                                   (108)                                            
+  Net loss attributable to Hilton stockholders               (108)                                            
+
+Critical Accounting Policies and Estimates
+
+The preparation of our unaudited condensed consolidated financial statements in accordance with GAAP requires us to make estimates and assumptions that affect reported amounts and related disclosures. We have discussed the policies and estimates that we believe are critical and require the use of complex judgment in their application in our Annual Report on Form 10-K for the fiscal year ended December 31, 2019.
+
+As a result of the impact of the COVID-19 pandemic on our business, we have had to reevaluate certain estimates and assumptions that affect our reported amounts. In particular, we extended the expected redemption rate of our Hilton Honors points over the next year, which, due to the re-evaluation at March 31, 2020, resulted in reclassifications of the liabilities for guest loyalty program and deferred revenues from current to long-term of $221 million and $50 million, respectively. We continued 
+to use the revised methodology subsequent to March 31, 2020. Changes to the Hilton Honors program may affect the estimated cost per point for our future redemption obligation and the expected redemption pattern, which may result in changes to the amounts recorded for the liabilities for guest loyalty program and deferred revenues and the classification of such liabilities between current and long-term. Additionally, we recognized impairment losses of $9 million and $136 million during the three 
+and nine months ended September 30, 2020, respectively, which required the use of significant judgments and estimates. See Note 8: "Fair Value Measurements" and Note 6: "Finite-Lived Intangible Assets" in our unaudited condensed consolidated financial statements for additional information on the impairment losses.
+

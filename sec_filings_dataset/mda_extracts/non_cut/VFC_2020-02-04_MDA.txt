@@ -1,0 +1,503 @@
+ITEM 2 — MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS.  
+ ───────────────────────────────────────────────────────────────────────────────────────────────────
+
+VF Corporation (together with its subsidiaries, collectively known as “VF” or the “Company”) uses a 52/53 week fiscal year ending on the Saturday closest to March 31 of each year. The Company's current fiscal year runs from March 31, 2019 through March 28, 2020 ("Fiscal 2020"). Accordingly, this Form 10-Q presents our third quarter ofFiscal 2020. For presentation purposes herein, all references to periods ended December 2019 and December 2018 relate to the fiscal periods ended on December 28, 
+2019 and December 29, 2018, respectively. References to March 2019 relate to information as of March 30, 2019.
+
+All per share amounts are presented on a diluted basis and all percentages shown in the tables below and the following discussion have been calculated using unrounded numbers. All references to foreign currency amounts below reflect the changes in foreign currency exchange rates from the same period in2018 and their impact on translating foreign currencies into U.S. dollars. All references to foreign currency amounts also reflect the impact of foreign currency-denominated transactions in 
+countries with highly inflationary economies. VF’s most significant foreign currency exposure relates to business conducted in euro-based countries. Additionally, VF conducts business in other developed and emerging markets around the world with exposure to foreign currencies other than the euro, such as Argentina, which is a highly inflationary economy.
+
+On June 1, 2018, VF acquired 100% of the stock of Icon-Altra LLC, plus certain assets in Europe ("Altra"). The business results for Altra have been included in the Outdoor segment. All references to contributions from acquisition below represent the operating results of Altra for the two months ended May 2019, which reflects the one-year anniversary of the acquisition. Refer toNote 4 to VF's consolidated financial statements for additional information on acquisitions.
+
+On October 5, 2018, VF completed the sale of the Van Moer business, which was included in the Work segment. On October 26,
+
+2018, VF completed the sale of the Reef® brand business, which was included in the Active segment. All references to dispositions below represent the impact of operating results of the Reef® brand and Van Moer businesses through their dates of disposition, for the three and nine months ended December 2018.
+
+On May 22, 2019, VF completed the spin-off of its Jeans business, which included the Wrangler®, Lee® and Rock & Republic® brands, as well as the VF OutletTM business, into an independent, publicly traded company now operating under the name Kontoor Brands, Inc. ("Kontoor Brands"). As a result, VF reported the operating results for the Jeans business in the income (loss) from discontinued operations, net of tax line item in the Consolidated Statements of Income and the related cash flows have 
+been reported as discontinued operations in the Consolidated Statements of Cash Flows, for all periods presented. In addition, the related assets and liabilities have been reported as assets and liabilities of discontinued operations in the Consolidated Balance Sheets, through the date the spin-off was completed.
+
+On April 30, 2018, VF completed the sale of the Nautica® brand business. As a result, the Nautica® brand business has been reported as discontinued operations in our Consolidated Statements of Income and Consolidated Statements of Cash Flows.
+
+Unless otherwise noted, amounts, percentages and discussion for all periods included below reflect the results of operations and financial condition from VF’s continuing operations.
+
+Refer toNote 5 to VF’s consolidated financial statements for additional information on discontinued operations and other divestitures.
+
+ ──────────────────────────────────────────────────
+
+  Revenues were up 5% to $3.4 billion compared to the three months ended December 2018, primarily due to the $183.8 million contribution from organic growth, partially offset by a 1% unfavorable ...  
+
+  Active segment revenues increased 8% to $1.2 billion compared to the three months ended December 2018, including a 1% unfavorable impact from foreign currency.  
+
+  Outdoor segment revenues increased 3% to $1.7 billion compared to the three months ended December 2018, including a 1% unfavorable impact from foreign currency.  
+
+  Direct-to-consumer revenues were up 7% over the 2018 period. E-commerce revenues increased 16% in the current period, including a 1% unfavorable impact from foreign currency. Direct-to-consumer...  
+ ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+  International revenues increased 8% compared to the three months ended December 2018, including a 1% unfavorable  
+ ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+impact from foreign currency. International revenues represented42% of net revenues in the current period.
+
+  Gross margin increased 110 basis points to 55.7% compared to the three months ended December 2018 primarily driven by a mix-shift to higher margin businesses and a favorable net foreign currenc...  
+
+  Earnings per share increased 11% to $1.13 from $1.02 in the 2018 period. The increase was driven by organic growth in all segments, and continued strength in our direct-to-consumer and internat...  
+
+33 VF Corporation Q3 FY20 Form 10-Q
+
+  ANALYSIS OF RESULTS OF OPERATIONS  
+
+  Consolidated Statements of Income  
+
+The following table presents a summary of the changes in net revenues for the three and nine months endedDecember 2019 from the comparable periods in2018:
+
+  (In millions)                   Three Months Ended December                   Nine Months Ended December               
+ ─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Net revenues — 2018             $                                3,227.7      $                               8,584.2  
+  Organic                         183.8                                         681.7                                    
+  Acquisition                     —                                             11.8                                     
+  Dispositions                    (4.4                                          (96.3                                    
+  Impact of foreign currency      (22.4                                         (131.9                                   
+  Net revenues — 2019             $                                3,384.7      $                               9,049.5  
+
+VF reported a5% increase in revenues for both the three and nine months endedDecember 2019, compared to the2018 periods. The revenue increase in both periods was attributable to organic growth in all segments and continued strength in our direct-to-consumer and international businesses. The increases in both periods were partially offset by lower revenues due to the Reef® brand and Van Moer business dispositions and an unfavorable impact from foreign currency. Excluding the impact of foreign 
+currency, international sales grew in every region in both the three and nine months endedDecember 2019.
+
+Additional details on revenues are provided in the section titled “Information by Reportable Segment.”
+
+The following table presents the percentage relationships to net revenues for components of the Consolidated Statements of Income:
+
+                                                           Three Months Ended December                Nine Months Ended December            
+                                                                                  2019      2018                            2019      2018  
+ ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Gross margin (net revenues less cost of goods sold)                             55.7      54.6                            54.3      53.2  
+  Selling, general and administrative expenses                                    38.6      38.5                            40.1      39.5  
+  Operating margin                                                                17.1      16.1                            14.3      13.7  
+
+Gross margin increased110 basis points in both the three and nine months ended December 2019, compared to the2018 periods. Gross margin in both the three and nine months endedDecember 2019 was positively impacted by a mix-shift to higher margin businesses and a favorable net foreign currency transaction impact.
+
+Selling, general and administrative expenses as a percentage of total revenues increased 10 and 60 basis points during the three and nine months ended December 2019, respectively, compared to the2018 periods. The increase in both periods was primarily due to costs related to the relocation of our global headquarters and certain brands to Denver, Colorado and specified strategic business decisions in South America. The increase in both periods was also due to continued investments in our key 
+strategic growth initiatives. These costs were partially offset by leverage of operating expenses on higher revenues and lower transaction and deal-related costs in both the three and nine months endedDecember 2019, and a gain of approximately $11 million in the nine months endedDecember 2019 on the sale of office real estate and related assets in connection with the relocation of VF's global headquarters and certain brands to Denver, Colorado.
+
+Net interest expense decreased$8.4 million and$29.3 million during the three and nine months ended December 2019, respectively, compared to the2018 periods. The decrease in net interest expense in both the three and nine months endedDecember 2019 was primarily due to lower rates on decreased borrowings of short-term debt, partially due to repayment activity funded by the cash received from Kontoor Brands, and higher
+
+international cash balances in higher yielding currencies. Total outstanding debt averaged$2.6 billion in the nine months ended December 2019 and$3.6 billion in the same period in2018, with weighted average interest rates of3.2% and3.0%, respectively.
+
+Other income (expense), net increased $21.1 million and decreased $34.1 million during the three and nine months ended December 2019, respectively, compared to the2018 periods. The increase in the three months endedDecember 2019 was primarily due to higher pension settlement charges of $24.3 million. The increase was partially offset by the estimated loss on sale of $4.5 million recorded in the three months ended December 2018, related to the divestiture of the Reef® brand. The decrease in the 
+nine months endedDecember 2019 was primarily due to losses on sale of $14.4 million and $22.4 million recorded in the nine months ended December 2018, related to the divestitures of the Reef® brand and Van Moer businesses, respectively.
+
+The effective income tax rate for the nine months ended December 2019 was 2.1% compared to 15.5% in the2018 period. The nine months endedDecember 2019 included a net discrete tax benefit of $169.7 million, which primarily related to the $164.4 million tax benefit recognized due to the enactment of Switzerland's Federal Act on Tax Reform and AHV Financing ("Swiss Tax Act"). The $169.7 million net discrete tax benefit in the 2019 period reduced the effective income tax rate by 13.9%. The 2018 
+period included a net discrete tax expense of $14.8 million, which primarily related to a $17.8 million tax benefit related to stock compensation, a $3.4 million net tax expense related to unrecognized tax benefits and interest, a $5.9 million net tax expense related to return to accrual
+
+VF Corporation Q3 FY20 Form 10-Q34
+
+adjustments and a $23.3 million net tax expense related to adjustments to provisional amounts recorded in 2017 under the U.S. Tax Cuts and Jobs Act. The $14.8 million net discrete tax expense in the 2018 period increased the effective income tax rate by 1.4%. Without discrete items, the effective income tax rate for the nine months endedDecember 2019 increased by 1.9% compared with the 2018 period primarily due to a lower percentage of income in lower tax rate jurisdictions.
+
+As a result of the above, income from continuing operations in the three months endedDecember 2019 was$452.7 million($1.13 per diluted share) compared to$409.1 million($1.02 per diluted share) in the 2018 period, and income from continuing operations in the nine months ended December 2019 was$1,199.0 million($2.99 per diluted share) compared to$886.6 million($2.21 per diluted share) in the 2018 period. Refer to additional discussion in the “Information by Reportable Segment” section below.
+
+  Information by Reportable Segment  
+
+VF's reportable segments are: Outdoor, Active and Work. We have included an Other category in the tables below for purposes of reconciliation of revenues and profit, but it is not considered a reportable segment. Included in this Other category are results related to the sale of non-VF products and transition services primarily related to the sale of the Nautica® brand business.
+
+Refer toNote 15 to the consolidated financial statements for a summary of results of operations by segment, along with a reconciliation of segment profit to income before income taxes.
+
+The following tables present a summary of the changes in segment revenues and profit in the three and nine months endedDecember 2019 from the comparable periods in2018:
+
+Segment Revenues:
+
+                                  Three Months Ended December                                                                            
+  (In millions)                   Outdoor                                       Active                   Work      Other (a)      Total  
+ ─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Segment revenues — 2018         $                                1,612.6      $           1,142.6      $         $              $      
+  Organic                         58.7                                          109.8                    10.1      5.2            183.8  
+  Dispositions                    —                                             (3.1                     (1.3      —              (4.4   
+  Impact of foreign currency      (12.2                                         (9.8                     (0.6      0.2            (22.4  
+  Segment revenues — 2019         $                                1,659.1      $           1,239.5      $         $              $      
+
+                                  Nine Months Ended December                                                                              
+  (In millions)                   Outdoor                                      Active                   Work       Other (a)      Total   
+ ──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Segment revenues — 2018         $                               3,647.7      $           3,579.5      $          $              $       
+  Organic                         195.6                                        439.0                    22.9       24.2           681.7   
+  Acquisition                     11.8                                         —                        —          —              11.8    
+  Dispositions                    —                                            (71.3                    (25.0      —              (96.3   
+  Impact of foreign currency      (59.4                                        (62.0                    (6.5       (4.0           (131.9  
+  Segment revenues — 2019         $                               3,795.7      $           3,885.2      $          $              $       
+
+Segment Profit:
+
+                                  Three Months Ended December                                                                        
+  (In millions)                   Outdoor                                     Active                 Work      Other (a)      Total  
+ ─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Segment profit — 2018           $                                338.0      $           272.9      $         $              $      
+  Organic                         12.7                                        14.4                   (1.7      (5.5           19.9   
+  Dispositions                    —                                           0.9                    0.2       —              1.1    
+  Impact of foreign currency      (1.7                                        (1.7                   (0.1      2.1            (1.4   
+  Segment profit — 2019           $                                349.0      $           286.5      $         $              $      
+
+35 VF Corporation Q3 FY20 Form 10-Q
+
+                                  Nine Months Ended December                                                                         
+  (In millions)                   Outdoor                                    Active                 Work       Other (a)      Total  
+ ─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Segment profit — 2018           $                               512.6      $           893.1      $          $              $      
+  Organic                         19.3                                       111.9                  (14.1      (8.2           108.9  
+  Acquisition                     (0.2                                       —                      —          —              (0.2   
+  Dispositions                    —                                          (6.6                   (0.9       —              (7.5   
+  Impact of foreign currency      (6.6                                       (16.2                  (0.6       2.7            (20.7  
+  Segment profit — 2019           $                               525.1      $           982.2      $          $              $      
+
+  (a)      Included in the Other category for the three and nine months ended December 2019 are results primarily related to the sale of non-VF products. The three and nine months ended December 2018 refl...  
+ ─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+The following sections discuss the changes in revenues and profitability by segment. For purposes of this analysis, royalty revenues have been included in the wholesale channel for all periods.
+
+Outdoor
+
+                             Three Months Ended December                              Nine Months Ended December                          
+  (Dollars in millions)                             2019       2018      Percent                            2019       2018      Percent  
+                                                                         Change                                                  Change   
+ ──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Segment revenues                                     $          $      2.9                                   $          $      4.1      
+  Segment profit                                   349.0      338.0      3.3                               525.1      512.6      2.4      
+  Operating margin                                  21.0       21.0                                         13.8       14.1               
+
+The Outdoor segment includes the following brands: The North Face®, Timberland®(excluding Timberland PRO®), Icebreaker®, Smartwool® and Altra®.
+
+Global revenues for Outdoor increased3% in the three months ended December 2019 compared to 2018, including a1% unfavorable impact due to foreign currency. Revenues in the Americas region increased2%. Revenues in the Europe region increased3%, including a2% unfavorable impact from foreign currency. Revenues in the Asia-Pacific region increased6%, including a1% unfavorable impact from foreign currency.
+
+Global revenues for Outdoor increased4% in the nine months endedDecember 2019 compared to the 2018 period, including a2% unfavorable impact due to foreign currency. Revenues in the Americas region increased6%, including a1% unfavorable impact from foreign currency. Revenues in the Europe region decreased1%, including a4% unfavorable impact from foreign currency. Revenues in the Asia-Pacific region increased6%, including a2% unfavorable impact from foreign currency.
+
+Global revenues for The North Face® brand increased8% in both the three and nine months ended December 2019 compared to the2018 periods. This includes a1% unfavorable impact from foreign currency in the nine months endedDecember 2019. The increase in both periods was due to strong operational growth across all channels and regions, including strong wholesale performance and growth in the direct-to-consumer channel driven by an expanding e-commerce business and comparable store growth.
+
+Global revenues for the Timberland® brand (excluding Timberland PRO®) decreased6% and4% in the three and nine months ended December 2019, respectively, compared to the2018 periods. The decrease in the three months endedDecember 2019 reflects overall declines in the wholesale and direct-to-consumer channels and an overall1% unfavorable impact from foreign currency, which were partially offset by e-commerce growth and increases in China. The decrease in the nine months endedDecember 2019 was 
+primarily due to an overall decline in the wholesale channel and
+
+an overall 2% unfavorable impact from foreign currency, which were partially offset by e-commerce growth and increases in China.
+
+Global direct-to-consumer revenues for Outdoor increased3% and4% in the three and nine months ended December 2019, respectively, compared to the2018 periods. This includes a1% unfavorable impact from foreign currency in both the three and nine months endedDecember 2019. The increase in both periods was primarily due to a growing e-commerce business across all regions. Global wholesale revenues increased2% and4% in the three and nine months ended December 2019, respectively, compared to the2018 
+periods, driven by global growth in The North Face® brand in both periods. The changes included a1% and a2% unfavorable impact from foreign currency in the three and nine months ended December 2019, respectively.
+
+Operating margin was flat and decreased 30 basis points in the three and nine months ended December 2019, respectively, compared to the2018 periods. In the three months ended December 2019, increased pricing, leverage of operating expenses on higher revenues, a mix-shift to higher margin businesses and a favorable net foreign currency transaction impact were offset by relocation costs, higher product costs and increased investments in product innovation, demand creation and technology. The 
+decrease in the nine months ended December 2019 was due to relocation costs, higher product costs and increased investments in product innovation, demand creation and technology. The decline was partially offset by leverage of operating expenses on higher revenues, increased pricing, a mix-shift to higher margin businesses and a favorable net foreign currency transaction impact. The decrease in the nine months endedDecember 2019 was also partially offset by a gain of approximately $11 million on
+the sale of office real estate and related assets in connection with the relocation of VF's global headquarters and certain brands to Denver, Colorado during the first quarter.
+
+VF Corporation Q3 FY20 Form 10-Q36
+
+Active
+
+                             Three Months Ended December                              Nine Months Ended December                          
+  (Dollars in millions)                             2019       2018      Percent                            2019       2018      Percent  
+                                                                         Change                                                  Change   
+ ──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Segment revenues                                     $          $      8.5                                   $          $      8.5      
+  Segment profit                                   286.5      272.9      5.0                               982.2      893.1      10.0     
+  Operating margin                                  23.1       23.9                                         25.3       25.0               
+
+The Active segment includes the following brands: Vans®, Kipling®, Napapijri®, Eastpak®, JanSport®, Reef®(through the date of sale) and Eagle Creek®.
+
+Global revenues for Active increased8% in the three months ended December 2019, compared to the2018 period, driven by growth across all channels and regions. The overall increase includes a1% unfavorable impact from foreign currency. Revenues in the Americas region increased8%. Revenues in the Europe region increased5%, including a3% unfavorable impact from foreign currency. Revenues in the Asia-Pacific region increased17%, with a2% unfavorable impact from foreign currency. The three months 
+endedDecember 2019 were negatively impacted by the sale of the Reef® brand business in October 2018, which resulted in lower revenues of$3.1 million. Excluding the impact of the disposition, revenues in the three months ended December 2019 increased9% compared to the 2018 period, including a1% unfavorable impact from foreign currency.
+
+Global revenues for Active increased9% in the nine months ended December 2019, compared to the2018 period, driven by growth across all channels and regions. The overall increase includes a1% unfavorable impact from foreign currency. Revenues in the Americas region increased9%. Revenues in the Europe region increased2%, including a5% unfavorable impact from foreign currency. Revenues in the Asia-Pacific region increased19%, with a4% unfavorable impact from foreign currency. The nine months 
+endedDecember 2019 were negatively impacted by the sale of the Reef® brand business in October 2018, which resulted in lower revenues of$71.3 million. Excluding the impact of the disposition, revenues in the nine months ended December 2019 increased11% compared to the 2018 period, including a2% unfavorable impact from foreign currency.
+
+Vans® brand global revenues increased12% and15% in the three and nine months ended December 2019, respectively, compared to the2018 periods. These include a1% and2% unfavorable impact from foreign currency in the three and nine months endedDecember 2019, respectively. The increase in both periods was due to strong operational growth across all channels and regions, including strong wholesale performance and direct-to-consumer growth driven by an expanding e-commerce business, comparable store 
+growth and new store openings.
+
+Global direct-to-consumer revenues for Active grew10% and14% in the three and nine months ended December 2019, respectively, compared to the2018 periods, including a1% unfavorable impact from foreign currency in the nine months endedDecember 2019. Growth in the direct-to-consumer channel was driven by a growing e-commerce business, comparable store growth and new store openings. Wholesale revenues increased7% and4% in the three and nine months endedDecember 2019, respectively, driven by global 
+growth in the Vans® brand in both periods, and included a1% and a2% unfavorable impact from foreign currency in the three and nine months endedDecember 2019, respectively. Excluding the impact of the Reef® brand disposition, wholesale revenues increased7% in both the three and nine months endedDecember 2019, compared to the 2018 periods. These include a2% and a3% unfavorable impact from foreign currency in the three and nine months ended December 2019, respectively.
+
+Operating margin decreased 80 and increased 30 basis points in the three and nine months ended December 2019, respectively, compared to the2018 periods. The decrease in the three months endedDecember 2019 reflects increased investments in direct-to-consumer and demand creation, partially offset by leverage of operating expenses on higher revenues, a mix-shift to higher margin businesses and a favorable net foreign currency transaction impact. The increase in the nine months endedDecember 2019 
+reflects gross margin expansion driven by a mix-shift to higher margin businesses and products, leverage of operating expenses on higher revenues and a favorable net foreign currency transaction impact, partially offset by increased investments in direct-to-consumer and demand creation.
+
+37 VF Corporation Q3 FY20 Form 10-Q
+
+Work
+
+                             Three Months Ended December                             Nine Months Ended December                          
+  (Dollars in millions)                             2019      2018      Percent                            2019       2018      Percent  
+                                                                        Change                                                  Change   
+ ─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Segment revenues                                     $         $      1.7                                   $          $      (0.6     
+  Segment profit                                    54.6      56.2      (2.9                              140.8      156.4      (10.0    
+  Operating margin                                  11.4      11.9                                         10.5       11.6               
+
+The Work segment includes the following brands: Dickies®, Red Kap®, Bulwark®, Timberland PRO®, VF Solutions®, Walls®, Terra®, Workrite®, Kodiak® and Horace Small®.
+
+Global Work revenues increased2% in the three months ended December 2019, compared to the2018 period. The revenue increase was primarily due to growth in the Dickies® brand and an overall increase in the direct-to-consumer channel driven by e-commerce growth, which was partially offset by declines in the Red Kap® and Bulwark® brands.
+
+Global Work revenues decreased1% in the nine months ended December 2019, including a1% unfavorable impact from foreign currency, compared to the2018 period. The nine months endedDecember 2019 were negatively impacted by the sale of the Van Moer business in October 2018, which resulted in lower revenues of$25.0 million. Excluding the impact of the disposition, revenues in the nine months ended December 2019 increased1%, compared to the 2018 period, including a1% unfavorable impact from foreign 
+currency. The revenue increase was due to growth in the Dickies®, Timberland PRO® and VF Solutions® brands and an overall increase in the direct-to-consumer channel driven by e-commerce growth. The increase was partially offset by declines in the Red Kap® and Bulwark® brands.
+
+Dickies® brand global revenues increased13% and3% in the three and nine months ended December 2019, respectively, compared to the2018 periods, including a1% unfavorable impact from foreign currency in the nine months endedDecember 2019. The increase in the three months ended December 2019 was primarily due to
+
+growth in the Asia-Pacific region, specifically in China, and the Americas region and reflects strong performance in the wholesale and direct-to-consumer channels. The increase in the nine months endedDecember 2019 was primarily due to growth in the Asia-Pacific region, specifically in China, and reflects increases in the wholesale and direct-to-consumer channels.
+
+Operating margin decreased 50 and 110 basis points in the three and nine months endedDecember 2019, respectively, compared to the 2018 periods. The decrease in both periods reflects certain higher product costs, increased investments in direct-to-consumer and demand creation and declines in the occupational work businesses. These decreases were partially offset by increased pricing and lower transaction and deal-related costs from the acquisition of the Williamson-Dickie business.
+
+On January 21, 2020, VF announced that it is considering the divestiture of the occupational portion of its Work segment. The occupational portion of the Work segment is comprised primarily of the following brands and businesses: Red Kap®, VF Solutions®, Bulwark®, Workrite®, Walls®, Terra®, Kodiak®, Work Authority® and Horace Small®. Revenues associated with these brands and businesses represent approximately 50% of the total Work segment.
+
+  Reconciliation of Segment Profit to Income Before Income Taxes  
+
+There are two types of costs necessary to reconcile total segment profit, as discussed in the preceding paragraphs, to consolidated income from continuing operations before income taxes. These costs are (i) corporate and other expenses, discussed below, and (ii) interest expense, net, which was discussed in the “Consolidated Statements of Income” section.
+
+                                    Three Months Ended December                             Nine Months Ended December                         
+  (Dollars in millions)             2019                             2018      Percent      2019                            2018      Percent  
+                                                                               Change                                                 Change   
+ ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Corporate and other expenses      $                                $         (11.6        $                               $         (15.0    
+  Interest expense, net             16.8                             25.2      (33.3        47.6                            76.9      (38.0    
+
+Corporate and other expenses are those that have not been allocated to the segments for internal management reporting, including (i) information systems and shared service costs, (ii) corporate headquarters costs, and (iii) certain other income and expenses. The decrease in the three and nine months ended December 2019 was driven by losses on sale of $4.5 million and $14.4 million, respectively, related to the divestiture of the Reef® brand that were recorded in the three and nine months ended 
+December 2018, and a $22.4 million loss related to the divestiture of the Van Moer business that was recorded in the nine months ended December 2018. The decrease in both periods was also attributed to corporate overhead and other costs previously allocated to the former Jeans segment that have been reallocated
+
+to "Corporate and other expenses" in the three and nine-month periods ended December 2018. Certain of these costs in the three and nine-month periods ended December 2019 have been offset by reimbursements from Kontoor Brands related to transition services. The decrease in the three and nine months ended December 2019 was also due to lower charitable contributions compared to the 2018 periods. The decrease was also attributed to lower transaction and deal related costs in the three and nine 
+months ended December 2019 compared to the 2018 periods. The decrease was partially offset by increased costs related to the relocation of our global headquarters and certain brands to Denver, Colorado and higher pension settlement charges in the three and nine months ended December 2019.
+
+VF Corporation Q3 FY20 Form 10-Q38
+
+  International Operations  
+
+International revenues increased8% and5% in the three and nine months ended December 2019, respectively, compared to the2018 periods. Foreign currency negatively impacted international revenue growth by1% and3% in the three and nine months ended December 2019, respectively. Revenues in Europe increased4% and remained flat in the three and nine months ended December 2019, respectively, including a2% and a4% unfavorable impact from foreign currency in the three and nine months endedDecember 2019, 
+respectively. In the Asia-Pacific region, revenues increased14% and13% in the three and nine months endedDecember 2019, respectively, driven by growth in China. Foreign currency negatively impacted revenues in the Asia-Pacific region by1% and3% in the three and nine months ended December 2019,
+
+respectively. Revenues in the Americas (non-U.S.) region increased9% in both the three and nine months ended December 2019, including a2% unfavorable impact from foreign currencies in the nine months endedDecember 2019. Excluding the impact of dispositions, international revenues increased8% and6% in the three and nine months ended December 2019, respectively, including a2% and a4% unfavorable impact from foreign currency in the three and nine months endedDecember 2019, respectively. 
+International revenues were42% and41% of total revenues in the three-month periods ended December 2019 and 2018, respectively, and43% and44% of total revenues in the nine-month periods ended December 2019 and 2018, respectively.
+
+  Direct-to-Consumer Operations  
+
+Direct-to-consumer revenues increased7% and10% in the three and nine months endedDecember 2019, respectively, reflecting growth in all regions. Foreign currency negatively impacted direct-to-consumer revenue growth by1% in the nine months endedDecember 2019. The increase in direct-to-consumer revenues for both periods was due to an expanding e-commerce business, which grew16% and17% in the three and nine months endedDecember 2019, respectively. The e-commerce growth includes a1% and a2% 
+unfavorable impact from foreign currency in the three and nine months ended December 2019, respectively. The increase in direct-
+
+to-consumer revenues for both periods was also due to comparable store growth for locations open at least twelve months at each reporting date, and new store openings. There were1,438 VF-owned retail stores atDecember 2019 compared to1,420 at December 2018. Direct-to-consumer revenues were46% and45% of total revenues in the three-month periods ended December 2019 and2018, respectively. Direct-to-consumer revenues were39% and37% of total revenues in the nine-month periods ended December 2019 
+and2018, respectively.
+
+39 VF Corporation Q3 FY20 Form 10-Q
+
+  ANALYSIS OF FINANCIAL CONDITION  
+
+  Consolidated Balance Sheets  
+
+The following discussion refers to significant changes in balances atDecember 2019 compared to March 2019:
+
+  Increase in accounts receivable — primarily due to the seasonality of the business and increased wholesale shipments.  
+ ─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+  Increase in inventories — primarily due to the seasonality of the business, including mixed results during the 2019 holiday season, primarily impacting the Americas region, and higher inventory...  
+
+  Decrease in other current assets — due to lower prepaid expenses and a decrease in derivative assets.  
+ ─────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+  Increase in operating lease right-of-use assets — due to amounts recorded in connection with the adoption of Financial Accounting Standards Board Accounting Standards Codification Topic 842, Le...  
+
+  Increase in other assets — primarily due to an increase in deferred tax assets due to the enactment of certain provisions of the Swiss Tax Act.  
+ ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+  Decrease in short-term borrowings — due to net repayment of commercial paper borrowings including the use of funds provided by the cash received from Kontoor Brands.  
+
+  Decrease in accounts payable — due to the timing of payments to vendors.  
+ ────────────────────────────────────────────────────────────────────────────
+
+  Increase in accrued liabilities — primarily due to amounts recorded for operating lease liabilities in connection with the adoption of ASC 842.  
+ ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+  Increase in operating lease liabilities — due to amounts recorded for operating lease liabilities in connection with the adoption of ASC 842.  
+ ─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+  Decrease in other liabilities — primarily due to the reclassification of deferred rent credits from other liabilities to operating lease right-of-use assets in connection with the adoption of A...  
+
+The following discussion refers to significant changes in balances atDecember 2019 compared to December 2018:
+
+  Increase in inventories — driven by growth in the business, higher inventory levels in the occupational work businesses and mixed results during the 2019 holiday season, primarily impacting the...  
+
+  Increase in operating lease right-of-use assets — due to amounts recorded in connection with the adoption of ASC 842.  
+ ─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+  Increase in other assets — primarily due to an increase in deferred tax assets due to the enactment of certain provisions of the Swiss Tax Act.  
+ ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+  Decrease i n short-term borrowings — due to net repayment of commercial paper borrowings including the use of funds provided by the cash received from Kontoor Brands.  
+
+  Decrease in accounts payable — driven by the timing of payments to vendors.  
+ ───────────────────────────────────────────────────────────────────────────────
+
+  Increase in accrued liabilities — primarily due to amounts recorded for the current portion of operating lease liabilities in connection with the adoption of ASC 842.  
+
+  Increase in operating lease liabilities — due to amounts recorded for operating lease liabilities in connection with the adoption of ASC 842.  
+ ─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+  Decrease in other liabilities — primarily due to the reclassification of deferred rent credits from other liabilities to operating lease right-of-use assets in connection with the adoption of A...  
+
+  Liquidity and Capital Resources  
+
+The financial condition of VF is reflected in the following:
+
+                             December         March      December  
+  (Dollars in millions)          2019          2019          2018  
+ ───────────────────────────────────────────────────────────────────
+  Working capital            $2,193.6      $1,377.3      $1,479.6  
+  Current ratio              2.1 to 1      1.6 to 1      1.6 to 1  
+  Debt to total capital         43.6%         39.3%         39.6%  
+
+The increase in the current ratio at December 2019 compared to both March 2019 andDecember 2018 was primarily due to a net decrease in current liabilities driven by lower short-term borrowings and a net increase in current assets driven by higher inventory balances, as discussed in the "Consolidated Balance Sheets" section above and higher cash balances due to cash received from Kontoor Brands, as discussed in the "Cash Used by Financing Activities" section below. The increase in the current 
+ratio at December 2019 compared toMarch 2019 was also due to higher accounts receivable balances, as discussed in the "Consolidated Balance Sheets" section above. Both comparisons were negatively impacted by the recording of the current portion
+
+of operating lease liabilities in accrued liabilities in theDecember 2019 period in connection with the adoption of ASC 842.
+
+For the ratio of debt to total capital, debt is defined as short-term and long-term borrowings, in addition to operating lease liabilities, beginning in the Fiscal 2020 periods. Total capital is defined as debt plus stockholders’ equity. The increase in the debt to total capital ratio at December 2019 compared to both March 2019 andDecember 2018 was attributed to the increase in operating lease liabilities, partially offset by the decrease in short-term borrowing, as discussed in the 
+"Consolidated Balance Sheets" section above, and increases in stockholders' equity in both periods. The increase
+
+VF Corporation Q3 FY20 Form 10-Q40
+
+in stockholders' equity in both periods was driven by net income and stock-based compensation activity, partially offset by payments of dividends and purchases of treasury stock. Excluding the operating lease liabilities, the debt to total capital ratio was32.2% as of December 2019.
+
+VF’s primary source of liquidity is the strong annual cash flow from operating activities. Cash from operations is typically lower in the
+
+first half of the calendar year as inventory builds to support peak sales periods in the second half of the calendar year. Cash provided by operating activities in the second half of the calendar year is substantially higher as inventories are sold and accounts receivable are collected. Additionally, direct-to-consumer sales are highest in the fourth quarter of the calendar year.
+
+In summary, our cash flows from continuing operations were as follows:
+
+                                             Nine Months Ended December                                          
+  (In thousands)                             2019                                          2018                  
+ ─────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Cash provided by operating activities      $                                828,413      $          1,111,726  
+  Cash used by investing activities                                          (171,629                  (129,095  
+  Cash used by financing activities                                          (622,122                (1,437,727  
+
+Cash Provided by Operating Activities
+
+Cash flow related to operating activities is dependent on net income, adjustments to net income and changes in working capital. The decrease in cash provided by operating activities in the nine months ended December 2019 compared toDecember 2018 is primarily due to an increase in net cash usage for working capital, partially offset by higher net income in the nine months endedDecember 2019. The increase in net cash usage for working capital includes timing differences related to VF's annual 
+bonus payouts and timing of payments for transaction and deal-related costs, relocation and other strategic business decisions.
+
+Cash Used by Investing Activities
+
+The increase in cash used by investing activities in the nine months ended December 2019 related primarily to$430.3 million of proceeds from the sale of businesses, net of cash sold in the nine months ended December 2018, partially offset by $320.4 million of net cash paid for acquisitions in the nine months ended December 2018 and $63.7 million from the sale of office real estate and related assets in connection with the relocation of VF's global headquarters and certain brands to Denver, 
+Colorado in the nine months ended December 2019. Capital expenditures increase d$6.0 million compared to the2018 period.
+
+Cash Used by Financing Activities
+
+The decrease in cash used by financing activities during the nine months ended December 2019 was primarily due to$906.1 million of cash received from Kontoor Brands, net of cash transferred, and a decrease in cash used for short-term borrowings, partially offset by a$349.3 million increase in treasury stock purchases during the nine months ended December 2019.
+
+During the nine months ended December 2019, VF purchased5.8 million shares of its Common Stock in open market transactions at a total cost of$500.0 million(average price per share of$85.61) under the share repurchase program authorized by VF's Board of Directors. During the nine months endedDecember 2018, VF purchased 1.9 million shares of its Common Stock in open market transactions at a total cost of $150.7 million (average price per share of $80.62).
+
+As of the end ofDecember 2019, the Company had$3.3 billion remaining for future repurchases under its share repurchase program. From December 30, 2019 to February 3, 2020, the Company repurchased approximately 1.9 million shares of
+
+Common Stock in open market transactions for $160.5 million (average price per share of $83.59). VF's current intent is to repurchase up to $500.0 million of Common Stock in open market transactions during the fourth quarter of Fiscal 2020. The repurchases are at the Company's discretion and are subject to change based on circumstances. VF will continue to evaluate its use of capital, giving first priority to business acquisitions and then to direct shareholder return in the form of dividends 
+and share repurchases.
+
+VF relies on continued strong cash generation to finance its ongoing operations. In addition, VF has significant liquidity from its available cash balances and credit facilities. VF maintains a $2.25 billion senior unsecured revolving line of credit (the “Global Credit Facility”) that expires December 2023. VF may request an unlimited number of one year extensions so long as each extension does not cause the remaining life of the Global Credit Facility to exceed five years, subject to stated 
+terms and conditions. The Global Credit Facility may be used to borrow funds in both U.S. dollar and certain non-U.S. dollar currencies, and has a $50.0 million letter of credit sublimit. In addition, the Global Credit Facility supports VF’s U.S. commercial paper program for short-term, seasonal working capital requirements and general corporate purposes, including share repurchases and acquisitions. Outstanding short-term balances may vary from period to period depending on the level of 
+corporate requirements.
+
+VF has a commercial paper program that allows for borrowings of up to$2.25 billion to the extent that it has borrowing capacity under the Global Credit Facility. Commercial paper borrowings and standby letters of credit issued as of December 2019 were$40.0 million and$14.8 million, respectively, leaving approximately$2.2 billion available for borrowing against the Global Credit Facility at December 2019.
+
+VF has$186.0 million of international lines of credit with various banks, which are uncommitted and may be terminated at any time by either VF or the banks. Total outstanding balances under these arrangements were$16.0 million at December 2019.
+
+VF’s credit agency ratings allow for access to additional liquidity at competitive rates. At the end of December 2019, VF’s long-term debt ratings were ‘A’ by Standard & Poor’s Ratings Services and ‘A3’ by Moody’s Investors Service, and commercial paper ratings by those rating agencies were ‘ A-1’ and ‘ Prime-2’, respectively.
+
+None of VF’s long-term debt agreements contain acceleration of maturity clauses based solely on changes in credit ratings.
+
+41 VF Corporation Q3 FY20 Form 10-Q
+
+However, if there were a change in control of VF and, as a result of the change in control, the 2021, 2023 and 2037 notes were rated below investment grade by recognized rating agencies, VF would be obligated to repurchase the notes at 101% of the aggregate principal amount, plus any accrued and unpaid interest.
+
+On February 3, 2020, VF announced the commencement of cash tender offers for any and all of its $300.0 million aggregate principal amount of outstanding 6.00% notes due 2033 and $350.0 million aggregate principal amount of outstanding 6.45% notes due 2037. Additionally, VF issued a notice of redemption for its $500.0 million aggregate principal amount of outstanding 3.50% notes due 2021.
+
+Management’s Discussion and Analysis in the Fiscal2019 Form 10-K provided a table summarizing VF’s contractual obligations and commercial commitments at the end of Fiscal2019 that would require the use of funds. As ofDecember 2019, there have been no material changes in the amounts disclosed in the Fiscal2019 Form 10-K, except as noted below:
+
+  Contractual obligations and commercial commitments at the end of Fiscal 2019 included approximately $349 million  
+
+of inventory obligations related to the Jeans business, which is now classified as discontinued operations.
+
+  Inventory purchase obligations decreased by approximately $600 million at the end of December 2019 primarily due to the timing of sourcing activities.  
+
+  In addition to operating lease liabilities recorded in VF's Consolidated Balance Sheet, the Company has entered into approximately $295 million of leases that have not yet commenced, primarily ...  
+
+Management believes that VF’s cash balances and funds provided by operating activities, as well as its Global Credit Facility, additional borrowing capacity and access to capital markets, taken as a whole, provide (i) adequate liquidity to meet all of its current and long-term obligations when due, (ii) adequate liquidity to fund capital expenditures and to maintain the planned dividend payout rate, and (iii) flexibility to meet investment opportunities, including acquisitions, that may arise.
+
+  Recent Accounting Pronouncements  
+
+Refer toNote 2 to VF’s consolidated financial statements for information on recently issued and adopted accounting standards.
+
+  Critical Accounting Policies and Estimates  
+
+Management has chosen accounting policies it considers to be appropriate to accurately and fairly report VF’s operating results and financial position in conformity with generally accepted accounting principles in the United States of America. Our critical accounting policies are applied in a consistent manner. Significant accounting policies are summarized inNote 1 to the consolidated financial statements included in the Fiscal2019 Form 10-K.
+
+The application of these accounting policies requires management to make estimates and assumptions about future events and apply judgments that affect the reported amounts of assets, liabilities, revenues, expenses, contingent assets and liabilities, and related disclosures. These estimates, assumptions and judgments are based on historical experience, current trends and other factors believed to be reasonable under the circumstances. Management evaluates these estimates and assumptions, and may
+retain outside consultants to assist in the evaluation. If actual results ultimately differ from previous estimates, the revisions are included in results of operations in the period in which the actual amounts become known.
+
+The accounting policies that involve the most significant estimates, assumptions and management judgments used in preparation of the consolidated financial statements, or are the most sensitive to change from outside factors, are discussed in Management’s Discussion and Analysis in the Fiscal2019 Form 10-K.
+
+Except as it relates to VF's adoption of ASC 842 as disclosed inNote 2 andNote 10 to VF's consolidated financial statements, there have been no material changes in VF's accounting policies.
+
+The following discussion provides additional detail of critical accounting estimates during the nine months ended December 2019.
+
+Timberland Reporting Unit and Indefinite-Lived Intangible Asset Impairment Analysis
+
+During the three months ended September 28, 2019 ("September 2019"), management determined that the recent downturn in the historical financial results, combined with a downward revision to the forecast included in VF's updated strategic growth plan, was a triggering event that required management to perform a quantitative impairment analysis of both the Timberland reporting unit goodwill, which includes the Timberland® brand, and the Timberland indefinite-lived trademark intangible asset, which
+includes both the Timberland® and Timberland PRO® brands. Based on the analysis, management concluded both the goodwill and indefinite-lived intangible asset were not impaired. For goodwill, the estimated fair value of the reporting unit exceeded the carrying value by 27%. The estimated fair value of the indefinite-lived trademark intangible asset exceeded its carrying value by a significant amount. The carrying values of the goodwill and indefinite-lived trademark intangible asset at the August
+24, 2019 testing date were $733.5 million and $1,010.1 million, respectively. The Timberland reporting unit is included in the Outdoor reportable segment.
+
+The fair values of the Timberland reporting unit and indefinite-lived trademark intangible asset were estimated using valuation techniques consistent with those discussed in the Critical Accounting Policies and Estimates section included in Management's Discussion and Analysis in the Fiscal 2019 Form 10-K.
+
+Management's revenue and profitability forecasts used in the Timberland reporting unit and indefinite-lived trademark intangible asset valuations considered historical performance, strategic initiatives and industry trends. Assumptions used in the valuations were similar to those that would be used by market participants performing independent valuations of the business.
+
+VF Corporation Q3 FY20 Form 10-Q42
+
+Key assumptions developed by management and used in the quantitative analysis of the Timberland reporting unit and indefinite-lived trademark intangible asset include:
+
+  Financial projections and future cash flows, including terminal growth rates based on the expected long-term growth rate of the brand;  
+
+  Royalty rates based on market data as well as active license agreements of the brand; and,  
+
+  Market-based discount rates.  
+
+The valuation model used by management in the impairment testing assumes recovery from the recent downturn in the brand's operating results and the return to growth rates and profitability more in-line with historical operating trends. If the brand is unable to achieve the financial projections, an impairment could occur in the future.
+
+Management's estimates were based on information available as of the date of our assessment. Although management believes the estimates and assumptions used in the impairment testing are reasonable and appropriate, it is possible that VF's assumptions and conclusions regarding impairment of the Timberland reporting unit goodwill or indefinite-lived trademark intangible asset could change in future periods. There can be no assurance the estimates and assumptions, particularly our long-term 
+financial projections, used in our impairment testing during the three months ended September 2019 will prove to be accurate predictions of the future. For example, variations in our assumptions related to brand
+
+performance and execution of planned growth strategies, discount rates, or comparable company market approach inputs could impact future conclusions. A future impairment charge of the Timberland reporting unit goodwill or indefinite-lived trademark intangible asset could have a material effect on VF's consolidated financial position and results of operations.
+
+Management performed a sensitivity analysis on the impairment model used to test the Timberland reporting unit goodwill. In doing so, management determined that individual changes of a 100 basis point decrease in the compound annual growth rate for revenues, a 100 basis point decrease in the compound annual growth rate for earnings before interest, tax, depreciation and amortization ("EBITDA"), or a 100 basis point increase in the discount rate used in the discounted cash flow model did not 
+cause the estimated fair value of the reporting unit to decline below its carrying value.
+
+The Company owns a broad, diverse portfolio of other brands and businesses for which material amounts of goodwill and intangible assets have been recorded in the Consolidated Balance Sheets. Management continuously evaluates the current and future performance of VF's brands and businesses, as well as other relevant factors, in assessing the recoverability of these assets. There can be no assurances that the estimates and assumptions used in our long-term financial projections, among other 
+factors, will prove to be accurate predictions of the future. As such, a future impairment charge of goodwill or intangible assets could occur, and if so, could have a material effect on VF's consolidated financial position and results of operations.
+
+  Cautionary Statement on Forward-looking Statements  
+
+From time to time, VF may make oral or written statements, including statements in this quarterly report that constitute “forward-looking statements” within the meaning of the federal securities laws. These include statements concerning plans, objectives, projections and expectations relating to VF’s operations or economic performance and assumptions related thereto. Forward-looking statements are made based on management’s expectations and beliefs concerning future events impacting VF and 
+therefore involve a number of risks and uncertainties. Forward-looking statements are not guarantees, and actual results could differ materially from those expressed or implied in the forward-looking statements.
+
+Potential risks and uncertainties that could cause the actual results of operations or financial condition of VF to differ materially from those expressed or implied by forward-looking statements in this release include, but are not limited to: risks associated with the spin-off of our Jeanswear business completed on May 22, 2019, including the risk that VF will not realize all of the expected benefits of the spin-off; the risk that the spin-off will not be tax-free for U.S. federal income tax 
+purposes; and the risk that there will be a loss of synergies from separating the businesses that could negatively impact the balance sheet, profit margins or earnings of VF. There are also risks associated with the relocation of our global headquarters and a number of brands to the metro Denver area, including the risk of significant disruption to our operations, the temporary diversion of management resources and loss of key employees who have substantial experience and expertise in our 
+business, the risk that we may encounter difficulties retaining employees who elect to transfer and attracting new talent in the Denver area to replace our employees who are unwilling to relocate, the risk that the relocation may involve significant additional costs to us and that the expected benefits of the move may not be fully realized. Other risks include foreign currency
+
+fluctuations; the level of consumer demand for apparel, footwear and accessories; disruption to VF’s distribution system; the financial strength of VF's customers; fluctuations in the price, availability and quality of raw materials and contracted products; disruption and volatility in the global capital and credit markets; VF's response to changing fashion trends, evolving consumer preferences and changing patterns of consumer behavior, intense competition from online retailers, manufacturing 
+and product innovation; increasing pressure on margins; VF's ability to implement its business strategy; VF's ability to grow its international and direct-to-consumer businesses; VF’s and its vendors’ ability to maintain the strength and security of information technology systems; the risk that VF's facilities and systems and those of our third-party service providers may be vulnerable to and unable to anticipate or detect data security breaches and data or financial loss; VF's ability to 
+properly collect, use, manage and secure consumer and employee data; stability of VF's manufacturing facilities and foreign suppliers; continued use by VF's suppliers of ethical business practices; VF’s ability to accurately forecast demand for products; continuity of members of VF’s management; VF's ability to protect trademarks and other intellectual property rights; possible goodwill and other asset impairment; maintenance by VF’s licensees and distributors of the value of VF’s brands; VF's 
+ability to execute and integrate acquisitions; changes in tax laws and liabilities; legal, regulatory, political and economic risks; the risk of economic uncertainty associated with the exit of the United Kingdom from the European Union ("Brexit") or any other similar referendums that may be held; and adverse or unexpected weather conditions. More information on potential factors that could affect VF’s financial results is included from time to time in VF’s public reports filed with the 
+Securities and Exchange Commission, including VF’s Annual Report on Form 10-K.
+
+43 VF Corporation Q3 FY20 Form 10-Q
+
+  ITEM 3 — QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK.  
+ ────────────────────────────────────────────────────────────────────────
+
+There have been no significant changes in VF’s market risk exposures from what was disclosed in Item 7A in the Fiscal2019 Form 10‑K.
+
+  ITEM 4 — CONTROLS AND PROCEDURES.  
+ ─────────────────────────────────────
+
+Disclosure controls and procedures:
+
+Under the supervision of the Chief Executive Officer and Chief Financial Officer, a Disclosure Committee comprising various members of management has evaluated the effectiveness of the disclosure controls and procedures at VF and its subsidiaries as of the end of the period covered by this quarterly report (the “Evaluation Date”). Based on this evaluation, the Chief Executive Officer and Chief Financial Officer have concluded as of the Evaluation Date that such controls and procedures were 
+effective.
+
+Changes in internal control over financial reporting:
+
+There have been no changes during the last fiscal quarter that have materially affected, or are reasonably likely to materially affect, VF's internal control over financial reporting.
+
+VF Corporation Q3 FY20 Form 10-Q44
+

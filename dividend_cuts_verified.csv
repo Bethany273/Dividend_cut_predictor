@@ -1,26 +1,44 @@
 ticker,name,did_cut,cut_date,details
-DIS,Disney,True,2020,Known dividend cut/suspension in 2020
-F,Ford,True,2020,Known dividend cut/suspension in 2020
-BA,Boeing,True,2020,Known dividend cut/suspension in 2020
-CCL,Carnival,True,2020,Known dividend cut/suspension in 2020
-DAL,Delta Air Lines,True,2020,Known dividend cut/suspension in 2020
-RCL,Royal Caribbean,True,2020,Known dividend cut/suspension in 2020
-MRO,Marathon Oil,True,2020,Known dividend cut/suspension in 2020
-HAL,Halliburton,True,2020,Known dividend cut/suspension in 2020
-OXY,Occidental Petroleum,True,2020,Known dividend cut/suspension in 2020
-GM,General Motors,True,2020,Known dividend cut/suspension in 2020
-LVS,Las Vegas Sands,True,2020,Known dividend cut/suspension in 2020
-HOG,Harley-Davidson,True,2020,Known dividend cut/suspension in 2020
-EXPE,Expedia,True,2020,Known dividend cut/suspension in 2020
-JNJ,Johnson & Johnson,False,,Maintained dividend through 2020
-PG,Procter & Gamble,False,,Maintained dividend through 2020
-KO,Coca-Cola,False,,Maintained dividend through 2020
-MSFT,Microsoft,False,,Maintained dividend through 2020
-AAPL,Apple,False,,Maintained dividend through 2020
-PEP,PepsiCo,False,,Maintained dividend through 2020
-MCD,McDonald's,False,,Maintained dividend through 2020
-WMT,Walmart,False,,Maintained dividend through 2020
-HD,Home Depot,False,,Maintained dividend through 2020
-CAT,Caterpillar,False,,Maintained dividend through 2020
-CL,Colgate-Palmolive,False,,Maintained dividend through 2020
-SYY,Sysco,False,,Maintained dividend through 2020
+DIS,Disney,True,2020-05-05,Suspended dividend
+F,Ford,True,2020-03-19,Suspended dividend
+BA,Boeing,True,2020-04-29,Suspended dividend
+CCL,Carnival,True,2020-04-07,Suspended dividend
+DAL,Delta Air Lines,True,2020-03-13,Suspended dividend
+RCL,Royal Caribbean,True,2020-03-13,Suspended dividend
+MRO,Marathon Oil,True,2020-05-05,Reduced from $0.05 to $0.01
+HAL,Halliburton,True,2020-05-20,Reduced from $0.18 to $0.045
+OXY,Occidental Petroleum,True,2020-03-10,Reduced from $0.79 to $0.01
+GM,General Motors,True,2020-04-27,Suspended dividend
+HOG,Harley-Davidson,True,2020-04-14,Reduced from $0.38 to $0.02
+LVS,Las Vegas Sands,True,2020-04-23,Suspended dividend
+EXPE,Expedia,True,2020-04-16,Suspended dividend
+DIN,Dine Brands,True,2020-04-20,Suspended dividend
+AMC,AMC Entertainment,True,2020-04-07,Suspended dividend
+HCA,HCA Healthcare,True,2020-04-29,Suspended dividend
+HLT,Hilton Worldwide,True,2020-04-21,Suspended dividend
+PVH,PVH Corp,True,2020-04-09,Suspended dividend
+KSS,Kohl's,True,2020-03-23,Suspended dividend
+TPR,Tapestry,True,2020-04-23,Suspended dividend
+TJX,TJX Companies,True,2020-03-23,Suspended dividend
+JNJ,Johnson & Johnson,False,,No cut - maintained dividend
+PG,Procter & Gamble,False,,No cut - maintained dividend
+KO,Coca-Cola,False,,No cut - maintained dividend
+MSFT,Microsoft,False,,No cut - maintained dividend
+AAPL,Apple,False,,No cut - maintained dividend
+PEP,PepsiCo,False,,No cut - maintained dividend
+MCD,McDonald's,False,,No cut - maintained dividend
+WMT,Walmart,False,,No cut - maintained dividend
+HD,Home Depot,False,,No cut - maintained dividend
+JPM,JPMorgan Chase,False,,No cut - maintained dividend
+CAT,Caterpillar,False,,No cut - maintained dividend
+CL,Colgate-Palmolive,False,,No cut - maintained dividend
+SYY,Sysco,False,,No cut - maintained dividend
+UPS,United Parcel Service,False,,No cut - maintained dividend
+GPC,Genuine Parts,False,,No cut - maintained dividend
+WDFC,WD-40,False,,No cut - maintained dividend
+VFC,VF Corp,False,,No cut - maintained dividend
+COST,Costco,False,,No cut - maintained dividend
+PFE,Pfizer,False,,No cut - maintained dividend
+V,Visa,False,,No cut - maintained dividend
+MA,Mastercard,False,,No cut - maintained dividend
+GD,General Dynamics,False,,No cut - maintained dividend (actually increased)

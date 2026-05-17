@@ -1,0 +1,778 @@
+Item 2. Management’s Discussion and Analysis of Financial Condition and Results of Operations.
+
+You should read the following Management's Discussion and Analysis of Financial Condition and Results of Operations (“MD&A”) in conjunction with the consolidated financial statements and the related notes that appear elsewhere in this report. Statements contained in this report may constitute forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. Please refer to the section of this report under the heading “Cautionary Statement Regarding 
+Forward-Looking Statements” for more information.
+
+Overview
+
+The following discussion and analysis provides information which we believe is relevant to an assessment and understanding of our consolidated results of operations and financial condition. The discussion should be read in conjunction with the consolidated financial statements and the notes thereto included in Item 1 of Part I of this Quarterly Report and the audited consolidated financial statements and notes thereto and the MD&A contained in the Company’s Annual Report on Form 10-K for the 
+fiscal year ended December 31, 2019. Except where the context indicates otherwise, the words “we,” “us,” “our,” “Dine Brands Global” and the “Company” refer to Dine Brands Global, Inc., together with its subsidiaries that are consolidated in accordance with United States generally accepted accounting principles (“U.S. GAAP”). The financial tables appearing in Management's Discussion and Analysis present amounts in millions of dollars that are rounded from our consolidated financial statements 
+presented in thousands of dollars. As a result, the tables may not foot or crossfoot due to rounding.
+
+Through various subsidiaries, we own, franchise and operate the Applebee's Neighborhood Grill & Bar®(“Applebee's”) concept in the bar and grill segment within the casual dining category of the restaurant industry and we own and franchise the International House of Pancakes®(“IHOP”) concept in the family dining category of the restaurant industry. References herein to Applebee's® and IHOP® restaurants are to these two restaurant concepts, whether operated by franchisees, area licensees and their 
+sub-licensees (collectively, “area licensees”) or by us. With over 3,500 restaurants combined, the substantial majority of which are franchised, we believe we are one of the largest full-service restaurant companies in the world. The June 15, 2020 issue ofNation's Restaurant News reported that IHOP and Applebee's were the largest restaurant systems in the family dining and casual dining categories, respectively, in terms of United States system-wide sales during 2019.
+
+We identify our business segments based on the organizational units used by management to monitor performance and make operating decisions. We currently have five operating segments: Applebee's franchise operations, Applebee's company-operated restaurant operations, IHOP franchise operations, rental operations and financing operations. We have four reportable segments: franchise operations (an aggregation of Applebee's and IHOP franchise operations), company-operated restaurant operations, 
+rental operations and financing operations. We consider these to be our reportable segments, regardless of whether any segment exceeds 10% of consolidated revenues, income before income tax provision or total assets.
+
+Ongoing Impact of COVID-19
+
+The global pandemic declared in March 2020 by the World Health Organization related to the outbreak of a novel strain of coronavirus, designated“COVID-19,” continued to have a significant adverse impact on our operations throughout the third fiscal quarter and remains ongoing. Initially, federal, state, local and international governments reacted to the COVID-19 pandemic by encouraging or requiring social distancing, instituting shelter-in-place orders, and requiring, in varying degrees, reduced
+operating hours, restaurant dine-in limitations, capacity limitations or other restrictions that largely limited restaurants to take-out and delivery sales. While shelter-in-place directives largely have been removed as of September 30, 2020, most federal, state, local and international governments have maintained protocols that limit restaurant dine-in occupancy levels to 50% capacity or less at most of our restaurants. We and our franchisees have instituted operational procedures to comply 
+with applicable regulatory requirements and to monitor developing health authority recommendations in order to protect the health and foster the confidence of employees and guests at the restaurants.
+
+Since March 2020, we have taken several actions to mitigate the effects of the COVID-19 pandemic on the Company, its operations and its franchisees, as discussed below:
+
+• We drew down a total of $220 million from our revolving credit facility. Including approximately $3 million in letters of credit, $223 million of the total $225 million available under our revolving facility has been utilized. We had no immediate need for additional liquidity, but in light of then-current market conditions and uncertainty related to the COVID-19 pandemic, we drew on the revolving facility to maximize our financial flexibility.
+
+
+• We stopped repurchasing our common stock for the foreseeable future and our Board of Directors has decided not to declare a dividend for the second, third and fourth quarters of 2020. We will reevaluate our capital allocation strategy as industry conditions improve and normal restaurant operations resume.
+
+• We voluntarily increased the interest reserve set aside for our securitized debt, from the required $16.4 million to $32.8 million. We also voluntarily accelerated the funding of interest on our securitized debt with the redirection of cash receipts within the securitization structure. As of October 26, 2020, the interest payments on long-term debt due December 7, 2020 and March 5, 2021 have been fully funded.
+
+• We have reduced discretionary costs, limited new hiring and significantly reduced the use of independent contractors. At the outset of the pandemic, we temporarily furloughed certain team members across various functional groups in our restaurant support centers and company-operated restaurants and also curtailed the hours of substantially all of the hourly restaurant associates at our company-operated restaurants. Most of the hourly restaurant associates at our company-operated restaurants 
+returned to work following the re-opening of those restaurants, and as of October 26, 2020, there were no team members from the restaurant support centers remaining on furlough. Our General & Administrative (“G&A”) expenses for the three and nine months ended September 30, 2020 were lower than the same periods of the prior year by $2.0 million and $15.8 million, respectively.
+
+• We offered Applebee's franchisees the opportunity to defer payment of their royalty, advertising and IT support fees, primarily for the months of March and April. A total of 30 franchisees representing 94% of Applebee’s restaurants have deferred payments totaling $33.4 million. Repayment of deferred amounts, scheduled over up to nine months, began in the third quarter of 2020. As of September 30, 2020, the outstanding balance was approximately $24.4 million, with four franchisees having repaid
+their deferred balances in full.
+
+• We offered IHOP franchisees the opportunity to defer their royalty, advertising, equipment rent and sublease rent payments, primarily for the months of March and April. A total of 193 franchisees representing 58% of IHOP restaurants have deferred payments totaling $22.3 million. Repayment of deferred amounts, scheduled over up to 36 weeks, began in the third quarter of 2020. As of September 30, 2020, the outstanding balance was approximately $20.4 million, with 37 franchisees having repaid 
+their deferred balances in full.
+
+• We received rent deferrals and abatements on properties we lease of approximately $11 million, primarily related to rent deferrals for properties on which IHOP restaurants are located.
+
+• We allowed franchisees to defer their 2020 unit remodel and development obligations for up to 15 months.
+
+• We have worked with our franchisees to offer a limited menu and to modify their operating hours in a manner that optimizes the functionality of their restaurants. Our expectation is restaurants will return to normal operating hours as sales return to pre-pandemic levels.
+
+• We hired external consultants to work with franchisees in assessing their financial health and to better understand performance variability. We began this process in the 3rd quarter working closely with key franchise leaders.
+
+In March 2020, in light of the COVID-19 pandemic, Standard & Poor's (“S&P”) placed the Company on “credit watch-negative” with respect to its 2019 Class A-2 Notes. In September 2020, S&P removed the Company from the credit watch and reaffirmed the “BBB” rating of the 2019 Class A-2 Notes.
+
+The significance of the impacts of the COVID-19 pandemic resulted in our performing impairment assessments of our long-lived assets, goodwill and other intangible assets. As a result of these assessments, we recorded impairment charges of approximately $124 million in the second fiscal quarter of 2020. See Consolidated Results of Operations - Comparison of the Three and Nine Months ended September 30, 2020 and September 30, 2019 - Impairment and Closure Costs” for further discussion of the 
+impairments. There were no additional impairments recorded during the third fiscal quarter of 2020.
+
+On March 27, 2020, the Coronavirus Aid, Relief, and Economic Security Act (“CARES Act”) was enacted in response to the COVID-19 pandemic. Among the various provisions in the CARES Act, the Company is utilizing the payroll tax deferrals offered and has claimed an Employee Retention Credit. As of September 30, 2020, the Company has deferred the payment of $2.0 million in payroll taxes, of which 50% will be paid by December 31, 2021 and the remaining 50% will be paid by December 31, 2022. The 
+Company also has claimed an Employee Retention Credit of $0.6 million as of September 30, 2020. The Company did not receive any form of loan pursuant to the Paycheck Protection Program established under the CARES Act. Other than the deferrals and credits noted above, the Company did not receive financial aid pursuant to assistance programs offered by the federal government related to the COVID-19 pandemic.
+
+
+Our total cash balances as of the past five fiscal quarter ends were are follows:
+
+                                    September 30, 2019                 December 31, 2019                 March 31, 2020      June 30, 2020      September 30, 2020  
+                                    (In millions)                                                                                                                   
+ ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Cash and cash equivalents         $                       100.5      $                      116.0      $                   $                  $                   
+  Restricted cash, current          36.7                               40.7                              34.2                31.2               47.5                
+  Restricted cash, non-current      15.7                               15.7                              16.4                32.8               32.8                
+  Total                             $                       152.9      $                      172.4      $                   $                  $                   
+
+The increase in total cash balances from December 31, 2019 to March 31, 2020 is primarily due to the draw-down of $220 million from our revolving credit facility in March 2020. The decrease in total cash balances from March 31, 2020 to June 30, 2020 is primarily due the impact on our operations of the COVID-19 pandemic as well as to our offering franchisees the opportunity to defer payments due to us as noted above. The increase in total cash balances from June 30, 2020 to September 30, 2020 
+reflects the improvement in operations as restrictions on in-restaurant dining became more relaxed and commencement of collections of amounts deferred by franchisees discussed above. See“Consolidated Results of Operations - Comparison of the Three and Nine Months ended September 30, 2020 and September 30, 2019.”
+
+Operating activities provided cash of $36.7 million for the nine months ended September 30, 2020, compared with cash provided by operating activities of $105.6 million for the nine months ended September 30, 2019. The decrease primarily was due to a significant decline in customer traffic at our restaurants that adversely impacted our segment operations and to payment deferrals we offered to our franchisees, partially offset by reduced G&A expenses and rent deferrals and abatements we received 
+from our landlords. Franchisees began repaying the deferrals noted above in the third quarter of 2020. See“Liquidity and Capital Resources - Cash Flows.“
+
+As international, federal, state and local governments began to remove or modify existing restrictions on dine-in restaurant operations in certain jurisdictions, we and our franchisees have been able to increase dine-in services at Applebee's and IHOP restaurants in compliance with jurisdictional requirements. As a result, the operating status of IHOP and Applebee's restaurants changed during the third quarter of 2020 as follows:
+
+                                                Status as of 2020 Fiscal Month Ended                                                                        
+                                                                                June                 July                 August                 September  
+ ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Applebee's Domestic                                                                                                                                       
+  Restaurants with dining rooms open*                                                     1,522                1,505                  1,558                 
+  Restaurants limited to off-premise sales                                        70                   94                     37                         3  
+  Restaurants temporarily closed                                                  41                   31                     24                        16  
+  Total                                                                                   1,633                1,630                  1,619                 
+  % of total operating in some capacity                                           97                   98                     99                        99  
+  IHOP Domestic                                                                                                                                             
+  Restaurants with dining rooms open*                                                     1,485                1,321                  1,349                 
+  Restaurants limited to off-premise sales                                        76                  244                    234                       167  
+  Restaurants temporarily closed                                                 134                  128                     99                        91  
+  Total                                                                                   1,695                1,693                  1,682                 
+  % of total operating in some capacity                                           92                   92                     94                        95  
+  International                                                                                                                                             
+  Restaurants with dining rooms open*                                            131                  169                    203                       207  
+  Restaurants limited to off-premise sales                                        56                   34                      9                         8  
+  Restaurants temporarily closed                                                  57                   37                     25                        23  
+  Total                                                                          244                  240                    237                       238  
+  % of total operating in some capacity                                           77                   85                     89                        90  
+
+*In most instances, limited to 50% capacity or less and/or reduced operating hours
+
+The operating status of our restaurant remains fluid and subject to change. There can be no assurance the percentage of restaurants operating in some capacity as presented above will continue or will not reverse as government authorities modify existing restrictions or implement new restrictions on dine-in restaurant operations in responses to changes in the number of COVID-19 infections in their respective jurisdictions, particularly in light of a projected increase in COVID-19 infections
+
+
+during the upcoming fall and winter seasons. There can be no assurance the total number of restaurants will not change subsequent to September 30, 2020. See“Restaurant Data - Restaurant Development Activity.”
+
+Our average weekly sales per restaurant increased during the three months ended September 30, 2020, as shown below. We believe the improvement was primarily due to the continued re-opening of dining rooms, retention of off-premise sales and the resumption of national media advertising in July. We had virtually no national media advertising during the second quarter of 2020.
+
+  Average weekly unit sales (in thousands)      Fiscal Month of 2020 Ended                                                       Three months ended September 30, 2020      Three months ended September 30, 2019  
+                                                July                            August      September                                                                                                              
+ ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Applebee's domestic                           $37.6                           $38.4       $40.0          $39.2      $45.0                                                                                        
+  IHOP                                          $23.8                           $25.7       $26.8          $25.6      $35.7                                                                                        
+
+Despite the improvement noted over the course of the third quarter, average weekly restaurant sales for the three months ended September 30, 2020 were 12.9% lower at Applebee's restaurants and 28.3% lower at IHOP restaurants compared to the same period of the prior year. The decrease primarily was due to a substantial decline in customer traffic at our restaurants, primarily resulting from the measures undertaken to stem the spread of COVID-19, which had a significant unfavorable impact on the 
+Key Financial Results presented below.
+
+We cannot predict how long the COVID-19 pandemic and its impact on our operations will last, whether or when recurrences of the virus may arise, what restrictions on in-restaurant dining may be imposed or re-imposed, the timing and extent of customer re-engagement with our brands and, in general, what the short- and long-term impact on consumer discretionary spending the COVID-19 pandemic might have on our operations and the restaurant industry as a whole.
+
+Key Financial Results
+
+                                           Three months ended September 30,                                                 Favorable                   Nine months ended September 30,                    
+                                                                                                                            (Unfavorable) Variance                                                         
+                                           2020                                                2019                                                     2020                                 2019          
+ ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+                                           (In millions, except per share data)                                                                                                                            
+  Income (loss) before income taxes        $                                          9.2      $          $                 $                           $                                    $             
+  Income tax (provision) benefit           0.9                                                 (7.8)      8.7               6.1                         (25.0)                               31.1          
+  Net income (loss)                        $                                         10.0      $          $                 $                           $                                    $             
+  Effective tax rate                       (9.5)                                               24.6       34.1              5.6                         24.5                                 18.9          
+  Net income (loss) per diluted share      $                                         0.60      $          $                 $                           $                                    $             
+                                                                                                          % (decrease)                                                                       % (decrease)  
+  Weighted average diluted shares          16.3                                                17.1       (4.5)             16.2                        17.4                                 (6.9)         
+
+
+The following table highlights the primary components of the decrease in our income before income taxes for the three and nine months ended September 30, 2020, compared to our income before income taxes from the same periods of 2019:
+
+                                              Favorable                                                                                                 
+                                              (Unfavorable) Variance                                                                                    
+                                              Three months ended September 30, 2020                  Nine months ended September 30, 2020               
+                                              (In millions)                                                                                             
+  Decrease in gross profit:                                                                                                                             
+ ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Applebee's franchise operations             $                                           (9.0)                                         $       (39.0)  
+  IHOP franchise operations                   (11.5)                                                                               (47.5)               
+  Company restaurant operations               (1.1)                                                                                (11.3)               
+  Rental and financing operations             (1.3)                                                                                 (8.0)               
+  Total decrease in gross profit              (22.9)                                                                              (105.8)               
+  Impairment and closure charges              —                                                                                   (123.9)               
+  Decrease in G&A expenses                    2.0                                                                                    15.8               
+  Loss on extinguishment of debt              —                                                                                       8.3               
+  Other income and expense items              (1.7)                                                                                 (4.8)               
+  Decrease in income before income taxes      $                                          (22.6)                                         $      (210.5)  
+
+The significant impacts of the COVID-19 pandemic resulted in our performing impairment assessments of our long-lived assets, goodwill and other intangible assets. As a result of these assessments, we recorded an impairment to Applebee's goodwill of $92.2 million, an impairment to Applebee's intangible assets of $14.3 million and impairments to long-lived assets of both brands totaling approximately $17.2 million in the second quarter of 2020. There were no similar impairments recorded in the 
+third quarter of 2020.
+
+Gross profit for the three and nine months ended September 30, 2020 decreased compared to the same periods of the prior year, primarily due to a significant decrease in customer traffic resulting from the measures undertaken to stem the spread of COVID-19 discussed above, as well as an increase in bad debt expense.
+
+See“Consolidated Results of Operations - Comparison of theThree and Nine Months ended September 30, 2020 and September 30, 2019” for additional discussion of the changes presented above.
+
+Key Performance Indicators
+
+In evaluating the performance of each restaurant concept, we consider the key performance indicators to be the system-wide sales percentage change, the percentage change in domestic system-wide same-restaurant sales (“domestic same-restaurant sales”), net franchise restaurant development and the change in effective restaurants. Changes in both domestic same-restaurant sales and in the number of Applebee's and IHOP restaurants will impact our system-wide retail sales that drive franchise royalty 
+revenues. Restaurant development also impacts franchise revenues in the form of initial franchise fees and, in the case of IHOP restaurants, sales of proprietary pancake and waffle dry mix.
+
+Our key performance indicators for the three and nine months ended September 30, 2020 were as follows:
+
+                                                                Three months ended September 30, 2020                                  Nine months ended September 30, 2020  
+                                                                                           Applebee's        IHOP      Applebee's                                      IHOP  
+ ─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Sales percentage decrease                                                                    (16.7)      (34.4)          (27.6)                                    (37.6)  
+  % decrease in domestic system-wide same-restaurant sales                                     (13.3)      (30.2)          (24.1)                                    (33.8)  
+  Net franchise restaurant reduction (1)                                                         (21)        (16)            (59)                                      (34)  
+  Net decrease in total effective restaurants (2)                                               (105)       (138)           (133)                                     (146)  
+
+________________________________________________
+
+(1) Franchise and area license restaurant closings, net of openings, during the three and nine months ended September 30, 2020.
+
+(2) Change in the weighted average number of franchise, area license and company-operated restaurants open during the three and nine months ended September 30, 2020, compared to the weighted average number of those open during the same period of 2019.
+
+The Applebee's and IHOP sales percentage decreases for the three and nine months ended September 30, 2020 were due to a decrease in domestic same-restaurant sales primarily as a result of the effects of COVID-19, as well as a decrease in total effective restaurants. The decrease in total effective restaurants for each brand reflects both permanent closures, net of
+
+
+openings, and the weighted effect of restaurants temporarily closed during the three and nine months ended September 30, 2020.
+
+Domestic Same-Restaurant Sales
+
+Applebee’s system-wide domestic same-restaurant sales decreased 13.3% for the three months ended September 30, 2020 and decreased 24.1% for the nine months ended September 30, 2020 from the same periods of the prior year. The decreases primarily were due to a significant decline in customer traffic as a result of the effects of COVID-19 that began to impact our restaurants around the middle of March 2020, partially offset by an increase in average check.
+
+Applebee’s system-wide domestic same-restaurant sales for the three months ended September 30, 2020 improved significantly compared to the decrease of 49.4% for the three months ended June 30, 2020. This improvement primarily was due to the easing or removal of governmental restrictions on dine-in restaurant operations in certain jurisdictions, an increase in consumers' ability and desire to patronize restaurants, retention of off-premise sales and the Company's return to national media 
+advertising in July 2020 after having temporarily discontinued its national advertising programs in March 2020. As shown in the table below, after reaching a low point in April 2020, Applebee's experienced progressive improvement in same-restaurant sales for the months of May through September 2020. On a weekly basis, Applebee's same-restaurant sales improved sequentially for 10 of the 13 weeks comprising the third quarter of 2020, culminating with an increase of 0.4% in same-restaurant sales 
+for the week ended September 27, 2020.
+
+
+While off-premise sales as a percentage of total sales has declined from the April 2020 peak as the dine-in capability of restaurants has expanded, off-premise sales have increased compared to pre-pandemic levels.
+
+Applebee's off-premise sales as % total
+
+  2020 Fiscal Month Ended                                                                            
+  Jan                          Feb       March      April      May       June      July      August  
+ ─────────────────────────────────────────────────────────────────────────────────────────────────────
+  13.1                         14.4      22.0       99.8       76.4      40.2      38.0      34.9    
+
+Based on data from Black Box Intelligence, a restaurant sales reporting firm (“Black Box”), Applebee's 13.3% decrease in same-restaurant sales for the three months ended September 30, 2020 outperformed the casual dining segment of the restaurant industry (excluding Applebee's) during that same period. During the three months ended September 30, 2020, the casual dining segment also experienced a decrease in same-restaurant sales that was due to a significant decline in customer traffic as well as
+
+
+a slight decrease in average customer check. Applebee's decrease in traffic for the three months ended September 30, 2020 was less than that of the casual dining segment, and Applebee's increase in average check was greater than that of the casual dining segment.
+
+Applebee's 24.1% decrease in same-restaurant sales for the nine months ended September 30, 2020 underperformed the casual dining segment of the restaurant industry (excluding Applebee's) during that same period. During the nine months ended September 30, 2020, the casual dining segment also experienced a decrease in same-restaurant sales that was due to a significant decline in customer traffic. Applebee's decrease in traffic for the nine months ended September 30, 2020 was greater than that of 
+the casual dining segment during that same period.
+
+IHOP's system-wide domestic same-restaurant sales decreased 30.2% for the three months ended September 30, 2020 and decreased 33.8% for the nine months ended September 30, 2020 from the same periods of the prior year. The decreases primarily were due to a significant decline in customer traffic as a result of the effects of COVID-19 that began to impact our restaurants around the middle of March 2020, partly offset by an increase in average check. Based on data from Black Box, the family dining 
+segment underperformed the overall restaurant industry for both the three and nine months ended September 30, 2020. The breakfast category, in general, has experienced larger transaction declines than other dayparts.
+
+IHOP's system-wide domestic same-restaurant sales for the three months ended September 30, 2020 improved significantly compared to the decrease of 59.1% for the three months ended June 30, 2020. This improvement primarily was due to the easing or removal of governmental restrictions on dine-in restaurant operations in certain jurisdictions, an increase in the consumer's ability and desire to patronize restaurants, retention of off-premise sales and the Company's return to national media 
+advertising in July 2020 after having temporarily discontinued its national advertising programs in March 2020. As shown in the table below, after reaching a low point in April 2020, IHOP experienced progressive improvement in same-restaurant sales for four of the five months of May through September 2020. On a weekly basis, IHOP's same-restaurant sales improved sequentially for 9 of the 13 weeks comprising the third quarter of 2020.
+
+
+While off-premise sales as a percentage of total sales has declined from the April 2020 peak as the dine-in capability of restaurants has expanded, off-premise sales have increased compared to pre-pandemic levels.
+
+IHOP off-premise sales as % total
+
+  2020 Fiscal Month Ended                                                                            
+  Jan                          Feb       March      April      May       June      July      August  
+ ─────────────────────────────────────────────────────────────────────────────────────────────────────
+  9.7                          10.4      17.0       94.7       68.8      35.8      35.0      32.5    
+
+Based on data from Black Box, IHOP's 30.2% decrease in same-restaurant sales for the three months ended September 30, 2020 outperformed the family dining segment of the restaurant industry (excluding IHOP) during that period. During the three months ended September 30, 2020, the family dining segment also experienced a decrease in same-restaurant sales that was due to a significant decline in customer traffic, partially offset by an increase in average customer check. IHOP's decrease in traffic 
+for the three months ended September 30, 2020 was less than that of the family dining segment.
+
+
+IHOP's 33.8% decrease in same-restaurant sales for the nine months ended September 30, 2020 underperformed the family dining segment of the restaurant industry (excluding IHOP) during that same period. During the nine months ended September 30, 2020, the family dining segment also experienced a decrease in same-restaurant sales that was due to a significant decline in customer traffic, partially offset by an increase in average customer check. IHOP's decrease in traffic for the nine months ended
+September 30, 2020 was greater that of the family dining segment and IHOP's increase in average check was smaller than that of the family dining segment.
+
+Restaurant Data
+
+The following table sets forth the number of “Effective Restaurants” in the Applebee’s and IHOP systems and information regarding the percentage change in sales at those restaurants compared to the same periods of the prior year. Sales at restaurants that are owned by franchisees and area licensees are not attributable to the Company and, as such, the percentage change in sales at Effective Restaurants is based on non-GAAP sales data. However, we believe that presentation of this information is 
+useful in analyzing our revenues because franchisees and area licensees pay us royalties and advertising fees that are based on a percentage of their sales, and, where applicable, rental payments under leases that partially may be based on a percentage of their sales. Management also uses this information to make decisions about plans for future development of additional restaurants as well as evaluation of current operations.
+
+                                                                                                Three months ended September 30,                                                              Nine months ended September 30,  
+                                                                                                                            2020                  2019                   2020                                            2019  
+ ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Applebee's Restaurant Data                                                                                         (Unaudited)                                                                                               
+  Effective Restaurants (a)                                                                                                                                                                                                    
+  Franchise                                                                                                                           1,636                 1,741                  1,620                                       
+  Company                                                                                                                     69                    69                     68                                              69  
+  Total                                                                                                                               1,705                 1,810                  1,688                                       
+  System-wide (b)                                                                                                                                                                                                              
+  Domestic sales percentage change (c)                                                                                    (16.7)                 (3.8)                 (27.6)                                           (2.7)  
+  Domestic same-restaurant sales percentage change (d)                                                                    (13.3)                 (1.6)                 (24.1)                                           (0.1)  
+  Franchise (b)                                                                                                                                                                                                                
+  Domestic sales percentage change (c) (e)                                                                                (16.9)                 (6.8)                 (27.7)                                           (5.9)  
+  Domestic same-restaurant sales percentage change (d)                                                                    (13.4)                 (1.7)                 (24.1)                                           (0.2)  
+  Average weekly domestic unit sales (in thousands)                                                                            $       39.2          $       45.0           $       36.6                                    $  
+  IHOP Restaurant Data                                                                                                                                                                                                         
+  Effective Restaurants (a)                                                                                                                                                                                                    
+  Franchise                                                                                                                           1,530                 1,667                  1,517                                       
+  Area license                                                                                                               157                   158                    153                                             156  
+  Total                                                                                                                               1,687                 1,825                  1,670                                       
+  System-wide (b)                                                                                                                                                                                                              
+  Sales percentage change (c)                                                                                             (34.4)                   1.2                 (37.6)                                             2.2  
+  Domestic same-restaurant sales percentage change, including area license restaurants (d)                                (30.2)                  0.03                 (33.8)                                             1.1  
+  Franchise (b)                                                                                                                                                                                                                
+  Sales percentage change (c)                                                                                             (34.3)                   1.1                 (37.6)                                             2.2  
+  Domestic same-restaurant sales percentage change (d)                                                                    (29.9)                  0.03                 (33.6)                                             1.0  
+  Average weekly unit sales (in thousands)                                                                                     $       25.6          $       35.7           $       24.9                                    $  
+  Area License (b)                                                                                                                                                                                                             
+  Sales percentage change (c)                                                                                             (35.0)                   2.4                 (37.1)                                             2.4  
+
+(a) “Effective Restaurants” are the weighted average number of restaurants open in each fiscal period, adjusted to account for restaurants open for only a portion of the period. Information is presented for all Effective Restaurants in the Applebee’s and IHOP systems, which consist of restaurants owned by franchisees and area licensees as well as those owned by the Company.
+
+(b) “System-wide sales” are retail sales at Applebee’s restaurants operated by franchisees and IHOP restaurants operated by franchisees and area licensees, as reported to the Company, in addition to retail sales at company-operated Applebee's restaurants. Sales at restaurants that are owned by franchisees and area licensees are not attributable to the Company. An increase in franchisees' reported sales will result in a corresponding increase in our royalty revenue, while a decrease in 
+franchisees' reported sales will result in a corresponding decrease in our royalty revenue. Unaudited reported sales for Applebee's domestic franchise restaurants, Applebee's company-operated restaurants, IHOP franchise restaurants and IHOP area license restaurants were as follows:
+
+
+                                                      Three months ended September 30,                                                      Nine months ended September 30,               
+                                                      2020                                               2019       2020                    2019                                          
+  Reported sales (in millions)                        (Unaudited)                                                                                                                         
+ ──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Applebee's domestic franchise restaurant sales      $                                       778.2      $          $          2,168.4      $                                    2,997.2  
+  Applebee's company-operated restaurants             27.3                                               30.5       75.4                    100.0                                         
+  IHOP franchise restaurant sales                     508.3                                              773.9                 1,475.2                                           2,364.4  
+  IHOP area license restaurant sales                  46.2                                               71.1       136.6                   217.2                                         
+  Total                                               $                                     1,360.0      $          $          3,855.6      $                                    5,678.8  
+
+(c) “Sales percentage change” reflects, for each category of restaurants, the percentage change in sales in any given fiscal period compared to the prior fiscal period for all restaurants in that category.
+
+(d) “Domestic same-restaurant sales percentage change” reflects the percentage change in sales in any given fiscal period, compared to the same weeks in the prior fiscal period, for domestic restaurants that have been operated throughout both fiscal periods that are being compared and have been open for at least 18 months. Because of new restaurant openings and restaurant closures, the domestic restaurants open throughout both fiscal periods being compared may be different from period to period.
+
+(e) The Applebee's franchise sales percentage change for the nine months ended September 30, 2019 was impacted by the acquisition of 69 franchise restaurants in December 2018 that became reported as company-operated.
+
+  Restaurant Development Activity                     Three months ended September 30,                                                           Nine months ended September 30,  
+                                                                                  2020                 2019                 2020                                            2019  
+ ──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Applebee's                                                               (Unaudited)                                                                                            
+  Summary - beginning of period:                                                                                                                                                  
+  Franchise                                                                                 1,680                1,746                1,718                                       
+  Company restaurants                                                               69                   69                   69                                              69  
+  Beginning of period                                                                       1,749                1,815                1,787                                       
+  Franchise restaurants opened:                                                                                                                                                   
+  Domestic                                                                           1                    —                    1                                               —  
+  International                                                                      3                    —                    3                                               1  
+  Total franchise restaurants opened                                                 4                    —                    4                                               1  
+  Franchise restaurants permanently closed:                                                                                                                                       
+  Domestic                                                                        (20)                  (9)                 (52)                                            (26)  
+  International                                                                    (5)                  (2)                 (11)                                             (8)  
+  Total franchise restaurants permanently closed                                  (25)                 (11)                 (63)                                            (34)  
+  Net franchise restaurant reduction                                              (21)                 (11)                 (59)                                            (33)  
+  Summary - end of period:                                                                                                                                                        
+  Franchise                                                                                 1,659                1,735                1,659                                       
+  Company restaurants                                                               69                   69                   69                                              69  
+  Total Applebee's restaurants, end of period                                               1,728                1,804                1,728                                       
+  Domestic                                                                                  1,614                1,667                1,614                                       
+  International                                                                    114                  137                  114                                             137  
+
+
+  IHOP                                                                                                                                  
+  Summary - beginning of period:                                                                                                        
+  Franchise                                                                  1,666                1,669                1,680            
+  Area license                                                      157                  159                  161                  162  
+  Total IHOP restaurants, beginning of period                                1,823                1,828                1,841            
+  Franchise/area license restaurants opened:                                                                                            
+  Domestic franchise                                                  1                    8                    8                   23  
+  Domestic area license                                               2                    3                    3                    5  
+  International franchise                                             3                    7                    5                    9  
+  Total franchise/area license restaurants opened                     6                   18                   16                   37  
+  Franchise/area license restaurants permanently closed:                                                                                
+  Domestic franchise                                               (16)                  (7)                 (35)                 (19)  
+  Domestic area license                                               —                  (1)                  (3)                  (6)  
+  International franchise                                           (6)                  (2)                 (10)                  (7)  
+  International area license                                          —                    —                  (2)                    —  
+  Total franchise/area license restaurants permanently closed      (22)                 (10)                 (50)                 (32)  
+  Net franchise/area license restaurant (reduction) addition       (16)                    8                 (34)                    5  
+  Summary - end of period:                                                                                                              
+  Franchise                                                                  1,648                1,675                1,648            
+  Area license                                                      159                  161                  159                  161  
+  Total IHOP restaurants, end of period                                      1,807                1,836                1,807            
+  Domestic                                                                   1,683                1,708                1,683            
+  International                                                     124                  128                  124                  128  
+
+The closures presented in the tables above represent permanent closures of restaurants. Temporary closures, which can occur for a variety of reasons, are not reflected as a reduction in this table and temporarily closed restaurants are included in the summary counts at the beginning and end of each period shown. Temporary closures are reflected in the weighted calculation of Effective Restaurants presented in the preceding Restaurant Data table.
+
+For the full year of 2020, we believe our expectations regarding net restaurant development and closures by our Applebee’s franchisees and IHOP franchisees and area licensees could be materially impacted by the continuing impact of COVID-19 and our temporary suspension of franchisee development obligations in response thereto. Given the significant uncertainties related to the COVID-19 pandemic, including the potential re-imposition of dine-in operating restrictions on restaurants, customer 
+re-engagement with our brands and the short- and long-term impact on consumer discretionary spending, we have withdrawn our 2020 net restaurant development and closure guidance issued on February 24, 2020.
+
+We and certain of our IHOP franchisees are evaluating the long-term viability of certain IHOP restaurants in light of individual store-level economics impacted by the COVID-19 crisis. While the timing and extent of any closures resulting from these evaluations are uncertain, we currently anticipate the evaluations could result in the closure of up to 100 IHOP restaurants over the next six months. Our franchisees are independent businesses and their decisions to close restaurants, both 
+temporarily and permanently, can be impacted by numerous factors that are outside of our control, including but not limited to, the impact of COVID-19 on individual franchisees as well as franchisees' agreements with their lenders and landlords. While we are not able at this time to determine the impact of such closure on our results, changes in the number of Applebee's and IHOP restaurants impact our system-wide retail sales that drive our franchise royalty revenues as well as, in the case of 
+IHOP restaurants, sales of proprietary pancake and waffle dry mix. Further, in the case of certain such restaurants, we own or lease the underlying property and sublease it to the applicable franchisee. Thus, our rental income could be adversely affected due to our obligation to make rental or other payments for such properties.
+
+
+CONSOLIDATED RESULTS OF OPERATIONS
+
+Comparison of the Three and Nine Months ended September 30, 2020 and September 30, 2019
+
+Financial Results
+
+  Revenue                            Three months ended September 30,                                      Favorable                   Nine months ended September 30,              
+                                                                                                           (Unfavorable) Variance                                                   
+                                     2020                                             2019                                             2020                                 2019    
+                                     (In millions)                                                                                                                                  
+ ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Franchise operations               $                                     121.8      $         $          $                           $                                    $       
+  Rental operations                  26.2                                             29.0      (2.8)      78.9                        89.6                                 (10.7)  
+  Company restaurant operations      27.4                                             30.5      (3.1)      75.4                        100.0                                (24.6)  
+  Financing operations               1.3                                              1.7       (0.4)      4.2                         5.3                                  1.1     
+  Total revenue                      $                                     176.7      $         $          $                           $                                    $       
+  Change vs. prior period            (18.7)                                                                (27.7)                                                                   
+
+Total revenue for franchise and company restaurant operations for the three and nine months ended September 30, 2020 decreased compared with the same periods of the prior year, primarily due to a significant decline in customer traffic at our restaurants as a result of the effects of measures put in place by various levels of government to mitigate the spread of the COVID-19 virus and changes in consumer behavior resulting therefrom. Rental operations revenue was also impacted by COVID-19 
+effects, primarily due to a decline in rent paid based on a percentage of franchisees' retail sales
+
+  Gross Profit                       Three months ended September 30,                                     Favorable                   Nine months ended September 30,              
+                                                                                                          (Unfavorable) Variance                                                   
+                                     2020                                            2019                                                                                          
+                                     (In millions)                                                                                                                                 
+ ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Franchise operations               $                                     61.1      $         $          $                           $                                    $       
+  Rental operations                  5.4                                             6.4       (1.0)      14.3                        21.4                                 (7.1)   
+  Company restaurant operations      (0.9)                                           0.2       (1.1)      (4.4)                       6.9                                  (11.3)  
+  Financing operations               1.2                                             1.5       (0.2)      3.9                         4.8                                  (1.0)   
+  Total gross profit                 $                                     66.8      $         $          $                           $                                    $       
+  Change vs. prior period            (25.6)                                                               (36.8)                                                                   
+
+Total gross profit for the three and nine months ended September 30, 2020 decreased compared with the same periods of the prior year, primarily due to a significant decline in customer traffic at our restaurants as a result of the effects of measures put in place by various levels of government to mitigate the spread of the COVID-19 virus and changes in consumer behavior resulting therefrom, as well as increases in bad debt expense of $3.5 million and $9.7 million, respectively, for three and 
+nine months ended September 30, 2020.
+
+
+                                                             Three months ended September 30,                                                     Favorable      Nine months ended September 30,               
+                                                                                                                                     (Unfavorable) Variance                                                    
+  Franchise Operations                                                                   2020                  2019                                                                                            
+ ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+                                                  (In millions, except number of restaurants)                                                                                                                  
+  Effective Franchise Restaurants: (1)                                                                                                                                                                         
+  Applebee’s                                                                                       1,636                  (105)                                                                         (132)  
+  IHOP                                                                                             1,687                  (138)                                                                         (146)  
+  Franchise Revenues:                                                                                                                                                                                          
+  Applebee’s franchise fees                                                                 $       32.4          $           $                           $                                    $            $  
+  IHOP franchise fees                                                                    37.5                  50.1      (12.6)                       101.8                                152.6       (50.7)  
+  Advertising fees                                                                       51.9                  67.5      (15.6)                       142.8                                211.9       (69.1)  
+  Total franchise revenues                                                              121.8                 156.2      (34.4)                       334.7                                487.8      (153.1)  
+  Franchise Expenses:                                                                                                                                                                                          
+  Applebee’s                                                                              3.2                   0.4       (2.8)                         7.8                                  2.1        (5.7)  
+  IHOP                                                                                    5.5                   6.7         1.1                        16.6                                 19.8          3.2  
+  Advertising expenses                                                                   51.9                  67.5        15.6                       142.8                                211.9         69.1  
+  Total franchise expenses                                                               60.6                  74.6        13.9                       167.2                                233.8         66.6  
+  Franchise Gross Profit:                                                                                                                                                                                      
+  Applebee’s                                                                             29.2                  38.2       (9.0)                        82.3                                121.2       (39.0)  
+  IHOP                                                                                   31.9                  43.4      (11.5)                        85.2                                132.8       (47.5)  
+  Total franchise gross profit                                                              $       61.1          $           $                           $                                    $            $  
+  Gross profit as % of revenue (2)                                                       50.2                  52.3                                    50.1                                 52.1               
+  Gross profit as % of franchise fees (2)(3)                                             87.5                  92.0                                    87.3                                 92.1               
+
+_____________________________________________________
+
+(1) Effective Franchise Restaurants are the weighted average number of franchise and area license restaurants open in each fiscal period, adjusted to account for restaurants open for only a portion of the period.
+
+(2) Percentages calculated on actual amounts, not rounded amounts presented above.
+
+(3) From time to time, advertising fee revenue may be different from advertising expenses in a given accounting period. Over the long term, advertising activity should not generate gross profit or loss.
+
+Applebee’s franchise fee revenue for the three months ended September 30, 2020 declined 16.2% compared to the same period of the prior year. Approximately $4.5 million of the decline was due to a decrease of 13.4% in domestic franchise same-restaurant sales primarily caused by the adverse impact on customer traffic of COVID-19-related mitigation measures and changes in consumer behavior. Additionally, revenue decreased $0.8 million due to temporary domestic restaurant closures and $0.8 million 
+due to permanent domestic restaurant closures. Applebee's international revenues declined $0.7 million, primarily due to a decline in same-restaurant sales as well as a $0.2 million decline due to temporary and permanent restaurant closures.
+
+The increase in Applebee's franchise expenses for the three months ended September 30, 2020 compared with the same period of the prior year was due to an increase in bad debt expense. Bad debt expense for the three months ended September 30, 2020 was $2.4 million as compared to bad debt recovery of $0.7 million during the three months ended September 30, 2019.
+
+IHOP franchise fee revenue for the three months ended September 30, 2020 decreased 25.2% compared to the same period of the prior year, primarily due to lower royalty and pancake and waffle dry mix revenues resulting from a 29.9% decrease in domestic franchise same-restaurant sales primarily caused by the adverse impact on customer traffic of COVID-19-related mitigation measures and changes in consumer behavior. Approximately $1.9 million of the revenue decline was due to domestic temporary 
+restaurant closures. IHOP's international revenues declined $1.5 million, due primarily to a decline in same-restaurant sales as well as a $0.2 million decrease due to temporary and permanent restaurant closures. Partially offsetting these unfavorable items was an increase in forfeited franchise fees.
+
+IHOP franchise expenses for the three months ended September 30, 2020 declined from the same period of the prior year primarily due to a decrease in purchase of pancake and waffle dry mix, partially offset by an increase in bad debt expense. IHOP's bad debt expense for the three months ended September 30, 2020 was $0.4 million as compared to a small amount of bad debt recovery during the three months ended September 30, 2019.
+
+
+Total franchise gross profit decreased for the three months ended September 30, 2020 compared to the same period of the prior year, primarily due to significant decreases in domestic franchise same-restaurant sales for both Applebee's and IHOP primarily resulting from the adverse impact on customer traffic of COVID-19-related mitigation measures and changes in consumer behavior, as well as an increase in bad debt expense.
+
+Applebee’s franchise fee revenue for the nine months ended September 30, 2020 declined 27.0% compared to the same period of the prior year. Approximately $25.8 million of the decline was due to a decrease of 24.1% in domestic franchise same-restaurant sales primarily caused by the adverse impact on customer traffic of COVID-19-related mitigation measures and changes in consumer behavior. Additionally, revenue decreased $4.0 million due to temporary domestic restaurant closures and $2.5 million 
+due to permanent domestic restaurant closures. Applebee's international revenues declined $2.6 million, primarily due to a decline in same-restaurant sales as well as a $0.6 million decrease due to temporary closures and a $0.2 million due to permanent restaurant closures. These unfavorable changes were partially offset by a decrease in domestic delivery credits that reduce royalty revenue and an increase in international franchise fees.
+
+The increase in Applebee's franchise expenses for the nine months ended September 30, 2020 compared with the same period of the prior year was due to $6.4 million increase in bad debt expense. Bad debt expense for the nine months ended September 30, 2020 was $5.2 million as compared to a bad debt recovery of $1.1 million during the nine months ended September 30, 2019.
+
+IHOP franchise fee revenue for the nine months ended September 30, 2020 decreased 33.3% compared to the same period of the prior year, primarily due to lower royalty and pancake and waffle dry mix revenues resulting from a 33.6% decrease in domestic franchise same-restaurant sales primarily caused by the adverse impact on customer traffic of COVID-19-related mitigation measures and changes in consumer behavior. Additionally, revenue decreased $6.3 million due to temporary domestic restaurant 
+closures. IHOP's international revenues declined $3.4 million, due primarily to a decline in same-restaurant sales as well as a $0.4 million decrease due to temporary and permanent restaurant closures. These unfavorable changes were partially offset by a $0.6 million increase in franchise fees.
+
+IHOP franchise expenses for the nine months ended September 30, 2020 declined from the same period of the prior year primarily due to a decrease in purchases of pancake and waffle dry mix, partially offset by a $3.1 million increase in bad debt expense. IHOP bad debt expense for the nine months ended September 30, 2020 was $2.9 million compared to a bad debt recovery of $0.2 million in the prior year period.
+
+Total franchise gross profit decreased for the nine months ended September 30, 2020 compared to the same period of the prior year, primarily due to significant decreases in domestic franchise same-restaurant sales for both Applebee's and IHOP primarily resulting from the adverse impact on customer traffic of COVID-19-related mitigation measures and changes in consumer behavior, as well as an increase in bad debt expense.
+
+Advertising revenue and expense by brand for the three and nine months ended September 30, 2020 and 2019 were as follows:
+
+                                               Three months ended September 30,                                                Increase (decrease)      Nine months ended September 30,  
+                                               2020                                            2019                                                                                      
+                                               (In millions)                                                                                                                             
+ ─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Advertising Revenues and Expenses:                                                                                                                                                     
+  Applebee’s                                   $                                     33.0      $         39.0       (6.0)      $                        $                                
+  IHOP                                         18.9                                            28.5                            54.8                     87.5                             
+  Total advertising revenues and expenses      $                                     51.9      $         67.5      (15.6)      $                        $                                
+
+Applebee's advertising revenue and expense for the three months ended September 30, 2020 decreased 15.3% compared to the same period of the prior year, primarily due to the decrease of 13.4% in domestic franchise same-restaurant sales, a $0.9 million decrease due to temporary domestic restaurant closures and a $0.9 million decrease due to permanent domestic restaurant closures. IHOP's advertising revenue and expense for the three months ended September 30, 2020 decreased 33.7% compared to the 
+same period of the prior year, primarily due to the decrease of 29.9% in domestic franchise same-restaurant sales, as well as a decrease due to temporary and permanent restaurant closures.
+
+
+Applebee's advertising revenue and expense for the nine months ended September 30, 2020 decreased 29.3% compared to the same period of the prior year, primarily due to the decrease of 24.1% in domestic franchise same-restaurant sales, a $4.3 million decrease due to temporary domestic restaurant closures, a $2.9 million decrease due to permanent domestic restaurant closures and a $2.2 million decrease due to franchisee collectibility. IHOP's advertising revenue and expense for the nine months 
+ended September 30, 2020 decreased 37.4% compared to the same period of the prior year, primarily due to the decrease of 33.6% in domestic franchise same-restaurant sales, as well as a decrease due to temporary and permanent restaurant closures.
+
+It is our accounting policy to recognize any deficiency in advertising fee revenue compared to advertising expenditure or recovery of a previously recognized deficiency in advertising fee revenue compared to advertising expenditure in the fourth quarter of our fiscal year.
+
+  Rental Operations                     Three months ended September 30,                                               Favorable                   Nine months ended September 30,  
+                                                                                                                       (Unfavorable) Variance                                       
+                                        2020                                            2019                                                                                        
+                                        (In millions)                                                                                                                               
+ ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Rental revenues                       $                                     26.2      $         29.0      (2.8)      $                           $                                
+  Rental expenses                       20.8                                            22.6                           64.6                        68.2                             
+  Rental operations gross profit        $                                      5.4      $          6.4      (1.0)      $                           $                                
+  Gross profit as % of revenue (1)      20.6                                            22.0                           18.2                        23.9                             
+
+___________________________________________________
+
+(1) Percentages calculated on actual amounts, not rounded amounts presented above.
+
+Rental operations relate primarily to IHOP franchise restaurants. Rental income includes sublease revenue from operating leases and interest income from direct financing leases. Rental expenses are costs of prime operating leases and interest expense on prime financing leases.
+
+Rental segment revenue for the three months ended September 30, 2020 decreased as compared to the same period of the prior year primarily due to a $1.7 million decline in rental income based on a percentage of franchisees' retail sales, a $0.3 million decrease in base rent due to restaurant closures and lease buy-outs and a progressive decline of $0.4 million in interest income as direct financing leases are repaid. Rental segment expenses for the three months ended September 30, 2020 decreased 
+compared to the same period of the prior year primarily due to a $0.9 million decrease in base rent expense due to restaurant closures and lease buy-outs, a $0.4 million decrease in rent paid based on a percentage of franchisees' retail sales, a $0.3 million decrease in depreciation expense and a $0.2 million decrease in interest expense as finance lease obligations are repaid.
+
+Rental segment revenue for the nine months ended September 30, 2020 decreased as compared to the same period of the prior year, primarily due to a $5.5 million decrease in rental income based on a percentage of franchisees' retail sales, a $2.7 million decrease in base rent due to restaurant closures and lease buy-outs and a progressive decline of $1.2 million in interest income as direct financing leases are repaid. Rental segment expenses for the nine months ended September 30, 2020 decreased 
+compared to the same period of the prior year primarily due to a $1.3 million decrease in rent paid based on a percentage of franchisees' retail sales, $1.4 million decrease in interest expense as finance lease obligations are repaid and a $0.9 million decrease in depreciation expense.
+
+
+Company Restaurant Operations
+
+                                        Three months ended September 30,                                      Favorable                   Nine months ended September 30,             
+                                                                                                              (Unfavorable) Variance                                                  
+                                        2020                                             2019                                                                                         
+ ──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Effective Restaurants                 69                                               69        —          68                          69                                   (1)    
+                                        (In millions)                                                                                                                                 
+  Company restaurant sales (1)          $                                      27.4      $         $          $                           $                                    $      
+  Company restaurant expenses (1)       27.5                                             30.3      2.8        78.0                        93.1                                 15.1   
+  IHOP restaurant expenses (2)          0.8                                              —         (0.8)      1.8                         —                                    (1.8)  
+  Company restaurant gross profit       $                                     (0.9)      $         $          $                           $                                    $      
+  Gross profit as % of revenue (3)      (0.6)                                            0.6                  (3.4)                       6.9                                         
+
+_____________________________________________________
+
+(1) Related to 69 Applebee's company-operated restaurants.
+
+(2) Costs associated with IHOP restaurants in the process of being refranchised.
+
+(3) Calculated for Applebee's company-operated restaurants only. Percentages calculated on actual amounts, not rounded amounts presented above.
+
+All 69 company-operated Applebee's restaurants have remained open throughout the three months ended September 30, 2020. The slight decrease in effective restaurants for the nine months ended September 30, 2020 reflects the temporary closure of seven restaurants for a short period of time in April 2020. In compliance with state and local requirements, the restaurants were largely limited to off-premise sales for approximately 10 weeks ( the last three weeks of the first quarter and the first 
+seven weeks of the second quarter). By mid-May, 2020, the dining rooms for all 69 restaurants were open but limited to no more than 50% of capacity. As a result of these restrictions, same-restaurant sales decreased 10.7% and 24.2%, respectively, for the three and nine months ended September 30, 2020. The comparison of gross profit for Applebee's company-operated restaurants as a percentage of revenue for the three and nine months ended September 30, 2020 as compared to the same periods of the 
+prior year was adversely impacted by the COVID-19-related operating constraints described above.
+
+In addition, Company segment restaurant expenses for the three and nine months ended September 30, 2020 include approximately $0.8 million and $1.8 million, respectively, of costs associated with certain IHOP restaurants while in the process of being refranchised.
+
+Financing Operations
+
+Financing revenues primarily consist of interest income from the financing of IHOP equipment leases and franchise fees, sales of equipment associated with refranchised IHOP restaurants and interest income on Applebee's notes receivable from franchisees. Financing expenses are the cost of any restaurant equipment sold associated with refranchised IHOP restaurants.
+
+Financing revenue and gross profit for the three and nine months ended September 30, 2020 declined primarily because of decreases in interest income as note balances are repaid.
+
+G&A Expenses
+
+                          Three months ended September 30,                                             Favorable                   Nine months ended September 30,  
+                                                                                                       (Unfavorable) Variance                                       
+                          2020                                            2019                                                                                      
+                          (In millions)                                                                                                                             
+ ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Total G&A expenses      $                                     36.9      $         38.9      2.0      $                           $                                
+
+G&A expenses for the three months ended September 30, 2020 decreased 5.3% compared to the same period of the prior year, primarily due to a $1.7 million decrease in travel costs. Included in total G&A expenses for the three months ended September 30, 2020 were $0.9 million of expenses related to company-operated restaurants, a decrease of $0.4 million from the same period of the prior year. As of October 26, 2020, there were no team members from the restaurant support centers remaining on 
+furlough.
+
+G&A expenses for the nine months ended September 30, 2020 decreased 13.0% compared to the same period of the prior year, primarily due to an $10.9 million decrease in personnel-related costs, as well as decreases in travel and consumer research costs, partially offset by increased depreciation primarily related to capitalized software projects. The decline in personnel-related costs was primarily due to lower costs of salaries and benefits, related in large part to the furloughing of 
+approximately
+
+
+one-third of team members across various functional groups in our restaurant support centers for approximately six months, as well as lower costs of equity-based and other incentive compensation. Included in total G&A expenses for the nine months ended September 30, 2020 were $3.1 million of expenses related to company-operated restaurants, a decrease of $0.7 million from the same period of the prior year.
+
+  Impairment and Closure Costs                   Three months ended September 30,                Favorable (Unfavorable) Variance                 Nine months ended September 30,                           
+                                                 2020                                  2019                                                                                                                 
+                                                 (In millions)                                                                                                                                              
+  Goodwill impairment                            $                                     $         $                                      92.2      $                                    $            (92.2)  
+  Tradename impairment                           —                                     —         11.0                                             —                                    (11.0)               
+  Long-lived asset impairment                    —                                     —         17.2                                             —                                    (17.2)               
+  Impairment of reacquired franchise rights      —                                     —         3.3                                              —                                    (3.3)                
+ ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Closure costs                                  0.2                                   0.2       0.8                                              0.6                                  (0.2)                
+  Total                                          $                                     $         $                                     124.5      $                                    $           (123.9)  
+
+The Company evaluates its goodwill and the indefinite-lived Applebee's tradename for impairment annually in the fourth quarter of each year or on an interim basis if events or changes in circumstances between annual tests indicate a potential impairment. Definite-lived intangible assets and long-lived tangible assets are reviewed for impairment whenever events or changes in circumstances indicate that the carrying amount of an asset or asset group may not be recoverable based on estimated 
+undiscounted future cash flows.
+
+During March 2020, a global pandemic was declared by the World Health Organization related to the rapidly spreading
+
+outbreak of COVID-19. In the second quarter of 2020, the Company noted that its common stock had recovered less of its early March 2020 (pre-pandemic) market value than the overall U.S. stock market had recovered. The Company also was able to assess several additional months of data as to the impact of the COVID-19 pandemic on its operations and, in turn, assess the impact that might have on the risk premium incorporated into its discount rate. Based on these developments, the Company determined
+that an interim quantitative test of goodwill and indefinite-lived intangible assets for impairment should be performed as of May 24, 2020. In determining fair value, the Company utilized valuation techniques that maximize the use of observable inputs and minimize the use of unobservable inputs to the extent possible. The fair value technique used in this instance is classified as Level 3, where unobservable inputs are used when little or no market data is available.
+
+In performing the quantitative test for impairment of goodwill, we used the income approach method of valuation that includes the discounted cash flow method and the market approach that includes the guideline public company method to determine the fair value of goodwill and intangible assets. Significant assumptions made by management in estimating fair value under the discounted cash flow model include future trends in sales, operating expenses, overhead expenses, depreciation, capital 
+expenditures and changes in working capital, along with an appropriate discount rate based on our estimated cost of equity capital and after-tax cost of debt. Significant assumptions used to determine fair value under the guideline public company method include the selection of guideline companies and the valuation multiples applied.
+
+In performing the impairment review of the tradename, we used the relief of royalty method under the income approach method of valuation. Significant assumptions used to determine fair value under the relief of royalty method include future trends in sales, a royalty rate and a discount rate to be applied to the forecast revenue stream.
+
+As a result of performing the quantitative test of impairment, the Company recognized an impairment of Applebee's goodwill of $92.2 million and an impairment of Applebee's tradename of $11.0 million in the second quarter of 2020.
+
+The majority of the impairment was due to an increase in the assessed risk premium incorporated in the discount rate. These assets are at risk of additional impairment in the future in the event of sustained downward movement in the Company's stock price, downward revisions of long-term performance assumptions or increases in the assumed long-term discount rate.
+
+The long-lived asset impairment of $17.2 million related to 45 Applebee's company-operated restaurants and 29 IHOP franchisee-operated restaurants for which the carrying amount exceeded the undiscounted cash flows The impairment recorded represented the difference between the carrying value and the estimated fair value. Approximately $11.2 million of the total impairment related to operating lease right-of-use assets that had been recorded in 2019 upon adoption of new accounting
+
+
+guidance for leases codified in Accounting Standards Topic 842, while $5.9 million related to impairments of land, building, leasehold improvements and finance leases. The impairments by individual property varied in amount, ranging from the largest single-property impairment of $1.3 million to less than $5,000.
+
+An impairment of $3.3 million was recognized related to the reacquired franchise rights intangible asset recorded in the purchase price allocation of the December 2018 acquisition of 69 Applebee's restaurants from a former franchisee.
+
+During the three months ended September 30, 2020, the Company assessed its goodwill, intangible assets and tangible assets for impairment, considering, among other things, the market value of our stock, absolute and relative to peers, and the Company's operating performance during the three months ended September 30, 2020 compared to forecast results that had been used in performing the impairment analyses during the second quarter of 2020 discussed above. The Company concluded the were no 
+indicators of additional impairment during the three months ended September 30, 2020.
+
+  Other Income and Expense Items         Three months ended September 30,                                     Favorable                   Nine months ended September 30,             
+                                                                                                              (Unfavorable) Variance                                                  
+                                         2020                                            2019                                                                                         
+                                         (In millions)                                                                                                                                
+ ──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Interest expense, net                  $                                     16.8      $         $          $                           $                                    $      
+  Amortization of intangible assets      2.7                                             2.9       0.3        8.2                         8.8                                  0.5    
+  Loss on disposition of assets          1.1                                             0.7       (0.3)      2.6                         1.2                                  (1.4)  
+  Total                                  $                                     20.6      $         $          $                           $                                    $      
+
+Interest expense, net
+
+Interest expense, net for the three and nine months ended September 30, 2020 was higher than the same periods of the prior year, primarily due to increased interest expense on $220.0 million borrowed under our Revolver in March 2020. See“Liquidity and Capital Resources” for additional discussion related to the Revolver borrowing.
+
+Loss on disposition of assets
+
+The loss on disposition of assets for the three months ended September 30, 2020 primarily related to disposition of capitalized software no longer in use. The loss on disposition of assets for the nine months ended September 30, 2020 primarily related to termination of 12 IHOP restaurant leases and the loss on capitalized software recognized during the three months ended September 30, 2020. There were no individually significant losses on disposition of assets during the three and nine months 
+ended September 30, 2019.
+
+  Income Taxes                           Three months ended September 30,                                                 Favorable                   Nine months ended September 30,  
+                                                                                                                          (Unfavorable) Variance                                       
+                                         2020                                             2019                                                                                         
+                                         (In millions)                                                                                                                                 
+ ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Income (loss) before income taxes      $                                       9.2      $         31.7      (22.5)      $                           $                                
+  Income tax provision (benefit)         $                                     (0.9)      $          7.8         8.7      $                           $                                
+  Effective tax rate                     (9.5)                                            24.6                            5.6                         24.5                             
+
+Our income tax provision or benefit will vary from period to period in our normal course of business for two reasons: a change in income before income taxes and a change in the effective tax rate. Changes in our income before income taxes were addressed in the preceding sections of“Consolidated Results of Operations - Comparison of the Three and Nine Months Ended September 30, 2020 and 2019.”
+
+Our effective tax rate for the three months ended September 30, 2020 was significantly different than the rate of the prior comparable period and the statutory federal tax rate of 21% primarily due to the release of unrecognized tax benefits. As noted under“Impairment and Closure Charges” above, our effective tax rate for the nine months ended September 30, 2020 was significantly different than the rate of the prior comparable period and the statutory federal tax rate of 21% primarily because 
+the $92.2 million impairment of goodwill incurred in the prior quarter is not deductible for federal income tax purposes and therefore has no associated tax benefit.
+
+
+Liquidity and Capital Resources
+
+On June 5, 2019, Applebee’s Funding LLC and IHOP Funding LLC (the “Co-Issuers”), each a special purpose, wholly-owned indirect subsidiary of the Company, issued two tranches of fixed rate senior secured notes, the Series 2019-1 4.194% Fixed Rate Senior Secured Notes, Class A-2-I (“Class A-2-I Notes”) in an initial aggregate principal amount of $700 million and the Series 2019-1 4.723% Fixed Rate Senior Secured Notes, Class A-2-II (“Class A-2-II Notes”) in an initial aggregate principal amount of
+$600 million (the “Class A-2-II Notes” and, together with the Class A-2-I Notes, the “2019 Class A-2 Notes”). The 2019 Class A-2 Notes were issued pursuant to an offering exempt from registration under the Securities Act of 1933, as amended.
+
+The Co-Issuers also established a new revolving financing facility, the 2019-1 Variable Funding Senior Notes, Class A-1 (the “Revolver”) that allows for drawings up to $225 million of variable funding notes and the issuance of letters of credit. The Revolver and the 2019 Class A-2 Notes are referred to collectively herein as the “New Notes.” The New Notes were issued in a securitization transaction pursuant to which substantially all the domestic revenue-generating assets and domestic 
+intellectual property held by the Co-Issuers and certain other special-purpose, wholly-owned indirect subsidiaries of the Company (the “Guarantors”) were pledged as collateral to secure the New Notes.
+
+While the 2019 Class A-2 Notes are outstanding, payment of principal and interest is required to be made on the 2019 Class A-2 Notes on a quarterly basis. The quarterly principal payment totaling $3.25 million on the 2019 Class A-2 Notes may be suspended when the leverage ratio for the Company and its subsidiaries is less than or equal to 5.25x. In general, the leverage ratio is our indebtedness (as defined in the Indenture) divided by adjusted EBITDA (as defined in the Indenture) for the four 
+preceding quarterly periods. The complete definitions of all calculation elements of the leverage ratio are contained in the Base Indenture, dated as of September 30, 2014, amended and restated as of June 5, 2019 (the “Base Indenture”), as supplemented by the related Series 2019-1 Supplement to the Base Indenture, dated June 5, 2019 (the “Series 2019-1 Supplement”), among the Co-Issuers and Citibank, N.A., as the trustee (in such capacity, the “Trustee”) and securities intermediary (the Base 
+Indenture and the Series 2019-1 Supplement, collectively, the “Indenture”).
+
+As of September 30, 2020, our leverage ratio was 6.67x. As a result, principal payments on the 2019 Class A-2 Notes of $3.25 million will be required in the fourth quarter of 2020 and first quarter of 2021. The leverage ratio is not a maintenance covenant and exceeding the leverage ratio of 5.25x does not violate any covenant related to the New Notes.
+
+The Company may voluntarily repay the 2019 Class A-2 Notes at any time; however, if we repay the 2019 Class A-2 Notes prior to certain dates we would be required to pay make-whole premiums. As of September 30, 2020, the make-whole premium associated with voluntary prepayment of the Class A-2-I Notes was approximately $41 million; this amount declines each quarter to zero in June 2022. As of September 30, 2020, the make-whole premium associated with voluntary prepayment of the Class A-2-II Notes 
+was approximately $84 million; this amount declines each quarter to zero in June 2024. We would also be subject to a make-whole premium in the event of a mandatory prepayment required following a Rapid Amortization Event or certain asset dispositions. The mandatory make-whole premium requirements are considered derivatives embedded in the New Notes that must be bifurcated for separate valuation. We estimated the fair value of these derivatives to be immaterial as of September 30, 2020, based on 
+the probability-weighted discounted cash flows associated with either event.
+
+Covenants and Restrictions
+
+The New Notes are subject to a series of covenants and restrictions customary for transactions of this type, including: (i) that the Co-Issuers maintain specified reserve accounts to be used to make required payments in respect of the New Notes, (ii) provisions relating to optional and mandatory prepayments, and the related payment of specified amounts, including specified call redemption premiums in the case of Class A-2 Notes under certain circumstances; (iii) certain indemnification payments 
+in the event, among other things, the transfers of the assets pledged as collateral for the New Notes are in stated ways defective or ineffective and (iv) covenants relating to recordkeeping, access to information and similar matters. The New Notes are subject to customary rapid amortization events provided for in the Indenture, including events tied to failure of the Securitization Entities to maintain the stated debt service coverage ratio (“DSCR”), the sum of domestic retail sales for all 
+restaurants being below certain levels on certain measurement dates, certain manager termination events, certain events of default and the failure to repay or refinance the Class A-2 Notes on the anticipated repayment dates. The New Notes are also subject to certain customary events of default, including events relating to non-payment of required interest, principal or other amounts due on or with respect to the New Notes, failure of the Securitization Entities to maintain the stated DSCR, 
+failure to comply with covenants within certain time frames, certain bankruptcy events, breaches of specified representations and warranties and certain judgments.
+
+
+In general, the DSCR ratio is Net Cash Flow (as defined in the Indenture) for the four quarters preceding the calculation date divided by the total debt service payments (as defined in the Indenture) of the preceding four quarters. The complete definitions of the DSCR and all calculation elements are contained in the Indenture. Failure to maintain a prescribed DSCR can trigger a Cash Flow Sweeping Event, A Rapid Amortization Event, a Manager Termination Event or a Default Event as described 
+below. In a Cash Flow Sweeping Event, the Trustee is required to retain 50% of excess Cash Flow (as defined in the Indenture) in a restricted account. In a Rapid Amortization Event, all excess Cash Flow is retained and used to retire principal amounts of debt. In a Manager Termination Event, the Company may be replaced as manager of the assets securitized under the Indenture. In a Default Event, the outstanding principal amount and any accrued but unpaid interest can be called to become 
+immediately due and payable. Key DSCRs are as follows:
+
+•DSCR less than 1.75x - Cash Flow Sweeping Event
+
+•DSCR less than 1.20x - Rapid Amortization Event
+
+•Interest-only DSCR less than 1.20x - Manager Termination Event
+
+•Interest-only DSCR less than 1.10x - Default Event
+
+Our DSCR for the reporting period ended September 30, 2020 was approximately 3.2x.
+
+During the second quarter of 2020, we voluntarily increased the interest reserve required to be set aside for our securitized debt from $16.4 million to $32.8 million, which represents an estimated six months of interest and fees related to the 2019 Class A-2 Notes and the Revolver. During the second quarter of 2020, we voluntarily began accelerating the funding of interest on the 2019 Class A-2 Notes and the Revolver with the redirection of cash receipts within the securitization structure. As 
+of October 26, the interest payments on the 2019 Class A-2 Notes and the Revolver due December 7, 2020 and March 5, 2021 have been fully funded within the securitization structure, in addition to the $32.8 million of interest reserve noted above.
+
+In March 2020, in light of the COVID-19 pandemic, Standard & Poor's (“S&P”) placed the Company on "credit watch-negative" with respect to its 2019 Class A-2 Notes. In September 2020, S&P removed the Company from the credit watch and reaffirmed the “BBB” rating of the 2019 Class A-2 Notes.
+
+Use of Credit Facilities
+
+In March 2020, the Co-Issuers drew down a total of $220.0 million of the amount then available under the Revolver. Although the Company had no immediate need for additional liquidity, the Co-Issuers drew on the Revolver to increase the Company’s financial flexibility in light of then-current market conditions and uncertainty due to the COVID-19 outbreak. It is anticipated that the principal and interest on the Revolver will be repaid in full on or prior to the quarterly payment date in June 
+2024, subject to two additional one-year extensions at the option of the Company upon the satisfaction of certain conditions. The current interest rate for borrowings under the Revolver is the three-month LIBOR rate plus 2.15% for 60% of the advances and the commercial paper funding rate of our conduit investor plus 2.15% for 40% of the advances. The weighted average interest rate on Revolver borrowings for the period outstanding was 2.53% and 3.31%, respectively, for the three and nine months 
+ended September 30, 2020.
+
+At September 30, 2020, $2.8 million was pledged against the Revolver for outstanding letters of credit, leaving $2.2 million of the Revolver available for borrowing. The letters of credit are used primarily to satisfy insurance-related collateral requirements.
+
+Capital Allocation
+
+Dividends
+
+During the nine months ended September 30, 2020, we paid dividends on common stock of $23.9 million, representing a cash dividend of $0.69 per share declared in the fourth quarter of 2019, paid in January 2020, and a cash dividend of $0.76 per share declared in the first quarter of 2020, paid in April 2020.
+
+Stock Repurchases
+
+In February 2019, the Company’s Board of Directors approved a stock repurchase program authorizing the Company to repurchase up to $200 million of the Company’s common stock (the “2019 Repurchase Program”) on an opportunistic basis from time to time in the open market or in privately negotiated transactions based on business, market, applicable legal requirements and other considerations. The 2019 Repurchase Program, as approved by the Board of Directors, does not require the repurchase of a 
+specific number of shares and can be terminated at any time.
+
+
+A summary of shares repurchased under the 2019 Repurchase Program during the three and nine months ended September 30, 2020 and cumulatively, is as follows:
+
+                                                                    Shares                     Cost of shares             
+                                                                                               (In millions)              
+  2019 Repurchase Program:                                                                                                
+  Repurchased during the three months ended September 30, 2020      —                          $                       —  
+  Repurchased during the nine months ended September 30, 2020                     459,899      $                    26.5  
+  Cumulative (life-of-program) repurchases                                      1,697,597      $                   129.8  
+  Remaining dollar value of shares that may be repurchased          n/a                        $                    70.2  
+
+We evaluate dividend payments on common stock and repurchases of common stock within the context of our overall capital allocation strategy with our Board of Directors on an ongoing basis, giving consideration to our current and forecast earnings, financial condition, cash requirements and other factors. In order to maintain financial flexibility in light of the COVID-19 pandemic, we have ceased repurchasing our common stock for the foreseeable future and our Board of Directors has decided not 
+to declare a dividend for the second, third and fourth quarters of 2020. We will continue to evaluate our capital allocation strategy as industry conditions evolve and normal restaurant operations resume.
+
+From time to time, we also repurchase shares owned and tendered by employees to satisfy tax withholding obligations on the vesting of restricted stock awards. Shares are deemed purchased at the closing price of our common stock on the vesting date. See Part II, Item 2 for detail on this stock repurchase activity during the second quarter of 2020.
+
+Cash Flows
+
+In summary, our cash flows for the nine months ended September 30, 2020 and September 30, 2019 were as follows:
+
+                                                                             Nine months ended September 30,                                                                
+                                                                             2020                                            2019                     Variance              
+                                                                             (In millions)                                                                                  
+ ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Net cash provided by operating activities                                  $                                     36.7      $             105.6      $             (68.9)  
+  Net cash provided by (used in) investing activities                        5.3                                             (4.0)                    9.3                   
+  Net cash provided by (used in) financing activities                        175.1                                           (149.1)                  324.2                 
+  Net increase (decrease) in cash, cash equivalents and restricted cash      $                                    217.1      $            (47.5)      $              264.6  
+
+Operating Activities
+
+Cash provided by operating activities decreased $68.9 million during the nine months ended September 30, 2020 compared to the same period of the prior year. Our net income plus the non-cash reconciling items shown in our statements of cash flows (primarily impairment and closure charges, depreciation, deferred taxes and stock-based compensation) decreased $27.3 million from 2019. This change was primarily due to a decrease in gross profit primarily due to a significant decline in customer 
+traffic at our restaurants as a result of the effects of measures put in place by various levels of government to mitigate the spread of the COVID-19 virus and related changes in consumer behavior, partially offset by a decrease in G&A expenses, each of which was discussed in preceding sections of the MD&A. Additionally, net changes in working capital used cash of $51.5 million during the nine months ended September 30, 2020 compared to using cash of $9.8 million during the same period of the 
+prior year, an unfavorable change of $41.6 million. The unfavorable change in working capital was primarily due to an increase in trade receivables resulting from payment deferrals offered to franchisees and a net increase in tax receivables related, in part, to an estimated tax payment made in the first quarter of 2020 before the impacts of the COVID-19 pandemic were considered, as well as a tax refund received in 2019 that did not recur. These unfavorable items were partially offset by the 
+timing of marketing accruals due in part to the temporary suspension of the Company's national advertising programs from March to June of 2020. In summary, the decrease of $68.9 million in cash provided by operating activities for the nine months ended September 30, 2020 was due to the $27.3 million decrease in net income plus non-cash reconciling items and the unfavorable change of $41.6 million in cash used by working capital changes.
+
+Investing Activities
+
+Investing activities provided net cash of $5.3 million for the nine months ended September 30, 2020. Principal receipts from notes, equipment contracts and other long-term receivables of $15.7 million were partially offset by capital expenditures
+
+
+of $9.1 million and loans to franchisees of $1.5 million. Investing activities used net cash of $4.0 million for the nine months ended September 30, 2019. The variance between the two periods was due to decreases in capital expenditures and loans to franchisees during the nine months ended September 30, 2020 compared to the same period of the prior year.
+
+Financing Activities
+
+Financing activities provided net cash of $175.1 million for the nine months ended September 30, 2020. As discussed above under Use of Credit Facilities, we drew down $220.0 million from our Revolver to increase our financial flexibility in light of then-current market conditions and uncertainty due to the COVID-19 outbreak. We also had a net cash inflow of approximately $18.1 million related to equity compensation awards. These financing inflows were partially offset by cash dividends paid on 
+our common stock totaling $23.9 million, repurchases of our common stock totaling $29.9 million and repayments of finance lease obligations of $9.0 million.
+
+Financing activities used net cash of $149.0 million for the nine months ended September 30, 2019. The increase of $324.2 million in the net cash provided by/used in financing activities was primarily due to the $220 million drawdown from our Revolver, a decrease in repurchases of common stock of $60.2 million, a decrease in dividend payments of $9.9 million, each actions which were discussed under"Ongoing Impact of COVID-19." Additionally, during the nine months ended September 30, 2019, we 
+repaid $25.0 million on our credit facility that had been drawn in 2018 and paid $12.7 million in debt issuance costs associated with our 2019 debt refinancing and similar transaction did not recur in 2020.
+
+Cash and Cash Equivalents
+
+Our total cash balance as of September 30, 2020 was are follows:
+
+                                    September 30, 2020             
+ ───────────────────────────────────────────────────────────────────
+  Cash and cash equivalents         $                       309.3  
+  Restricted cash, current          47.5                           
+  Restricted cash, non-current      32.8                           
+  Total                             $                       389.6  
+
+Cash and cash equivalents include $59.0 million of cash held for gift card programs and advertising funds.
+
+We believe that our cash on hand, cash flow from operations, and the actions taken to mitigate the effects of the COVID-19 pandemic discussed under Significant Recent Developments will provide us with adequate liquidity for the next twelve months.
+
+Adjusted Free Cash Flow
+
+We define “adjusted free cash flow” for a given period as cash provided by operating activities, plus receipts from notes and equipment contract receivables, less additions to property and equipment. Management uses this liquidity measure in its periodic assessment of, among other things, cash dividends per share of common stock and repurchases of common stock and we believe it is important for investors to have the same measure used by management for that purpose. Adjusted free cash flow does 
+not represent residual cash flow available for discretionary purposes.
+
+Adjusted free cash flow is a non-U.S. GAAP measure. This non-U.S. GAAP measure is not defined in the same manner by all companies and may not be comparable to other similarly titled measures of other companies. Non-U.S. GAAP measures should be considered in addition to, and not as a substitute for, the U.S. GAAP information contained within our financial statements. Reconciliation of the cash provided by operating activities to adjusted free cash flow is as follows:
+
+                                                              Nine months ended September 30,                                                             
+                                                              2020                                           2019                   Variance              
+                                                              (In millions)                                                                               
+ ──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Cash flows provided by operating activities                 $                                    36.7      $           105.6      $             (68.9)  
+  Receipts from notes and equipment contracts receivable      8.0                                            8.6                    (0.6)                 
+  Additions to property and equipment                         (9.1)                                          (13.4)                 4.3                   
+  Adjusted free cash flow                                     $                                    35.6      $           100.8      $             (65.2)  
+
+
+The Company expects to generate positive adjusted free cash flow during the remaining three months of 2020.
+
+Off-Balance Sheet Arrangements
+
+We have obligations for guarantees on certain franchisee lease agreements, as disclosed in Note 15 - Commitments and Contingencies, of Notes to Consolidated Financial Statements of Part I, Item 1 of this Form 10-Q. Other than such guarantees, we did not have any off-balance sheet arrangements, as defined in Item 303(a)(4) of SEC Regulation S-K as of September 30, 2020.
+
+Contractual Obligations and Commitments
+
+As discussed above, in March 2020, we drew down a total of $220 million from the Revolver. Other than this borrowing, there were no material changes to the contractual obligations table as disclosed in our Annual Report on Form 10-K for the year ended December 31, 2019.
+
+Critical Accounting Policies and Estimates
+
+The preparation of financial statements in accordance with U.S. GAAP requires us to make estimates and assumptions affecting the reported amounts of assets and liabilities at the date of the financial statements and the reported amounts of net revenues and expenses in the reporting period. We base our estimates and assumptions on current facts, historical experience and various other factors that we believe to be reasonable under the circumstances, the results of which form the basis for making 
+judgments about the carrying values of assets and liabilities and the accrual of costs and expenses that are not readily apparent from other sources. We continually review the estimates and underlying assumptions to ensure they are appropriate for the circumstances. Accounting assumptions and estimates are inherently uncertain and actual results may differ materially from our estimates.
+
+A summary of our critical accounting estimates is included in Management’s Discussion and Analysis of Financial Condition and Results of Operations contained in our Annual Report on Form 10-K for the year ended December 31, 2019. During the nine months ended September 30, 2020, there were no significant changes in our critical accounting policies, other than our accounting policy for current expected credit losses, which changed because of the adoption of the accounting guidance discussed in 
+Note 3 - Accounting Standards Adopted and Newly Issued Accounting Standards Not Yet Adopted, in the Notes to Consolidated Financial Statements and in our critical accounting estimates, other than those related to the valuation of goodwill, intangibles and long-lived assets discussed in Note 4 - Impairment and Closure Charges, in the Notes to Consolidated Financial Statements.
+

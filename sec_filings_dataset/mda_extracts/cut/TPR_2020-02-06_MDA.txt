@@ -1,0 +1,708 @@
+ITEM 2.      MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS  
+ ──────────────────────────────────────────────────────────────────────────────────────────────────────
+
+The following discussion of the Company's financial condition and results of operations should be read together with the Company's condensed consolidated financial statements and notes to those financial statements included elsewhere in this document. When used herein, the terms "the Company," "Tapestry," "we," "us" and "our" refer to Tapestry, Inc., including consolidated subsidiaries. References to "Coach," "Stuart Weitzman," "Kate Spade" or "kate spade new york" refer only to the referenced 
+brand.
+
+EXECUTIVE OVERVIEW
+
+Tapestry is a leading New York-based house of modern luxury accessories and lifestyle brands. Tapestry is powered by optimism, innovation and inclusivity. Our brands are approachable and inviting and create joy every day for people around the world. Defined by quality, craftsmanship and creativity, our house of brands gives global audiences the opportunity for exploration and self-expression. Tapestry is comprised of the Coach, Kate Spade and Stuart Weitzman brands, all of which have been part 
+of the American landscape for over 25 years.
+
+The Company has three reportable segments:
+
+  Coach - Includes global sales of Coach products to customers through Coach operated stores, including the Internet and concession shop-in-shops, and sales to wholesale customers and through ind...  
+
+  Kate Spade - Includes global sales primarily of kate spade new york brand products to customers through Kate Spade operated stores, including the Internet, sales to wholesale customers, through...  
+
+  Stuart Weitzman - Includes global sales of Stuart Weitzman brand products primarily to customers through Stuart Weitzman operated stores, including the Internet, sales to wholesale customers an...  
+
+Each of our brands is unique and independent, while sharing a commitment to innovation and authenticity defined by distinctive products and differentiated customer experiences across channels and geographies. Our success does not depend solely on the performance of a single channel, geographic area or brand.
+
+Fiscal 2020 Strategic Initiatives
+
+The company continues to focus on execution in fiscal 2020. Specifically, in fiscal 2020, the Company intends to:
+
+• Ignite brand growth driven by innovation
+
+•Drive global growth, with a focus on maximizing opportunities with the Chinese consumer
+
+• Invest in our digital and data analytic capabilities
+
+•Harness the benefit of the multi-brand structure
+
+Recent Developments
+
+ERP Implementation
+
+During fiscal 2018, the Company implemented a global consolidation system which provides a common platform for financial reporting, a point-of-sale system for Coach in North America as well as a human resource information system for Corporate, Coach and Stuart Weitzman employees. During the second quarter of fiscal 2019, the Company deployed global finance and accounting systems for Corporate, Coach and Stuart Weitzman. During the third quarter of fiscal 2019, the Company deployed global 
+finance, accounting, supply chain and human resource information systems for Kate Spade. During the first quarter of fiscal 2020, the Company deployed the final major phase of its ERP Implementation, specifically, the supply chain functions for Coach and Stuart Weitzman.
+
+Stuart Weitzman Production Challenges
+
+During fiscal 2018, Stuart Weitzman results were negatively impacted by supply chain operational challenges including production delays, as the brand was not prepared for the level of complexity and new development as it transitioned to a new creative vision. The trailing impacts of these operational challenges continued to negatively impact Stuart Weitzman results in fiscal 2019 and in fiscal 2020, including, but not limited to, a reduction in wholesale demand at Stuart Weitzman. The Company 
+continues to address these challenges through investment in talent, operational process improvements, and a focus on the fashion sensibility of the core design aesthetic.
+
+Integration
+
+During fiscal 2019, the Company acquired certain distributors for the Kate Spade and Stuart Weitzman brands. The operating results of the respective entities have been consolidated in the Company's operating results commencing on the date of each acquisition. As a result of these acquisitions, the Company incurred charges related to the integration of the businesses. These charges are primarily associated with organization-related costs, professional fees, one-time write-off of inventory and 
+limited life purchase accounting adjustments. The Company currently estimates that it will incur approximately $5-10 million in pre-tax charges, of which the majority are expected to be cash charges, for the remainder of fiscal 2020.
+
+Refer to Note 5, "Integration," Note 6, "Acquisitions," and the "GAAP to Non-GAAP Reconciliation," herein, for further information.
+
+Change in Chief Executive Officer
+
+On September 4, 2019, the Company announced that Victor Luis departed as the Company’s Chief Executive Officer and resigned from the Board of Directors, effective as of September 3, 2019. On September 4, 2019, the Company named Jide Zeitlin, Chairman of the Board of Directors, as the Company’s Chief Executive Officer. In connection with Mr. Luis’s departure, the Company and Mr. Luis entered into a separation and mutual release agreement.
+
+Impairment
+
+During the first quarter of fiscal 2020, the Company recorded $75.6 million of impairment charges related to store assets, including the lease assets recorded in connection with the adoption of the new lease accounting standard. Refer to Note 13, "Fair Value Measurements," and Note 16, "Segment Information," for further information.
+
+Current Trends and Outlook
+
+The environment in which we operate is subject to a number of different factors driving global consumer spending. Consumer preferences, macroeconomic conditions, foreign currency fluctuations and geopolitical events continue to impact overall levels of consumer travel and spending on discretionary items, with inconsistent patterns across channels and geographies.
+
+Global consumer retail traffic trends, specifically for our brick & mortar channel, remain under pressure. This, along with other factors, has led to a more promotional environment in the fragmented retail industry due to increased competition and a desire to offset traffic declines with increased levels of conversion. Further declines in traffic could result in impairment charges if expected future cash flows of the related asset group do not exceed the carrying value.
+
+In December 2019, a novel strain of coronavirus was reported to have surfaced in Wuhan, China. This virus has caused business disruption beginning in January 2020, including traffic declines and the closure of the majority of stores on mainland China. While the business disruption is currently expected to be temporary, there is uncertainty around the duration of these disruptions or the possibility of other effects on the business. The Company estimates that this disruption will negatively 
+impact its results for the second half of fiscal 2020 by approximately $200-250 million in net sales and $0.35-$0.45 in net income per diluted share, given current trends in China. If the situation further deteriorates, or the outbreak affects demand outside of the country, this impact could be worse.
+
+Several organizations that monitor the world’s economy, including the International Monetary Fund, observed that global expansion has declined significantly in the last year and remains weak. These organizations expect only modest growth globally due to continued softening of the growth rates in the United States and China, as well as challenging economic growth across certain other markets. Furthermore, though there are early signs of stabilization, there are certain risk factors noted that may
+further pressure the economic growth levels currently anticipated. As a result, the current global outlook remains uncertain. It is still too early to understand what kind of sustained impact these trends or changes in trade agreements and tax legislations will have on consumer discretionary spending.
+
+Risk of volatility or a worsening of the macroeconomic environment remains, including currency devaluation, due to political uncertainty and potential changes to international trade agreements. During fiscal 2020, Hong Kong SAR, China has been the subject of worsening political unrest, as demonstrated through ongoing public demonstrations and protests, which has impacted and is expected to continue to impact our business. Furthermore, during fiscal 2019 and continuing into fiscal 2020, the Trump
+Administration and China have both imposed new tariffs on the importation of certain product categories into the respective country. We expect these changes to have a modest impact on gross margin in fiscal 2020. Continued increases in trade tensions could impact the Company's ability to grow its business with the Chinese consumer globally.
+
+Beginning in the second quarter of fiscal 2019, the Company noted volatility in the spending patterns of certain North American customers, believed to be resellers, in advance of changes in Chinese e-commerce laws effective January 1, 2019. The volatility experienced since that time may continue in the near-term. The Company also observed an acceleration in local customer demand in mainland China which has helped to partially offset this trend.
+
+Additional macroeconomic impacts include but are not limited to the United Kingdom ("U.K.") voting to leave the European Union ("E.U."), commonly known as "Brexit." On March 29, 2017, the U.K. triggered Article 50 of the Lisbon Treaty formally starting a 2 year negotiation period with the E.U., which was subsequently extended to January 31, 2020. The U.K. officially terminated its membership of the E.U. on January 31, 2020 under the terms of a withdrawal agreement concluded between the U.K. and 
+E.U. and has now entered into a transition phase until December 31, 2020. During the transition phase, the U.K. will generally continue operating as if it were still a member of the E.U. Trade talks between the E.U. and U.K., to determine their future relationship, are expected to commence imminently. If a trade deal is not reached by December 31, 2020, absent an extension to the transition period, the U.K. can expect checks and tariffs on products going to and coming from the E.U. beginning on 
+January 1, 2021.
+
+We will continue to monitor these trends and evaluate and adjust our operating strategies and cost management opportunities to mitigate the related impact on our results of operations, while remaining focused on the long-term growth of our business and protecting the value of our brands.
+
+For a detailed discussion of significant risk factors that have the potential to cause our actual results to differ materially from our expectations, see Part II, Item 1A. "Risk Factors" herein and Part I, Item 1A. "Risk Factors" disclosed in our Annual Report on Form 10-K for the fiscal year endedJune 29, 2019.
+
+SECOND QUARTER FISCAL2020 COMPARED TO SECOND QUARTER FISCAL2019
+
+The following table summarizes results of operations for the second quarter of fiscal2020 compared to the second quarter of fiscal2019. All percentages shown in the table below and the discussion that follows have been calculated using unrounded numbers.
+
+                                  Three Months Ended                                                                                                            
+                                  December 28, 2019                                                  December 29, 2018                     Variance             
+                                  Amount                                                   % of      Amount                      % of      Amount            %  
+                                                                                      net sales                             net sales                           
+ ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+                                  (millions, except per share data)                                                                                             
+  Net sales                       $                                      1,816.0          100.0      $                          100.0      $               0.8  
+  Gross profit                                                           1,209.7           66.6                                  66.8      6.2             0.5  
+  SG&A expenses                   846.6                                                    46.6      827.0                       45.9      19.6            2.4  
+  Operating income                363.1                                                    20.0      376.5                       20.9      (13.4          (3.6  
+  Interest expense, net           14.0                                                      0.8      13.2                         0.7      0.8             5.8  
+  Other expense (income)          (5.9                                                     (0.3      (4.2                        (0.2      (1.7          (39.2  
+  Provision for income taxes      56.2                                                      3.1      112.7                        6.3      (56.5         (50.1  
+  Net income                      298.8                                                    16.5      254.8                       14.1      44.0           17.2  
+  Net income per share:                                                                                                                                         
+  Basic                           $                                         1.08                     $                                     $              23.2  
+  Diluted                         $                                         1.08                     $                                     $              23.3  
+
+GAAP to Non-GAAP Reconciliation
+
+The Company’s reported results are presented in accordance with accounting principles generally accepted in the United States of America ("GAAP"). The reported results during the second quarter of fiscal2020 and fiscal2019 reflect the costs attributable to the ERP system implementation efforts, organization-related, integration and acquisition costs and impairment charges, as noted in the following tables. Refer to "Non-GAAP Measures" herein for further discussion on the Non-GAAP measures.
+
+Second Quarter Fiscal2020 Items
+
+                                           Three Months Ended December 28, 2019                                                                                                                                    
+                                           GAAP Basis                                             ERP Implementation                 Organization-related & Integration costs      Non-GAAP Basis                  
+                                           (As Reported)                                                                                                                           (Excluding Items)               
+ ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+                                           (millions, except per share data)                                                                                                                                       
+  Coach                                    877.3                                                  —                                  —                                             877.3                           
+  Kate Spade                               262.4                                                  —                                  —                                             262.4                           
+  Stuart Weitzman                          70.0                                                   —                                  (1.5                                          71.5                            
+  Gross profit (1)                         $                                         1,209.7      $                           —      $                                             $                      1,211.2  
+  Coach                                    494.5                                                  —                                  (0.4                                          494.9                           
+  Kate Spade                               194.5                                                  —                                  0.7                                           193.8                           
+  Stuart Weitzman                          60.4                                                   —                                  0.3                                           60.1                            
+  Corporate                                97.2                                                   6.3                                1.8                                           89.1                            
+  SG&A expenses                            $                                           846.6      $                         6.3      $                                             $                        837.9  
+  Coach                                    382.8                                                  —                                  0.4                                           382.4                           
+  Kate Spade                               67.9                                                   —                                  (0.7                                          68.6                            
+  Stuart Weitzman                          9.6                                                    —                                  (1.8                                          11.4                            
+  Corporate                                (97.2                                                  (6.3                               (1.8                                          (89.1                           
+  Operating income (loss)                  $                                           363.1      $                        (6.3      $                                             $                        373.3  
+  Provision for income taxes               56.2                                                   (1.5                               (4.0                                          61.7                            
+  Net income                               $                                           298.8      $                        (4.8      $                                             $                        303.5  
+  Net income per diluted common share      $                                            1.08      $                       (0.02      $                                             $                         1.10  
+
+(1) Adjustments within Gross profit are recorded within Cost of sales.
+
+In the second quarter of fiscal2020 the Company incurred charges as follows:
+
+  ERP Implementation - Total charges represent technology implementation costs. Refer to the "Executive Overview" herein for further information.  
+
+  Organization-related and Integration costs - Total charges represent integration costs related to inventory and professional fees. Refer to the "Executive Overview" herein and Note 5, "Integrat...  
+
+These actions taken together increased the Company's SG&A expenses by$8.7 million, Cost of sales by$1.5 million and reduced Provision for income taxes by$5.5 million, negatively impacting Net income by$4.7 million or$0.02 per diluted share.
+
+Second Quarter Fiscal2019 Items
+
+                                           Three Months Ended December 29, 2018                                                                                                                     
+                                           GAAP Basis                                             ERP Implementation      Integration & Acquisition                 Non-GAAP Basis                  
+                                           (As Reported)                                                                                                            (Excluding Items)               
+ ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+                                           (millions, except per share data)                                                                                                                        
+  Cost of sales                                                                                                                                                                                     
+  Coach                                    860.1                                                  —                       —                                         860.1                           
+  Kate Spade                               272.4                                                  —                       (2.5                                      274.9                           
+  Stuart Weitzman                          71.0                                                   —                       (1.0                                      72.0                            
+  Gross profit (1)                         $                                         1,203.5      $                       $                               (3.5      $                      1,207.0  
+  SG&A expenses                                                                                                                                                                                     
+  Coach                                    485.7                                                  —                       —                                         485.7                           
+  Kate Spade                               184.1                                                  —                       3.7                                       180.4                           
+  Stuart Weitzman                          61.1                                                   —                       0.6                                       60.5                            
+  Corporate                                96.1                                                   6.4                     7.4                                       82.3                            
+  SG&A expenses                            $                                           827.0      $                       $                               11.7      $                        808.9  
+  Operating income (loss)                                                                                                                                                                           
+  Coach                                    374.4                                                  —                       —                                         374.4                           
+  Kate Spade                               88.3                                                   —                       (6.2                                      94.5                            
+  Stuart Weitzman                          9.9                                                    —                       (1.6                                      11.5                            
+  Corporate                                (96.1                                                  (6.4                    (7.4                                      (82.3                           
+  Operating income (loss)                  $                                           376.5      $                       $                              (15.2      $                        398.1  
+  Provision for income taxes               112.7                                                  (1.6                    1.1                                       79.1                            
+  Net income                               $                                           254.8      $                       $                              (16.3      $                        310.0  
+  Net income per diluted common share      $                                            0.88      $                       $                              (0.06      $                         1.07  
+
+(1) Adjustments within Gross profit are recorded within Cost of sales.
+
+In the second quarter of fiscal2019, the Company incurred the following:
+
+  ERP Implementation - Total charges represent technology implementation costs. Refer to the "Executive Overview" herein for further information.  
+
+  Integration & Acquisition - Total charges represent integration and acquisition costs related to organizational costs as a result of integration, professional fees and limited life purchase acc...  
+
+Refer to the "Executive Overview" herein and Note 5, "Integration," for more information.
+
+  Impact of Tax Legislation - Total charges primarily relate to the impact of the transition tax.  
+
+These actions taken together increased the Company's Provision for income taxes by$33.6 million, SG&A expenses by$18.1 million and Cost of sales by$3.5 million, negatively impacting Net income by$55.2 million or$0.19 per diluted share.
+
+Tapestry, Inc. Summary - Second Quarter of Fiscal2020
+
+Currency Fluctuation Effects
+
+The change in net sales and gross margin for the second quarter of fiscal2020 compared to the second quarter of fiscal2019 has been presented both including and excluding currency fluctuation effects.
+
+Net Sales
+
+Net sales in the second quarter of fiscal2020 increased0.8% or$15.2 million to$1.82 billion. Excluding the effects of foreign currency, net sales increased by0.9% or$15.8 million. Excluding the effects of foreign currency, the net sales increase was driven by Coach and Kate Spade, partially offset by a decrease in Stuart Weitzman.
+
+Gross Profit
+
+Gross profit increased0.5% or$6.2 million to$1.21 billion in the second quarter of fiscal2020 from$1.20 billion in the second quarter of fiscal2019. Gross margin for the second quarter of fiscal2020 was66.6% as compared to66.8% in the second quarter of fiscal2019. Excluding non-GAAP charges of$1.5 million and$3.5 million in the second quarter of fiscal2020 and fiscal2019, respectively, as discussed in the "GAAP to non-GAAP Reconciliation" herein, gross profit increased0.4% or$4.2 million to$1.21
+billion in the second quarter of fiscal2020, and gross margin decreased30 basis points to66.7% compared to67.0% in the second quarter of fiscal2019. This increase in gross profit was driven by an increase in Coach of$17.2 million, partially offset by a decrease in Kate Spade of$12.5 million and in Stuart Weitzman of$0.5 million.
+
+Selling, General and Administrative Expenses
+
+The Company includes inbound product-related transportation costs from our service providers within Cost of sales. The Company, similar to some companies, includes certain transportation-related costs due to our distribution network in SG&A expenses rather than in Cost of sales; for this reason, our gross margins may not be comparable to that of entities that include all costs related to their distribution network in Cost of sales.
+
+SG&A expenses increased2.4% or$19.6 million to$846.6 million in the second quarter of fiscal2020 as compared to$827.0 million in the second quarter of fiscal2019. As a percentage of net sales, SG&A expenses increased to46.6% during the second quarter of fiscal2020 as compared to45.9% during the second quarter of fiscal2019. Excluding non-GAAP charges of$8.7 million and$18.1 million in the second quarter of fiscal2020 and fiscal2019, respectively, SG&A expenses increased3.6% or$29.0 million 
+to$837.9 million from the second quarter of fiscal2019; and SG&A expenses as a percentage of net sales increased to46.1% in the second quarter of fiscal2020 from44.9% in the second quarter of fiscal2019. This increase was primarily due to increases in Kate Spade of$13.4 million, Coach of$9.2 million and Corporate expenses of$6.8 million, partially offset by a decrease in Stuart Weitzman of$0.4 million.
+
+Corporate expenses, which are included within SG&A expenses discussed above but are not directly attributable to a reportable segment, increased1.2% or$1.1 million to$97.2 million in the second quarter of fiscal2020 as compared to$96.1 million in the second quarter of fiscal2019. Excluding non-GAAP charges of$8.1 million and$13.8 million in the second quarter of fiscal2020 and fiscal2019, respectively, SG&A expenses increased8.3% or$6.8 million to$89.1 million in the second quarter of fiscal2020
+as compared to$82.3 million in the second quarter of fiscal2019. This increase in SG&A expenses was primarily driven by higher compensation costs.
+
+Operating Income
+
+Operating income decreased3.6% or$13.4 million to$363.1 million in the second quarter of fiscal2020 as compared to$376.5 million in the second quarter of fiscal2019. Operating margin was20.0% in the second quarter of fiscal2020 as compared to20.9% in the second quarter of fiscal2019. Excluding non-GAAP charges of$10.2 million and$21.6 million in the second quarter of fiscal2020 and fiscal2019, respectively, operating income decreased6.2% or$24.8 million to$373.3 million from$398.1 million in the
+second quarter of fiscal2019; and operating margin decreased150 basis points to20.6% in the second quarter of fiscal2020 as compared to22.1% in the second quarter of fiscal2019. The decrease in operating income was primarily driven by decreases within Kate Spade of$25.9 million, an increase in Corporate expenses of$6.8 million and a decrease in Stuart Weitzman of$0.1 million, partially offset by increases within Coach of$8.0 million.
+
+Interest Expense, net
+
+Interest expense, net increased5.8% or$0.8 million to$14.0 million in the second quarter of fiscal2020 as compared to$13.2 million in the second quarter of fiscal2019.
+
+Other Expense (Income)
+
+Other income increased$1.7 million to$5.9 million in the second quarter of fiscal2020 as compared to income of$4.2 million in the second quarter of fiscal2019. The increase in other income is related to an increase in foreign exchange gains.
+
+Provision for Income Taxes
+
+The effective tax rate was15.8% in the second quarter of fiscal2020 as compared to30.7% in the second quarter of fiscal2019. Excluding non-GAAP charges, the effective tax rate was16.9% in the second quarter of2020 as compared to20.3% in the second quarter of fiscal2019. The decrease in our effective tax rate was primarily attributable to the geographic mix of earnings.
+
+Net Income
+
+Net income increased17.2% or$44.0 million to$298.8 million in the second quarter of fiscal2020 as compared to$254.8 million in the second quarter of fiscal2019. Excluding non-GAAP charges, net income decreased2.1% or$6.5 million to$303.5 million in the second quarter of fiscal2020 as compared to$310.0 million in the second quarter of fiscal2019. This decrease was primarily due to lower operating income, partially offset by reduced provision for income taxes.
+
+Net Income per Share
+
+Net income per diluted share increased to$1.08 in the second quarter of fiscal2020 as compared to$0.88 in the second quarter of fiscal2019. Excluding non-GAAP charges, net income per diluted share increased3.0% or$0.03 to$1.10 in the second quarter of fiscal2020 from$1.07 in the second quarter of fiscal2019. This increase was primarily due to lower shares outstanding as a result of to share repurchases.
+
+Segment Performance - Second Quarter of Fiscal2020
+
+The following tables summarize results of operations by reportable segment for the second quarter of fiscal2020 compared to the second quarter of fiscal2019. All percentages shown in the tables below and the discussion that follows have been calculated using unrounded numbers.
+
+Coach
+
+                               Three Months Ended                                                                              
+                               December 28, 2019                      December 29, 2018                     Variance           
+ ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+                               (millions)                                                                                      
+                               Amount                       % of      Amount                      % of      Amount          %  
+  Net sales                    $                           100.0      $                          100.0      $             1.7  
+  Gross profit                 877.3                        69.1      860.1                       68.9      17.2          2.0  
+  SG&A expenses                494.5                        38.9      485.7                       38.9      8.8           1.8  
+  Operating income (loss)      382.8                        30.1      374.4                       30.0      8.4           2.3  
+
+Coach Net Sales increased1.7% or$21.3 million to$1.27 billion in the second quarter of fiscal2020. Coach net sales for the second quarter of fiscal2020 was not materially impacted by foreign currency. Comparable store sales increased by $17.4 million or approximately 2% as compared to the second quarter of fiscal2019, including a benefit of approximately 2% driven by an increase in global e-commerce. The increase in comparable store sales was primarily led by increases in North America, mainland
+China and Europe. This was partially offset by a decrease in Hong Kong SAR, China as comparable store sales were negatively impacted by approximately 100 basis points due to protests in the region. Non-comparable store sales were $2.8 million higher than the second quarter of fiscal2019 primarily due to increases in North America.
+
+Coach Gross Profit increased2.0% or$17.2 million to$877.3 million in the second quarter of fiscal2020 from$860.1 million in the second quarter of fiscal2019. Gross margin increased20 basis points to69.1% in the second quarter of fiscal2020 from68.9% in the second quarter of fiscal2019. Excluding the impact of foreign currency in both periods, gross margin increased 50 basis points. The increase was primarily due to the impact of improved product costing and lower promotional activity, partially 
+offset by unfavorable geographic mix.
+
+Coach SG&A Expenses increased1.8% or $8.8 million to $494.5 million in the second quarter of fiscal2020 as compared to$485.7 million in the second quarter of fiscal2019. SG&A expenses as a percentage of net sales remained flat at38.9% during the second quarter of fiscal2020 and fiscal2019. Excluding non-GAAP adjustments of$0.4 million in the second quarter of fiscal2020, SG&A expenses increased1.9% or$9.2 million to$494.9 million during the second quarter of fiscal2020; and SG&A expenses as a 
+percentage of net sales increased to39.0% in the second quarter of fiscal2020 from38.9% in the second quarter of fiscal2019. The increase of$9.2 million was driven by higher variable selling costs due to sales growth as well as a shift in marketing expenses from the first quarter.
+
+Coach Operating Income increased2.3% or$8.4 million to$382.8 million in the second quarter of fiscal2020, resulting in an operating margin of30.1%, as compared to $374.4 million and30.0%, respectively, in the second quarter of fiscal2019. Excluding non-GAAP charges, Coach operating income increased2.1% or$8.0 million to$382.4 million from$374.4 million in the second quarter of fiscal2019; and operating margin was30.1% in the second quarter of fiscal2020 as compared to30.0% in the second quarter 
+of fiscal2019. The increase in operating income was primarily due to higher gross profit, partially offset by higher SG&A expenses.
+
+Kate Spade
+
+                               Three Months Ended                                                                                
+                               December 28, 2019                      December 29, 2018                     Variance             
+ ─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+                               (millions)                                                                                        
+                               Amount                       % of      Amount                      % of      Amount            %  
+  Net sales                    $                           100.0      $                          100.0      $               0.5  
+  Gross profit                 262.4                        61.0      272.4                       63.6      (10.0          (3.7  
+  SG&A expenses                194.5                        45.2      184.1                       43.0      10.4            5.7  
+  Operating income (loss)      67.9                         15.8      88.3                        20.6      (20.4         (23.1  
+
+Kate Spade Net Sales increased0.5% or$2.0 million to$430.4 million in the second quarter of fiscal2020. Excluding the favorable impact of foreign currency, net sales increased0.3% or$1.4 million. The increase is primarily due to an increase in non-comparable sales of $10.4 million mainly due to new store openings. Wholesale sales also increased $6.5 million driven by disposition sales in a plan to work through excess inventory. This was partially offset by a decrease in comparable store sales of
+$13.3 million or approximately 4% as compared to the second quarter of fiscal 2019, including a benefit of approximately 3% in global e-commerce. The decline in comparable store sales is primarily attributable to lower traffic in retail stores.
+
+Kate Spade Gross Profit decreased3.7% or$10.0 million to$262.4 million in the second quarter of fiscal2020 from$272.4 million in the second quarter of fiscal2019. Gross margin decreased260 basis points to61.0% in the second quarter of fiscal2020 from63.6% in the second quarter of fiscal2019. Excluding non-GAAP adjustments of$2.5 million in the second quarter of fiscal2019, gross profit decreased4.6% or$12.5 million to$262.4 million from$274.9 million in the second quarter of fiscal2019, and 
+gross margin decreased320 basis points to61.0% from64.2% in the second quarter of fiscal2019. The decrease in gross margin is primarily due to promotional activity and channel mix.
+
+Kate Spade SG&A Expenses increased5.7% or$10.4 million to$194.5 million in the second quarter of fiscal2020 as compared to$184.1 million in the second quarter of fiscal2019. As a percentage of net sales, SG&A expenses increased to45.2% during the second quarter of fiscal2020 as compared to43.0% during the second quarter of fiscal2019. Excluding non-GAAP charges of$0.7 million and$3.7 million in the second quarter of fiscal2020 and fiscal2019, respectively, SG&A expenses increased7.4% or$13.4 
+million to$193.8 million during the second quarter of fiscal2020; and SG&A expenses as a percentage of net sales increased to45.0% in the second quarter of fiscal2020 from42.1% in the second quarter of fiscal2019. The increase of$13.4 million was due to new store openings and increased marketing expenses, partially due to the timing of marketing in fiscal 2019.
+
+Kate Spade Operating Income decreased23.1% or$20.4 million to operating income of$67.9 million in the second quarter of fiscal2020, resulting in an operating margin of15.8%, as compared to an operating income of$88.3 million and operating margin of20.6% in the second quarter of fiscal2019. Excluding non-GAAP charges, Kate Spade operating income decreased27.5% or$25.9 million to$68.6 million from$94.5 million in the second quarter of fiscal2019; and operating margin was15.9% in the second quarter
+of fiscal2020 as compared to22.1% in the second quarter of fiscal2019. The decrease in operating income was due to higher SG&A expenses and lower gross profit.
+
+Stuart Weitzman
+
+                               Three Months Ended                                                                               
+                               December 28, 2019                      December 29, 2018                     Variance            
+ ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+                               (millions)                                                                                       
+                               Amount                       % of      Amount                      % of      Amount           %  
+  Net sales                    $                           100.0      $                          100.0      $             (6.6  
+  Gross profit                 70.0                         60.5      71.0                        57.3      (1.0          (1.4  
+  SG&A expenses                60.4                         52.3      61.1                        49.3      (0.7          (0.9  
+  Operating income (loss)      9.6                           8.2      9.9                          8.0      (0.3          (3.9  
+
+Stuart Weitzman Net Sales decreased6.6% or$8.1 million to$115.7 million in the second quarter of fiscal2020. Excluding the unfavorable impact of foreign currency, net sales decreased5.6% or$7.0 million. This decrease was primarily due to a decline in wholesale sales of $13.4 million primarily due a decline in demand. This is partially offset by an increase of $7.0 million in the retail business, primarily attributable to new store openings and the direct ownership of the business in Australia.
+
+Stuart Weitzman Gross Profit decreased1.4% or$1.0 million to$70.0 million during the second quarter of fiscal2020 from$71.0 million in the second quarter of fiscal2019. Gross margin increased320 basis points to60.5% in the second quarter of fiscal2020 from57.3% in the second quarter of fiscal2019. Excluding non-GAAP charges of$1.5 million and$1.0 million in the second quarter of fiscal2020 and fiscal2019, respectively, Stuart Weitzman gross profit decreased0.5% or$0.5 million to$71.5 million 
+from$72.0 million in the second quarter of fiscal2019, and gross margin increased370 basis points to61.8% from58.1% in the second quarter of fiscal2019. Excluding the impact of foreign currency, gross margin increased 230 basis points primarily due to favorable channel mix.
+
+Stuart Weitzman SG&A Expenses decreased0.9% or$0.7 million to$60.4 million in the second quarter of fiscal2020 as compared to$61.1 million in the second quarter of fiscal2019. As a percentage of net sales, SG&A expenses increased to52.3% during the second quarter of fiscal2020 as compared to49.3% during the second quarter of fiscal2019. Excluding non-GAAP charges of$0.3 million and$0.6 million in the second quarter of fiscal2020 and fiscal2019, respectively, SG&A expenses decreased0.5% or$0.4 
+million to$60.1 million during the second quarter of fiscal2020 from$60.5 million during the second quarter of fiscal2019; and SG&A expenses as a percentage of net sales increased to52.0% in the second quarter of fiscal2020 from48.8% in the second quarter of fiscal2019.
+
+Stuart Weitzman Operating Income decreased3.9% or$0.3 million to$9.6 million in the second quarter of fiscal2020, resulting in an operating margin of8.2%, as compared to an operating income of$9.9 million and operating margin of8.0% in the second quarter of fiscal2019. Excluding non-GAAP charges, Stuart Weitzman operating income decreased0.5% or$0.1 million to$11.4 million from operating income of$11.5 million in the second quarter of fiscal2019; and operating margin was9.8% in the second 
+quarter of fiscal2020 as compared to9.2% in the second quarter of fiscal2019. This decrease was primarily due to lower gross profit, partially offset by lower SG&A expenses.
+
+FIRST SIX MONTHS FISCAL2020 COMPARED TO FIRST SIX MONTHS FISCAL2019
+
+The following table summarizes results of operations for the first six months of fiscal2020 compared to the first six months of fiscal2019. All percentages shown in the table below and the discussion that follows have been calculated using unrounded numbers.
+
+                                  Six Months Ended                                                                                                              
+                                  December 28, 2019                                                  December 29, 2018                     Variance             
+                                  Amount                                                   % of      Amount                      % of      Amount            %  
+                                                                                      net sales                             net sales                           
+ ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+                                  (millions, except per share data)                                                                                             
+  Net sales                       $                                      3,173.9          100.0      $                          100.0      $              (0.3  
+  Gross profit                                                           2,124.2           66.9                                  67.2      (14.4          (0.7  
+  SG&A expenses                                                          1,709.5           53.9                                  50.3      109.7           6.9  
+  Operating income                414.7                                                    13.1      538.8                       16.9      (124.1        (23.0  
+  Interest expense, net           26.3                                                      0.8      26.3                         0.8      —               0.1  
+  Other expense (income)          6.8                                                       0.2      0.4                           NM      6.4              NM  
+  Provision for income taxes      62.8                                                      2.0      135.0                        4.2      (72.2         (53.5  
+  Net income                      318.8                                                    10.0      377.1                       11.9      (58.3         (15.5  
+  Net income per share:                                                                                                                                         
+  Basic                           $                                         1.14                     $                                     $             (12.9  
+  Diluted                         $                                         1.13                     $                                     $             (12.6  
+
+NM - Not meaningful
+
+GAAP to Non-GAAP Reconciliation
+
+The Company’s reported results are presented in accordance with GAAP. The reported results during the first six months of fiscal2020 and fiscal2019 reflect the impact of the costs attributable to the ERP system implementation efforts, organization-related, integration and acquisition costs, impairment charges and the impact of the new tax legislation, as noted in the following tables. Refer to "Non-GAAP Measures" herein for further discussion on the Non-GAAP Measures.
+
+First Six Months of Fiscal2020 Items
+
+                                           Six Months Ended December 28, 2019                                                                                                                                         
+                                           GAAP Basis                                           ERP Implementation      Organization-related & Integration costs      Impairment      Non-GAAP Basis                  
+                                           (As Reported)                                                                                                                              (Excluding Items)               
+ ──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+                                           (millions, except per share data)                                                                                                                                          
+  Cost of sales                                                                                                                                                                                                       
+  Coach                                                                            1,554.9      —                       (0.1                                          —                                      1,555.0  
+  Kate Spade                               453.9                                                —                       (1.2                                          —               455.1                           
+  Stuart Weitzman                          115.4                                                —                       (4.3                                          —               119.7                           
+  Gross profit (1)                         $                                       2,124.2      $                       $                                             $               $                      2,129.8  
+  SG&A expenses                                                                                                                                                                                                       
+  Coach                                    972.6                                                —                       (0.1                                          41.5            931.2                           
+  Kate Spade                               393.2                                                —                       0.8                                           25.2            367.2                           
+  Stuart Weitzman                          125.1                                                —                       (2.1                                          8.9             118.3                           
+  Corporate                                218.6                                                20.8                    24.5                                          —               173.3                           
+  SG&A expenses                            $                                       1,709.5      $                       $                                             $               $                      1,590.0  
+  Operating income (loss)                                                                                                                                                                                             
+  Coach                                    582.3                                                —                       —                                             (41.5           623.8                           
+  Kate Spade                               60.7                                                 —                       (2.0                                          (25.2           87.9                            
+  Stuart Weitzman                          (9.7                                                 —                       (2.2                                          (8.9            1.4                             
+  Corporate                                (218.6                                               (20.8                   (24.5                                         —               (173.3                          
+  Operating income (loss)                  $                                         414.7      $                       $                                             $               $                        539.8  
+  Provision for income taxes               62.8                                                 (5.0                    (9.4                                          (12.1           89.3                            
+  Net income                               $                                         318.8      $                       $                                             $               $                        417.4  
+  Net income per diluted common share      $                                          1.13      $                       $                                             $               $                         1.48  
+
+(1) Adjustments within Gross profit are recorded within Cost of sales.
+
+In the first six months of fiscal2020 the Company incurred charges as follows:
+
+  ERP Implementation - Total charges represent technology implementation costs. Refer to the "Executive Overview" herein for further information.  
+
+  Organization-related and Integration costs - Total charges represent organization-related costs as a result of the departure of the Company's CEO in September 2019 and integration costs related...  
+ ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+  Impairment - Total charges are primarily due to impairment charges on property and equipment assets and lease ROU assets. Refer to the Note 13, "Fair Value Measurements," for further information.  
+
+These actions taken together increased the Company's Cost of sales by$5.6 million, increased SG&A expenses by$119.5 million and decreased Provision for income taxes by$26.5 million, negatively impacting Net income by$98.6 million or$0.35 per diluted share.
+
+First Six Months of Fiscal2019 Items
+
+                                           Six Months Ended December 29, 2018                                                                                                                     
+                                           GAAP Basis                                           ERP Implementation      Integration & Acquisition                 Non-GAAP Basis                  
+                                           (As Reported)                                                                                                          (Excluding Items)               
+ ──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+                                           (millions, except per share data)                                                                                                                      
+  Cost of sales                                                                                                                                                                                   
+  Coach                                                                            1,539.8      —                       (2.0                                                             1,541.8  
+  Kate Spade                               480.1                                                —                       (1.1                                      481.2                           
+  Stuart Weitzman                          118.7                                                —                       (1.0                                      119.7                           
+  Gross profit (1)                         $                                       2,138.6      $                       $                               (4.1      $                      2,142.7  
+  SG&A expenses                                                                                                                                                                                   
+  Coach                                    930.3                                                —                       —                                         930.3                           
+  Kate Spade                               347.1                                                —                       7.1                                       340.0                           
+  Stuart Weitzman                          126.5                                                —                       12.1                                      114.4                           
+  Corporate                                195.9                                                10.4                    11.4                                      174.1                           
+  SG&A expenses                            $                                       1,599.8      $                       $                               30.6      $                      1,558.8  
+  Operating income (loss)                                                                                                                                                                         
+  Coach                                    609.5                                                —                       (2.0                                      611.5                           
+  Kate Spade                               133.0                                                —                       (8.2                                      141.2                           
+  Stuart Weitzman                          (7.8                                                 —                       (13.1                                     5.3                             
+  Corporate                                (195.9                                               (10.4                   (11.4                                     (174.1                          
+  Operating income (loss)                  $                                         538.8      $                       $                              (34.7      $                        583.9  
+  Provision for income taxes               135.0                                                (2.6                    (2.1                                      105.6                           
+  Net income                               $                                         377.1      $                       $                              (32.6      $                        451.6  
+  Net income per diluted common share      $                                          1.29      $                       $                              (0.11      $                         1.55  
+
+(1) Adjustments within Gross profit are recorded within Cost of sales.
+
+In the first six months of fiscal2019, the Company incurred charges as follows:
+
+  ERP Implementation - Total charges primarily relate to technology implementation costs. Refer to the "Executive Overview" herein for further information.  
+
+  Integration & Acquisitions Costs - Total charges represent integration and acquisition costs related to contract termination charges, organizational costs as a result of integration, profession...  
+
+  Impact of Tax Legislation - Total charges primarily relate to the net impact of the transition tax and re-measurement of deferred tax balances.  
+
+These actions taken together increased the Company's SG&A expenses by$41.0 million, Provision for income taxes by$29.4 million and Cost of Sales by$4.1 million, negatively impacting Net income by$74.5 million or$0.26 per diluted share.
+
+Tapestry, Inc. Summary - First Six Months of Fiscal2020
+
+Currency Fluctuation Effects
+
+The change in net sales and gross margin for the first six months of fiscal2020 compared to fiscal2019 has been presented both including and excluding currency fluctuation effects.
+
+Net Sales
+
+Net sales in the first six months of fiscal2020 decreased0.3% or$8.1 million to$3.17 billion. Excluding the effects of foreign currency, net sales decreased by0.1% or$4.0 million. Excluding the effects of foreign currency, the net sales decrease was driven by Kate Spade and Stuart Weitzman, partially offset by an increase in Coach.
+
+Gross Profit
+
+Gross profit decreased0.7% or$14.4 million to$2.12 billion during the first six months of fiscal2020 from$2.14 billion in the first six months of fiscal2019. Gross margin for the first six months of fiscal2020 was66.9% as compared to67.2% in the first six months of fiscal2019. Excluding non-GAAP charges of$5.6 million and$4.1 million in the first six months of fiscal2020 and2019, respectively, as discussed in the "GAAP to Non-GAAP Reconciliation" herein, gross profit decreased0.6% or$12.9 
+million to$2.13 billion in the first six months of fiscal2020, and gross margin decreased20 basis points to67.1% from67.3% in the first six months of fiscal2019. This decrease in gross profit is primarily driven by a decrease in Kate Spade of$26.1 million, partially offset by an increase of$13.2 million in Coach.
+
+Selling, General and Administrative Expenses
+
+SG&A expenses increased6.9% or$109.7 million to$1.71 billion in the first six months of fiscal2020 as compared to$1.60 billion in the first six months of fiscal2019. As a percentage of net sales, SG&A expenses increased to53.9% during the first six months of fiscal2020 as compared to50.3% during the first six months of fiscal2019. Excluding non-GAAP charges of$119.5 million and$41.0 million in the first six months of fiscal2020 and2019, respectively, SG&A expenses increased2.0% or$31.2 million 
+from the first six months of fiscal2019. This increase is primarily due to increases in Kate Spade of$27.2 million, Stuart Weitzman of$3.9 million and Coach of$0.9 million, partially offset by a decrease in Corporate of$0.8 million. Excluding non-GAAP charges, SG&A expenses as a percentage of net sales increased to50.1% in the first six months of fiscal2020 from49.0% in the first six months of fiscal2019.
+
+Corporate expenses, which are included within SG&A expenses discussed above but are not directly attributable to a reportable segment, increased11.6% or$22.7 million to$218.6 million in the first six months of fiscal2020 as compared to$195.9 million in the first six months of fiscal2019. Excluding non-GAAP charges of$45.3 million and$21.8 million in the first six months of fiscal2020 and2019, respectively, SG&A expenses decreased by0.5% or$0.8 million in the first six months of fiscal2020 as 
+compared to the first six months of fiscal2019.
+
+Operating Income
+
+Operating income decreased23.0% or$124.1 million to$414.7 million in the first six months of fiscal2020 as compared to$538.8 million in the first six months of fiscal2019. Operating margin was13.1% in the first six months of fiscal2020 as compared to16.9% in the first six months of fiscal2019. Excluding non-GAAP charges of$125.1 million and$45.1 million in the first six months of fiscal2020 and fiscal2019, respectively, operating income decreased7.5% or$44.1 million to$539.8 million from$583.9 
+million in the first six months of fiscal2019; and operating margin was17.0% in the first six months of fiscal2020 as compared to18.3% in the first six months of fiscal2019. The decrease in operating income is driven by a decrease in Kate Spade operating income of$53.3 million and Stuart Weitzman of$3.9 million, offset by growth in Coach of$12.3 million and a decrease in Corporate expenses of$0.8 million.
+
+Interest Expense, net
+
+Interest expense, net remained flat at$26.3 million in the first six months of fiscal2020 as compared to the first six months of fiscal2019.
+
+Provision for Income Taxes
+
+The effective tax rate was16.5% in the first six months of fiscal2020 as compared to26.4% in the first six months of fiscal2019. Excluding non-GAAP charges, the effective tax rate was17.6% in the first six months of fiscal2020 as compared to19.0% in the first six months of fiscal2019. The decrease in the effective tax rate was primarily attributable to the geographic mix of earnings, partially offset by excess tax shortfall related to the vesting of equity compensation awards during the period.
+
+Net Income
+
+Net income decreased15.5% or$58.3 million to$318.8 million in the first six months of fiscal2020 as compared to$377.1 million in the first six months of fiscal2019. Excluding non-GAAP charges, net income decreased7.6% or$34.2 million to$417.4 million in the first six months of fiscal2020 as compared to$451.6 million in the first six months of fiscal2019. This decrease was primarily due to lower operating income, partially offset by reduced provision for income taxes.
+
+Net Income per Share
+
+Net income per diluted share decreased to$1.13 in the first six months of fiscal2020 as compared to$1.29 in the first six months of fiscal2019. Excluding non-GAAP charges, net income per diluted share decreased4.4% to$1.48 in the first six months of fiscal2020 from$1.55 in the first six months of fiscal2019, primarily due to lower net income.
+
+Segment Performance - First Six Months of Fiscal2020
+
+The following tables summarize results of operations by reportable segment for the first six months of fiscal2020 compared to the first six months of fiscal2019. All percentages shown in the table below and the discussion that follows have been calculated using unrounded numbers.
+
+Coach
+
+                               Six Months Ended                                                                                             
+                               December 28, 2019                                  December 29, 2018                     Variance            
+ ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+                               (millions)                                                                                                   
+                               Amount                                   % of      Amount                      % of      Amount           %  
+  Net sales                    $                      2,235.8          100.0      $                          100.0      $              1.2  
+  Gross profit                                        1,554.9           69.5                                  69.7      15.1           1.0  
+  SG&A expenses                972.6                                    43.5      930.3                       42.1      42.3           4.5  
+  Operating income (loss)      582.3                                    26.0      609.5                       27.6      (27.2         (4.5  
+
+Coach Net Sales increased1.2% or$26.5 million to$2.24 billion in the first six months of fiscal2020. Excluding the unfavorable impact of foreign currency, net sales increased1.3% or$29.4 million. Comparable store sales for Coach increased $27.3 million or approximately 1% as compared to the first six months of fiscal2019, including a benefit of approximately 2% driven by an increase in global e-commerce. The increase in comparable store sales is primarily due to increases in North America, Other
+Asia, including Japan, mainland China and Europe driven by conversion and traffic. This was partially offset by a decrease in Hong Kong SAR, China as comparable store sales were negatively impacted by approximately 100 basis points due to protests in the region. Non-comparable store sales increased by $6.7 million, primarily driven North America. These increases were partially offset by a decline of $4.1 million in wholesale sales.
+
+Coach Gross Profit increased1.0% or$15.1 million to$1.55 billion in the first six months of fiscal2020 from$1.54 billion in the first six months of fiscal2019. Gross margin decreased20 basis points to69.5% in the first six months of fiscal2020 from69.7% in the first six months of fiscal2019. Excluding non-GAAP adjustments of$0.1 million in the first six months of fiscal2020 and$2.0 million in the first six months of fiscal2019, Coach gross profit increased0.9% or$13.2 million to$1.56 billion. 
+Gross margin decreased20 basis points to69.6% in the first six months of fiscal2020 from69.8% in the first six months of fiscal2019 on a non-GAAP basis. Excluding the impact of foreign currency in both periods, gross margin increased 10 basis points.
+
+Coach SG&A Expenses increased4.5% or$42.3 million to$972.6 million in the first six months of fiscal2020 as compared to$930.3 million in the first six months of fiscal2019. As a percentage of net sales, SG&A expenses increased to43.5% during the first six months of fiscal2020 as compared to42.1% during the first six months of fiscal2019. Excluding non-GAAP charges of$41.4 million in the first six months of fiscal2020, SG&A expenses increased0.1% or$0.9 million to$931.2 million in the first six 
+months of fiscal2020; and SG&A expenses as a percentage of net sales decreased to41.7% in the first six months of fiscal2020 from42.1% in the first six months of fiscal2019.
+
+Coach Operating Income decreased4.5% or$27.2 million to$582.3 million in the first six months of fiscal2020, resulting in an operating margin of26.0%, as compared to$609.5 million and27.6%, respectively, in the first six months of fiscal2019. Excluding non-GAAP charges, Coach operating income increased2.0% or$12.3 million to$623.8 million from$611.5 million in the first six months of fiscal2019; and operating margin was27.9% in the first six months of fiscal2020 as compared to27.7% in the first 
+six months of fiscal2019. The increase in operating income was due to an increase in gross profit, partially offset by higher SG&A expenses.
+
+Kate Spade
+
+                               Six Months Ended                                                                                 
+                               December 28, 2019                     December 29, 2018                     Variance             
+ ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+                               (millions)                                                                                       
+                               Amount                      % of      Amount                      % of      Amount            %  
+  Net sales                    $                          100.0      $                          100.0      $              (2.4  
+  Gross profit                 453.9                       61.7      480.1                       63.7      (26.2          (5.5  
+  SG&A expenses                393.2                       53.4      347.1                       46.0      46.1           13.3  
+  Operating income (loss)      60.7                         8.2      133.0                       17.7      (72.3         (54.4  
+
+Kate Spade Net Sales decreased2.4% or$17.9 million to$735.9 million in the first six months of fiscal2020. Excluding the favorable impact of foreign currency, net sales decreased2.5% or$19.0 million. Comparable store sales decreased $54.1 million or approximately 9% as compared to the first six months of fiscal 2019, including a benefit of approximately 1% driven by an increase in global e-commerce. The decrease is mainly attributed to a decline in traffic in North America. This was partially 
+offset by an increase in non-comparable store sales of $25.9 million primarily due to sales from new store openings. Additionally, there was a $10.9 million increase in wholesale sales driven by disposition sales in a plan to work through excess inventory.
+
+Kate Spade Gross Profitde creased5.5% or$26.2 million to$453.9 million in the first six months of fiscal2020 from$480.1 million in the first six months of fiscal2019. Gross margin decreased200 basis points to61.7% in the first six months of fiscal2020 from63.7% in the first six months of fiscal2019. Excluding non-GAAP charges of$1.2 million and$1.1 million in the first six months of fiscal2020 and of fiscal2019, respectively, Kate Spade gross profit decreased5.4% or$26.1 million to$455.1 million
+in the first six months of fiscal2020 from$481.2 million in the first six months of fiscal2019. Gross margin decreased200 basis points to61.8% from63.8% in the first six months of fiscal2019. The gross margin decrease of200 basis points was primarily due to channel mix and promotional activity.
+
+Kate Spade SG&A Expenses increased13.3% or$46.1 million to$393.2 million in the first six months of fiscal2020 from$347.1 million in the first six months of fiscal2019. As a percentage of net sales, SG&A expenses increased to53.4% during the first six months of fiscal2020 as compared to46.0% during the first six months of fiscal2019. Excluding non-GAAP charges of$26.0 million and$7.1 million in the first six months of fiscal2020 and2019, respectively, SG&A expenses increased8.0% or$27.2 million 
+to$367.2 million in the first six months of fiscal2020; and SG&A expenses as a percentage of net sales increased to49.9% in the first six months of fiscal2020 from45.1% in the first six months of fiscal2019. This increase was due to new store openings and increased marketing expenses, partially due to the timing of marketing in fiscal 2019.
+
+Kate Spade Operating Income decreased54.4% or$72.3 million to$60.7 million in the first six months of fiscal2020, resulting in an operating margin of8.2%, as compared to an operating income of$133.0 million and17.7%, respectively, in the first six months of fiscal2019. Excluding non-GAAP charges, Kate Spade operating income decreased37.8% or$53.3 million to$87.9 million from$141.2 million in the first six months of fiscal2019; and operating margin was11.9% in the first six months of fiscal2020 
+as compared to18.7% in the first six months of fiscal2019. The decrease in operating income was due to higher SG&A expenses and a decrease in gross profit.
+
+Stuart Weitzman
+
+                               Six Months Ended                                                                                 
+                               December 28, 2019                     December 29, 2018                     Variance             
+ ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+                               (millions)                                                                                       
+                               Amount                      % of      Amount                      % of      Amount            %  
+  Net sales                    $                          100.0      $                          100.0      $              (7.7  
+  Gross profit                 115.4                       57.1      118.7                       54.2      (3.3           (2.7  
+  SG&A expenses                125.1                       61.9      126.5                       57.8      (1.4           (1.1  
+  Operating income (loss)      (9.7                        (4.8      (7.8                        (3.6      (1.9          (24.5  
+
+Stuart Weitzman Net Sales decreased7.7% or$16.7 million to$202.2 million in the first six months of fiscal2020. Excluding the unfavorable impact of foreign currency, net sales decreased 6.6% or $14.5 million. This decrease was primarily due to lower sales in the wholesale business of $32.9 million. This decrease was partially offset by growth in the retail business of $19.0 million primarily attributable to new store openings and the direct ownership of the business in Australia.
+
+Stuart Weitzman Gross Profit decreased2.7% or$3.3 million to$115.4 million during the first six months of fiscal2020 from$118.7 million in the first six months of fiscal2019. Gross margin increased290 basis points to57.1% in the first six months of fiscal2020 from54.2% in the first six months of fiscal2019. Excluding non-GAAP charges of$4.3 million and$1.0 million in the first six months of fiscal2020 and fiscal2019, respectively, Stuart Weitzman gross profit remained flat at$119.7 million in 
+the first six months of fiscal2020, and gross margin increased460 basis points to59.2% from54.6% in the first six months of fiscal2020. Excluding the impact of foreign currency, gross margin increased 320 basis points primarily due to favorable channel mix.
+
+Stuart Weitzman SG&A Expenses decreased1.1% or$1.4 million to$125.1 million in the first six months of fiscal2020 as compared to$126.5 million in the first six months of fiscal2019. As a percentage of net sales, SG&A expenses increased to61.9% during the first six months of fiscal2020 as compared to57.8% during the first six months of fiscal2019. Excluding non-GAAP charges of$6.8 million and$12.1 million in the first six months of fiscal2020 and2019, respectively, SG&A expenses increased3.4% 
+or$3.9 million to$118.3 million in the first six months of fiscal2020; and SG&A expenses as a percentage of net sales increased to58.5% in the first six months of fiscal2020 from52.3% in the first six months of fiscal2019. This increase is primarily due to new store openings and the direct ownership of the businesses in Greater China and Australia, partially offset by lower wholesale selling costs, compensation, and marketing expenses.
+
+Stuart Weitzman Operating Loss increased24.5% or$1.9 million to an operating loss of$9.7 million in the first six months of fiscal2020, resulting in an operating margin of(4.8)%, as compared to an operating loss of$7.8 million and an operating margin of(3.6)% in first six months of fiscal2019. Excluding non-GAAP charges, Stuart Weitzman operating income decreased$3.9 million to an operating income of$1.4 million from operating income of$5.3 million in the first six months of fiscal2019; and 
+operating margin was0.7% in the first six months of fiscal2020 as compared to2.4% in the first six months of fiscal2019. The decrease was due to higher SG&A expenses.
+
+NON-GAAP MEASURES
+
+The Company’s reported results are presented in accordance with GAAP. The reported gross profit, SG&A expenses, operating income, provision for income taxes, net income and earnings per diluted share in the second quarter of fiscal 2020 and fiscal 2019 reflect certain items, including the impact of Tax Legislation in fiscal 2019, the impact of ERP Implementation, Organization-related and Integration and Acquisition costs in fiscal 2020 and fiscal 2019 and Impairment charges in fiscal 2020. As a 
+supplement to the Company's reported results, these metrics are also reported on a non-GAAP basis to exclude the impact of these items, along with a reconciliation to the most directly comparable GAAP measures.
+
+Comparable store sales reflects sales performance at stores that have been open for at least 12 months, and includes sales from the Internet. The Company excludes new stores, including newly acquired locations, from the comparable store base for the first twelve months of operation. The Company excludes closed stores from the calculation. Comparable store sales have not been adjusted for store expansions.
+
+These non-GAAP performance measures were used by management to conduct and evaluate its business during its regular review of operating results for the periods affected. Management and the Company’s Board utilized these non-GAAP measures to make decisions about the uses of Company resources, analyze performance between periods, develop internal projections and measure management performance. The Company’s internal management reporting excluded these items. In addition, the Human Resources 
+Committee of the Company’s Board uses these non-GAAP measures when setting and assessing achievement of incentive compensation goals.
+
+The Company operates on a global basis and reports financial results in U.S. dollars in accordance with GAAP. Fluctuations in foreign currency exchange rates can affect the amounts reported by the Company in U.S. dollars with respect to its foreign revenues and profit. Accordingly, certain material increases and decreases in operating results for the Company and its segments have been presented both including and excluding currency fluctuation effects. These effects occur from translating 
+foreign-denominated amounts into U.S. dollars and comparing to the same period in the prior fiscal year. Constant currency information compares results between periods as if exchange rates had remained constant period-over-period. The Company calculates constant currency revenue results by translating current period revenue in local currency using the prior year period's currency conversion rate.
+
+We believe these non-GAAP measures are useful to investors and others in evaluating the Company’s ongoing operating and financial results in a manner that is consistent with management's evaluation of business performance and understanding how such results compare with the Company’s historical performance. Additionally, we believe presenting certain increases and decreases in constant currency provides a framework for assessing the performance of the Company's business outside the United States 
+and helps investors and analysts understand the effect of significant year-over-year currency fluctuations. We believe excluding these items assists investors and others in developing expectations of future performance.
+
+By providing the non-GAAP measures, as a supplement to GAAP information, we believe we are enhancing investors’ understanding of our business and our results of operations. The non-GAAP financial measures are limited in their usefulness and should be considered in addition to, and not in lieu of, GAAP financial measures. Further, these non-GAAP measures may be unique to the Company, as they may be different from non-GAAP measures used by other companies.
+
+For a detailed discussion on these non-GAAP measures, see Item 2. "Management’s Discussion and Analysis of Financial Condition and Results of Operations."
+
+LIQUIDITY AND CAPITAL RESOURCES
+
+Cash Flows
+
+                                                                    Six Months Ended                                                                 
+                                                                    December 28,                     December 29,                 Change             
+                                                                    2019                             2018                                            
+ ─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+                                                                    (millions)                                                                       
+  Net cash provided by (used in) operating activities               $                     561.7      $                 599.3      $           (37.6  
+  Net cash used in investing activities                             (127.9                           (405.5                       277.6              
+  Net cash used in financing activities                             (506.5                           (188.1                       (318.4             
+  Effect of exchange rate changes on cash and cash equivalents      0.4                              (12.1                        12.5               
+  Net decrease in cash and cash equivalents                         $                     (72.3      $                  (6.4      $           (65.9  
+
+The Company’s cash and cash equivalents decreased by$72.3 million in the first six months of fiscal2020 as compared to a decrease of$6.4 million in the first six months of fiscal2019, as discussed below.
+
+Net cash provided by (used in) operating activities
+
+Net cash provided by operating activities decreased$37.6 million due to lower net income of$58.3 million and changes in operating assets and liabilities of$33.1 million, partially offset by higher non-cash adjustments of$53.8 million.
+
+The$33.1 million decrease in changes in operating asset and liability balances were primarily driven by the following:
+
+  Other liabilities were a use of cash of $12.6 million in the first six months of fiscal 2020 compared to a source of cash of $40.3 million in the first six months of fiscal 2019, primarily rela...  
+
+  Accounts receivable were a use of cash of $78.7 million in the first six months of fiscal 2020 compared to a use of cash of $34.2 million in the first six months of fiscal 2019, primarily drive...  
+
+  Accrued liabilities were a source of cash of $63.3 million in the first six months of fiscal 2020 as compared to a source of cash of $95.5 million in the first six months of fiscal 2019, primar...  
+
+  Inventories were a source of cash of $19.5 million in the first six months of fiscal 2020 compared to a use of cash of $42.1 million in the first six months of fiscal 2019, primarily driven by ...  
+
+  Other assets were a use of cash of $27.7 million in the first six months of fiscal 2020 compared to a use of cash of $55.9 million in the first six months of fiscal 2019, primarily related to t...  
+
+Net cash used in investing activities
+
+Net cash used in investing activities in the first six months of fiscal2020 was$127.9 million as compared to a use of cash of$405.5 million in the first six months of fiscal2019, resulting in a $277.6 million increase in net cash used in investing activities.
+
+The$127.9 million use of cash in the first six months of fiscal2020 is primarily due to capital expenditures of$122.2 million.
+
+The$405.5 million use of cash in the first six months of fiscal2019 is primarily due net cash used for purchases, maturities and sales of investments of$251.4 million in the first six months of fiscal2019 and capital expenditures of$116.4 million.
+
+Net cash used in financing activities
+
+Net cash used in financing activities was$506.5 million in the first six months of fiscal2020 as compared to a use of cash of$188.1 million in the first six months of fiscal2019, resulting in a net decrease in cash of$318.4 million.
+
+The$506.5 million of cash used in the first six months of fiscal2020 was primarily due to repurchases of common stock of300.0 million and dividend payments of$194.0 million.
+
+The$188.1 million use of cash in the first six months of fiscal2019 was primarily due to dividend payments of$194.9 million.
+
+Working Capital and Capital Expenditures
+
+As ofDecember 28, 2019, in addition to our cash flows from operations, our sources of liquidity and capital resources were comprised of the following:
+
+                                        Sources of Liquidity                   Outstanding Indebtedness      Total Available Liquidity (1)               
+ ─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+                                        (millions)                                                                                                       
+  Cash and cash equivalents (1)         $                           896.9      $                             $                                    896.9  
+  Short-term investments (1)            269.8                                  —                             269.8                                       
+  Revolving Credit Facility (2)         900.0                                  —                             900.0                                       
+  3.000% Senior Notes due 2022 (3)      400.0                                  400.0                         —                                           
+  4.250% Senior Notes due 2025 (3)      600.0                                  600.0                         —                                           
+  4.125% Senior Notes due 2027 (3)      600.0                                  600.0                         —                                           
+  Total                                 $                         3,666.7      $                             $                                  2,066.7  
+
+  (1)      As of December 28, 2019, approximately 49% of our cash and short-term investments were held outside the United States. The Company will likely repatriate some portion of available foreign cash ...  
+
+  (2)      In October 2019, the Company entered into a definitive credit agreement whereby Bank of America, N.A., as administrative agent, the other agents party thereto, and a syndicate of banks and fina...  
+ ─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+(3)In March 2015, the Company issued$600.0 million aggregate principal amount of 4.250% senior unsecured notes dueApril 1, 2025at99.445% of par (the “2025 Senior Notes”). Furthermore, in June 2017, the Company issued $400.0 million aggregate principal amount of 3.000% senior unsecured notes due July 15, 2022 at 99.505% of par (the "2022 Senior Notes"), and $600.0 million aggregate principal amount of 4.125% senior unsecured notes due July 15, 2027 at 99.858% of par (the "2027 Senior Notes"). 
+Furthermore, the indentures for the 2025 Senior Notes, 2022 Senior Notes and 2027 Senior Notes contain certain covenants limiting the Company’s ability to: (i) create certain liens, (ii) enter into certain sale and leaseback transactions and (iii) merge, or consolidate or transfer, sell or lease all or substantially all of the Company’s assets. As ofDecember 28, 2019, no known events of default have occurred. Refer to Note 12, "Debt," for further information on our existing debt instruments.
+
+We believe that our Revolving Credit Facility is adequately diversified with no undue concentrations in any one financial institution. As ofDecember 28, 2019, there were 12 financial institutions participating in the Revolving Credit Facility, with no one participant maintaining a combined maximum commitment percentage in excess of 14%.
+
+We have the ability to draw on our credit facilities or access other sources of financing options available to us in the credit and capital markets for, among other things, acquisition or integration-related costs, our restructuring initiatives, settlement of a material contingency, or a material adverse business or macroeconomic development, as well as for other general corporate business purposes.
+
+Management believes that cash flows from operations, access to the credit and capital markets and our credit lines, on-hand cash and cash equivalents and our investments provide adequate funds to support our operating, capital, and debt service requirements for fiscal 2020, including our plans for further investment in our brands, while returning capital to shareholders through our dividend and share repurchase programs. There can be no assurance that any such capital will be available to the 
+Company on acceptable terms or at all. Our ability to fund working capital needs, planned capital expenditures, dividend payments, share repurchases and scheduled debt payments, as well as to comply with all of the financial covenants under our debt agreements, depends on future operating performance and cash flow, which in turn are subject to prevailing economic conditions and to financial, business and other factors, some of which are beyond the Company's control.
+
+Reference should be made to our most recent Annual Report on Form 10-K and other filings with the SEC for additional information regarding liquidity and capital resources. The Company expects total fiscal2020 capital expenditures to be approximately $300 million.
+
+Seasonality
+
+The Company's results are typically affected by seasonal trends. During the first fiscal quarter, we build inventory for the holiday selling season. In the second fiscal quarter, working capital requirements are reduced substantially as we generate higher net sales and operating income, especially during the holiday months of November and December. Accordingly, the Company’s net sales, operating income and operating cash flows for the three months ended December 28, 2019 are not necessarily 
+indicative of that expected for the full fiscal2020. However, fluctuations in net sales, operating income and operating cash flows of the Company in any fiscal quarter may be affected by the timing of wholesale shipments and other events affecting retail sales, including adverse weather conditions or other macroeconomic events.
+
+CRITICAL ACCOUNTING POLICIES AND ESTIMATES
+
+Our significant accounting policies are described in Note 2 to the audited consolidated financial statements in our fiscal 2019 10-K. Our discussion of results of operations and financial condition relies on our condensed consolidated financial statements that are prepared based on certain critical accounting policies that require management to make judgments and estimates which are subject to varying degrees of uncertainty. While we believe that these accounting policies are based on sound 
+measurement criteria, actual future events can and often do result in outcomes that can be materially different from these estimates or forecasts.
+
+For a complete discussion of our critical accounting policies and estimates, see the "Critical Accounting Policies and Estimates" section of the Management's Discussion and Analysis of Financial Condition and Results of Operations in our fiscal 2019 10-K. In the first quarter of fiscal 2020, we adopted new lease accounting guidance which resulted in certain changes to our accounting policies. Refer to Note 9, "Leases," for additional information about our accounting policies and estimates. As 
+ofDecember 28, 2019, there have been no material changes to any of the critical accounting policies other than the changes mentioned above.
+
+The Company performs its annual impairment assessment of goodwill as well as brand intangibles at the beginning of the fourth quarter of each fiscal year. The Company determined that there was no impairment in fiscal2019. In all fiscal years, the fair values of our Coach brand reporting units significantly exceeded their respective carrying values. The fair values of the Kate Spade brand reporting unit and indefinite-lived brand as of the fiscal 2019 testing date exceeded their respective 
+carrying values by approximately 21% and 61%, respectively. Furthermore, the fair values of the Stuart Weitzman brand reporting unit and indefinite-lived brand exceeded their respective carrying values by approximately 11% and 62%, respectively. As ofDecember 28, 2019, the carrying values of Stuart Weitzman goodwill and indefinite-lived brand are$212.9 million and $267.0 million, respectively. The Company has concluded that all the intangible assets are not impaired as ofDecember 28, 2019. 
+Several factors could impact the Kate Spade and Stuart Weitzman brands' ability to achieve expected future cash flows, including the management of the supply chain operational challenges at Stuart Weitzman, reception of new collections in all channels, the success of international expansion strategies including the consolidation or integration of certain distributor relationships, the optimization of the store fleet productivity, the impact of promotional activity in department stores, the 
+simplification of certain corporate overhead structures and other initiatives aimed at expanding higher performing categories of the business. Given the relatively small excess of fair value over carrying value as noted above, if profitability trends decline during fiscal2020 from those that are expected, it is possible that an interim test, or our annual impairment test, could result in an impairment of these assets.
+
+  ITEM 3.      QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK  
+ ───────────────────────────────────────────────────────────────────────────
+
+The market risk inherent in our financial instruments represents the potential loss in fair value, earnings or cash flows, arising from adverse changes in foreign currency exchange rates or interest rates. The Company manages these exposures through operating and financing activities and, when appropriate, through the use of derivative financial instruments. The use of derivative financial instruments is in accordance with the Company's risk management policies, and we do not enter into 
+derivative transactions for speculative or trading purposes.
+
+The quantitative disclosures in the following discussion are based on quoted market prices obtained through independent pricing sources for the same or similar types of financial instruments, taking into consideration the underlying terms and maturities and theoretical pricing models. These quantitative disclosures do not represent the maximum possible loss or any expected loss that may occur, since actual results may differ from those estimates.
+
+Foreign Currency Exchange Rate Risk
+
+Foreign currency exposures arise from transactions, including firm commitments and anticipated contracts, denominated in a currency other than the entity’s functional currency, and from foreign-denominated revenues and expenses translated into U.S. dollars. The majority of the Company's purchases and sales involving international parties, excluding international consumer sales, are denominated in U.S. dollars and, therefore, our foreign currency exchange risk is limited. The Company is exposed 
+to risk from foreign currency exchange rate fluctuations resulting from its operating subsidiaries’ transactions denominated in foreign currencies. To mitigate such risk, certain subsidiaries enter into forward currency contracts. As ofDecember 28, 2019 andJune 29, 2019, forward currency contracts designated as cash flow hedges with a notional amount of$498.8 million and$398.4 million, respectively, were outstanding. As a result of the use of derivative instruments, we are exposed to the risk 
+that counterparties to the derivative instruments will fail to meet their contractual obligations. To mitigate the counterparty credit risk, we only enter into derivative contracts with carefully selected financial institutions. The Company also reviews the creditworthiness of our counterparties on a regular basis. As a result of the above considerations, we do not believe that we are exposed to any undue concentration of counterparty credit risk associated with our derivative contracts as 
+ofDecember 28, 2019.
+
+The Company is also exposed to transaction risk from foreign currency exchange rate fluctuations with respect to various cross-currency intercompany loans and payables. This primarily includes exposure to exchange rate fluctuations in the Chinese Renminbi, the British Pound Sterling, the Euro, the Japanese Yen, the Malaysian Ringgit and the Singapore Dollar. To manage the exchange rate risk related to these balances, the Company enters into forward currency contracts. As ofDecember 28, 2019 
+andJune 29, 2019 the total notional values of outstanding forward foreign currency contracts related to these loans were$272.0 million and$14.5 million, respectively.
+
+The fair value of outstanding forward currency contracts included in current assets atDecember 28, 2019 andJune 29, 2019 was$4.7 million and$1.1 million, respectively. The fair value of outstanding foreign currency contracts included in current liabilities atDecember 28, 2019 andJune 29, 2019 was$3.9 million and$4.9 million, respectively. The fair value of these contracts is sensitive to changes in foreign currency exchange rates. A sensitivity analysis of the effects of foreign exchange rate 
+fluctuations on the fair values of our derivative contracts was performed to assess the risk of loss.
+
+Interest Rate Risk
+
+The Company is exposed to interest rate risk in relation to its New Revolving Credit Facility entered into under the credit agreement dated October 24, 2019, the 2025 Senior Notes, 2022 Senior Notes, 2027 Senior Notes (collectively the "Senior Notes") and investments. The Company was also exposed to interest rate risk in relation to its Revolving Credit Facility, which was terminated on October 24, 2019.
+
+Our exposure to changes in interest rates is primarily attributable to (i) debt outstanding under the New Revolving Credit Facility entered into on October 24, 2019. Borrowings under the New Revolving Credit Facility bear interest at a rate per annum equal to, at the Company’s option, either (a) an alternate base rate (which is a rate equal to the greatest of (i) the Prime Rate in effect on such day, (ii) the Federal Funds Effective Rate in effect on such day plus ½ of 1% or (iii) the Adjusted 
+LIBO Rate for a one month Interest Period on such day plus 1%) or (b) a rate based on the rates applicable for deposits in the interbank market for U.S. dollars or the applicable currency in which the loans are made plus, in each case, an applicable margin. The applicable margin will be determined by reference to a grid, as set forth in the credit agreement, based on the ratio of (a) consolidated debt plus operating lease liability to (b) consolidated EBITDAR.
+
+The Company is exposed to changes in interest rates related to the fair value of the Senior Notes. AtDecember 28, 2019, the fair value of the 2025 Senior Notes, 2022 Senior Notes and 2027 Senior Notes was approximately$634 million,$406 million and$616 million, respectively. AtJune 29, 2019, the fair value of the 2025 Senior Notes, 2022 Senior Notes and 2027 Senior Notes was approximately$630 million,$399 million and$606 million, respectively. These fair values are based on external pricing data,
+including available quoted market prices of these instruments, and consideration of comparable debt instruments with similar interest rates and trading frequency, among other factors, and are classified as Level 2 measurements within the fair value hierarchy. The interest rate payable on the 2022 and 2027 Senior Notes will be subject to adjustments from time to time if either Moody’s or S&P or a substitute rating agency (as defined in the Prospectus Supplement furnished with the SEC on June 7, 
+2017), downgrades (or downgrades and subsequently upgrades) the credit rating assigned to the respective Senior Notes of such series.
+
+The Company’s investment portfolio is maintained in accordance with the Company’s investment policy, which defines our investment principles including credit quality standards and limits the credit exposure of any single issuer. The primary objective of our investment activities is the preservation of principal while maximizing interest income and minimizing risk. We do not hold any investments for trading purposes.
+
+  ITEM 4.      CONTROLS AND PROCEDURES  
+ ────────────────────────────────────────
+
+Based on the evaluation of the Company's disclosure controls and procedures, as that term is defined in Rule 13a-15(e) under the Securities Exchange Act of 1934, as amended, the Chief Executive Officer of the Company and the Chief Financial Officer of the Company have concluded that the Company's disclosure controls and procedures are effective as ofDecember 28, 2019.
+
+During the first quarter of fiscal 2020, the Company adopted ASU 2016-02. As such, the Company implemented new controls and modifications to existing accounting processes related to lease accounting. These changes include the upgrade to a new lease accounting system and introduction of processes to evaluate and account for lease contracts under the new accounting standard.
+
+During the second quarter of fiscal 2019, the Company completed the first phase of its ERP implementation, SAP’s S4/HANA, migrating the global finance functions for Corporate, Coach and Stuart Weitzman. The finance and supply chain functions were implemented for Kate Spade during the third quarter of fiscal 2019, with the supply chain functions for Coach and Stuart Weitzman implemented during the first quarter of fiscal 2020. As a result of the implementations to date, there were certain changes
+to processes and procedures, which resulted in changes to the Company’s internal control over financial reporting. The implementation of SAP’s S4/HANA is expected to strengthen the financial controls by automating certain manual processes and standardizing business processes and reporting across the organization. The Company will continue to evaluate and monitor the internal controls over financial reporting during this period of change and will continue to evaluate the operating effectiveness 
+of related key controls. For a discussion of risks related to the implementation of new systems, see Part I, Item 1A, Risk Factors, in the Company's most recent Annual Report on Form 10-K.
+
+Reference should be made to our most recent Annual Report on Form 10-K for additional information regarding discussion of the effectiveness of the Company’s controls and procedures. Other than the ERP system implementation and adoption of the new lease accounting standard noted above, there were no other changes in our internal control over financial reporting during the quarter ended December 28, 2019 that have materially affected, or are reasonably likely to materially affect, our internal 
+control over financial reporting.
+

@@ -1,0 +1,497 @@
+ITEM 2. MANAGEMENT’S DISCUSSION AND ANALYSIS OF
+
+FINANCIAL CONDITION AND RESULTS OF OPERATIONS (Continued)
+
+Results of Operations
+
+Revenue/Volume Trends
+
+Our revenues generally relate to contracts with patients in which our performance obligations are to provide health care services to the patients. Revenues are recorded during the period our obligations to provide health care services are satisfied. Our performance obligations for inpatient services are generally satisfied over periods that average approximately five days, and revenues are recognized based on charges incurred in relation to total expected charges. Our performance obligations for
+outpatient services are generally satisfied over a period of less than one day. The contractual relationships with patients, in most cases, also involve a third-party payer (Medicare, Medicaid, managed care health plans and commercial insurance companies, including plans offered through the health insurance exchanges) and the transaction prices for the services provided are dependent upon the terms provided by (Medicare and Medicaid) or negotiated with (managed care health plans and commercial 
+insurance companies) the third-party payers. The payment arrangements with third-party payers for the services we provide to the related patients typically specify payments at amounts less than our standard charges. Medicare generally pays for inpatient and outpatient services at prospectively determined rates based on clinical, diagnostic and other factors. Services provided to patients having Medicaid coverage are generally paid at prospectively determined rates per discharge, per identified 
+service or per covered member. Agreements with commercial insurance carriers, managed care and preferred provider organizations generally provide for payments based upon predetermined rates per diagnosis, per diem rates or discounted
+
+fee-for-service
+
+rates. Management continually reviews the contractual estimation process to consider and incorporate updates to laws and regulations and the frequent changes in managed care contractual terms resulting from contract renegotiations and renewals.
+
+Revenues increased 2.7% from $12.517 billion in the first quarter of 2019 to $12.861 billion in the first quarter of 2020. Our revenues are based upon the estimated amounts we expect to be entitled to receive from patients and third-party payers. Estimates of contractual allowances under managed care and commercial insurance plans are based upon the payment terms specified in the related contractual agreements. Revenues related to uninsured patients and uninsured copayment and deductible amounts
+for patients who have health care coverage may have discounts applied (uninsured discounts and contractual discounts). We also record estimated implicit price concessions (based primarily on historical collection experience) related to uninsured accounts to record
+
+self-pay
+
+revenues at the estimated amounts we expect to collect. Patients treated at our hospitals for non-elective care, who have income at or below 400% of the federal poverty level, are eligible for charity care. Because we do not pursue collection of amounts determined to qualify as charity care, they are not reported in revenues. Our revenues by primary third-party payer classification and other (including uninsured patients) for the quarters ended March 31, 2020 and 2019 are summarized in the 
+following table (dollars in millions):
+
+                                                 2020                             2019                         
+                                                 2020                             2019                         
+                                                 2020                             2019                         
+ ───────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Medicare                                       $         2,743       21.3       $         2,770       22.1   
+  Managed Medicare                                         1,826       14.2                 1,589       12.7   
+  Medicaid                                                 414         3.2                  347         2.8    
+  Managed Medicaid                                         666         5.2                  613         4.9    
+  Managed care and insurers                                6,645       51.6                 6,426       51.4   
+  International (managed care and insurers)                292         2.3                  297         2.4    
+  Other                                                    275         2.2                  475         3.7    
+  Revenues                                       $         12,861      100.0      $         12,517      100.0  
+
+
+ITEM 2. MANAGEMENT’S DISCUSSION AND ANALYSIS OF
+
+FINANCIAL CONDITION AND RESULTS OF OPERATIONS (Continued)
+
+Results of Operations (continued)
+
+Revenue/Volume Trends (continued)
+
+Consolidated and same facility revenue per equivalent admission increased 2.9% and 1.6%, respectively, in the first quarter of 2020, compared to the first quarter of 2019. Consolidated and same facility equivalent admissions declined 0.1% and 0.4%, respectively, in the first quarter of 2020, compared to the first quarter of 2019. Consolidated and same facility outpatient surgeries declined 6.0% and 5.9%, respectively, in the first quarter of 2020, compared to the first quarter of 2019. 
+Consolidated and same facility inpatient surgeries declined 1.6% and 1.8%, respectively, in the first quarter of 2020, compared to the first quarter of 2019. Consolidated and same facility emergency department visits both declined 1.0% in the first quarter of 2020, compared to the first quarter of 2019.
+
+To quantify the total impact of the trends related to uninsured patient accounts, we believe it is beneficial to view total uncompensated care, which is comprised of charity care, uninsured discounts and implicit price concessions. A summary of the estimated cost of total uncompensated care for the quarters ended March 31, 2020 and 2019 follows (dollars in millions):
+
+                                                                                                                        2020                  2019              
+                                                                                                                        2020                  2019              
+                                                                                                                        2020                  2019              
+ ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Patient care costs (salaries and benefits, supplies, other operating expenses and depreciation and amortization)      $         11,342      $         10,606  
+  Cost-to-charges                                                                                                                 11.9                  11.8    
+  Total uncompensated care                                                                                              $         7,873       $         7,085   
+  Multiply by the                                                                                                                 11.9                  11.8    
+  Estimated cost of total uncompensated care                                                                            $         937         $         836     
+
+Same facility uninsured admissions increased by 2,708 admissions, or 7.1%, in the first quarter of 2020 compared to the first quarter of 2019. Same facility uninsured admissions in 2019, compared to 2018, increased 6.8% in the fourth quarter, increased 2.1% in the third quarter, increased 5.1% in the second quarter, and were flat in the first quarter.
+
+The approximate percentages of our admissions related to Medicare, managed Medicare, Medicaid, managed Medicaid, managed care and insurers and the uninsured for the quarters ended March 31, 2020 and 2019 are set forth in the following table.
+
+ ───────────────────────────────────────────────
+  Medicare                       27       30   
+  Managed Medicare               20       19   
+  Medicaid                       5        5    
+  Managed Medicaid               12       12   
+  Managed care and insurers      28       27   
+  Uninsured                      8        7    
+                                 100      100  
+
+
+ITEM 2. MANAGEMENT’S DISCUSSION AND ANALYSIS OF
+
+FINANCIAL CONDITION AND RESULTS OF OPERATIONS (Continued)
+
+Results of Operations (continued)
+
+Revenue/Volume Trends (continued)
+
+The approximate percentages of our inpatient revenues related to Medicare, managed Medicare, Medicaid, managed Medicaid, managed care and insurers for the quarters ended March 31, 2020 and 2019 are set forth in the following table.
+
+ ───────────────────────────────────────────────
+  Medicare                       29       29   
+  Managed Medicare               16       15   
+  Medicaid                       4        4    
+  Managed Medicaid               5        5    
+  Managed care and insurers      46       47   
+                                 100      100  
+
+At March 31, 2020, we had 91 hospitals in the states of Texas and Florida. During the first quarter of 2020, 56% of our admissions and 48% of our revenues were generated by these hospitals. Uninsured admissions in Texas and Florida represented 72% of our uninsured admissions during the first quarter of 2020.
+
+We receive a significant portion of our revenues from government health programs, principally Medicare and Medicaid, which are highly regulated and subject to frequent and substantial changes. In December 2017, the Centers for Medicare & Medicaid Services (“CMS”) announced that it will phase out federal matching funds for Designated State Health Programs under waivers granted under Section 1115 of the Social Security Act. Texas currently operates its Healthcare Transformation and Quality 
+Improvement Program pursuant to a Medicaid waiver. In December 2017, CMS approved an extension of this waiver through September 30, 2022, but indicated that it will phase out some of the federal funding. Our Texas Medicaid revenues included Medicaid supplemental payments of $115 million and $108 million during the first quarters of 2020 and 2019, respectively.
+
+In addition, we receive supplemental payments in several other states. We are aware these supplemental payment programs are currently being reviewed by certain state agencies and some states have made requests to CMS to replace their existing supplemental payment programs. It is possible these reviews and requests will result in the restructuring of such supplemental payment programs and could result in the payment programs being reduced or eliminated. Because deliberations about these programs 
+are ongoing, we are unable to estimate the financial impact the program structure modifications, if any, may have on our results of operations.
+
+Key Performance Indicators
+
+We present certain metrics and statistical information that management uses when assessing our results of operations. We believe this information is useful to investors as it provides insight to how management evaluates operational performance and trends between reporting periods. Information on how these metrics and statistical information are defined is provided in the following tables summarizing operating results and statistical data.
+
+
+ITEM 2. MANAGEMENT’S DISCUSSION AND ANALYSIS OF
+
+FINANCIAL CONDITION AND RESULTS OF OPERATIONS (Continued)
+
+Results of Operations (continued)
+
+Operating Results Summary
+
+The following is a comparative summary of results of operations for the quarters ended March 31, 2020 and 2019 (dollars in millions):
+
+                                                           2020                               2019                           
+                                                           2020                               2019                           
+                                                           2020                               2019                           
+                                                           Amount                             Amount                         
+                                                           Amount                             Amount                         
+                                                           Amount                             Amount                         
+ ─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Revenues                                                 $           12,861      100.0      $           12,517      100.0  
+  Salaries and benefits                                                6,118       47.6                   5,647       45.1   
+  Supplies                                                             2,123       16.5                   2,041       16.3   
+  Other operating expenses                                             2,427       18.9                   2,299       18.4   
+  Equity in earnings of affiliates                                     (7          (0.1                   (11         (0.1   
+  Depreciation and amortization                                        674         5.3                    619         4.9    
+  Interest expense                                                     428         3.3                    461         3.7    
+  Losses (gains) on sales of facilities                                (7          (0.1                   1           —      
+  Losses on retirement of debt                                         295         2.3                    —           —      
+                                                                       12,051      93.7                   11,057      88.3   
+  Income before income taxes                                           810         6.3                    1,460       11.7   
+  Provision for income taxes                                           112         0.9                    279         2.3    
+  Net income                                                           698         5.4                    1,181       9.4    
+  Net income attributable to noncontrolling interests                  117         0.9                    142         1.1    
+  Net income attributable to HCA Healthcare, Inc.          $           581         4.5        $           1,039       8.3    
+  % changes from prior year:                                                                                                 
+  Revenues                                                             2.7                                9.6                
+  Income before income taxes                                           (44.5                              (5.2               
+  Net income attributable to HCA Healthcare, Inc.                      (44.1                              (9.2               
+  Admissions(a)                                                        1.0                                3.0                
+  Equivalent admissions(b)                                             (0.1                               4.8                
+  Revenue per equivalent admission                                     2.9                                4.6                
+  Same facility % changes from prior year(c):                                                                                
+  Revenues                                                             1.2                                6.3                
+  Admissions(a)                                                        0.6                                0.9                
+  Equivalent admissions(b)                                             (0.4                               1.8                
+  Revenue per equivalent admission                                     1.6                                4.4                
+
+  (a)      Represents the total number of patients admitted to our hospitals and is used by management and certain investors as a general measure of inpatient volume.  
+
+  (b)      Equivalent admissions are used by management and certain investors as a general measure of combined inpatient and outpatient volume. Equivalent admissions are computed by multiplying admissions...  
+
+  (c)      Same facility information excludes the operations of hospitals and their related facilities which were either acquired or divested during the current and prior period.  
+
+
+ITEM 2. MANAGEMENT’S DISCUSSION AND ANALYSIS OF
+
+FINANCIAL CONDITION AND RESULTS OF OPERATIONS (Continued)
+
+Results of Operations (continued)
+
+Quarters Ended March 31, 2020 and 2019
+
+Revenues increased to $12.861 billion in the first quarter of 2020 from $12.517 billion in the first quarter of 2019. Net income attributable to HCA Healthcare, Inc. totaled $581 million, or $1.69 per diluted share, for the quarter ended March 31, 2020, compared to $1.039 billion, or $2.97 per diluted share, for the quarter ended March 31, 2019. First quarter results for 2020 include losses on retirement of debt of $295 million, or $0.66 per diluted share, and gains on sales of facilities of $7 
+million, or $0.02 per diluted share. Our revenues for the quarters ended March 31, 2020 and 2019, respectively, include $55 million, or $0.12 per diluted share, related to the settlement of Medicare outlier calculations for prior periods and $86 million, or $0.19 per diluted share, related to the resolution of transaction price differences regarding certain
+
+out-of-network
+
+services performed in prior periods. Our provisions for income taxes for the first quarters of 2020 and 2019 included tax benefits of $53 million, or $0.15 per diluted share, and $49 million, or $0.14 per diluted share, respectively, related to employee equity award settlements. All “per diluted share” disclosures are based upon amounts net of the applicable income taxes. Shares used for diluted earnings per share were 344.096 million shares for the quarter ended March 31, 2020 and 350.316 
+million shares for the quarter ended March 31, 2019. During 2019 and the first quarter of 2020, we repurchased 7.949 million shares and 3.287 million shares of our common stock, respectively.
+
+Due to the
+
+COVID-19
+
+pandemic, patient volumes and the related revenues for most of our services, particularly elective surgical procedures, were significantly impacted in the last two weeks of the quarter as various
+
+COVID-19
+
+stay-at-home and business closure policies were implemented by federal, state and local governments. Revenues increased 2.7%, primarily due to the net impact of revenue per equivalent admission growth of 2.9% and a 0.1% decline in equivalent admissions for the first quarter of 2020 compared to the first quarter of 2019. Same facility revenues increased 1.2% due to the net impact of a 1.6% increase in same facility revenue per equivalent admission and a 0.4% decline in same facility equivalent 
+admissions for the first quarter of 2020 compared to the first quarter of 2019.
+
+Salaries and benefits, as a percentage of revenues, were 47.6% in the first quarter of 2020 and 45.1% in the first quarter of 2019. Salaries and benefits per equivalent admission increased 8.4% in the first quarter of 2020 compared to the first quarter of 2019. Same facility labor rate increases averaged 2.8% for the first quarter of 2020 compared to the first quarter of 2019.
+
+Supplies, as a percentage of revenues, were 16.5% in the first quarter of 2020 and 16.3% in the first quarter of 2019. Supply costs per equivalent admission increased 4.1% in the first quarter of 2020 compared to the first quarter of 2019. Supply costs per equivalent admission increased 3.9% for medical devices and 6.1% for general medical and surgical items and remained flat for pharmacy supplies in the first quarter of 2020 compared to the first quarter of 2019.
+
+Other operating expenses, as a percentage of revenues, were 18.9% in the first quarter of 2020 and 18.4% in the first quarter of 2019. Other operating expenses is primarily comprised of contract services, professional fees, repairs and maintenance, rents and leases, utilities, insurance (including professional liability insurance) and nonincome taxes. Provisions for losses related to professional liability risks were $140 million and $136 million for the first quarters of 2020 and 2019, 
+respectively.
+
+Equity in earnings of affiliates was $7 million and $11 million in the first quarters of 2020 and 2019, respectively.
+
+Depreciation and amortization increased $55 million, from $619 million in the first quarter of 2019 to $674 million in the first quarter of 2020. The increase in depreciation relates to both acquired facilities and increased capital expenditures at our existing facilities.
+
+
+ITEM 2. MANAGEMENT’S DISCUSSION AND ANALYSIS OF
+
+FINANCIAL CONDITION AND RESULTS OF OPERATIONS (Continued)
+
+Results of Operations (continued)
+
+Quarters Ended March 31, 2020 and 2019 (continued)
+
+Interest expense was $428 million in the first quarter of 2020 and $461 million in the first quarter of 2019. Our average debt balance was $34.136 billion for the first quarter of 2020 compared to $34.036 billion for the first quarter of 2019. The average effective interest rate for our long-term debt declined to 5.1% for the quarter ended March 31, 2020 from 5.5% for the quarter ended March 31, 2019.
+
+During the first quarters of 2020 and 2019, we recorded gains on sales of facilities of $7 million and losses on sales of facilities of $1 million, respectively.
+
+During February 2020, we issued $2.700 billion aggregate principal amount of 3.50% senior unsecured notes due 2030. During March 2020, we used the net proceeds for the redemption of all $1.000 billion outstanding aggregate principal amount of HCA Healthcare, Inc.’s 6.25% senior notes due 2021 and, together with available funds, for the redemption of all $2.000 billion outstanding aggregate principal amount of HCA Inc.’s 7.50% senior notes due 2022. The pretax loss on retirement of debt was $295 
+million.
+
+The effective tax rates were 16.2% and 21.2% for the first quarters of 2020 and 2019, respectively. The effective tax rate computations exclude net income attributable to noncontrolling interests as it relates to consolidated partnerships. Our provisions for income taxes for the first quarters of 2020 and 2019 included tax benefits of $53 million and $49 million, respectively, related to employee equity award settlements. Excluding the effect of these adjustments, the effective tax rate for the 
+first quarters of 2020 and 2019 would have been 23.8% and 24.8%, respectively.
+
+Net income attributable to noncontrolling interests declined from $142 million for the first quarter of 2019 to $117 million for the first quarter of 2020. The decline in net income attributable to noncontrolling interests related primarily to the operations of a joint venture in one of our Texas markets and our surgery center partnerships.
+
+Liquidity and Capital Resources
+
+Cash provided by operating activities totaled $1.375 billion in the first quarter of 2020 compared to $974 million in the first quarter of 2019. The $401 million increase in cash provided by operating activities in the first quarter of 2020 compared to the first quarter of 2019, related primarily to the net effect of positive changes in working capital of $678 million, primarily from the collection of patient accounts receivable, partially offset by a decline in net income, excluding losses on 
+retirement of debt, of $188 million. The net combination of interest payments and net tax refunds in the first quarter of 2020 was $459 million, and the combined interest payments and net tax payments in the first quarter of 2019 was $590 million. Working capital totaled $3.997 billion at March 31, 2020 and $3.439 billion at December 31, 2019.
+
+Cash used in investing activities was $1.145 billion in the first quarter of 2020 compared to $2.165 billion in the first quarter of 2019. Acquisitions of hospitals and health care entities declined from $1.474 billion in the first quarter of 2019 to $328 million in the first quarter of 2020, primarily related to the acquisition of a seven-hospital health system in North Carolina in 2019. Excluding acquisitions, capital expenditures were $853 million in the first quarter of 2020 and $781 million
+in the first quarter of 2019. At March 31, 2020, there were projects under construction which had estimated additional costs to complete and equip over the next five years of approximately $3.4 billion. We expect to finance capital expenditures with internally generated and borrowed funds.
+
+
+ITEM 2. MANAGEMENT’S DISCUSSION AND ANALYSIS OF
+
+FINANCIAL CONDITION AND RESULTS OF OPERATIONS (Continued)
+
+Liquidity and Capital Resources (continued)
+
+Cash used in financing activities totaled $109 million in the first quarter of 2020 compared to cash provided by financing activities of $1.216 billion in the first quarter of 2019. During the first quarter of 2020, net cash flows used in financing activities included a net increase of $813 million from net borrowings on our revolving bank credit facilities and refinancing activity, payments of dividends of $152 million, repurchases of common stock of $441 million, distributions to 
+noncontrolling interests of $154 million and payments of debt issuance costs of $34 million. During the first quarter of 2019, net cash flows provided by financing activities included a net increase of $1.911 billion in our indebtedness, payment of dividends of $141 million, repurchases of common stock of $278 million and distributions to noncontrolling interests of $136 million.
+
+In response to the risks the
+
+COVID-19
+
+pandemic presents to our business, we have suspended our share repurchase and quarterly dividend programs and reduced certain planned projects and capital expenditures. We expect to evaluate resumption of these programs at a future date.
+
+We are a highly leveraged company with significant debt service requirements. Our debt totaled $34.861 billion at March 31, 2020. Our interest expense was $428 million for the first quarter of 2020 and $461 million for the first quarter of 2019.
+
+In addition to cash flows from operations, available sources of capital include amounts available under our senior secured credit facilities ($3.798 billion and $7.718 billion available as of March 31, 2020 and April 30, 2020, respectively) and anticipated access to public and private debt markets. The increase in the amount available under our senior secured credit facilities is due to repayment of the outstanding borrowings on these facilities using cash received in April as provided for in 
+the CARES Act.
+
+During February 2020, we issued $2.700 billion aggregate principal amount of 3.50% senior notes due 2030. During March 2020, we used the net proceeds for the redemption of all $1.000 billion outstanding aggregate principal amount of HCA Healthcare, Inc.’s 6.25% senior notes due 2021 and, together with available funds, for the redemption of all $2.000 billion outstanding aggregate principal amount of HCA Inc.’s 7.50% senior notes due 2022.
+
+In response to the risks the
+
+COVID-19
+
+pandemic presents to our business, during March 2020, we also entered into a credit agreement that provides for a
+
+364-day
+
+secured term loan facility for an aggregate principal amount of up to $2.000 billion. The facility will mature in March 2021. If drawn, amounts outstanding under the credit agreement will bear interest at either (i) the LIBOR rate plus 2.50% or (ii) an alternate base rate as defined in the credit agreement. As of March 31, 2020 and April 30, 2020, there were no amounts outstanding nor draw notices pending under the facility.
+
+Subsequent to March 31, 2020, the Company requested accelerated Medicare payments as provided for in the CARES Act, which allows for eligible health care facilities to request up to six months of advance Medicare payments for acute care hospitals or up to three months of advance Medicare payments for other health care providers. After 120 days past receipt of the advance payment, claims for services provided to Medicare beneficiaries will be applied against the advance payment balance. Any 
+unapplied advance payment amounts must be paid in full within one year from receipt of the advance payments for acute care hospitals and within 210 days for other health care providers. During April 2020, the Company received approximately $4.3 billion from these accelerated Medicare payment requests.
+
+In April 2020 the Company received approximately $900 million
+
+based on the expected allocation methodology of the first $50 billion distributed from the CARES Act Provider Relief Fund. Further allocation of the funds provided for in the CARES Act may be received in future periods. However, we are not able to estimate the amount of additional funds we may receive. These government payments are currently expected to
+
+
+ITEM 2. MANAGEMENT’S DISCUSSION AND ANALYSIS OF
+
+FINANCIAL CONDITION AND RESULTS OF OPERATIONS (Continued)
+
+Liquidity and Capital Resources (continued)
+
+be recognized in our operations during the second quarter of 2020 and will not be subject to repayment, provided the Company is able to attest to and comply with the terms and conditions of the funding.
+
+Further legislation enacted on April 24, 2020 provides for an additional $75 billion in emergency appropriations to eligible providers for their COVID-19 response. Recipients will not be required to repay the government for funds received, provided they comply with terms and conditions, which have not yet been finalized.
+
+Investments of our insurance subsidiaries, held to maintain statutory equity levels and to provide liquidity to pay claims, totaled $438 million and $462 million at March 31, 2020 and December 31, 2019, respectively. An insurance subsidiary maintained net reserves for professional liability risks of $178 million and $175 million at March 31, 2020 and December 31, 2019, respectively. Our facilities are insured by a 100% owned insurance subsidiary for losses up to $50 million per occurrence; 
+however, this coverage is generally subject, in most cases, to a $15 million per occurrence self-insured retention. Net reserves for the self-insured professional liability risks retained were $1.683 billion and $1.606 billion at March 31, 2020 and December 31, 2019, respectively. Claims payments, net of reinsurance recoveries, during the next 12 months are expected to approximate $465 million. We estimate that approximately $413 million of the expected net claim payments during the next 12 
+months will relate to claims subject to the self-insured retention.
+
+Considering the actions discussed above to respond to the uncertainty arising from the COVID-19 pandemic and provide additional financial flexibility,
+
+management believes that cash flows from operations, amounts available under our senior secured credit facilities and our anticipated access to public and private debt markets will be sufficient to meet expected liquidity needs during the next 12 months.
+
+Summarized Financial Information
+
+During March 2020, HCA Healthcare, Inc. redeemed all $1.000 billion outstanding aggregate principal amount of its 6.250% senior unsecured notes due 2021. These notes were our only registered debt securities for which HCA Healthcare, Inc. was the issuer. HCA Inc., a direct wholly-owned subsidiary of HCA Healthcare, Inc., is the obligor under a substantial portion of our indebtedness, including our senior secured credit facilities, senior secured notes and senior unsecured notes. The senior 
+secured notes and senior unsecured notes issued by HCA Inc. are fully and unconditionally guaranteed by HCA Healthcare, Inc. The senior secured credit facilities and senior secured notes are fully and unconditionally guaranteed, subject to customary release provisions, by substantially all existing and future, direct and indirect, 100% owned material domestic subsidiaries that are “Unrestricted Subsidiaries” under our Indenture dated December 16, 1993 (except for certain special purpose 
+subsidiaries that only guarantee and pledge their assets under our senior secured asset-based revolving credit facility). For further information regarding such guarantees, refer to the applicable indentures that are filed as exhibits to our annual report on Form 10-K for the year ended December 31, 2019.
+
+Summarized financial information is presented on a combined basis and transactions between the combining entities have been eliminated. Financial information for nonguarantor entities has been excluded. The summarized operating results information for the quarter ended March 31, 2020 and year ended December 31, 2019 and the summarized balance sheet information at March 31, 2020 and December 31, 2019, for HCA Healthcare, Inc., HCA Inc. and the subsidiary guarantors (the Parent, Subsidiary Issuer 
+and Subsidiary Guarantors) follow (dollars in millions):
+
+
+ITEM 2. MANAGEMENT’S DISCUSSION AND ANALYSIS OF
+
+FINANCIAL CONDITION AND RESULTS OF OPERATIONS (Continued)
+
+Liquidity and Capital Resources (continued)
+
+Summarized Financial Information (continued)
+
+Quarter Ended March 31, 2020 and Year Ended December 31, 2019:
+
+                                                                                                 Quarter                          Year                            
+                                                                                                 Quarter                          Year                            
+                                                                                                 Quarter                          Year                            
+                                                                                                 March 31, 2020                   December 31, 2019               
+                                                                                                 March 31, 2020                   December 31, 2019               
+                                                                                                 March 31, 2020                   December 31, 2019               
+ ──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Revenues                                                                                       $                   7,750        $                      29,220   
+  Income before income taxes                                                                                         627                                 3,912    
+  Net income                                                                                                         535                                 2,993    
+  Net income attributable to Parent, Subsidiary Issuer and Subsidiary Guarantors                                     516                                 2,902    
+  At March 31, 2020 and December 31, 2019:                                                                                                                        
+                                                                                                 March 31,                        December 31,                    
+  Current assets                                                                                 $                   6,623        $                      6,090    
+  Property and equipment, net                                                                                        14,859                              13,418   
+  Goodwill and other intangible assets                                                                               5,819                               5,743    
+  Total noncurrent assets                                                                                            21,543                              19,977   
+  Total assets                                                                                                       28,166                              26,067   
+  Current liabilities                                                                                                4,148                               4,504    
+  Long-term debt, net                                                                                                34,364                              33,227   
+  Intercompany balances                                                                                              1,342                               (53      
+  Income taxes and other liabilities                                                                                 885                                 879      
+  Total noncurrent liabilities                                                                                       37,004                              34,398   
+  Stockholders’ deficit attributable to Parent, Subsidiary Issuer and Subsidiary Guarantors                          (13,092                             (12,941  
+  Noncontrolling interests                                                                                           106                                 106      
+
+Market Risk
+
+We are exposed to market risk related to changes in market values of securities. The investments in our 100% owned insurance subsidiaries were $438 million at March 31, 2020. These investments are carried at fair value, with changes in unrealized gains and losses that are not credit-related being recorded as adjustments to other comprehensive income. At March 31, 2020, we had a net unrealized gain of $13 million on the insurance subsidiaries’ investments.
+
+We are exposed to market risk related to market illiquidity. Investments in debt and equity securities of our 100% owned insurance subsidiaries could be impaired by the inability to access the capital markets. Should the 100% owned insurance subsidiaries require significant amounts of cash in excess of normal cash requirements to pay claims and other expenses on short notice, we may have difficulty selling these investments in a timely manner or be forced to sell them at a price less than what 
+we might otherwise have been able to in a normal market environment. We may be required to recognize credit-related impairments on our investment securities in future periods should issuers default on interest payments or should the fair market valuations of the securities deteriorate due to ratings downgrades or other issue-specific factors.
+
+We are also exposed to market risk related to changes in interest rates, and we periodically enter into interest rate swap agreements to manage our exposure to these fluctuations. Our interest rate swap agreements involve the exchange of fixed and variable rate interest payments between two parties, based on common
+
+
+ITEM 2. MANAGEMENT’S DISCUSSION AND ANALYSIS OF
+
+FINANCIAL CONDITION AND RESULTS OF OPERATIONS (Continued)
+
+Liquidity and Capital Resources (continued)
+
+Market Risk (continued)
+
+notional principal amounts and maturity dates. The notional amounts of the swap agreements represent balances used to calculate the exchange of cash flows and are not our assets or liabilities. Our credit risk related to these agreements is considered low because the swap agreements are with creditworthy financial institutions. The interest payments under these agreements are settled on a net basis. These derivatives have been recognized in the financial statements at their respective fair 
+values. Changes in the fair value of these derivatives, which are designated as cash flow hedges, are included in other comprehensive income.
+
+With respect to our interest-bearing liabilities, approximately $5.132 billion of long-term debt at March 31, 2020 was subject to variable rates of interest, while the remaining balance in long-term debt of $29.729 billion at March 31, 2020 was subject to fixed rates of interest. Both the general level of interest rates and, for the senior secured credit facilities, our leverage affect our variable interest rates. Our variable debt is comprised primarily of amounts outstanding under the senior 
+secured credit facilities. Borrowings under the senior secured credit facilities bear interest at a rate equal to an applicable margin plus, at our option, either (a) a base rate determined by reference to the higher of (1) the federal funds rate plus 0.50% or (2) the prime rate of Bank of America or (b) a LIBOR rate for the currency of such borrowing for the relevant interest period. The applicable margin for borrowings under the senior secured credit facilities may fluctuate according to a 
+leverage ratio. The average effective interest rate for our long-term debt was 5.1% and 5.5% for the quarters ended March 31, 2020 and 2019, respectively.
+
+The estimated fair value of our total long-term debt was $35.548 billion at March 31, 2020. The estimates of fair value are based upon the quoted market prices for the same or similar issues of long-term debt with the same maturities. Based on a hypothetical 1% increase in interest rates, the potential annualized reduction to future pretax earnings would be approximately $51 million. To mitigate the impact of fluctuations in interest rates, we generally target a portion of our debt portfolio to 
+be maintained at fixed rates.
+
+We are exposed to currency translation risk related to our foreign operations. We currently do not consider the market risk related to foreign currency translation to be material to our consolidated financial statements or our liquidity.
+
+Tax Examinations
+
+The Internal Revenue Service was conducting an examination of the Company’s 2016, 2017 and 2018 federal income tax returns at March 31, 2020. We are also subject to examination by state and foreign taxing authorities. Management believes HCA Healthcare, Inc. and its predecessors, subsidiaries and affiliates properly reported taxable income and paid taxes in accordance with applicable laws and agreements established with IRS, state and foreign taxing authorities and final resolution of any 
+disputes will not have a material, adverse effect on our results of operations or financial position. However, if payments due upon final resolution of any issues exceed our recorded estimates, such resolutions could have a material, adverse effect on our results of operations or financial position.
+
+Operating Data
+
+ ─────────────────────────────────────────────────
+  Number of hospitals in operation at:           
+  March 31                                  185  
+  June 30                                   184  
+  September 30                              184  
+  December 31                               184  
+
+
+ITEM 2. MANAGEMENT’S DISCUSSION AND ANALYSIS OF
+
+FINANCIAL CONDITION AND RESULTS OF OPERATIONS (Continued)
+
+Operating Data (continued)
+
+ ─────────────────────────────────────────────────────────────────────────────────────────────────────
+  Number of freestanding outpatient surgical centers in operation at:                                
+  March 31                                                                 123            124        
+  June 30                                                                                 125        
+  September 30                                                                            125        
+  December 31                                                                             123        
+  Licensed hospital beds at(a):                                                                      
+  March 31                                                                 49,357         48,455     
+  June 30                                                                                 48,483     
+  September 30                                                                            48,588     
+  December 31                                                                             49,035     
+  Weighted average licensed beds(b):                                                                 
+  Quarter:                                                                                           
+  First                                                                    49,160         48,036     
+  Second                                                                                  48,429     
+  Third                                                                                   48,535     
+  Fourth                                                                                  48,911     
+  Year                                                                                    48,480     
+  Average daily census(c):                                                                           
+  Quarter:                                                                                           
+  First                                                                    28,822         28,966     
+  Second                                                                                  27,808     
+  Third                                                                                   27,502     
+  Fourth                                                                                  28,274     
+  Year                                                                                    28,134     
+  Admissions(d):                                                                                     
+  Quarter:                                                                                           
+  First                                                                    528,244        523,196    
+  Second                                                                                  518,253    
+  Third                                                                                   527,284    
+  Fourth                                                                                  540,194    
+  Year                                                                                    2,108,927  
+  Equivalent admissions(e):                                                                          
+  Quarter:                                                                                           
+  First                                                                    889,035        889,956    
+  Second                                                                                  903,419    
+  Third                                                                                   918,964    
+  Fourth                                                                                  933,996    
+  Year                                                                                    3,646,335  
+  Average length of stay (days)(f):                                                                  
+  Quarter:                                                                                           
+  First                                                                    5.0            5.0        
+  Second                                                                                  4.9        
+  Third                                                                                   4.8        
+  Fourth                                                                                  4.8        
+  Year                                                                                    4.9        
+  Emergency room visits(g):                                                                          
+  Quarter:                                                                                           
+  First                                                                    2,264,707      2,287,440  
+  Second                                                                                  2,253,337  
+  Third                                                                                   2,269,364  
+  Fourth                                                                                  2,350,988  
+  Year                                                                                    9,161,129  
+
+
+ITEM 2. MANAGEMENT’S DISCUSSION AND ANALYSIS OF
+
+FINANCIAL CONDITION AND RESULTS OF OPERATIONS (Continued)
+
+Operating Data (continued)
+
+ ──────────────────────────────────────────────────────────────────────────────────
+  Outpatient surgeries(h):                                                        
+  Quarter:                                                                        
+  First                                                   226,319      240,846    
+  Second                                                               253,441    
+  Third                                                                249,177    
+  Fourth                                                               266,483    
+  Year                                                                 1,009,947  
+  Inpatient surgeries(i):                                                         
+  Quarter:                                                                        
+  First                                                   135,145      137,363    
+  Second                                                               140,473    
+  Third                                                                143,215    
+  Fourth                                                               145,584    
+  Year                                                                 566,635    
+  Days revenues in accounts receivable(j):                                        
+  Quarter:                                                                        
+  First                                                   49           53         
+  Second                                                               52         
+  Third                                                                52         
+  Fourth                                                               50         
+  Outpatient revenues as a % of patient revenues(k):                              
+  Quarter:                                                                        
+  First                                                   37           38         
+  Second                                                               39         
+  Third                                                                39         
+  Fourth                                                               39         
+  Year                                                                 39         
+
+  (a)      Licensed beds are those beds for which a facility has been granted approval to operate from the applicable state licensing agency.  
+
+  (b)      Represents the average number of licensed beds, weighted based on periods owned.  
+
+  (c)      Represents the average number of patients in our hospital beds each day.  
+
+  (d)      Represents the total number of patients admitted to our hospitals and is used by management and certain investors as a general measure of inpatient volume.  
+
+  (e)      Equivalent admissions are used by management and certain investors as a general measure of combined inpatient and outpatient volume. Equivalent admissions are computed by multiplying admissions...  
+
+  (f)      Represents the average number of days admitted patients stay in our hospitals.  
+
+  (g)      Represents the number of patients treated in our emergency rooms.  
+
+  (h)      Represents the number of surgeries performed on patients who were not admitted to our hospitals. Pain management and endoscopy procedures are not included in outpatient surgeries.  
+
+  (i)      Represents the number of surgeries performed on patients who have been admitted to our hospitals. Pain management and endoscopy procedures are not included in inpatient surgeries.  
+
+  (j)      Revenues per day is calculated by dividing revenues for the quarter by the days in the quarter. Days revenues in accounts receivable is then calculated as accounts receivable at the end of the ...  
+ ─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+  (k)      Represents the percentage of patient revenues related to patients who are not admitted to our hospitals.  
+ ─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+

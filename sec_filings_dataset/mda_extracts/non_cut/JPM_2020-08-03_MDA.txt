@@ -1,0 +1,1117 @@
+Item 2.                             Management’s Discussion and Analysis of Financial Condition and Results of Operations.                                                      
+                                      Consolidated Financial Highlights                                                                                                        3  
+                                      Introduction                                                                                                                             4  
+                                      Executive Overview                                                                                                                       5  
+                                      Consolidated Results of Operations                                                                                                      13  
+                                      Consolidated Balance Sheets and Cash Flows Analysis                                                                                     18  
+                                      Off-Balance Sheet Arrangements                                                                                                          21  
+                                      Explanation and Reconciliation of the Firm’s Use of Non-GAAP Financial Measures                                                         22  
+                                      Business Segment Results                                                                                                                24  
+                                      Firmwide Risk Management                                                                                                                48  
+                                      Capital Risk Management                                                                                                                 49  
+                                      Liquidity Risk Management                                                                                                               55  
+                                      Consumer Credit Portfolio                                                                                                               62  
+                                      Wholesale Credit Portfolio                                                                                                              67  
+                                      Investment Portfolio Risk Management                                                                                                    79  
+                                      Market Risk Management                                                                                                                  80  
+                                      Country Risk Management                                                                                                                 85  
+                                      Operational Risk Management                                                                                                             86  
+                                      Estimations and Model Risk Management                                                                                                   87  
+                                      Critical Accounting Estimates Used by the Firm                                                                                          88  
+                                      Accounting and Reporting Developments                                                                                                   91  
+                                      Forward-Looking Statements                                                                                                              92  
+  Item 3.                             Quantitative and Qualitative Disclosures About Market Risk.                                                                            200  
+  Item 4.                             Controls and Procedures.                                                                                                               200  
+  Part II – Other information                                                                                                                                                     
+  Item 1.                             Legal Proceedings.                                                                                                                     200  
+  Item 1A.                            Risk Factors.                                                                                                                          200  
+  Item 2.                             Unregistered Sales of Equity Securities and Use of Proceeds.                                                                           201  
+  Item 3.                             Defaults Upon Senior Securities.                                                                                                       201  
+  Item 4.                             Mine Safety Disclosures.                                                                                                               201  
+  Item 5.                             Other Information.                                                                                                                     201  
+  Item 6.                             Exhibits.                                                                                                                              202  
+
+  As of or for the period ended, (in millions, except per share, ratio, headcount data and where otherwise noted)                                                                                                           
+ ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Selected income statement data                                                                                                                                                                                            
+  Total net revenue (a)                                                                                                   32,980         28,192         28,285         29,291         28,747         61,172         57,823  
+  Total noninterest expense (a)                                                                                           16,942         16,791         16,293         16,372         16,256         33,733         32,604  
+  Pre-provision profit (b)                                                                                                16,038         11,401         11,992         12,919         12,491         27,439         25,219  
+  Provision for credit losses                                                                                             10,473          8,285          1,427          1,514          1,149         18,758          2,644  
+  Income before income tax expense                                                                                         5,565          3,116         10,565         11,405         11,342          8,681         22,575  
+  Income tax expense                                                                                                                                     2,045          2,325          1,690          1,129          3,744  
+  Net income                                                                                                               4,687          2,865          8,520          9,080          9,652          7,552         18,831  
+  Earnings per share data                                                                                                                                                                                                   
+  Net income: Basic                                                                                                         1.39           0.79           2.58           2.69           2.83           2.17           5.48  
+  Diluted                                                                                                                                                                                                                   
+  Average shares: Basic                                                                                                  3,076.3        3,095.8        3,140.7        3,198.5        3,250.6        3,086.1        3,274.3  
+  Diluted                                                                                                                3,081.0        3,100.7        3,148.5        3,207.2        3,259.7        3,090.8        3,283.9  
+  Market and per common share data                                                                                                                                                                                          
+  Market capitalization                                                                                                  286,658        274,323        429,913        369,133        357,479        286,658        357,479  
+  Common shares at period-end                                                                                            3,047.6        3,047.0        3,084.0        3,136.5        3,197.5        3,047.6        3,197.5  
+  Book value per share                                                                                                                                                                                                      
+  Tangible book value per share (“TBVPS”) (b)                                                                                                                                                                               
+  Cash dividends declared per share                                                                                                                                                                                         
+  Selected ratios and metrics                                                                                                                                                                                               
+  Return on common equity (“ROE”) (c)                                                                                                                                                                                       
+  Return on tangible common equity (“ROTCE”) (b)(c)                                                                                                                                                                         
+  Return on assets (b)                                                                                                                                                                                                      
+  Overhead ratio                                                                                                                                                                                                            
+  Loans-to-deposits ratio                                                                                                                                                                                                   
+  Liquidity coverage ratio (“LCR”) (average)                                                                                                                                                                                
+  Common equity Tier 1 (“CET1”) capital ratio (d)                                                                                                                                                                           
+  Tier 1 capital ratio (d)                                                                                                                                                                                                  
+  Total capital ratio (d)                                                                                                                                                                                                   
+  Tier 1 leverage ratio (d)                                                                                                                                                                                                 
+  Supplementary leverage ratio (“SLR”) (d)                                                                                                                                                                                  
+  Selected balance sheet data (period-end)                                                                                                                                                                                  
+  Trading assets                                                                                                         526,042        548,580        411,103        495,875        523,373        526,042        523,373  
+  Investment securities, net of allowance for credit losses                                                              558,791        471,144        398,239        394,251        307,264        558,791        307,264  
+  Loans                                                                                                                  978,518      1,015,375        959,769        945,218        956,889        978,518        956,889  
+  Total assets                                                                                                         3,213,115      3,139,431      2,687,379      2,764,661      2,727,379      3,213,115      2,727,379  
+  Deposits                                                                                                             1,931,029      1,836,009      1,562,431      1,525,261      1,524,361      1,931,029      1,524,361  
+  Long-term debt                                                                                                         317,003        299,344        291,498        296,472        288,869        317,003        288,869  
+  Common stockholders’ equity                                                                                            234,403        231,199        234,337        235,985        236,222        234,403        236,222  
+  Total stockholders’ equity                                                                                             264,466        261,262        261,330        264,348        263,215        264,466        263,215  
+  Headcount                                                                                                              256,710        256,720        256,981        257,444        254,983        256,710        254,983  
+  Credit quality metrics                                                                                                                                                                                                    
+  Allowances for loan losses and lending-related commitments                                                              34,301         25,391         14,314         14,400         14,295         34,301         14,295  
+  Allowance for loan losses to total retained loans                                                                                                                                                                         
+  Nonperforming assets                                                                                                     8,440          6,421          4,497          5,343          5,260          8,440          5,260  
+  Net charge-offs                                                                                                          1,560          1,469          1,494          1,371          1,403          3,029          2,764  
+  Net charge-off rate                                                                                                                                                                                                       
+
+  (a)      In the second quarter of 2020, the Firm reclassified certain spend-based credit card reward costs from marketing expense to be a reduction of card income, with no effect on net income. Prior-pe...  
+ ─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+  (b)      Pre-provision profit, TBVPS and ROTCE are each non-GAAP financial measures. Tangible common equity (“TCE”) is also a non-GAAP financial measure. Refer to Explanation and Reconciliation of the F...  
+
+  (c)      Quarterly ratios are based upon annualized amounts.  
+ ────────────────────────────────────────────────────────────────
+
+  (d)      Reflects the relief provided by the Federal Reserve Board in response to the COVID-19 pandemic, including the CECL capital transition provisions that became effective in the first quarter of 20...  
+ ─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+  INTRODUCTION  
+
+  EXECUTIVE OVERVIEW  
+
+  Financial performance of JPMorgan Chase                                                                                                                                    
+  (unaudited)                                          Three months ended June 30,                                         Six months ended June 30,                         
+                                                       2020                                          2019                  2020                                        2019  
+  Selected income statement data                                                                                                                                             
+  Total net revenue (a)                                $                                32,980          $      28,747      $                              61,172          $  
+  Total noninterest expense (a)                                                         16,942                 16,256                                     33,733             
+  Pre-provision profit                                                                  16,038                 12,491                                     27,439             
+  Provision for credit losses                                                           10,473                  1,149                                     18,758             
+  Net income                                                                             4,687                  9,652                                      7,552             
+  Diluted earnings per share                           $                                  1.38          $        2.82      $                                2.17          $  
+  Selected ratios and metrics                                                                                                                                                
+  Return on common equity                              7                                               16                  6                                             16  
+  Return on tangible common equity                     9                                               20                  7                                             20  
+  Book value per share                                 $                                 76.91          $       73.88      $                               76.91          $  
+  Tangible book value per share                        61.76                                        59.52                  61.76                                      59.52  
+  Capital ratios (b)                                                                                                                                                         
+  CET1                                                 12.4                                          12.2                  12.4                                        12.2  
+  Tier 1 capital                                       14.3                                          14.0                  14.3                                        14.0  
+  Total capital                                        16.7                                          15.8                  16.7                                        15.8  
+
+  (a)      In the second quarter of 2020, the Firm reclassified certain spend-based credit card reward costs from marketing expense to be a reduction of card income, with no effect on net income. Prior-pe...  
+ ─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+  (b)      Reflects the relief provided by the Federal Reserve Board in response to the COVID-19 pandemic, including the CECL capital transition provisions that became effective in the first quarter of 20...  
+ ─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+  Net income was down 51%, driven by an increase in the provision for credit losses across the Firm.  
+ ──────────────────────────────────────────────────────────────────────────────────────────────────────
+
+  Total net revenue increased 15%. Noninterest revenue was $19.1 billion, up 33%, largely driven by higher CIB Markets revenue and Investment Banking fees. The increase in revenue also included $...  
+
+  Noninterest expense was $16.9 billion, up 4%, predominantly driven by revenue-related expense, primarily compensation, partially offset by lower marketing expense in Card as a result of lower t...  
+
+  The provision for credit losses was $10.5 billion, up $9.3 billion from the prior year, driven by additions to the allowance for credit losses, reflecting further deterioration and increased un...  
+
+  The total allowance for credit losses was $34.3 billion at June 30, 2020, and the Firm had a loan loss coverage ratio of 3.32%, compared with 1.39% in the prior year, driven by the additions to...  
+
+  Firmwide average loans of $1.0 trillion were up 4%, largely reflecting drawdowns on committed revolving credit facilities in March and higher loan balances in AWM, as well as loans originated u...  
+
+  Firmwide average deposits of $1.9 trillion were up 25%, reflecting significant inflows across the Firm, primarily driven by the COVID-19 pandemic, as customers and clients looked to remain liqu...  
+
+  The Firm’s CET1 capital was $191 billion, and the Standardized and Advanced CET1 ratios were 12.4% and 13.2%, respectively.  
+
+  The Firm’s SLR was 6.8%. As of June 30, 2020, the SLR reflects the temporary exclusions of U.S. Treasury securities and deposits at Federal Reserve Banks, as required by the Federal Reserve’s i...  
+ ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+  The Firm grew TBVPS, ending the second quarter of 2020 at $61.76, up 4% versus the prior year.  
+
+  CCB        • Average deposits up 20%; client investment assets up 9%                                                                              
+  CIB        • #1 ranking for Global Investment Banking fees with 9.8% wallet share year-to-date                                                    
+  CB         • Gross Investment Banking revenue of $851 million, up 44%                                                                             
+  AWM        • Assets under management (AUM) of $2.5 trillion, up 15%                                                                               
+
+  $1.2 trillion                        Total credit provided and capital raised (including loans and commitments) (a)  
+                     $107              Credit for consumers                                                            
+                     $11               Credit for U.S. small businesses                                                
+                     $404 billion      Credit for corporations                                                         
+                     $651 billion      Capital raised for corporate clients and non-U.S. government entities           
+                     $53 billion       Credit and capital raised for nonprofit and U.S. government entities (b)        
+  $28 billion                          Loans under the Small Business Administration’s Paycheck Protection             
+
+  (a)      Excludes loans under the SBA’s PPP.  
+
+  (b)      Includes states, municipalities, hospitals and universities.  
+
+  Management expects full-year 2020 net interest income, on a managed basis, to be approximately $56 billion, market dependent.  
+
+  Management expects adjusted expense for the full-year 2020 to be approximately $65 billion.  
+
+  In the consumer portfolio segment, through June 30, 2020, the Firm has provided customer assistance to over 2 million accounts, including refunding over $83 million in fees and granting payment...  
+
+  In the wholesale portfolio segment, through June 30, 2020, the Firm has provided client assistance to approximately 12,000 clients, primarily risk-rated clients in CCB. The majority of the clie...  
+
+  they represent short-term or other insignificant modifications, whether under the Firm’s regular loan modification assessments or the IA Statement guidance, or  
+
+  the Firm has elected to apply the option to suspend the application of accounting guidance for TDRs as provided under section 4013 of the CARES Act.  
+
+  CONSOLIDATED RESULTS OF OPERATIONS  
+
+  Revenue                                                                                                                                                        
+                                                            Three months ended June 30,                                                                          
+  (in millions)                                             2020                                                     Change                              Change  
+  Investment banking fees                                   $                                 2,850       1,851          54       4,716       3,691          28  
+  Principal transactions                                                                      7,621       3,714         105      10,558       7,790          36  
+  Lending- and deposit-related fees (a)                                                       1,431       1,624         (12       3,137       3,183          (1  
+  Asset management, administration and commissions (a)                                        4,266       4,264           —       8,806       8,301           6  
+  Investment securities gains                               26                                                          (41                                 354  
+  Mortgage fees and related income                          917                                                         229       1,237                      83  
+  Card income (b)                                           974                                           1,281         (24       1,969       2,508         (21  
+  Other income (c)                                                                            1,042       1,292         (19       2,198       2,767         (21  
+  Noninterest revenue                                                                        19,127      14,349          33      32,880      28,972          13  
+  Net interest income                                                                        13,853      14,398          (4      28,292      28,851          (2  
+  Total net revenue                                         $                                32,980      28,747          15      61,172      57,823           6  
+
+  higher debt underwriting fees due to increased industry-wide fees and wallet share gains in both investment-grade and high-yield bonds  
+ ──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+  higher equity underwriting fees due to increased industry-wide fees and wallet share gains, primarily in follow-on offerings and convertible securities markets  
+
+  the increased activity in debt and equity underwriting reflected clients seeking access to liquidity as a result of the COVID-19 pandemic  
+ ─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+  higher advisory fees driven by a few large completed transactions.  
+
+  $678 million of markups on held-for-sale positions, including unfunded commitments, in the bridge financing portfolio in CIB and CB, compared with $896 million of markdowns in the first quarter...  
+
+  a $510 million gain in Credit Adjustments & Other in CIB driven by funding spread tightening on derivatives, compared with a $951 million loss in the first quarter of 2020.  
+
+  higher net mortgage production revenue reflecting higher production margins, partially offset by the absence of gains on loan sales in the prior year in Home Lending, and  
+
+  higher net mortgage servicing revenue reflecting higher MSR risk management results due to the absence of losses resulting from updates to model inputs in the prior year partially offset by low...  
+
+  higher costs associated with using forward contracts to hedge certain non-U.S. dollar-denominated net investment exposures in Treasury and CIO,  
+
+  increased amortization on higher levels of alternative energy investments in CIB. The increased amortization was more than offset by lower income tax expense from the associated tax credits  
+
+  lower market-driven results on certain investments in Corporate  
+
+  higher operating lease income from growth in auto operating lease volume in CCB  
+
+  higher debt underwriting fees due to increased industry-wide fees and wallet share gains in investment-grade bonds, and for high-yield bonds, after the markets stabilized in the second quarter ...  
+ ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+  higher equity underwriting fees due to increased industry-wide fees and wallet share gains, primarily in follow-on offerings and convertible securities markets  
+
+  the increased activity in debt and equity underwriting reflected clients seeking access to liquidity as a result of the COVID-19 pandemic  
+ ─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+  lower advisory fees driven by a lower number of completed transactions.  
+
+  a $441 million net loss in CIB’s Credit Adjustments & Other predominantly driven by losses on certain components of fair value option elected liabilities, as well as the impact of funding sprea...  
+
+  $218 million of net markdowns on held-for-sale positions, including unfunded commitments, in the bridge financing portfolio in CIB and CB.  
+
+  higher brokerage commissions in CIB and AWM on higher client-driven volume, and  
+
+  higher asset management fees in AWM as a result of inflows into liquidity products, and in CCB related to a higher level of investment assets,  
+
+  lower volume of annuity sales in CCB.  
+
+  higher net mortgage production revenue reflecting higher mortgage production volumes and margins, partially offset by the absence of gains on loan sales in the prior year in Home Lending, and  
+
+  higher net mortgage servicing revenue reflecting higher MSR risk management results due to the absence of losses resulting from updates to model inputs in the prior year, predominantly offset b...  
+
+  net losses on certain equity investments in CIB, compared with net gains in the prior year  
+
+  net valuation losses on certain investments in AWM, compared with gains in the prior year  
+
+  increased amortization on higher levels of alternative energy investments in CIB. The increased amortization is  
+ ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+  higher costs associated with using forward contracts to hedge certain non-U.S. dollar-denominated net investment exposures in Treasury and CIO,  
+
+  higher operating lease income from growth in auto operating lease volume in CCB  
+
+  Provision for credit losses                                                                                                             
+                                                                            Six months ended June 30,                                     
+  (in millions)                                                 Change      2020                                                  Change  
+  Consumer, excluding credit card         1,591       (366      NM          $                               2,210       (246      NM      
+  Credit card                             4,028      1,440      180                                         9,091      2,642      244     
+  Total consumer                          5,619      1,074      423                                        11,301      2,396      372     
+  Wholesale                               4,850                 NM                                          7,444                 NM      
+  Investment securities                                         NM          13                                                    NM      
+  Total provision for credit losses      10,473      1,149      NM          $                              18,758      2,644      NM      
+
+  additions of $4.4 billion to the allowance for credit losses, consisting of $2.9 billion for Card, $900 million for Home Lending, $285 million for Auto, and $272 million for CBB,  
+
+  lower net charge-offs in Card reflecting higher recoveries.  
+
+  additions of $8.7 billion to the allowance for credit losses, consisting of $6.6 billion for Card, $1.2 billion for Home Lending, $520 million for Auto, and $352 million for CBB,  
+
+  lower net charge-offs reflecting higher recoveries in Home Lending on a loan sale in the first quarter of 2020, and in Card, largely offset by higher charge-offs in Card on loan growth in the p...  
+ ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+  Noninterest expense                                                                                                                                
+                                                Three months ended June 30,                                                                          
+  (in millions)                                 2020                                                     Change                              Change  
+  Compensation expense                          $                                 9,509       8,547          11      18,404      17,484           5  
+  Noncompensation expense:                                                                                                                           
+  Occupancy                                                                       1,080       1,060           2       2,146       2,128           1  
+  Technology, communications and equipment                                        2,590       2,378           9       5,168       4,742           9  
+  Professional and outside services                                               1,999       2,212         (10       4,027       4,251          (5  
+  Marketing (a)                                 481                                                         (38       1,281       1,609         (20  
+  Other expense (b)(c)                                                            1,283       1,282           —       2,707       2,390          13  
+  Total noncompensation expense                                                   7,433       7,709          (4      15,329      15,120           1  
+  Total noninterest expense                     $                                16,942      16,256           4      33,733      32,604           3  
+
+  (a)      In the second quarter of 2020, the Firm reclassified certain spend-based credit card reward costs from marketing expense to be a reduction of card income, with no effect on net income. Prior-pe...  
+ ─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+  (b)      Included Firmwide legal expense/(benefit) of $118 million and $69 million for the three months ended June 30, 2020 and 2019, respectively, and $315 million and $(12) million for the six months ...  
+ ─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+  (c)      Included FDIC-related expense of $218 million and $121 million for the three months ended June 30, 2020 and 2019, respectively, and $317 million and $264 million for the six months ended June 3...  
+ ─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+  lower marketing expense in Card as a result of lower travel-related benefits and investments in marketing campaigns  
+
+  lower structural expense, including lower travel and entertainment across the businesses, as well as lower payment processing costs,  
+
+  higher volume-related expense, including depreciation from growth in auto lease assets in CCB, and brokerage expense in CIB  
+
+  higher investments in the businesses, including technology.  
+
+  higher legal expense primarily in CIB and Corporate  
+
+  higher volume-related expense, including depreciation from growth in auto lease assets in CCB, and brokerage expense in CIB  
+
+  higher investments in the businesses, including technology,  
+
+  lower marketing expense in Card as a result of lower travel-related benefits and investments in marketing campaigns  
+
+  lower structural expense, including lower travel and entertainment across the businesses, as well as lower payment processing costs.  
+
+  Income tax expense                                                                                                                                        
+                                        Three months ended June 30,                                        Six months ended June 30,                        
+  (in millions)                         2020                             2019                  Change      2020                           2019      Change  
+  Income before income tax expense      $                                $         11,342      (51         $                              $         (62     
+  Income tax expense                    878                                         1,690      (48                                                  (70     
+  Effective tax rate                    15.8                             14.9                              13.0                           16.6              
+
+  CONSOLIDATED BALANCE SHEETS AND CASH FLOWS ANALYSIS  
+
+  Selected Consolidated balance sheets data                                                                                                      
+  (in millions)                                                            June 30,                     December 31,                     Change  
+  Assets                                                                                                                                         
+  Cash and due from banks                                                  $                20,544      $                    21,704          (5  
+  Deposits with banks                                                                      473,185                          241,927          96  
+  Federal funds sold and securities purchased under resale agreements                      256,980                          249,157           3  
+  Securities borrowed                                                                      142,704                          139,758           2  
+  Trading assets                                                                           526,042                          411,103          28  
+  Available-for-sale securities                                                            485,883                          350,699          39  
+  Held-to-maturity securities, net of allowance for credit losses                           72,908                           47,540          53  
+  Investment securities, net of allowance for credit losses                                558,791                          398,239          40  
+  Loans                                                                                    978,518                          959,769           2  
+  Allowance for loan losses                                                                (32,092                          (13,123         145  
+  Loans, net of allowance for loan losses                                                  946,426                          946,646           —  
+  Accrued interest and accounts receivable                                                  72,260                           72,861          (1  
+  Premises and equipment                                                                    26,301                           25,813           2  
+  Goodwill, MSRs and other intangible assets                                                51,669                           53,341          (3  
+  Other assets                                                                             138,213                          126,830           9  
+  Total assets                                                             $             3,213,115      $                 2,687,379          20  
+
+  the outstanding loans from the March drawdown activity on committed revolving credit facilities in CIB and CB, as a result of the COVID-19 pandemic, and the impact of the PPP loans in CBB and CB,  
+ ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+  lower loans in Card due to the decline in sales volume that began in March as a result of the COVID-19 pandemic, as well as the impact of seasonality; and lower loans in Home Lending primarily ...  
+ ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+  a $8.6 billion addition in consumer, predominantly in the credit card and residential real estate portfolios  
+
+  a net $6.2 billion addition in wholesale, across the LOBs impacting multiple industry sectors, and  
+
+  a net $4.2 billion addition as a result of the adoption of CECL.  
+
+  Selected Consolidated balance sheets data (continued)                                                                                                        
+  (in millions)                                                                          June 30,                     December 31,                     Change  
+  Liabilities                                                                                                                                                  
+  Deposits                                                                               $             1,931,029      $                 1,562,431          24  
+  Federal funds purchased and securities loaned or sold under repurchase agreements                      235,647                          183,675          28  
+  Short-term borrowings                                                                                   48,014                           40,920          17  
+  Trading liabilities                                                                                    165,212                          119,277          39  
+  Accounts payable and other liabilities                                                                 230,916                          210,407          10  
+  Beneficial interests issued by consolidated variable interest entities (“VIEs”)                         20,828                           17,841          17  
+  Long-term debt                                                                                         317,003                          291,498           9  
+  Total liabilities                                                                                    2,948,649                        2,426,049          22  
+  Stockholders’ equity                                                                                   264,466                          261,330           1  
+  Total liabilities and stockholders’ equity                                             $             3,213,115      $                 2,687,379          20  
+
+  In the wholesale businesses, the inflows principally occurred in March, and in general were maintained through the second quarter.  
+ ──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+  In CCB, the increase was driven by the continued growth in both existing and new accounts, as well as COVID-19 related factors, such as the government stimulus for consumers and small businesse...  
+
+  in CIB, a net increase related to client-driven market-making activities, and higher secured financing of trading assets, partially offset by a decline in the Firm's participation in the Federa...  
+
+  in Treasury and CIO, higher secured financing of AFS investment securities. Refer to Liquidity Risk Management on pages 55-59 and Note 11 for additional information.  
+
+  (in millions)                                                                   Six months ended June 30,                                       
+                                                                                  2020                                         2019               
+ ──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Net cash provided by/(used in)                                                                                                                  
+  Operating activities                                                            $                               (37,032      $         (94,734  
+  Investing activities                                                                                           (183,617                 27,424  
+  Financing activities                                                                                            451,436                 56,469  
+  Effect of exchange rate changes on cash                                         (689                                         86                 
+  Net increase/(decrease) in cash and due from banks and deposits with banks      $                               230,098      $         (10,755  
+
+  In 2020, cash used resulted from higher trading assets and other assets, largely offset by higher trading liabilities and accounts payable and other liabilities.  
+
+  In 2019, cash used primarily resulted from higher trading assets-debt and equity instruments and securities borrowed, partially offset by increased trading liabilities and accounts payable and ...  
+
+  In 2020, cash used was driven by net purchases of investment securities and net loan originations.  
+
+  In 2019, cash provided resulted from a decrease in securities purchased under resale agreements, and net proceeds from sales of loans held-for-investment, partially offset by net purchases of i...  
+
+  In 2020, cash provided was due to higher deposits, an increase in federal funds purchased and securities loaned or sold under repurchase agreements, and net proceeds from long-term borrowings.  
+
+  In 2019, cash provided resulted from higher securities loaned or sold under repurchase agreements and higher deposits.  
+
+  For both periods, cash was used for repurchases of common stock and cash dividends on common and preferred stock. On March 15, 2020, in response to the COVID-19 pandemic, the Firm temporarily s...  
+ ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+  OFF-BALANCE SHEET ARRANGEMENTS  
+
+  Type of off-balance sheet arrangement                                                                                                                              Location of disclosure      Page references  
+ ──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Special-purpose entities: variable interests and other obligations, including contingent obligations, arising from variable interests in nonconsolidated VIEs      Refer to Note 14            162-167          
+  Off-balance sheet lending-related financial instruments, guarantees, and other commitments                                                                         Refer to Note 23            178-181          
+
+  EXPLANATION AND RECONCILIATION OF THE FIRM’S USE OF NON-GAAP FINANCIAL MEASURES  
+
+  Firmwide “managed” basis results, including the overhead ratio, which include certain reclassifications to present total net revenue from investments that receive tax credits and tax-exempt sec...  
+
+  Pre-provision profit, which represents total net revenue less noninterest expense  
+
+  Net interest income and net yield excluding CIB’s Markets businesses  
+
+  Tangible common equity (“TCE”), ROTCE, and TBVPS  
+
+  Allowance for loan losses to period-end loans retained, excluding trade finance and conduits.  
+
+                                        Three months ended June 30,                                                                                                                                              
+  (in millions, except ratios)          Reported                                     Fully taxable-equivalent adjustments (b)                              Fully taxable-equivalent adjustments (b)              
+ ─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Other income                          $                                 1,042      $                                              1,772       1,292      $                                              1,888  
+  Total noninterest revenue (a)                                          19,127      730                                           19,857      14,349      596                                           14,945  
+  Net interest income                                                    13,853      107                                           13,960      14,398      138                                           14,536  
+  Total net revenue                                                      32,980      837                                           33,817      28,747      734                                           29,481  
+  Total noninterest expense (a)                                          16,942      NA                                            16,942      16,256      NA                                            16,256  
+  Pre-provision profit                                                   16,038      837                                           16,875      12,491      734                                           13,225  
+  Provision for credit losses                                            10,473      NA                                            10,473       1,149      NA                                             1,149  
+  Income before income tax expense                                        5,565      837                                            6,402      11,342      734                                           12,076  
+  Income tax expense                    878                                          837                                            1,715       1,690      734                                            2,424  
+  Net income                            $                                 4,687      NA                                             4,687       9,652      NA                                             9,652  
+  Overhead ratio                        51                                           NM                                                                    NM                                                    
+                                        Six months ended June 30,                                                                                                                                                
+  (in millions, except ratios)          Reported                                     Fully taxable-equivalent adjustments (b)                              Fully taxable-equivalent adjustments (b)              
+  Other income                          $                                 2,198      $                                              3,636       2,767      $                                              3,948  
+  Total noninterest revenue (a)                                          32,880                                                    34,318      28,972                                                    30,153  
+  Net interest income                                                    28,292      217                                           28,509      28,851      281                                           29,132  
+  Total net revenue                                                      61,172                                                    62,827      57,823                                                    59,285  
+  Total noninterest expense (a)                                          33,733      NA                                            33,733      32,604      NA                                            32,604  
+  Pre-provision profit                                                   27,439                                                    29,094      25,219                                                    26,681  
+  Provision for credit losses                                            18,758      NA                                            18,758       2,644      NA                                             2,644  
+  Income before income tax expense                                        8,681                                                    10,336      22,575                                                    24,037  
+  Income tax expense                                                      1,129      $                                              2,784       3,744                                                     5,206  
+  Net Income                            $                                 7,552      NA                                             7,552      18,831      NA                                            18,831  
+  Overhead ratio                        55                                           NM                                                                    NM                                                    
+
+  (a)      In the second quarter of 2020, the Firm reclassified certain spend-based credit card reward costs from marketing expense to be a reduction of card income, with no effect on net income. Prior-pe...  
+ ─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+  (b)      Predominantly recognized in CIB, CB and Corporate.  
+
+  (in millions, except rates)                                             Three months ended June 30,                                           Six months ended June 30,                                
+                                                                          2020                                            2019      Change      2020                                                     
+ ─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Net interest income – reported                                          $                                   13,853      $           (4)%      $                                 28,292         28,851  
+  Fully taxable-equivalent adjustments                                    107                                             138         (22)      217                                                      
+  Net interest income – managed basis (a)                                 $                                   13,960      $            (4)      $                                 28,509         29,132  
+  Less: CIB Markets net interest income (b)                                                                    2,536      624          306                                         4,132          1,248  
+  Net interest income excluding CIB Markets (a)                           $                                   11,424      $           (18)      $                                 24,377         27,884  
+  Average interest-earning assets                                         $                                2,819,855      $             21      $                              2,642,794      2,319,105  
+  Less: Average CIB Markets interest-earning assets (b)                                                      795,677                    18                                       765,856        661,397  
+  Average interest-earning assets excluding CIB Markets                   $                                2,024,178      $             22      $                              1,876,938      1,657,708  
+  Net yield on average interest-earning assets – managed basis            1.99                                            2.49                  2.17                                                     
+  Net yield on average CIB Markets interest-earning assets (b)            1.28                                            0.37                  1.08                                                     
+  Net yield on average interest-earning assets excluding CIB Markets      2.27                                            3.35                  2.61                                                     
+
+  (a)      Interest includes the effect of related hedges. Taxable-equivalent amounts are used where applicable.  
+
+  (b)      Refer to page 36 f or further information on CIB’s Markets businesses.  
+
+                                                      Period-end                                Average                                                                            
+  (in millions, except per share and ratio data)      Jun 30,                                   Three months ended June 30,                   Six months ended June 30,            
+                                                                                                2020                                          2020                           2019  
+  Common stockholders’ equity                         $               234,403      234,337      $                                234,408      $                              $     
+  Less: Goodwill                                                       47,811       47,823                                        47,805                                           
+  Less: Other intangible assets                       778                                       791                                           802                            741   
+  Add: Certain deferred tax liabilities (a)                             2,397        2,381                                         2,393                                           
+  Tangible common equity                              $               188,211      188,076      $                                188,205      $                              $     
+  Return on tangible common equity                    NA                                        9                                             7                              20    
+  Tangible book value per share                       $                 61.76        60.98      NA                                            N/A                            N/A   
+
+  (a)      Represents deferred tax liabilities related to tax-deductible goodwill and to identifiable intangibles created in nontaxable transactions, which are netted against goodwill and other intangible...  
+
+  BUSINESS SEGMENT RESULTS  
+
+  Merchant Services, which was realigned from CCB to CIB  
+
+  Treasury Services and Trade Finance in CIB. Trade Finance was previously reported in Lending in CIB.  
+
+  JPMorgan Chase                                                                                                                                                                                                                        
+  Consumer Businesses                                                                               Wholesale Businesses                                                                                                                
+  Consumer & Community Banking                                                                      Corporate & Investment Bank                                        Commercial Banking                    Asset & Wealth Management  
+  Consumer &                                      Home Lending                   Card & Auto        Banking                          Markets &                         • Middle Market Banking               • Asset Management         
+  • Consumer Banking/Chase Wealth Management      • Home Lending Production      • Credit Card      • Investment Banking             • Fixed Income Markets            • Corporate Client Banking            • Wealth Management        
+                                                                                                                                     • Equity Markets                  • Commercial Real Estate Banking                                 
+
+  Three months ended June 30,                                                                              Commercial Banking  
+  (in millions, except ratios)                              Change                             Change                    2020  
+ ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Total net revenue                 12,217      13,484      (9          16,352      9,831      66                           $  
+  Total noninterest expense          6,626       6,836      (3           6,764      5,661      19                         899  
+  Pre-provision profit/(loss)        5,591       6,648      (16          9,588      4,170      130                             
+  Provision for credit losses        5,828       1,120      420          1,987                 NM                              
+  Net income/(loss)                              4,157      NM           5,464      2,946      85                        (691  
+  Return on equity (“ROE”)                                                                                                (14  
+
+  Three months ended June 30,       Asset & Wealth Management                Corporate                                                
+  (in millions, except ratios)                           2020      2019           2020      2019      Change                          
+ ──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Total net revenue                                         $         $              $         $      NM          33,817      29,481  
+  Total noninterest expense                                                        147       232      (37         16,942      16,256  
+  Pre-provision profit/(loss)                                       963           (901        90      NM          16,875      13,225  
+  Provision for credit losses                             223         2              4        (2      NM          10,473       1,149  
+  Net income/(loss)                                       658       719           (568       828      NM           4,687       9,652  
+  ROE                                                      24        27             NM        NM                                      
+
+  Six months ended June 30,                                                                                        
+  (in millions, except ratios)                              Change                              Change             
+ ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Total net revenue                 25,329      26,927      (6          26,300      19,865      32          4,570  
+  Total noninterest expense         13,728      13,759      —           12,660      11,290      12          1,887  
+  Pre-provision profit/(loss)       11,601      13,168      (12         13,640       8,575      59          2,683  
+  Provision for credit losses       11,600       2,434      377          3,388                  NM          3,441  
+  Net income/(loss)                              8,104      (100         7,452       6,206      20                 
+  ROE                                                                                                              
+
+  Six months ended June 30,         Asset & Wealth Management                            Corporate                                      
+  (in millions, except ratios)                           2020                                 2020      Change                          
+ ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Total net revenue                                         $      7,216      7,048              $      NM          62,827      59,285  
+  Total noninterest expense                                        5,165      5,243            293      (34         33,733      32,604  
+  Pre-provision profit/(loss)                                      2,051      1,805           (881      NM          29,094      26,681  
+  Provision for credit losses                             317                                   12      NM          18,758       2,644  
+  Net income/(loss)                                                1,322      1,380           (693      NM           7,552      18,831  
+  ROE                                                      24                                   NM                                      
+
+  (a)      In the second quarter of 2020, the Firm reclassified certain spend-based credit card reward costs from marketing expense to be a reduction of card income, with no effect on net income. Prior-pe...  
+ ─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+  CONSUMER & COMMUNITY BANKING  
+
+  Consumer & Community Banking offers services to consumers and businesses through bank branches, ATMs, digital (including mobile and online) and telephone banking. CCB is organized into Consumer...  
+
+  Selected income statement data                                                                                                                                 
+                                                            Three months ended June 30,                                                                          
+  (in millions, except ratios)                              2020                                                     Change                              Change  
+  Revenue                                                                                                                                                        
+  Lending- and deposit-related fees (a)                     $                                   617         971         (36       1,589       1,880         (15  
+  Asset management, administration and commissions (a)      536                                                         (14       1,121       1,201          (7  
+  Mortgage fees and related income                          917                                                         229       1,237                      83  
+  Card income (b)                                           733                                                         (20       1,442       1,775         (19  
+  All other income                                                                            1,313       1,321          (1       2,686       2,611           3  
+  Noninterest revenue                                                                         4,116       4,104           —       8,075       8,142          (1  
+  Net interest income                                                                         8,101       9,380         (14      17,254      18,785          (8  
+  Total net revenue                                                                          12,217      13,484          (9      25,329      26,927          (6  
+  Provision for credit losses                                                                 5,828       1,120         420      11,600       2,434         377  
+  Noninterest expense                                                                                                                                            
+  Compensation expense                                                                        2,557       2,531           1       5,154       5,097           1  
+  Noncompensation expense (b)(c)                                                              4,069       4,305          (5       8,574       8,662          (1  
+  Total noninterest expense                                                                   6,626       6,836          (3      13,728      13,759           —  
+  Income/(loss) before income tax expense/(benefit)         (237                                          5,528          NM                  10,734        (100  
+  Income tax expense/(benefit)                              (61                                           1,371          NM                   2,630          NM  
+  Net income/(loss)                                         $                                  (176       4,157          NM          15       8,104        (100  
+  Revenue by line of business                                                                                                                                    
+  Consumer & Business Banking                               $                                 5,107       6,897         (26      11,198      13,558         (17  
+  Home Lending                                                                                1,687       1,118          51       2,848       2,464          16  
+  Card & Auto (b)                                                                             5,423       5,469          (1      11,283      10,905           3  
+  Mortgage fees and related income details:                                                                                                                      
+  Net production revenue                                    742                                                         110       1,061                      92  
+  Net mortgage servicing revenue (d)                        175                                                          NM                                  44  
+  Mortgage fees and related income                          $                                   917         279         229       1,237         675          83  
+  Financial ratios                                                                                                                                               
+  Return on equity                                          (2                                                                                                   
+  Overhead ratio                                            54                                                                                                   
+
+  (a)      In the first quarter of 2020, the Firm reclassified certain fees from asset management, administration and commissions to lending- and deposit-related fees. Prior-period amounts have been revis...  
+ ─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+  (b)      In the second quarter of 2020, the Firm reclassified certain spend-based credit card reward costs from marketing expense to be a reduction of card income, with no effect on net income. Prior-pe...  
+ ─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+  (c)      Included depreciation expense on leased assets of $1.1 billion and $957 million for the three months ended June 30, 2020 and 2019, respectively, and $2.2 billion and $1.9 billion for six months...  
+ ─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+  (d)      Included MSR risk management results of $79 million and $(244) million for the three months ended June 30, 2020 and 2019, respectively, and $(11) million and $(253) million for six months ended...  
+ ─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+  the impact of deposit margin compression in CBB and lower loans in Card,  
+
+  growth in deposits in CBB and loan margin expansion in Card.  
+
+  higher net mortgage production revenue reflecting higher production margins, partially offset by the absence of gains on loan sales in the prior year, and  
+
+  higher net mortgage servicing revenue reflecting higher MSR risk management results due to the absence of losses resulting from updates to model inputs in the prior year partially offset by low...  
+
+  lower deposit-related fees due to lower transaction activity and the impact of fee refunds related to the COVID-19 pandemic,  
+
+  lower card income due to lower net interchange income reflecting lower card sales volumes that began in March as a result of the COVID-19 pandemic, partially offset by higher annual fees and lo...  
+ ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+  lower volume of annuity sales.  
+
+  additions to the allowance for credit losses as a result of the impact of the COVID-19 pandemic, consisting of: $2.9 billion for Card, $900 million for Home Lending, $490 million for CBB, and $...  
+
+  lower net charge-offs in Card reflecting higher recoveries.  
+
+  the impact of deposit margin compression in CBB, and lower loans in Home Lending predominantly due to prior year loan sales,  
+
+  growth in deposits in CBB, and loan margin expansion in Card.  
+
+  lower card income due to lower net interchange income reflecting lower card sales volumes that began in March as a result of the COVID-19 pandemic, partially offset by higher annual fees,  
+ ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+  lower deposit-related fees due to lower transaction activity and the impact of fee refunds related to the COVID-19 pandemic, and  
+
+  lower volume of annuity sales,  
+
+  higher net mortgage production revenue reflecting higher mortgage production volumes and margins, partially offset by the absence of gains on loan sales in the prior year,  
+
+  higher auto lease volume, and  
+
+  higher net mortgage servicing revenue reflecting higher MSR risk management results due to the absence of losses resulting from updates to model inputs in the prior year, predominantly offset b...  
+
+  lower structural expenses, including lower payment processing costs, and  
+
+  lower marketing expenses on lower travel-related benefits and investments in marketing campaigns,  
+
+  higher volume- and revenue-related expense, including depreciation on auto lease assets, and investments in the business.  
+
+  additions to the allowance for credit losses as a result of the impact of the COVID-19 pandemic, consisting of: $6.6 billion for Card, $1.2 billion for Home Lending, $649 million for CBB, and $...  
+
+  lower net charge-offs reflecting higher recoveries in Home Lending on a loan sale in the first quarter of 2020, and in Card, largely offset by higher charge-offs in Card on loan growth in the p...  
+ ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+  Selected metrics                                                                                                                                         
+                                                As of or for the three months                                                                              
+  (in millions, except headcount)               2020                                                         Change                                Change  
+  Selected balance sheet data (period-end)                                                                                                                 
+  Total assets                                  $                                  492,251      536,758          (8      492,251      536,758          (8  
+  Loans:                                                                                                                                                   
+  Consumer & Business Banking                                                       46,910       26,616          76       46,910       26,616          76  
+  Home Lending                                                                     188,576      219,533         (14      188,576      219,533         (14  
+  Card                                                                             141,656      157,576         (10      141,656      157,576         (10  
+  Auto                                                                              59,287       62,073          (4       59,287       62,073          (4  
+  Total loans                                                                      436,429      465,798          (6      436,429      465,798          (6  
+  Deposits                                                                         876,991      695,096          26      876,991      695,096          26  
+  Equity                                                                            52,000       52,000           —       52,000       52,000           —  
+  Selected balance sheet data (average)                                                                                                                    
+  Total assets                                  $                                  498,140      534,612          (7      507,676      540,296          (6  
+  Loans:                                                                                                                                                   
+  Consumer & Business Banking                                                       41,198       26,570          55       34,230       26,529          29  
+  Home Lending                                                                     192,716      224,685         (14      195,379      231,778         (16  
+  Card                                                                             142,377      153,746          (7      152,518      152,447           —  
+  Auto                                                                              60,306       62,236          (3       60,599       62,498          (3  
+  Total loans                                                                      436,597      467,237          (7      442,726      473,252          (6  
+  Deposits                                                                         831,996      690,892          20      782,822      685,980          14  
+  Equity                                                                            52,000       52,000           —       52,000       52,000           —  
+  Headcount (a)                                                                    122,089      123,580          (1      122,089      123,580          (1  
+
+  (a)      During the second quarter of 2020, certain technology and support functions, comprising approximately 850 staff, were transferred from AWM to CCB as part of the ongoing reorganization of the U....  
+ ─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+  (b)      At June 30, 2020, included $19.9 billion of loans in Business Banking under the PPP. Refer to Credit Portfolio on pages 60-61 for a further discussion of the PPP.  
+
+  Selected metrics                                                                                                                                                    
+                                            As of or for the three months                             As of or for the six months                                     
+  (in millions, except ratio data)                                   2020                   2019                             2020                   2019      Change  
+  Credit data and quality statistics                                                                                                                                  
+  Nonaccrual loans (a)(b)                                               $       4,407          $                                $       4,407          $          40  
+  Net charge-offs/(recoveries)                                                                                                                                        
+  Consumer & Business Banking                                          60                     66                              134                    125           7  
+  Home Lending                                                         (5                    (28                             (127                    (33        (285  
+  Card                                                                          1,178                                                   2,491                      2  
+  Auto                                                                 45                     42                               93                    100          (7  
+  Total net charge-offs/(recoveries)                                    $       1,278          $                                $       2,591          $          (2  
+  Net charge-off/(recovery) rate                                                                                                                                      
+  Consumer & Business Banking                                        0.59                   1.00                             0.79                   0.95              
+  Home Lending                                                      (0.01                  (0.05                            (0.13                  (0.03              
+  Card                                                               3.33                   3.24                             3.28                   3.23              
+  Auto                                                               0.30                   0.27                             0.31                   0.32              
+  Total net charge-off/(recovery) rate                               1.18                   1.14                             1.18                   1.13              
+  30+ day delinquency rate                                                                                                                                            
+  Home Lending (c)(d)                                                1.30                   1.55                             1.30                   1.55              
+  Card                                                               1.71                   1.71                             1.71                   1.71              
+  Auto                                                               0.54                   0.82                             0.54                   0.82              
+  90+ day delinquency rate — Card                                    0.93                   0.87                             0.93                   0.87              
+  Allowance for loan losses                                                                                                                                           
+  Consumer & Business Banking                                           $       1,370          $                                $       1,370          $          72  
+  Home Lending                                                                  2,957                                                   2,957                     28  
+  Card                                                                         17,800                                                  17,800                    231  
+  Auto                                                                          1,044        465                                        1,044        465         125  
+  Total allowance for loan losses                                       $      23,171          $                                $      23,171          $         159  
+
+  (a)      At June 30, 2020, nonaccrual loans included $1.3 billion of PCD loans. Prior to the adoption of CECL, nonaccrual loans excluded PCI loans as the Firm recognized interest income on each pool of ...  
+
+  (b)      At June 30, 2020 and 2019, nonaccrual loans excluded mortgage loans 90 or more days past due and insured by U.S. government agencies of $561 million and $1.8 billion, respectively. These amount...  
+ ─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+  (c)      At June 30, 2020, the 30+ day delinquency rates included PCD loans. The rate prior to January 1, 2020 was revised to include the impact of PCI loans.  
+ ──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+  (d)      At June 30, 2020 and 2019, excluded mortgage loans insured by U.S. government agencies of $826 million and $2.9 billion, respectively, that are 30 or more days past due. These amounts have been...  
+ ─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+  (e)      Generally excludes loans that were under payment deferral programs offered in response to the COVID-19 pandemic. Refer to Consumer Credit Portfolio on pages 62-66 for further information on con...  
+
+  (f)      At June 30, 2020, included $19.9 billion of loans in Business Banking under the PPP. Given that PPP loans are guaranteed by the SBA, the Firm does not expect to realize material credit losses o...  
+
+  (g)      At June 30, 2020, the principal balance of loans in Home Lending, Card and Auto under payment deferral programs offered in response to the COVID-19 pandemic were $18.2 billion, $4.4 billion and...  
+
+  Selected metrics                                                                                                                                                                                                            
+                                                                                                    As of or for the three months                                         As of or for the six months                         
+  (in billions, except ratios and where otherwise noted)                                            2020                                           2019                   2020                                         2019   
+  Business Metrics                                                                                                                                                                                                            
+  Number of branches                                                                                                                    4,923                  4,970                                        4,923             
+  Active digital customers (in thousands) (a)                                                                                          54,471                 51,032                                       54,471             
+  Active mobile customers (in thousands) (b)                                                                                           39,024                 35,392                                       39,024             
+  Debit and credit card sales volume                                                                $                                   237.6      $           281.5      $                                 503.6      $      
+  Consumer & Business Banking                                                                                                                                                                                                 
+  Average deposits                                                                                  $                                   813.2      $           676.7      $                                 766.0      $      
+  Deposit margin                                                                                    1.52                                           2.60                   1.77                                         2.61   
+  Business banking origination volume                                                               $                                    23.0      $             1.7      $                                  24.5      $      
+  Client investment assets                                                                          356.1                                          328.1                  356.1                                        328.1  
+  Home Lending                                                                                                                                                                                                                
+  Mortgage origination volume by channel                                                                                                                                                                                      
+  Retail                                                                                            $                                    18.0      $            12.5      $                                  32.1      $      
+  Correspondent                                                                                     6.2                                            12.0                   20.2                                         19.1   
+  Total mortgage origination volume (c)                                                             $                                    24.2      $            24.5      $                                  52.3      $      
+  Total loans serviced (period-end)                                                                 $                                   683.7      $           780.1      $                                 683.7      $      
+  Third-party mortgage loans serviced (period-end)                                                  482.4                                          526.6                  482.4                                        526.6  
+  MSR carrying value (period-end)                                                                   3.1                                            5.1                    3.1                                          5.1    
+  Ratio of MSR carrying value (period-end) to third-party mortgage loans serviced (period-end)      0.64                                           0.97                   0.64                                         0.97   
+  MSR revenue multiple (d)                                                                          2.29                                           2.69                   2.21                                         2.77   
+  Credit Card                                                                                                                                                                                                                 
+  Credit card sales volume, excluding Commercial Card                                               $                                   148.5      $           192.5      $                                 327.6      $      
+  Net revenue rate (e)                                                                              11.02                                          10.31                  10.76                                        10.43  
+  Auto                                                                                                                                                                                                                        
+  Loan and lease origination volume                                                                 $                                     7.7      $             8.5      $                                  16.0      $      
+  Average auto operating lease assets                                                               22.6                                           21.3                   22.8                                         21.1   
+
+  (a)      Users of all web and/or mobile platforms who have logged in within the past 90 days.  
+
+  (b)      Users of all mobile platforms who have logged in within the past 90 days.  
+
+  (c)      Firmwide mortgage origination volume was $28.3 billion and $26.3 billion for the three months ended June 30, 2020 and 2019, respectively and $60.2 billion and $42.7 billion for the six months e...  
+ ─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+  (d)      Represents the ratio of MSR carrying value (period-end) to third-party mortgage loans serviced (period-end) divided by the ratio of annualized loan servicing-related revenue to third-party mort...  
+
+  (e)      In the second quarter of 2020, the Firm reclassified certain spend-based credit card reward costs from marketing expense to be a reduction of card income, with no effect on net income. Prior-pe...  
+ ─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+  (f)      Included $21.5 billion of origination volume under the PPP for the three and six months ended June 30, 2020. Refer to Credit Portfolio on pages 60-61 for a further discussion of the PPP.  
+
+  CORPORATE & INVESTMENT BANK  
+
+  The Corporate & Investment Bank, which consists of Banking and Markets & Securities Services, offers a broad suite of investment banking, market-making, prime brokerage, and treasury and securi...  
+
+  Selected income statement data                                                                                                                                   
+                                                               Three months ended June 30,                                                                         
+  (in millions, except ratios)                                 2020                                                    Change                              Change  
+  Revenue                                                                                                                                                          
+  Investment banking fees                                      $                                 2,847      1,846          54       4,754       3,690          29  
+  Principal transactions                                                                         7,400      3,885          90      10,588       8,049          32  
+  Lending- and deposit-related fees (a)                        500                                                         21                                  18  
+  Asset management, administration and commissions (a)                                           1,146      1,112           3       2,407       2,179          10  
+  All other income                                             380                                                         (6                                 (46  
+  Noninterest revenue                                                                           12,273      7,660          60      19,114      15,496          23  
+  Net interest income                                                                            4,079      2,171          88       7,186       4,369          64  
+  Total net revenue (b)                                                                         16,352      9,831          66      26,300      19,865          32  
+  Provision for credit losses                                                                    1,987                     NM       3,388                      NM  
+  Noninterest expense                                                                                                                                              
+  Compensation expense                                                                           3,997      2,839          41       7,003       5,930          18  
+  Noncompensation expense                                                                        2,767      2,822          (2       5,657       5,360           6  
+  Total noninterest expense                                                                      6,764      5,661          19      12,660      11,290          12  
+  Income before income tax expense                                                               7,601      4,170          82      10,252       8,488          21  
+  Income tax expense                                                                             2,137      1,224          75       2,800       2,282          23  
+  Net income                                                   $                                 5,464      2,946          85       7,452       6,206          20  
+  Financial ratios                                                                                                                                                 
+  Return on equity                                             27                                                                                                  
+  Overhead ratio                                               41                                                                                                  
+  Compensation expense as percentage of total net revenue      24                                                                                                  
+
+  (a)      In the first quarter of 2020, the Firm reclassified certain fees from asset management, administration and commissions to lending- and deposit-related fees. Prior-period amounts have been revis...  
+ ─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+  (b)      Includes tax-equivalent adjustments, predominantly due to income tax credits related to alternative energy investments; income tax credits and amortization of the cost of investments in afforda...  
+ ─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+  Selected income statement data                                                                                                               
+                                           Three months ended June 30,                                                                         
+  (in millions)                            2020                                                    Change                              Change  
+  Revenue by business                                                                                                                          
+  Investment Banking                       $                                 3,401      1,776          91       4,287       3,521          22  
+  Wholesale Payments                                                         1,356      1,402          (3       2,715       2,817          (4  
+  Lending                                  270                                                          4                                  20  
+  Total Banking                                                              5,027      3,438          46       7,622       6,856          11  
+  Fixed Income Markets                                                       7,338      3,690          99      12,331       7,415          66  
+  Equity Markets                                                             2,380      1,728          38       4,617       3,469          33  
+  Securities Services                                                        1,097      1,045           5       2,171       2,059           5  
+  Credit Adjustments & Other (a)           510                                                         NM                                  NM  
+  Total Markets & Securities Services                                       11,325      6,393          77      18,678      13,009          44  
+  Total net revenue                        $                                16,352      9,831          66      26,300      19,865          32  
+
+  (a)      Includes credit valuation adjustments (“CVA”) managed centrally within CIB and funding valuation adjustments (“FVA”) on derivatives and certain components of fair value option elected liabiliti...  
+
+  Investment Banking revenue was $3.4 billion, up 91%, driven by higher Investment Banking fees, up 54%, reflecting higher fees across products, as well as $659 million of markups on held-for-sal...  
+
+  Debt underwriting fees were $1.3 billion, up 55%, driven by increased industry-wide fees and wallet share gains in both investment-grade and high-yield bonds.  
+
+  Equity underwriting fees were $977 million, up 93%, driven by both increased industry-wide fees and wallet share gains primarily in follow-on offerings and convertible securities markets.  
+
+  The increased activity in debt and equity underwriting reflected clients seeking access to liquidity as a result of the COVID-19 pandemic.  
+ ──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+  Advisory fees were $602 million, up 15%, driven by a few large completed transactions.  
+
+  Wholesale Payments revenue was $1.4 billion, down 3%, driven by a reporting re-classification for certain expenses which are now reported as a reduction of revenue in Merchant Services. In addi...  
+
+  Lending revenue was $270 million, up 4%, with higher net interest income on higher loan balances, as well as  
+
+  Fixed Income Markets revenue was $7.3 billion, up 99%, or up 120% excluding a gain from the IPO of Tradeweb in the prior year, driven by strong performance across products, primarily in Rates, ...  
+
+  Equity Markets revenue was $2.4 billion, up 38%, predominantly driven by strong client activity in derivatives and Cash Equities.  
+
+  Securities Services revenue was $1.1 billion, up 5%, predominantly driven by deposit balance and fee growth partially offset by deposit margin compression.  
+
+  Credit Adjustments & Other was a gain of $510 million, driven by funding spread tightening on derivatives.  
+
+  Investment Banking revenue was $4.3 billion, up 22%, driven by higher Investment Banking fees, up 29%, reflecting higher debt and equity underwriting fees, partially offset by lower advisory fe...  
+
+  Debt underwriting fees were $2.3 billion, up 34%, driven by increased industry-wide fees and wallet share gains in investment-grade bonds, and for high-yield bonds, after the markets stabilized...  
+
+  Equity underwriting fees were $1.3 billion, up 70%, driven by both increased industry-wide fees and wallet share gains primarily in follow-on offerings and convertible securities markets.  
+
+  The increased activity in debt and equity underwriting reflected clients seeking access to liquidity as a result of the COVID-19 pandemic.  
+ ──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+  Advisory fees of $1.1 billion were down 5%, driven by lower number of completed transactions.  
+
+  Wholesale payments revenue was $2.7 billion, down 4%, driven by a reporting re-classification for certain expenses which are now reported as a reduction of revenue in Merchant Services. In addi...  
+
+  Lending revenue was $620 million, up 20%, driven by higher net interest income on higher loan balances, as well as higher fees.  
+
+  Fixed Income Markets revenue was $12.3 billion, up 66%, driven by strong client activity across products primarily in Rates, Currencies & Emerging Markets, and Credit.  
+
+  Equity Markets revenue was $4.6 billion, up 33%, driven by strong client activity in derivatives and Cash Equities.  
+
+  Securities Services revenue was $2.2 billion, up 5%, predominantly driven by deposit balance and fee growth partially offset by deposit margin compression.  
+
+  Credit Adjustments & Other was a net loss of $441 million, predominantly driven by losses on certain components of fair value option elected liabilities, as well as the impact of funding spread...  
+
+  Selected metrics                                                                                                                                                  
+                                                   As of or for the three months                                                                                    
+  (in millions, except headcount)                  2020                                                             Change                                  Change  
+  Selected balance sheet data (period-end)                                                                                                                          
+  Assets                                           $                                  1,080,761        976,430          11      1,080,761      976,430          11  
+  Loans:                                                                                                                                                            
+  Loans retained (a)                                                                    140,770        123,074          14        140,770      123,074          14  
+  Loans held-for-sale and loans at fair value                                            10,241          6,838          50         10,241        6,838          50  
+  Total loans                                                                           151,011        129,912          16        151,011      129,912          16  
+  Equity                                                                                 80,000         80,000           —         80,000       80,000           —  
+  Selected balance sheet data (average)                                                                                                                             
+  Assets                                           $                                  1,167,807      1,000,517          17      1,125,314      984,165          14  
+  Trading assets-debt and equity instruments                                            450,507        421,775           7        438,911      401,656           9  
+  Trading assets-derivative receivables                                                  76,710         48,815          57         65,922       49,707          33  
+  Loans:                                                                                                                                                            
+  Loans retained (a)                               $                                    154,038        124,194          24        141,438      125,585          13  
+  Loans held-for-sale and loans at fair value                                             8,399          7,763           8          9,108        8,186          11  
+  Total loans                                      $                                    162,437        131,957          23        150,546      133,771          13  
+  Equity                                                                                 80,000         80,000           —         80,000       80,000           —  
+  Headcount                                                                              60,950         59,111           3         60,950       59,111           3  
+
+  (a)      Loans retained includes credit portfolio loans, loans held by consolidated Firm-administered multi-seller conduits, trade finance loans, other held-for-investment loans and overdrafts.  
+
+  Selected metrics                                                                                                                                                                                                             
+                                                                                                        As of or for the three months                                       As of or for the six months                        
+  (in millions, except ratios)                                                                          2020                                          2019      Change      2020                             2019      Change  
+  Credit data and quality statistics                                                                                                                                                                                           
+  Net charge-offs/(recoveries)                                                                          $                                    204      $            183      $                                $            154  
+  Nonperforming assets:                                                                                                                                                                                                        
+  Nonaccrual loans:                                                                                                                                                                                                            
+  Nonaccrual loans retained (a)                                                                         $                                  1,195      $            110      $                                $            110  
+  Nonaccrual loans held-for-sale and loans at fair value                                                250                                           370          (32      250                              370          (32  
+  Total nonaccrual loans                                                                                                                   1,445      939           54                                       939           54  
+  Derivative receivables                                                                                108                                           39           177      108                              39           177  
+  Assets acquired in loan satisfactions                                                                 35                                            58           (40      35                               58           (40  
+  Total nonperforming assets                                                                            $                                  1,588      $             53      $                                $             53  
+  Allowance for credit losses:                                                                                                                                                                                                 
+  Allowance for loan losses                                                                             $                                  3,440      $            204      $                                $            204  
+  Allowance for lending-related commitments                                                                                                1,233      807           53                                       807           53  
+  Total allowance for credit losses                                                                     $                                  4,673      $            141      $                                $            141  
+  Net charge-off/(recovery) rate (b)                                                                    0.53                                          0.23                  0.37                             0.16              
+  Allowance for loan losses to period-end loans retained                                                2.44                                          0.92                  2.44                             0.92              
+  Allowance for loan losses to period-end loans retained, excluding trade finance and conduits (c)      3.27                                          1.27                  3.27                             1.27              
+  Allowance for loan losses to nonaccrual loans retained (a)                                            288                                           199                   288                              199               
+  Nonaccrual loans to total period-end loans                                                            0.96                                          0.72                  0.96                             0.72              
+
+  (a)      Allowance for loan losses of $340 million and $147 million were held against these nonaccrual loans at June 30, 2020 and 2019, respectively.  
+ ─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+  (b)      Loans held-for-sale and loans at fair value were excluded when calculating the net charge-off/(recovery) rate.  
+
+  (c)      Management uses allowance for loan losses to period-end loans retained, excluding trade finance and conduits, a non-GAAP financial measure, to provide a more meaningful assessment of CIB’s allo...  
+
+  Investment banking fees                                                                                                            
+                                     Three months ended June 30,                                                                     
+  (in millions)                      2020                                        2019      Change                            Change  
+  Advisory                           $                                  602      $             15      1,105      1,169          (5  
+  Equity underwriting                977                                         505           93      1,308                     70  
+  Debt underwriting (a)                                               1,268      816           55      2,341      1,751          34  
+  Total investment banking fees      $                                2,847      $             54      4,754      3,690          29  
+
+  (a)      Represents long-term debt and loan syndications.  
+
+  League table results – wallet share                                                                                                                         
+                                           Three months ended June 30,                            Six months ended June 30,                                   
+                                           2020                                                   2020                                                        
+                                           Rank                             Share      Share      Rank                           Share      Share      Share  
+  Based on fees (a)                                                                                                                                           
+  M&A (b)                                                                                                                                                     
+  Global                                   #                                 10.6        8.8      #                                9.2        9.3        9.0  
+  U.S.                                     4                                  8.8        8.8      2                                8.8        9.5        9.3  
+  Equity and equity-related (c)                                                                                                                               
+  Global                                   2                                 11.8        9.6      2                               10.9        9.3        9.3  
+  U.S.                                     2                                 13.2       11.4      2                               12.9       11.7       13.2  
+  Long-term debt (d)                                                                                                                                          
+  Global                                   1                                 10.0        7.4      1                                9.5        7.6        7.8  
+  U.S.                                     1                                 13.4       11.4      1                               12.9       11.6       12.0  
+  Loan syndications                                                                                                                                           
+  Global                                   1                                  8.7        9.0      1                                9.9       11.1       10.1  
+  U.S.                                     3                                  9.2       10.2      1                                9.8       13.4       12.5  
+  Global investment banking fees (e)       #                                 10.6        8.6      #                                9.8        9.1        8.9  
+
+  (a)      Source: Dealogic as of July 1, 2020. Reflects the ranking of revenue wallet and market share.  
+ ──────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+  (b)      Global M&A excludes any withdrawn transactions. U.S. M&A revenue wallet represents wallet from client parents based in the U.S.  
+
+  (c)      Global equity and equity-related ranking includes rights offerings and Chinese A-Shares.  
+
+  (d)      Long-term debt rankings include investment-grade, high-yield, supranationals, sovereigns, agencies, covered bonds, ABS and mortgage-backed securities (“MBS”); and exclude money market, short-te...  
+
+  (e)      Global investment banking fees exclude money market, short-term debt and shelf deals.  
+
+                                                        Three months ended June 30,                                           Three months ended June 30,                            
+                                                        2020                                                                  2019                                                   
+  (in millions)                                         Fixed Income Markets                         Equity                   Fixed Income Markets             Equity       Total    
+                                                                                                     Markets                                                   Markets      Markets  
+ ─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Principal transactions                                $                                 4,651      $             6,388      $                                $            $        
+  Lending- and deposit-related fees                     48                                           2                        49                               2            51       
+  Asset management, administration and commissions      93                                           497                      97                               453          550      
+  All other income                                      176                                          (22                      173                              (19          154      
+  Noninterest revenue                                                                     4,968                    7,182                                                             
+  Net interest income                                                                     2,370      166           2,536      940                              (316         624      
+  Total net revenue                                     $                                 7,338      $             9,718      $                                $            $        
+                                                        Six months ended June 30,                                             Six months ended June 30,                              
+                                                        2020                                                                  2019                                                   
+  (in millions)                                         Fixed Income Markets                         Equity                   Fixed Income Markets             Equity       Total    
+  Principal transactions                                $                                 7,794      $            11,254      $                                $            $        
+  Lending- and deposit-related fees                     95                                           4                        98                               4            102      
+  Asset management, administration and commissions      204                                                        1,309      200                              887                   
+  All other income                                      177                                          (23                      392                              (23          369      
+  Noninterest revenue                                                                     8,270                   12,816                                                             
+  Net interest income                                                                     4,061      71            4,132                                       (564                  
+  Total net revenue                                     $                                12,331      $            16,948      $                                $            $        
+
+  Selected metrics                                                                                                                                                                                     
+                                                                       As of or for the three months                                As of or for the six months                                        
+  (in millions, except where otherwise noted)                          2020                                                         2020                                                       Change  
+  Assets under custody (“AUC”) by asset class (period-end)                                                                                                                                             
+  Fixed Income                                                         $                                   15,023       13,056      $                                 15,023       13,056          15  
+  Equity                                                                                                    9,288        9,352                                         9,288        9,352          (1  
+  Other (a)                                                                                                 3,136        3,042                                         3,136        3,042           3  
+  Total AUC                                                            $                                   27,447       25,450      $                                 27,447       25,450           8  
+  Merchant processing volume (in billions) (b)                         $                                    371.9        371.6      $                                  746.7        728.1           3  
+  Client deposits and other third-party liabilities (average) (c)      $                                  607,902      458,237      $                                561,183      451,185          24  
+
+  (a)      Consists of mutual funds, unit investment trusts, currencies, annuities, insurance contracts, options and other contracts.  
+
+  (b)      Represents total merchant processing volume across CIB, CCB and CB.  
+
+  (c)      Client deposits and other third-party liabilities pertain to the Wholesale Payments and Securities Services businesses.  
+
+  International metrics                                                                                                                                                           
+                                                                       As of or for the three months                                                                              
+  (in millions, except where                                           2020                                                         Change                                Change  
+  Total net revenue (a)                                                                                                                                                           
+  Europe/Middle East/Africa                                            $                                    4,976        2,898          72        7,566        6,078          24  
+  Asia-Pacific                                                                                              2,196        1,276          72        3,972        2,683          48  
+  Latin America/Caribbean                                              587                                                              55        1,094                       39  
+  Total international net revenue                                                                           7,759        4,553          70       12,632        9,546          32  
+  North America                                                                                             8,593        5,278          63       13,668       10,319          32  
+  Total net revenue                                                    $                                   16,352        9,831          66       26,300       19,865          32  
+  Loans retained (period-end) (a)                                                                                                                                                 
+  Europe/Middle East/Africa                                            $                                   28,973       27,843           4       28,973       27,843           4  
+  Asia-Pacific                                                                                             13,644       15,302         (11       13,644       15,302         (11  
+  Latin America/Caribbean                                                                                   8,190        7,090          16        8,190        7,090          16  
+  Total international loans                                                                                50,807       50,235           1       50,807       50,235           1  
+  North America                                                                                            89,963       72,839          24       89,963       72,839          24  
+  Total loans retained                                                 $                                  140,770      123,074          14      140,770      123,074          14  
+  Client deposits and other third-party liabilities (average) (b)                                                                                                                 
+  Europe/Middle East/Africa                                            $                                  216,211      175,189          23      203,594      169,694          20  
+  Asia-Pacific                                                                                            125,839       86,889          45      114,816       85,990          34  
+  Latin America/Caribbean                                                                                  36,339       28,860          26       33,598       28,175          19  
+  Total international                                                  $                                  378,389      290,938          30      352,008      283,859          24  
+  North America                                                                                           229,513      167,299          37      209,175      167,326          25  
+  Total client deposits and other third-party liabilities              $                                  607,902      458,237          33      561,183      451,185          24  
+  AUC (period-end) (b)                                                                                                                                                            
+  North America                                                        $                                   17,734       15,875          12       17,734       15,875          12  
+  All other regions                                                                                         9,713        9,575           1        9,713        9,575           1  
+  Total AUC                                                            $                                   27,447       25,450           8       27,447       25,450           8  
+
+  (a)      Total net revenue and loans retained (excluding loans held-for-sale and loans at fair value) are based on the location of the trading desk, booking location, or domicile of the client, as appli...  
+
+  (b)      Client deposits and other third-party liabilities pertaining to the Wholesale Payments and Securities Services businesses, and AUC, are based on the domicile of the client.  
+
+  (c)      Prior-period amounts have been revised to conform with the current presentation.  
+
+  COMMERCIAL BANKING  
+
+  Commercial Banking provides comprehensive financial solutions, including lending, wholesale payments, investment banking and asset management products across three primary client segments: Midd...  
+  Middle Market Banking covers small and midsized companies, local governments and nonprofit clients.                                                                                                   
+  Corporate Client Banking covers large corporations.                                                                                                                                                   
+  Commercial Real Estate Banking covers investors, developers, and owners of multifamily, office, retail, industrial and affordable housing properties.                                                 
+
+  Selected income statement data                                                                                                                                           
+                                                         Three months ended June 30,                            Six months ended June 30,                                  
+  (in millions)                                                                 2020      2019      Change      2020                                      2019             
+  Revenue                                                                                                                                                                  
+  Lending- and deposit-related fees (a)                                            $         $      33          $                                558         $        457  
+  All other income (a)                                                           518       399      30          878                                        899             
+  Noninterest revenue                                                            815       623      31                                         1,436                1,356  
+  Net interest income                                                                               (5                                         3,134                3,342  
+  Total net revenue (b)                                                                             5                                          4,570                4,698  
+  Provision for credit losses                                                               29      NM                                         3,441       119             
+  Noninterest expense                                                                                                                                                      
+  Compensation expense                                                           430       438      (2          902                                        887             
+  Noncompensation expense                                                        469       493      (5          985                                        982             
+  Total noninterest expense                                                      899       931      (3                                         1,887                1,869  
+  Income/(loss) before income tax expense/(benefit)                             (938                NM          (758                                                2,710  
+  Income tax expense/(benefit)                                                  (247       323      NM          (214                                       648             
+  Net income/(loss)                                                                $         $      NM          $                               (544         $      2,062  
+
+  (a)      In the first quarter of 2020, the Firm reclassified certain fees from asset management, administration and commissions (which are included in all other income) to lending- and deposit-related f...  
+ ─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+  (b)      Total net revenue included tax-equivalent adjustments from income tax credits related to equity investments in designated community development entities and in entities established for rehabili...  
+
+  CB product revenue consists of the following:                                                                                                                                                         
+  Lending includes a variety of financing alternatives, which are primarily provided on a secured basis; collateral includes receivables, inventory, equipment, real estate or other assets. Produc...  
+  Wholesale payments includes revenue from a broad range of products and services that enable CB clients to manage payments and receipts, as well as invest and manage funds.                           
+  Investment banking includes revenue from a range of products providing CB clients with sophisticated capital-raising alternatives, as well as balance sheet and risk management tools through adv...  
+  Other product revenue primarily includes tax-equivalent adjustments generated from Community Development Banking activities and certain income derived from principal transactions.                   
+
+  Selected income statement data (continued)                                                                                                                        
+                                                  Three months ended June 30,                            Six months ended June 30,                                  
+  (in millions, except ratios)                    2020                             2019      Change      2020                                      2019             
+  Revenue by product                                                                                                                                                
+  Lending                                         $                                $             11      $                              2,081      $         2,024  
+  Wholesale payments                              917                                           (14                                     1,908                2,167  
+  Investment banking (a)                          256                              193           33      491                                       482              
+  Other                                           92                               17           441      90                                        25               
+  Total Commercial Banking net revenue            $                                $              5      $                              4,570      $         4,698  
+  Investment banking revenue, gross (b)           $                                $             44      $                              1,537      $         1,410  
+  Revenue by client segments                                                                                                                                        
+  Middle Market Banking                           $                                $            (10      $                              1,812      $         1,935  
+  Corporate Client Banking                        859                              744           15                                     1,540                1,595  
+  Commercial Real Estate Banking                  566                              538            5                                     1,107                1,085  
+  Other                                           101                              42           140      111                                       83               
+  Total Commercial Banking net revenue            $                                $              5      $                              4,570      $         4,698  
+  Financial ratios                                                                                                                                                  
+  Return on equity                                (14                              17                    (6                                        18               
+  Overhead ratio                                  38                               41                    41                                        40               
+
+  (a)      Includes CB’s share of revenue from investment banking products sold to CB clients through the CIB.  
+
+  (b)      Refer to Business Segment Results on page 24 for discussion of revenue sharing.  
+
+  Selected metrics                                                                                                                                                  
+                                                         As of or for the three months                                                                              
+  (in millions, except headcount)                        2020                                                         Change                                Change  
+  Selected balance sheet data (period-end)                                                                                                                          
+  Total assets                                           $                                  234,934      220,712           6      234,934      220,712           6  
+  Loans:                                                                                                                                                            
+  Loans retained                                                                            223,192      208,323           7      223,192      208,323           7  
+  Loans held-for-sale and loans at fair value            917                                               1,284         (29                     1,284         (29  
+  Total loans                                            $                                  224,109      209,607           7      224,109      209,607           7  
+  Equity                                                                                     22,000       22,000           —       22,000       22,000           —  
+  Period-end loans by client segment                                                                                                                                
+  Middle Market Banking                                  $                                   64,211       56,346          14       64,211       56,346          14  
+  Corporate Client Banking                                                                   56,182       51,500           9       56,182       51,500           9  
+  Commercial Real Estate Banking                                                            103,117      100,751           2      103,117      100,751           2  
+  Other                                                  599                                               1,010         (41                     1,010         (41  
+  Total Commercial Banking loans                         $                                  224,109      209,607           7      224,109      209,607           7  
+  Selected balance sheet data (average)                                                                                                                             
+  Total assets                                           $                                  247,512      218,760          13      236,792      218,530           8  
+  Loans:                                                                                                                                                            
+  Loans retained                                                                            233,044      206,771          13      221,516      205,623           8  
+  Loans held-for-sale and loans at fair value            502                                                             (28        1,167        1,165           —  
+  Total loans                                            $                                  233,546      207,472          13      222,683      206,788           8  
+  Average loans by client segment                                                                                                                                   
+  Middle Market Banking                                  $                                   66,279       57,155          16       61,162       56,940           7  
+  Corporate Client Banking                                                                   63,308       48,656          30       58,170       48,400          20  
+  Commercial Real Estate Banking                                                            103,516      100,671           3      102,521      100,469           2  
+  Other                                                  443                                                             (55                                   (15  
+  Total Commercial Banking loans                         $                                  233,546      207,472          13      222,683      206,788           8  
+  Client deposits and other third-party liabilities      $                                  236,968      168,247          41      212,888      167,756          27  
+  Equity                                                                                     22,000       22,000           —       22,000       22,000           —  
+  Headcount                                                                                  11,802       11,248           5       11,802       11,248           5  
+
+  (a)      At June 30, 2020, total loans included $6.5 billion of loans under the PPP, of which $6.3 billion were in Middle Market Banking. Refer to Credit Portfolio on pages 60-61 for a further discussio...  
+
+  Selected metrics (continued)                       

@@ -1,0 +1,475 @@
+ITEM 2 — MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS.  
+ ───────────────────────────────────────────────────────────────────────────────────────────────────
+
+VF Corporation (together with its subsidiaries, collectively known as “VF” or the “Company”) uses a 52/53 week fiscal year ending on the Saturday closest to March 31 of each year. The Company's current fiscal year runs from March 29, 2020 through April 3, 2021 ("Fiscal 2021"). Accordingly, this Form 10-Q presents our first quarter of Fiscal 2021. For presentation purposes herein, all references to periods ended June 2020 and June 2019 relate to the fiscal periods ended on June 27, 2020 and June 
+29, 2019, respectively. References to March 2020 relate to information as of March 28, 2020.
+
+All per share amounts are presented on a diluted basis and all percentages shown in the tables below and the following discussion have been calculated using unrounded numbers. All references to foreign currency amounts below reflect the changes in foreign currency exchange rates from the same period in 2019 and their impact on translating foreign currencies into U.S. dollars. VF’s most significant foreign currency exposure relates to business conducted in euro-based countries. Additionally, VF 
+conducts business in other developed and emerging markets around the world with exposure to foreign currencies other than the euro.
+
+On May 22, 2019, VF completed the spin-off of its Jeans business, which included the Wrangler®, Lee® and Rock & Republic® brands, as well as the VF OutletTM business, into an independent, publicly traded company now operating under the name Kontoor Brands, Inc. ("Kontoor Brands"). As a result, VF reported the results for the Jeans business and the related cash flows as discontinued operations in the Consolidated Statements of Operations and Consolidated Statements of Cash Flows,
+
+respectively. These changes have been applied to all periods presented.
+
+On January 21, 2020, VF announced its decision to explore the divestiture of its Occupational Workwear business. The Occupational Workwear business is comprised primarily of the following brands and businesses: Red Kap®, VF Solutions®, Bulwark®, Workrite®, Walls®, Terra®, Kodiak®, Work Authority® and Horace Small®. The business also includes certain Dickies® occupational workwear products that have historically been sold through the business-to-business channel. During the three months ended 
+March 2020, the Company determined that the Occupational Workwear business met the held-for-sale and discontinued operations accounting criteria and expects to divest this business during Fiscal 2021. Accordingly, the Company has reported the results of the Occupational Workwear business and the related cash flows as discontinued operations in the Consolidated Statements of Operations and Consolidated Statements of Cash Flows, respectively. The related held-for-sale assets and liabilities have 
+been reported as assets and liabilities of discontinued operations in the Consolidated Balance Sheets. These changes have been applied to all periods presented.
+
+Unless otherwise noted, amounts, percentages and discussion for all periods included below reflect the results of operations and financial condition from VF’s continuing operations.
+
+Refer to Note 4 to VF’s consolidated financial statements for additional information on discontinued operations.
+
+  RECENT DEVELOPMENTS  
+
+  Impact of COVID-19  
+
+As the global impact of the novel coronavirus ("COVID-19") continues, VF remains first and foremost focused on a people-first approach that prioritizes the health and well-being of its employees, customers, trade partners and consumers around the world. To help mitigate the spread of COVID-19 and in response to health advisories and governmental actions and regulations, VF has modified its business practices including the temporary closing of offices and retail stores, instituting travel bans 
+and restrictions and implementing health and safety measures including social distancing and quarantines. VF has also implemented measures that are designed to ensure the health, safety and well-being of associates employed in its distribution, fulfillment and manufacturing centers around the world.
+
+During the first quarter, all 265 VF-operated retail stores reopened in the Asia-Pacific region and while store traffic improved, it remained down when compared with the prior year. VF initiated a phased reopening of its retail stores in Europe and North America during the first quarter in accordance with guidance from government entities and public health authorities, to allow proper training and preparation of the retail environment. In Europe, over 90 percent of the 339 VF-operated retail 
+stores reopened during the first quarter, with most of the stores that remained closed located in the United Kingdom. In North America, approximately 75 percent of the 772 VF-operated retail stores reopened during the first quarter. Subsequent to
+
+quarter-end, over 150 additional stores reopened in North America; however, approximately 120 stores have temporarily reclosed due to localized resurgence of COVID-19 outbreaks and resulting health advisories and governmental actions. VF's wholesale customers in all regions have reopened most of their retail stores. VF is continuing to monitor the COVID-19 outbreak globally and will comply with guidance from government entities and public health authorities to prioritize the health and 
+well-being of its employees, customers, trade partners and consumers. As COVID-19 uncertainty continues, additional retail store reclosures may occur.
+
+Consistent with VF’s long-term strategy, the Company’s digital platform remains a high priority through which its brands stay connected with consumer communities while providing experiential content. Many of VF's distribution and fulfillment facilities have remained operational in support of digital consumer engagement w ith its brands and to service retail partners as needed. Prior to the COVID-19 pandemic, consumer spending had started shifting to brand e-commerce sites and other digital 
+platforms, which has accelerated due to changes in the retail landscape resulting from the COVID-19 pandemic.
+
+COVID-19 has also impacted some of VF's suppliers, including third-part y manufacturers, logistics providers and other vendors. At this time, the majority of VF's supply chain is operational. Suppliers are complying with local health advisories
+
+VF Corporation Q1 FY21 Form 10-Q24
+
+Table of Contents
+
+and governmental restrictions which can result in product delays; however, VF is actively working with its suppliers to minimize disruption. VF's distribution centers are operational in accordance with local government guidelines but are experiencing intermittent disruptions while maintaining enhanced health and safety protocols.
+
+In response to COVID-19, various government programs have been announced to provide financial relief to affected businesses including the Coronavirus Aid, Relief, and Economic Security Act ("CARES Act"). The CARES Act, among other things, provides employer payroll tax credits for wages paid to employees unable to work during the COVID-19 pandemic and options to defer payroll tax payments. Other foreign government programs available to VF also provide certain payroll tax credits and wage 
+subsidies. During the first quarter of Fiscal 2021, the Company recognized $50.4 million as a result of relief from the CARES Act and other governmental packages, which were recorded as a
+
+reduction in selling, general and administrative expenses. The Company also intends to defer qualified payroll and other tax payments as permitted by the CARES Act.
+
+The COVID-19 pandemic is ongoing and dynamic in nature, and has driven global uncertainty and disruption. As a result, COVID-19 had a significant negative impact on the Company's business, including the consolidated financial condition, results of operations and cash flows during the first quarter of Fiscal 2021. While we are not able to determine the ultimate length and severity of the COVID-19 pandemic, we expect ongoing disruption to our business operations including retail store closures, 
+both VF-operated and our customers, a reduction in traffic once stores reopen and a highly promotional marketplace, which will continue to have a significant negative impact on our Fiscal 2021 financial performance, including an expected decrease in revenues of less than 25 percent in the second quarter compared to the same period in the prior year.
+
+  Enterprise Protection Strategy  
+
+VF has taken a number of actions to advance its Enterprise Protection Strategy in response to the COVID-19 pandemic.
+
+On April 23, 2020, VF closed its sale of senior unsecured notes, which provided net proceeds to the Company of approximately $2.98 billion. A portion of the net proceeds was used to repay borrowings under the Company's senior unsecured revolving credit facility (the "Global Credit Facility") and the remaining net proceeds will be us ed for general corporate purposes. At June 2020, VF had approximately $2.8 billion of cash and equivalents and short-term investments and approximately $2.2 billion 
+available for borrowing against the Global Credit Facility, subject to certain restrictions including a $750.0 million minimum liquidity requirement.
+
+Other actions VF has taken to support its business in response to the COVID-19 pandemic include the Company's decision to temporarily pause its share repurchase program. The Company currently has $2.8 billion remaining under its current share repurchase authorization. The Company paid a cash dividend of $0.48 per share during the three months ended June 2020 and has declared a cash dividend of $0.48 per share that is payable in the second quarter of Fiscal 2021. Subject to approval by its Board 
+of Directors, VF intends to continue to pay its regularly scheduled dividend and is not contemplating the suspension of its dividend at this time. VF's planned divestiture of the Occupational Workwear business would provide an additional source of cash.
+
+Other actions taken by VF also included a four-month reduction of CEO Steve Rendle's base salary by 50 percent and the base salaries of VF's Executive Leadership Team by 25 percent. In addition, VF's Board of Directors elected to temporarily forgo their cash retainer for the same period.
+
+VF has implemented cost controls to reduce discretionary spending to help mitigate the loss of sales and to conserve cash while continuing to support employees. VF continues to assess its forward inventory purchase commitments to ensure proper matching of supply and demand, which we expect will result in an overall reduction in future commitments from comparable periods in the prior year. As VF continues to actively monitor the situation, we may take further actions that affect our operations.
+
+We believe the Company has sufficient liquidity and flexibility to operate during the disruptions caused by the COVID-19 pandemic and related governmental actions and regulations and health authority advisories and meet its obligations as they become due. However, due to the uncertainty of the duration and severity of the COVID-19 pandemic, governmental actions in response to the pandemic, and the impact on us and our consumers, customers and suppliers, there is no certainty that the measures we
+take will be sufficient to mitigate the risks posed by COVID-19. See Part II, "Item 1A. Risk Factors." below for additional discussion.
+
+ ──────────────────────────────────────────────────
+
+• Revenues were down 48% to $1.1 billion compared to the three months ended June 2019, primarily due to the negative impact of COVID-19 and a 1% unfavorable impact from foreign currency.
+
+• Active segment revenues decreased 54% to $571.3 million compared to the three months ended June 2019, including a 1% unfavorable impact from foreign currency.
+
+• Outdoor segment revenues decreased 44% to $341.2 million compared to the three months ended June 2019, including a 1% unfavorable impact from foreign currency.
+
+• Direct-to-consumer revenues were down 37% over the 2019 period. E-commerce revenues increased 78% in the current period, including a 3% unfavorable impact from foreign currency. Direct-to-consumer revenues accounted for 51% of net revenues for the three months ended June 2020.
+
+• International revenues decreased 39% compared to the three months ended June 2019, including a 2% unfavorable impact from foreign currency. Greater China revenues were flat in the current period, including a 3% unfavorable impact from foreign currency. International revenues represented 51% of net revenues in the current period.
+
+25 VF Corporation Q1 FY21 Form 10-Q
+
+Table of Contents
+
+• Gross margin decreased 340 basis points to 52.9% compared to the three months ended June 2019, primarily driven by elevated promotional activity to clear excess inventory, partially offset by favorable mix shift toward higher margin businesses and channels.
+
+• Earnings (loss) per share was $(0.71) compared to $0.16 in the 2019 period. The decrease was driven by the negative impact of COVID-19, costs related to specified strategic business decisions and the unfavorable impacts from foreign currency.
+
+  ANALYSIS OF RESULTS OF OPERATIONS  
+
+  Consolidated Statements of Operations  
+
+The following table presents a summary of the changes in net revenues for the three months ended June 2020 from the comparable period in 2019:
+
+  (In millions)                   Three Months Ended June               
+ ────────────────────────────────────────────────────────────────────────
+  Net revenues — 2019             $                            2,050.7  
+  Organic                         (959.2)                               
+  Impact of foreign currency      (15.2)                                
+  Net revenues — 2020             $                            1,076.3  
+
+VF reported a 48% decrease in revenues for the three months ended June 2020 compared to the 2019 period. The revenue decrease was primarily attributable to the negative impact of COVID-19 and included a 1% unfavorable impact from foreign currency. Revenues decreased in both our wholesale and direct-to-consumer channels in the three months ended June 2020. Decreases in the direct-to-consumer channel were driven by declines in our owned retail stores, which were partially offset by significant 
+e-commerce revenue growth during the three months ended June 2020.
+
+Additional details on revenues are provided in the section titled “Information by Reportable Segment.”
+
+The following table presents the percentage relationships to net revenues for components of the Consolidated Statements of Operations:
+
+                                                           Three Months Ended June            
+                                                                              2020      2019  
+ ──────────────────────────────────────────────────────────────────────────────────────────────
+  Gross margin (net revenues less cost of goods sold)                         52.9      56.3  
+  Selling, general and administrative expenses                                75.8      51.6  
+  Operating margin                                                          (22.9)       4.7  
+
+Gross margin decreased 340 basis points in the three months ended June 2020 compared to the 2019 period. Gross margin in the three months ended June 2020 was negatively impacted by elevated promotional activity to clear excess inventory, partially offset by favorable mix shift toward higher margin businesses and channels.
+
+Selling, general and administrative expenses as a percentage of total revenues increased during the three months ended June 2020 compared to the 2019 period, primarily reflecting lower leverage of operating expenses due to decreased revenues as a result of the negative impact of COVID-19. Selling, general and administrative expenses decreased $242.3 million in the three months ended June 2020 compared to the 2019 period, primarily due to cost controls taken in response to COVID-19 and payroll 
+relief from the CARES Act and other governmental packages, partially offset by continued investments in direct-to-consumer and digital strategic growth initiatives. The decrease was also attributable to lower transaction and deal-related costs and lower costs related to the relocation of our global headquarters and certain brands to Denver, Colorado in the three months ended June 2020.
+
+Net interest expense increased $12.4 million during the three months ended June 2020 compared to the 2019 period. The increase in net interest expense in the three months ended June 2020 was primarily due to additional borrowings of long-term debt and lower investment interest rates, partially offset by lower interest rates on borrowings. Total outstanding debt averaged $6.2 billion in the three months ended June 2020 and $2.6 billion in the same period in 2019, with weighted average interest 
+rates of 1.9% and 3.2%, respectively.
+
+Other income (expense), net decreased $43.7 million during the three months ended June 2020 compared to the 2019 period. The decrease was primarily due to $42.4 million expense recorded in the three months ended June 2020 related to the release of currency translation amounts associated with the substantial liquidation of foreign entities in certain countries in South America.
+
+The effective income tax rate for the three months ended June 2020 was 11.2% compared to 24.0% in the 2019 period. The three months ended June 2020 included a net discrete tax expense of $1.8 million, which primarily related to unrecognized tax benefits and interest. The $1.8 million net discrete tax expense in the 2020 period reduced the effective income tax rate by 0.6%. The 2019 period included a discrete tax benefit of $2.0 million related to stock compensation and a discrete tax expense of 
+$2.0 million
+
+VF Corporation Q1 FY21 Form 10-Q26
+
+Table of Contents
+
+related to unrecognized tax benefits and interest. Without discrete items, the effective income tax rate for the three months ended June 2020 decreased by 12.2% compared with the 2019 period primarily due to a higher percentage of income in lower tax rate jurisdictions and losses in the current quarter.
+
+As a result of the above, income (loss) from continuing operations in the three months ended June 2020 was $(277.7) million ($(0.71) per diluted share) compared to $65.3 million ($0.16 per diluted share) in the 2019 period. Refer to additional discussion in the “Information by Reportable Segment” section below.
+
+  Information by Reportable Segment  
+
+VF's reportable segments are: Outdoor, Active and Work. We have included an Other category in the tables below for purposes of reconciliation of revenues and profit (loss), but it is not considered a reportable segment. Included in this Other category are results primarily related to the sale of non-VF products.
+
+Refer to Note 14 to the consolidated financial statements for a summary of results of operations by segment, along with a reconciliation of segment profit (loss) to income (loss) before income taxes.
+
+The following tables present a summary of the changes in segment revenues and profit (loss) in the three months ended June 2020 from the comparable period in 2019:
+
+Segment Revenues:
+
+                                  Three Months Ended June                                                                           
+  (In millions)                   Outdoor                                 Active                    Work        Other      Total    
+ ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Segment revenues — 2019         $                            610.6      $            1,232.1      $           $          $        
+  Organic                         (265.3)                                 (651.8)                   (37.2)      (4.9)      (959.2)  
+  Impact of foreign currency      (4.1)                                   (9.0)                     (2.0)       (0.1)      (15.2)   
+  Segment revenues — 2020         $                            341.2      $              571.3      $           $          $        
+
+Segment Profit (Loss):
+
+                                    Three Months Ended June                                                                           
+  (In millions)                     Outdoor                                   Active                  Work        Other      Total    
+ ──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Segment profit (loss) — 2019      $                             (80.3)      $            307.6      $           $          $        
+  Organic                           (81.9)                                    (299.6)                 (26.8)      (2.0)      (410.3)  
+  Impact of foreign currency        1.5                                       (0.9)                   (0.1)       1.3        1.8      
+  Segment profit (loss) — 2020      $                            (160.7)      $              7.1      $           $          $        
+
+27 VF Corporation Q1 FY21 Form 10-Q
+
+Table of Contents
+
+The following sections discuss the changes in revenues and profitability by segment. For purposes of this analysis, royalty revenues have been included in the wholesale channel for all periods.
+
+Outdoor
+
+                             Three Months Ended June                           
+  (Dollars in millions)                         2020        2019      Percent  
+                                                                      Change   
+ ───────────────────────────────────────────────────────────────────────────────
+  Segment revenues                                 $           $      (44.1)   
+  Segment profit (loss)                      (160.7)      (80.3)               
+  Operating margin                            (47.1)      (13.1)               
+
+The Outdoor segment includes the following brands: The North Face®, Timberland®, Icebreaker®, Smartwool® and Altra®.
+
+Global revenues for Outdoor decreased 44% in the three months ended June 2020 compared to 2019, including a 1% unfavorable impact due to foreign currency. Revenues in the Americas region decreased 51%. Revenues in the Europe region decreased 45%, including a 1% unfavorable impact from foreign currency. Revenues in the Asia-Pacific region decreased 19%, including a 1% unfavorable impact from foreign currency.
+
+Global revenues for The North Face® brand decreased 45% in the three months ended June 2020 compared to the 2019 period. This includes a 1% unfavorable impact from foreign currency in the three months ended June 2020. The decrease was primarily due to the negative impact of COVID-19 in the Americas and Europe regions, partially offset by e-commerce growth.
+
+Global revenues for the Timberland® brand decreased47% in the three months ended June 2020 compared to the 2019 period. The decrease in the three months ended June 2020 was primarily due to the negative impact of COVID-19 and includes an overall 1% unfavorable impact from foreign currency, partially offset by e-commerce growth.
+
+Global direct-to-consumer revenues for Outdoor decreased 32% in the three months ended June 2020 compared to the 2019 period. The decrease was primarily due to the negative impact of COVID-19 and related closures of VF-operated retail stores, partially offset by e-commerce growth across all regions, which increased 97% in the three months ended June 2020, including a 2% unfavorable impact from foreign currency. Global wholesale revenues decreased 53% in the three months ended June 2020 compared 
+to the 2019 period, driven by the negative impact of COVID-19.
+
+Operating margin decreased in the three months ended June 2020 compared to the 2019 period reflecting lower leverage of operating expenses due to decreased revenues, elevated promotional activity, higher product costs and continued investments in direct-to-consumer and digital strategic growth initiatives. The decrease in the three months ended June 2020 was partially offset by a mix-shift to higher margin businesses and channels, cost controls taken in response to COVID-19 and payroll relief 
+from the CARES Act and other governmental packages. The three months ended June 2019 included a gain of approximately $11 million on the sale of office real estate and related assets in connection with the relocation of VF's global headquarters and certain brands to Denver, Colorado.
+
+VF Corporation Q1 FY21 Form 10-Q28
+
+Table of Contents
+
+Active
+
+                             Three Months Ended June                          
+  (Dollars in millions)                         2020       2019      Percent  
+                                                                     Change   
+ ──────────────────────────────────────────────────────────────────────────────
+  Segment revenues                                 $          $      (53.6)   
+  Segment profit                                 7.1      307.6               
+  Operating margin                               1.2       25.0               
+
+The Active segment includes the following brands: Vans®, Kipling®, Napapijri®, Eastpak®, JanSport® and Eagle Creek®.
+
+Global revenues for Active decreased 54% in the three months ended June 2020, compared to the 2019 period, primarily driven by the negative impact of COVID-19. The overall decrease includes a 1% unfavorable impact from foreign currency. Revenues in the Americas region decreased 64%. Revenues in the Europe region decreased 51%, including a 1% unfavorable impact from foreign currency. Revenues in the Asia-Pacific region decreased 9%, with a 3% unfavorable impact from foreign currency.
+
+Vans® brand global revenues decreased 52% in the three months ended June 2020, compared to the 2019 period, including a 1% unfavorable impact from foreign currency. The decrease was primarily due to the negative impact of COVID-19, partially offset by e-commerce growth and growth in Greater China.
+
+Global direct-to-consumer revenues for Active decreased 43% in the three months ended June 2020, compared to the 2019 period, including a 1% unfavorable impact from foreign currency. The decrease in the direct-to-consumer channel was
+
+primarily due to the negative impact of COVID-19 and related closures of VF-operated retail stores, partially offset by e-commerce growth across all regions, which increased 75%, including a 3% unfavorable impact from foreign currency. Wholesale revenues decreased 63% in the three months ended June 2020, primarily due to the negative impact of COVID-19, and included a 1% unfavorable impact from foreign currency.
+
+Operating margin decreased in the three months ended June 2020 compared to the 2019 period reflecting lower leverage of operating expenses due to decreased revenues, elevated promotional activity and continued investments in direct-to-consumer and digital strategic growth initiatives. The decrease in the three months ended June 2020 was partially offset by a mix-shift to higher margin businesses and channels, lower product costs, cost controls taken in response to COVID-19 and payroll relief 
+from the CARES Act and other governmental packages.
+
+Work
+
+                             Three Months Ended June                         
+  (Dollars in millions)                         2020      2019      Percent  
+                                                                    Change   
+ ─────────────────────────────────────────────────────────────────────────────
+  Segment revenues                                 $         $      (19.4)   
+  Segment profit (loss)                       (11.4)      15.5               
+  Operating margin                             (7.0)       7.7               
+
+The Work segment includes the following brands: Dickies® and Timberland PRO®.
+
+Global Work revenues decreased 19% in the three months ended June 2020 compared to the 2019 period, including a 1% unfavorable impact due to foreign currency. The revenue decrease was primarily due to the negative impact of COVID-19. Revenues in the Americas region decreased 20%. Revenues in the Europe region decreased 35%, including a 1% unfavorable impact from foreign currency. Revenues in the Asia-Pacific region decreased 2%, including a 3% unfavorable impact from foreign currency.
+
+Dickies® brand global revenues decreased 16% in the three months ended June 2020, compared to the 2019 period, including a 1% unfavorable impact from foreign currency. The
+
+decrease in the three months ended June 2020 was primarily due to the negative impact of COVID-19 in the Americas region, partially offset by growth in Greater China and e-commerce growth.
+
+Operating margin decreased in the three months ended June 2020 compared to the 2019 period reflecting lower leverage of operating expenses due to decreased revenues and certain higher product costs, partially offset by cost controls taken in response to COVID-19.
+
+29 VF Corporation Q1 FY21 Form 10-Q
+
+Table of Contents
+
+  Reconciliation of Segment Profit (Loss) to Income (Loss) Before Income Taxes  
+
+There are two types of costs necessary to reconcile total segment profit (loss), as discussed in the preceding paragraphs, to consolidated income (loss) from continuing operations before income taxes. These costs are (i) corporate and other expenses, discussed below, and (ii) interest expense, net, which was discussed in the “Consolidated Statements of Operations” section.
+
+                                    Three Months Ended June                         
+  (Dollars in millions)             2020                         2019      Percent  
+                                                                           Change   
+ ────────────────────────────────────────────────────────────────────────────────────
+  Corporate and other expenses      $                            $         (15.7)   
+  Interest expense, net             27.9                         15.6      79.4     
+
+Corporate and other expenses are those that have not been allocated to the segments for internal management reporting, including (i) information systems and shared service costs, (ii) corporate headquarters costs, and (iii) certain other income and expenses. The decrease in the three months ended June 2020 was attributed to cost controls to reduce discretionary spending, lower transaction and deal-related costs and lower costs related to the relocation of our global headquarters and
+
+certain brands to Denver, Colorado in the three months ended June 2020. The decrease was partially offset by a $42.4 million expense recorded in the three months ended June 2020 related to the release of currency translation amounts associated with the substantial liquidation of foreign entities in certain countries in South America and increased costs related to cost optimization activity indirectly related to the strategic review of the Occupational Workwear business.
+
+  International Operations  
+
+International revenues decreased 39% in the three months ended June 2020 compared to the 2019 period primarily due to the negative impact of COVID-19. Foreign currency negatively impacted international revenue growth by 2% in the three months ended June 2020. Revenues in Europe decreased 48% in the three months ended June 2020, including a 1% unfavorable impact from foreign currency in the three months ended June 2020. In the Asia-Pacific region, revenues decreased 12% in the three months ended 
+June 2020. Foreign currency negatively
+
+impacted revenues in the Asia-Pacific region by 3% in the three months ended June 2020. Revenues in Greater China were flat, including a 3% unfavorable impact from foreign currency. Revenues in the Americas (non-U.S.) region decreased 71% in the three months ended June 2020, including a 2% unfavorable impact from foreign currencies. International revenues were 51% and 44% of total revenues in the three-month periods ended June 2020 and 2019, respectively.
+
+  Direct-to-Consumer Operations  
+
+Direct-to-consumer revenues decreased 37% in the three months ended June 2020. The decrease in direct-to-consumer revenues was primarily due to the negative impact of COVID-19 and related closures of VF-operated retail stores. Our e-commerce business grew 78% in the three months ended June 2020, including a 3% unfavorable impact from foreign currency. The e-commerce growth occurred across all regions and partially offset the declines in our other direct-to-consumer operations for the three 
+months ended June 2020. There were 1,376 VF-owned retail stores at June 2020 compared to 1,386 at June 2019. Direct-to-consumer revenues were 51% of total revenues for the three-month period ended June 2020 compared to 42% in the2019 period.
+
+VF Corporation Q1 FY21 Form 10-Q30
+
+Table of Contents
+
+  ANALYSIS OF FINANCIAL CONDITION  
+
+  Consolidated Balance Sheets  
+
+The following discussion refers to significant changes in balances at June 2020 compared to March 2020:
+
+• Decrease in accounts receivable - primarily due to lower wholesale shipments resulting from the negative impact of COVID-19.
+
+•Increase in inventories - primarily due to the seasonality of the business and decreased consumer demand resulting from the negative impact of COVID-19, partially offset by lower inventory purchases as part of our inventory management to ensure proper matching of supply and demand.
+
+• Increase in short-term investments - due to new investments entered into during June 2020.
+
+• Increase in other current assets - primarily due to higher prepaid income taxes.
+
+• Increase in operating lease right-of-use assets - primarily due to the commencement of a new distribution center lease in Europe during the period.
+
+•Decrease in short-term borrowings - due to net repayment of borrowings under the Global Credit Facility using a portion of the net proceeds from the issuance of senior unsecured fixed-rate notes in April 2020.
+
+•Decrease in accounts payable - due to the timing of payments to vendors and an overall reduction in purchases and spending resulting from the COVID-19 impact.
+
+•Increase in long-term debt - due to the issuance of $3.0 billion of senior unsecured fixed-rate notes in April 2020.
+
+• Increase in operating lease liabilities - primarily due to the commencement of a new distribution center lease in Europe during the period.
+
+The following discussion refers to significant changes in balances at June 2020 compared to June 2019:
+
+• Decrease in accounts receivable - primarily due to lower wholesale shipments resulting from the negative impact of COVID-19.
+
+• Increase in short-term investments - due to new inv estments entered into during June 2020.
+
+• Increase in other current assets - primarily due to higher prepaid income taxes.
+
+• Increase in property, plant and equipment - primarily related to capital spending associated with the construction of distribution centers and leasehold improvements in VF's new global headquarters in Denver, Colorado.
+
+•Decrease in goodwill - primarily due to a $323.2 million goodwill impairment charge related to the Timberland reporting unit in the fourth quarter of Fiscal 2020.
+
+• Increase in operating lease right-of-use assets - primarily due to new and renewed retail store leases and a new distribution center lease in Europe that commenced during the period.
+
+• Increase in other assets - primarily due to an increase in deferred tax assets associated with the enactment of certain provisions of Switzerland's Federal Act on Tax Reform and AHV Financing.
+
+• Decrease i n short-term borrowings - due to net repayment of commercial paper borrowings.
+
+•Decrease in accounts payable - driven by the timing of payments to vendors and an overall reduction in purchases and spending resulting from the COVID-19 impact.
+
+•Increase in long-term debt - due to the issuance of $3.0 billion fixed-rate notes in April 2020 and the issuance of €1.0 billion euro-denominated fixed-rate notes in February 2020, partially offset by the full redemption of $500.0 million of VF's outstanding 2021 notes in March 2020.
+
+•Increase in operating lease liabilities - due to new and renewed retail store leases and a new distribution center lease in Europe that commenced during the period.
+
+  Liquidity and Capital Resources  
+
+The financial condition of VF is reflected in the following:
+
+                                     June         March          June  
+  (Dollars in millions)              2020          2020          2019  
+ ───────────────────────────────────────────────────────────────────────
+  Working capital                $4,071.8      $1,518.8      $1,724.2  
+  Current ratio                  3.5 to 1      1.5 to 1      1.9 to 1  
+  Net debt to total capital         63.1%         53.4%         41.7%  
+
+The increase in the current ratio at June 2020 compared to March 2020 was primarily due to a net increase in current assets driven by higher cash balances due to proceeds from long-term debt, as discussed in the "Cash Provided by Financing Activities" section below, higher short-term investments and inventory balances and a net decrease in current liabilities driven by lower short-term borrowings, as discussed in the "Consolidated Balance Sheets" section above. The increase in the current ratio
+
+at June 2020 compared to June 2019 was primarily due to a net increase in current assets driven by higher cash balances due to proceeds from long-term debt, as discussed in the "Cash Provided by Financing Activities" section below and higher short-term investments, as discussed in the "Consolidated Balance Sheets" section above.
+
+31 VF Corporation Q1 FY21 Form 10-Q
+
+Table of Contents
+
+For the ratio of net debt to total capital, net debt is defined as short-term and long-term borrowings, in addition to operating lease liabilities, net of unrestricted cash of VF and its subsidiaries. Total capital is defined as net debt plus stockholders’ equity. The increase in the net debt to total capital ratio at June 2020 compared to both March 2020 and June 2019 was attributed to the increase in long-term debt, as discussed in the "Consolidated Balance Sheets" section above and decreases 
+in stockholders' equity. The increase in the net debt to total capital ratio at June 2020 compared to March 2020 was partially offset by the decrease in short-term borrowings, as discussed in the "Consolidated Balance Sheets" section above. The decrease in stockholders' equity at June 2020 compared to March 2020 was driven by the net loss for the period and payments of dividends. The decrease in stockholders' equity at June 2020 compared to June 2019 was driven by payments of dividends,
+
+share repurchases and stock-based compensation activity, partially offset by net income.
+
+VF’s primary source of liquidity is its expected annual cash flow from operating activities. Cash from operations is typically lower in the first half of the calendar year as inventory builds to support peak sales periods in the second half of the calendar year. Cash provided by operating activities in the second half of the calendar year is substantially higher as inventories are sold and accounts receivable are collected. Additionally, direct-to-consumer sales are highest in the fourth quarter
+of the calendar year. VF's additional sources of liquidity include available borrowing capacity against its Global Credit Facility, remaining net proceeds from recent borrowings of long-term debt and international lines of credit.
+
+In summary, our cash flows from continuing operations were as follows:
+
+                                                    Three Months Ended June                                         
+  (In thousands)                                    2020                                        2019                
+ ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Cash used by operating activities                 $                             (10,454)      $         (76,223)  
+  Cash provided (used) by investing activities                                   (783,241)                   3,784  
+  Cash provided by financing activities                                          1,562,661                 123,853  
+
+Cash Used by Operating Activities
+
+Cash flow related to operating activities is dependent on net income (loss), adjustments to net income (loss) and changes in working capital. The decrease in cash used by operating activities in the three months ended June 2020 compared to June 2019 is primarily due to a decrease in net cash usage for working capital, partially offset by lower earnings for the periods compared.
+
+Cash Provided (Used) by Investing Activities
+
+The increase in cash used by investing activities in the three months ended June 2020 related primarily to purchases of short-term investments of $700.0 million. The three months ended June 2019 included $63.7 million from the sale of office real estate and related assets in connection with the relocation of VF's global headquarters and certain brands to Denver, Colorado. Capital expenditures increased $23.8 million in the three months ended June 2020 compared to the 2019 period.
+
+Cash Provided by Financing Activities
+
+The increase in cash provided by financing activities during the three months ended June 2020 was primarily due to the net proceeds from long-term debt issuance of $3.0 billion fixed-rate notes, which was partially offset by a $624.1 million net decrease in short-term borrowings for the periods compared. The increase was also partially offset by $906.1 million of cash received from Kontoor Brands, net of cash transferred, in the three months ended June 2019.
+
+VF did not purchase shares of its Common Stock in the open market during the three months ended June 2020 or the three months ended June 2019 under the share repurchase program authorized by VF's Board of Directors.
+
+In response to the COVID-19 outbreak and to preserve financial liquidity, VF has made the decision to temporarily pause its share repurchase program. As of the end of June 2020, the Company had $2.8 billion remaining for future repurchases
+
+under its share repurchase program. VF will continue to evaluate its use of capital, giving first priority to enterprise protection and then to business acquisitions and direct shareholder return in the form of dividends and share repurchases.
+
+VF relies on its ability to generate cash flows to finance its ongoing operations. In addition, VF has significant liquidity from its available cash and investment balances and credit facilities. VF maintains a $2.25 billion senior unsecured revolving line of credit (the “Global Credit Facility”) that expires December 2023. VF may request an unlimited number of one year extensions so long as each extension does not cause the remaining life of the Global Credit Facility to exceed five years, 
+subject to stated terms and conditions. The Global Credit Facility may be used to borrow funds in both U.S. dollar and certain non-U.S. dollar currencies, and has a $50.0 million letter of credit sublimit. In addition, the Global Credit Facility supports VF’s U.S. commercial paper program for short-term, seasonal working capital requirements and general corporate purposes, including share repurchases and acquisitions. Outstanding short-term balances may vary from period to period depending on 
+the level of corporate requirements.
+
+In April 2020, VF entered into an amendment to the Global Credit Facility that resulted in certain changes to the restrictive covenants, including an increase to the consolidated indebtedness to consolidated capitalization financial ratio covenant to 70% and a revision to the calculation of consolidated indebtedness to be net of unrestricted cash. As of June 2020, t he covenant calculation includes cash and equivalents and short-term investments, and excludes consolidated operating lease 
+liabilities. In addition, the amendment requires VF and its subsidiaries to maintain minimum liquidity in the form of unrestricted cash and unused financing commitments of not less than $750.0 million. As of June 2020, VF was in compliance with all covenants.
+
+VF has a commercial paper program that allows for borrowings of up to $2.25 billion to the extent that it has borrowing capacity
+
+VF Corporation Q1 FY21 Form 10-Q32
+
+Table of Contents
+
+under the Global Credit Facility. As of June 2020, there were no commercial paper borrowings. Standby letters of credit issued as of June 2020 were $22.0 million, leaving approximately $2.2 billion available for borrowing against the Global Credit Facility at June 2020. Additionally, VF had approximately $2.8 billion of cash and equivalents and short-term investments at June 2020.
+
+VF has $92.1 million of international lines of credit with various banks, which are uncommitted and may be terminated at any time by either VF or the banks. Total outstanding balances under these arrangements were $13.2 million at June 2020.
+
+On April 23, 2020, VF closed its sale of senior unsecured notes including $1.0 billion of 2.050% notes due April 2022, $750.0 million of 2.400% notes due April 2025, $500.0 million of 2.800% notes due April 2027 and $750.0 million of 2.950% notes due April 2030. The net proceeds received by the Company were approximately $2.98 billion. A portion of the net proceeds was used to repay $2.0 billion of outstanding borrowings under the Global Credit Facility resulting from actions taken by VF to 
+strengthen the Company's cash position in response to the COVID-19 pandemic, and the remaining net proceeds will be used for general corporate purposes.
+
+VF’s favorable credit agency ratings allow for access to additional liquidity at competitive rates. At the end of June 2020, VF’s long-term debt ratings were ‘A’ by Standard & Poor’s Ratings Services and ‘A3’ by Moody’s Investors Service, both with 'negative' outlooks, and commercial paper ratings by those rating agencies were ‘A-1’ and ‘Prime-2’, respectively. In April 2020, Standard & Poor's Ratings Services revised VF's credit rating outlook to 'negative' from 'stable' to reflect the risk 
+that extended economic stress from the COVID-19 pandemic on operating performance could result in a downgrade due to prolonged credit measure deterioration. Similarly, in April 2020, Moody's Investor Services also revised VF's credit rating outlook to 'negative'. There have been no subsequent changes in the credit rating outlooks.
+
+None of VF’s long-term debt agreements contain acceleration of maturity clauses based solely on changes in credit ratings. However, if there were a change in control of VF, and as a result of the change in control the 2023, 2028, 2032 and 2037 notes were rated below investment grade by recognized rating
+
+agencies, VF would be obligated to repurchase the notes at 101% of the aggregate principal amount, plus any accrued and unpaid interest, if required to by the respective holders of the notes.
+
+The Company paid a cash dividend of $0.48 per share ($186.7 million) during the three months ended June 2020 and the Company has declared a cash dividend o f $0.48 p er share that is payable in the second quarter of Fiscal 2021. Subject to approval by its Board of Directors, VF intends to continue to pay its regularly scheduled dividend and is not contemplating the suspension of its dividend at this time.
+
+Management’s Discussion and Analysis in the Fiscal 2020 Form 10-K provided a table summarizing VF’s contractual obligations and commercial commitments at the end of Fiscal 2020 that would require the use of funds. As of June 2020, there have been no material changes in the amounts disclosed in the Fiscal 2020 Form 10-K, except as noted below:
+
+• Inventory purchase obligations decreased by approximately $310 million at the end of June 2020 primarily due to the timing of sourcing activities and the impact of COVID-19.
+
+• In addition to operating lease liabilities recorded in VF's Consolidated Balance Sheet, the Company has entered into approximately $200 million of leases that have not yet commenced, including over $150 million related to a distribution center lease that is expected to begin during Fiscal 2021 with a lease term of 15 years.
+
+• VF's required principal payments on long-term debt increased during the period due to the issuance of senior unsecured notes with an aggregate principal value of $3.0 billion.
+
+There continues to be significant uncertainty about the duration and extent of the impact of COVID-19 and we expect there will be a significant negative impact to our Fiscal 2021 cash flows. However, management believes that VF has sufficient liquidity and flexibility to operate during and after the disruptions caused by the COVID-19 pandemic and related governmental actions and regulations and health authority advisories and meet its current and long-term obligations as they become due.
+
+  Recent Accounting Pronouncements  
+
+Refer to Note 2 to VF’s consolidated financial statements for information on recently issued and adopted accounting standards.
+
+  Critical Accounting Policies and Estimates  
+
+Management has chosen accounting policies it considers to be appropriate to accurately and fairly report VF’s operating results and financial position in conformity with generally accepted accounting principles in the United States of America. Our critical accounting policies are applied in a consistent manner. Significant accounting policies are summarized in Note 1 to the consolidated financial statements included in the Fiscal 2020 Form 10-K.
+
+The application of these accounting policies requires management to make estimates and assumptions about future events and apply judgments that affect the reported amounts of assets, liabilities, revenues, expenses, contingent assets and liabilities, and related disclosures. These estimates, assumptions and judgments are based on historical experience, current trends and other factors believed to be reasonable under
+
+the circumstances. Management evaluates these estimates and assumptions, and may retain outside consultants to assist in the evaluation. If actual results ultimately differ from previous estimates, the revisions are included in results of operations in the period in which the actual amounts become known.
+
+The accounting policies that involve the most significant estimates, assumptions and management judgments used in preparation of the consolidated financial statements, or are the most sensitive to change from outside factors, are discussed in Management’s Discussion and Analysis in the Fiscal 2020 Form 10-K.
+
+Except as disclosed in Note 2 to VF's consolidated financial statements, there have been no material changes in VF's accounting policies.
+
+33 VF Corporation Q1 FY21 Form 10-Q
+
+Table of Contents
+
+  Cautionary Statement on Forward-looking Statements  
+
+From time to time, VF may make oral or written statements, including statements in this quarterly report that constitute “forward-looking statements” within the meaning of the federal securities laws. These include statements concerning plans, objectives, projections and expectations relating to VF’s operations or economic performance and assumptions related thereto. Forward-looking statements are made based on management’s expectations and beliefs concerning future events impacting VF and 
+therefore involve a number of risks and uncertainties. Forward-looking statements are not guarantees, and actual results could differ materially from those expressed or implied in the forward-looking statements.
+
+Potential risks and uncertainties that could cause the actual results of operations or financial condition of VF to differ materially from those expressed or implied by forward-looking statements include, but are not limited to: risks arising from the widespread outbreak of an illness or any other communicable disease, or any other public health crisis, including the coronavirus (COVID-19) global pandemic; the level of consumer demand for apparel, footwear and accessories; disruption to VF’s 
+distribution system; the financial strength of VF’s customers; fluctuations in the price, availability and quality of raw materials and contracted products; disruption and volatility in the global capital and credit markets; VF’s response to changing fashion trends, evolving consumer preferences and changing patterns of consumer behavior; intense competition from online retailers; manufacturing and product innovation; increasing pressure on margins; VF’s ability to implement its business 
+strategy; VF’s ability to grow its international and direct-to-consumer businesses; retail industry changes and challenges; VF’s and its vendors’ ability to maintain the strength and security of information technology systems; the risk that
+
+VF’s facilities and systems and those of our third-party service providers may be vulnerable to and unable to anticipate or detect data security breaches and data or financial loss; VF’s ability to properly collect, use, manage and secure consumer and employee data; foreign currency fluctuations; stability of VF’s manufacturing facilities and foreign suppliers; continued use by VF’s suppliers of ethical business practices; VF’s ability to accurately forecast demand for products; continuity of 
+members of VF’s management; VF’s ability to protect trademarks and other intellectual property rights; possible goodwill and other asset impairment; maintenance by VF’s licensees and distributors of the value of VF’s brands; VF’s ability to execute and integrate acquisitions; changes in tax laws and liabilities; legal, regulatory, political and economic risks; the risk of economic uncertainty associated with the exit of the United Kingdom from the European Union (“Brexit”) or any other similar 
+referendums that may be held; adverse or unexpected weather conditions; VF's indebtedness and its ability to obtain financing on favorable terms, if needed, could prevent VF from fulfilling its financial obligations; climate change and increased focus on sustainability issues; and risks associated with the spin-off of our Jeanswear business completed on May 22, 2019, including the risk that VF will not realize all of the expected benefits of the spin-off; the risk that the spin-off will not be 
+tax-free for U.S. federal income tax purposes; and the risk that there will be a loss of synergies from separating the businesses that could negatively impact the balance sheet, profit margins or earnings of VF. More information on potential factors that could affect VF’s financial results is included from time to time in VF’s public reports filed with the Securities and Exchange Commission, including VF’s Annual Report on Form 10-K.
+
+  ITEM 3 — QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK.  
+ ────────────────────────────────────────────────────────────────────────
+
+There have been no significant changes in VF’s market risk exposures from what was disclosed in Item 7A in the Fiscal 2020 Form 10-K.
+
+  ITEM 4 — CONTROLS AND PROCEDURES.  
+ ─────────────────────────────────────
+
+Disclosure controls and procedures:
+
+Under the supervision of the Chief Executive Officer and Chief Financial Officer, a Disclosure Committee comprising various members of management has evaluated the effectiveness of the disclosure controls and procedures at VF and its subsidiaries as of the end of the period covered by this quarterly report (the “Evaluation Date”). Based on this evaluation, the Chief Executive Officer and Chief Financial Officer have concluded as of the Evaluation Date that such controls and procedures were 
+effective.
+
+Changes in internal control over financial reporting:
+
+There have been no changes during the last fiscal quarter that have materially affected, or are reasonably likely to materially affect, VF's internal control over financial reporting. We have not experienced any material impact to our internal controls over financial reporting despite the fact that most of our employees are working remotely due to the COVID-19 pandemic. We are continually monitoring and assessing the COVID-19 situation on our internal controls to minimize the impact on their 
+design and operating effectiveness.
+
+VF Corporation Q1 FY21 Form 10-Q34
+
+Table of Contents
+

@@ -1,0 +1,354 @@
+ITEM 2.      Management’s Discussion and Analysis of Financial Condition and Results of Operations  
+ ──────────────────────────────────────────────────────────────────────────────────────────────────────
+
+This management’s discussion and analysis provides a review of the results of operations, financial condition and the liquidity and capital resources of Visa Inc. and its subsidiaries (“Visa,” “we,” “us,” “our” or the “Company”) on a historical basis and outlines the factors that have affected recent earnings, as well as those factors that may affect future earnings. The following discussion and analysis should be read in conjunction with our unaudited consolidated financial statements and 
+related notes included elsewhere in this report.
+
+Forward-Looking Statements
+
+This Quarterly Report on Form 10-Q contains forward-looking statements within the meaning of the U.S. Private Securities Litigation Reform Act of 1995 that relate to, among other things, the impact on our future financial position, results of operations and cash flows as a result of the coronavirus (“COVID-19”); our future operations, prospects, developments, strategies and growth of our business; anticipated expansion of our products in certain countries; industry developments; anticipated 
+benefits of our acquisitions; expectations regarding litigation matters, investigations and proceedings; timing and amount of stock repurchases; sufficiency of sources of liquidity and funding; effectiveness of our risk management programs; and expectations regarding the impact of recent accounting pronouncements on our consolidated financial statements. Forward-looking statements generally are identified by words such as “believes,” “estimates,” “expects,” “intends,” “may,” “projects,” “could,”
+“should,” “will,” “continue” and other similar expressions. All statements other than statements of historical fact could be forward-looking statements, which speak only as of the date they are made, are not guarantees of future performance and are subject to certain risks, uncertainties and other factors, many of which are beyond our control and are difficult to predict. We describe risks and uncertainties that could cause actual results to differ materially from those expressed in, or implied 
+by, any of these forward-looking statements in our SEC filings, including our Annual Report on Form 10-K, for the year endedSeptember 30, 2019 and our subsequent reports on Forms 10-Q and 8-K. Except as required by law, we do not intend to update or revise any forward-looking statements as a result of new information, future events or otherwise.
+
+
+Overview
+
+Visa is a global payments technology company that enables fast, secure and reliable electronic payments across more than 200 countries and territories. We facilitate global commerce through the transfer of value and information among a global network of consumers, merchants, financial institutions, businesses, strategic partners and government entities. Our advanced transaction processing network, VisaNet, enables authorization, clearing and settlement of payment transactions and allows us to 
+provide our financial institution and merchant clients a wide range of products, platforms and value-added services.
+
+Financial overview. Our as-reported U.S. GAAP and non-GAAP net income and diluted earnings per share are as follows:
+
+                                               Three Months Ended                                                              2020 vs. 2019                            2020 vs. 2019  
+                                               March 31,                                                                                                                               
+                                               2020                                                                                        %                                        %  
+                                                                                                                                  Change (1)                               Change (1)  
+                                               (in millions, except percentages and per share data)                                                                                    
+ ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Net income, as reported                      $                                                         3,084      2,977                  4      6,356      5,954                  7  
+  Diluted earnings per share, as reported      $                                                          1.38       1.31                  6       2.85       2.61                  9  
+  Non-GAAP net income (2)                      $                                                         3,098      2,912                  6      6,370      5,892                  8  
+  Non-GAAP diluted earnings per share (2)      $                                                          1.39       1.28                  9       2.85       2.58                 11  
+
+  (1)      Figures in the table may not recalculate exactly due to rounding. Percentage changes are calculated based on unrounded numbers.  
+
+  (2)      For a full reconciliation of our non-GAAP financial results, see tables in Non-GAAP financial results below.  
+
+Coronavirus. While we have been actively monitoring the worldwide spread of COVID-19, the extent to which COVID-19 will ultimately impact our business is difficult to predict. Our priority has been the safety of our employees, including comprehensive plans to support employee wellness, as well as support for our clients and the communities affected. Although most of our staff are now working remotely, our network infrastructure and application performance continue to perform well and our 
+business operations have comprehensive and coordinated plans in place to address business continuity and recovery needs around the world. We are also in very close and regular contact with clients, partners and governments globally to help them navigate these challenging times.
+
+In the month of March 2020, domestic spending, most notably in travel, restaurants, entertainment and fuel decreased as countries imposed social distancing, shelter-in-place or total lock-down orders. Declines in cross-border volume as well as processed transactions negatively impacted international transaction and data processing revenues for the three months ended March 31, 2020. Service revenues for the three months ended March 31, 2020 were not significantly impacted, as they were recognized
+on the payments volume for the three months ended December 31, 2019.
+
+While we have not incurred operational disruptions thus far from the COVID-19 outbreak, the impact that COVID-19 will have on our business is difficult to predict due to numerous uncertainties, including the severity and duration of the outbreak, actions that may be taken by governmental authorities, the impact to the business of our clients and other factors identified in Part II, Item 1A “Risk Factors” in this Form 10-Q. We will continue to evaluate the nature and extent of the impact to our 
+business.
+
+Highlights for the first half of fiscal 2020. We recorded net revenues of$5.9 billion and$11.9 billion for the three and six months endedMarch 31, 2020, respectively, an increase of7% and8%, respectively, over the prior-year comparable periods, driven by the year-over-year changes in nominal payments volume, nominal cross-border volume and processed transactions, which were not significantly impacted by COVID-19 until the latter part of March 2020. Exchange rate movements in the three and six 
+months endedMarch 31, 2020, as partially mitigated by our hedging program, negatively impacted our net revenues growth by approximately one percentage point.
+
+Total operating expenses were$1.9 billion and$4.0 billion for the three and six months endedMarch 31, 2020, respectively, an increase of4% and9% on a GAAP and an increase of3% and8% on a non-GAAP basis, respectively, over the prior-year comparable periods. The increase was primarily due to higher personnel, depreciation and amortization, general and administrative, and networking related expenses, as we continue to invest in our business growth.
+
+
+Non-GAAP financial results. We use non-GAAP financial measures of our performance which exclude certain items which we believe are not representative of our continuing operations and may distort our longer-term operating trends. We consider non-GAAP measures useful to investors because they provide greater transparency into management’s view and assessment of our ongoing operating performance. Starting in fiscal 2020, we revised our non-GAAP methodology to exclude the impact of gains and losses 
+on our equity investments, amortization of acquired intangible assets and acquisition-related costs for acquisitions that closed in fiscal 2019 and subsequent periods. Prior year amounts have been restated to conform to our current presentation.
+
+  Gains and losses on equity investments. Gains and losses on equity investments include periodic non-cash fair value adjustments and gains and losses upon sale of an investment. These long-term ...  
+
+  Amortization of acquired intangible assets. Amortization of acquired intangible assets consists of amortization of intangible assets such as developed technology, customer relationships and bra...  
+ ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+  Acquisition-related costs. Acquisition-related costs consist primarily of one-time transaction and integration costs associated with our business combinations. These costs include professional ...  
+ ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+Non-GAAP operating expense, non-operating income (expense), income tax provision, effective income tax rate, net income and diluted earnings per share should not be relied upon as substitutes for, or considered in isolation from, measures calculated in accordance with U.S. GAAP. The following tables reconcile our as-reported financial measures, calculated in accordance with U.S. GAAP, to our respective non-GAAP financial measures for the three and six months endedMarch 31, 2020 and2019.
+
+                                                  Three Months Ended March 31, 2020                                                                                                                                                          
+ ─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+                                                  Operating Expenses                                                   Non-operating Income (Expense)               Income Tax Provision      Effective Income Tax Rate (1)      Net Income  
+                                                  (in millions, except percentages and per share data)                                                                                                                                       
+  As reported                                     $                                                         1,930      $                                   (95      $                         19.4                               $           
+  (Gains) Losses on equity investments, net       —                                                                    2                                            —                                                            2           
+  Amortization of acquired intangible assets      (11                                                                  —                                            2                                                            9           
+  Acquisition-related costs                       (5                                                                   —                                            2                                                            3           
+  Non-GAAP                                        $                                                         1,914      $                                   (93      $                         19.5                               $           
+
+
+                                                  Six Months Ended March 31, 2020                                                                                                                                                                                       
+ ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+                                                  Operating Expenses                                                   Non-operating Income (Expense)      Income Tax Provision      Effective Income Tax Rate (1)      Net Income      Diluted Earnings Per Share (1)  
+                                                  (in millions, except percentages and per share data)                                                                                                                                                                  
+  As reported                                     $                                                         3,968      $                                   $                         18.5                               $               $                               
+  (Gains) Losses on equity investments, net       —                                                                    (11                                 (3                                                           (8              —                               
+  Amortization of acquired intangible assets      (22                                                                  —                                   5                                                            17              0.01                            
+  Acquisition-related costs                       (7                                                                   —                                   2                                                            5               —                               
+  Non-GAAP                                        $                                                         3,939      $                                   $                         18.6                               $               $                               
+
+                                                 Three Months Ended March 31, 2019                                                                                                                                                                                     
+ ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+                                                 Operating Expenses                                                   Non-operating Income (Expense)      Income Tax Provision      Effective Income Tax Rate (1)      Net Income      Diluted Earnings Per Share (1)  
+                                                 (in millions, except percentages and per share data)                                                                                                                                                                  
+  As reported                                    $                                                         1,853      $                                   $                         19.0                               $               $                               
+  (Gains) Losses on equity investments, net      —                                                                    (84                                 (19                                                          (65             (0.03                           
+  Non-GAAP                                       $                                                         1,853      $                                   $                         18.9                               $               $                               
+
+                                                 Six Months Ended March 31, 2019                                                                                                                                                                                       
+ ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+                                                 Operating Expenses                                                   Non-operating Income (Expense)      Income Tax Provision      Effective Income Tax Rate (1)      Net Income      Diluted Earnings Per Share (1)  
+                                                 (in millions, except percentages and per share data)                                                                                                                                                                  
+  As reported                                    $                                                         3,642      $                                   $                         18.5                               $               $                               
+  (Gains) Losses on equity investments, net      —                                                                    (80                                 (18                                                          (62             (0.03                           
+  Non-GAAP                                       $                                                         3,642      $                                   $                         18.5                               $               $                               
+
+  (1)      Figures in the table may not recalculate exactly due to rounding. Effective income tax rate, diluted earnings per share and their respective totals are calculated based on unrounded numbers.  
+
+Common stock repurchases. In January 2019, our board of directors authorized an $8.5 billion share repurchase program and in January 2020, authorized an additional $9.5 billion share repurchase program. During the three months endedMarch 31, 2020, we repurchased18 million shares of our class A common stock in the open market for$3.1 billion. As ofMarch 31, 2020, our January 2020 share repurchase program had remaining authorized funds of$8.1 billion for share repurchase. All share repurchase 
+programs authorized prior to January 2020 have been completed. SeeNote 10 - Stockholders’ Equity to our unaudited consolidated financial statements.
+
+Acquisition. On January 13, 2020, we entered into a definitive agreement to acquire Plaid, Inc. for $5.3 billion. We will pay approximately $4.9 billion of cash and $0.4 billion of retention equity and deferred equity consideration. This acquisition is subject to customary closing conditions, including ongoing regulatory reviews and approvals, which are expected to be completed by the end of 2020.
+
+Senior notes. In April 2020, we issued fixed-rate senior notes in an aggregate principal amount of $4.0 billion, with maturities ranging between 7 and 20 years. SeeNote 8 - Debt to our unaudited consolidated financial statements.
+
+Payments volume and transaction counts. Payments volume is the primary driver for our service revenues, and the number of processed transactions is the primary driver for our data processing revenues. Nominal payments volume in the United States posted high single-digit growth for the three and six months endedDecember 31, 2019(1), driven mainly by consumer debit and commercial. Nominal international payments volume growth was negatively impacted by movements in U.S. dollar exchange rates. On a 
+constant-dollar basis, which excludes the impact of exchange rate movements, our international payments volume growth rate for the three and six months endedDecember 31, 2019 was8% and9%, respectively. Growth in processed transactions reflects the ongoing worldwide shift to electronic payments, even with the decrease in processed transactions the latter part of March 2020 as COVID-19 spread throughout the world.
+
+
+The following table presents nominal payments and cash volume:
+
+                                         United States                                      International                                                 Visa Inc.                                       
+                                         Three Months Ended December 31, (1)                Three Months Ended December 31, (1)                           Three Months Ended December 31, (1)             
+                                         2019                                     2018      2019                                                2018      2019                                            
+                                         (in billions, except percentages)                                                                                                                                
+ ──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Nominal payments volume                                                                                                                                                                                 
+  Consumer credit                        $                                        $         $                                          662      $         $                                        1,086  
+  Consumer debit (3)                     461                                      422       536                                                 479       997                                             
+  Commercial (4)                         171                                      158       107                                                 99        278                                             
+  Total nominal payments volume (2)      $                                        $         $                                        1,304      $         $                                        2,361  
+  Cash volume                            145                                      142       575                                                 587       719                                             
+  Total nominal volume (2),(5)           $                                        $         $                                        1,879      $         $                                        3,080  
+                                         United States                                      International                                                 Visa Inc.                                       
+                                         Six Months Ended December 31, (1)                  Six Months Ended December 31, (1)                             Six Months Ended December 31, (1)               
+                                         2019                                     2018      2019                                                2018      2019                                            
+                                         (in billions, except percentages)                                                                                                                                
+  Nominal payments volume                                                                                                                                                                                 
+  Consumer credit                        $                                        $         $                                        1,308      $         $                                        2,137  
+  Consumer debit (3)                     908                                      830                                                1,036      938                                                1,944  
+  Commercial (4)                         342                                      313       208                                                 191       549                                             
+  Total nominal payments volume (2)      $                                        $         $                                        2,552      $         $                                        4,631  
+  Cash volume                            292                                      286                                                1,140                                                         1,432  
+  Total nominal volume (2),(5)           $                                        $         $                                        3,692      $         $                                        6,063  
+
+The following table presents nominal and constant payments and cash volume growth:
+
+                                                International                                    Visa Inc.              International                                    Visa Inc.                    
+                                                 Three Months                                 Three Months                 Six Months                                   Six Months                    
+                                           Ended December 31,                           Ended December 31,         Ended December 31,                           Ended December 31,                    
+                                        2019 vs. 2018 (1),(2)                        2019 vs. 2018 (1),(2)      2019 vs. 2018 (1),(2)                        2019 vs. 2018 (1),(2)                    
+                                                      Nominal      Constant (6)                    Nominal                    Nominal      Constant (6)                    Nominal      Constant (6)  
+ ──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Payments volume growth                                                                                                                                                                              
+  Consumer credit growth                                    4                 5                          5                          5                 6                          5                 6  
+  Consumer debit growth (3)                                12                12                         11                         10                13                         10                11  
+  Commercial growth (4)                                     8                10                          8                          9                11                          9                10  
+  Total payments volume growth (2)                          7                 8                          8                          7                 9                          8                 9  
+  Cash volume growth                                       (2                (1                         (1                         (2                (1                         (1                 —  
+  Total volume growth (2)                                   4                 5                          5                          4                 6                          5                 6  
+
+  (1)      Service revenues in a given quarter are assessed based on nominal payments volume in the prior quarter. Therefore, service revenues reported for the three and six months ended March 31, 2020 an...  
+
+  (2)      Figures in the table may not recalculate exactly due to rounding. Percentage changes and totals are calculated based on unrounded numbers.  
+
+  (3)      Includes consumer prepaid volume and Interlink volume.  
+
+  (4)      Includes large, medium and small business credit and debit, as well as commercial prepaid volume.  
+
+  (5)      Total nominal volume is the sum of total nominal payments volume and cash volume. Total nominal payments volume is the total monetary value of transactions for goods and services that are purch...  
+
+  (6)      Growth on a constant-dollar basis excludes the impact of foreign currency fluctuations against the U.S. dollar.  
+
+
+The following table provides the number of transactions involving cards and other form factors carrying the Visa, Visa Electron, Interlink, V PAY and PLUS cards processed on Visa’s networks during the periods presented:
+
+                                   Three Months Ended March 31,                                       Six Months Ended March 31,                              
+                                   2020                                     2019      %                                     2020        2019      %           
+                                                                                      Change (1)                                                  Change (1)  
+                                   (in millions, except percentages)                                                                                          
+ ──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Visa processed transactions      34,941                                 32,544      7                                   72,716      66,476      9           
+
+  (1)      Figures in the table may not recalculate exactly due to rounding. Percentage change is calculated based on unrounded numbers.  
+
+Results of Operations
+
+Net Revenues
+
+The following table sets forth our net revenues earned in the U.S. and internationally:
+
+                     Three Months Ended                                           2020 vs. 2019                              2020 vs. 2019  
+                     March 31,                                                                                                              
+                     2020                                                         $                                          $              
+                                                                                  Change                                     Change         
+                     (in millions, except percentages)                                                                                      
+ ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  U.S.               $                                      2,650      2,479      $                   5,367       4,987      $              
+  International                                             3,204      3,015      189                 6,541       6,013      528            
+  Net revenues       $                                      5,854      5,494      $                  11,908      11,000      $              
+
+  (1)      Figures in the table may not recalculate exactly due to rounding. Percentage changes are calculated based on unrounded numbers.  
+
+Net revenues increased primarily due to the year-over-year changes in payments volume, cross-border volume and processed transactions, which were not significantly impacted by COVID-19 until the latter part of March 2020. The increase in revenues was also partially offset by the increase in client incentives.
+
+Our net revenues are impacted by the overall strengthening or weakening of the U.S. dollar as payments volume and related revenues denominated in local currencies are converted to U.S. dollars. Exchange rate movements in the three and six months endedMarch 31, 2020, as partially mitigated by our hedging program, negatively impacted our net revenues growth by approximately one percentage point.
+
+The following table sets forth the components of our net revenues:
+
+                                          Three Months Ended                                             2020 vs. 2019                              2020 vs. 2019  
+                                          March 31,                                                                                                                
+                                          2020                                                           $                                          $              
+                                                                                                         Change                                     Change         
+                                          (in millions, except percentages)                                                                                        
+ ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Service revenues                        $                                       2,623       2,417      $                   5,178       4,759      $              
+  Data processing revenues                                                        2,711       2,432      279                 5,575       4,902      673            
+  International transaction revenues                                              1,833       1,796      37                  3,851       3,647      204            
+  Other revenues                          392                                                            65                                         131            
+  Client incentives                                                              (1,705      (1,478      (227               (3,453      (2,934      (519           
+  Net revenues                            $                                       5,854       5,494      $                  11,908      11,000      $              
+
+  (1)      Figures in the table may not recalculate exactly due to rounding. Percentage changes are calculated based on unrounded numbers.  
+
+  Service revenues increased primarily due to 8% growth in nominal payments volume during the three and six month comparable periods as well as select pricing modifications effective in 2019, par...  
+ ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+  Data processing revenues increased mainly due to overall growth in processed transactions of 7% and 9% during the three and six month comparable periods, respectively, select pricing modificati...  
+ ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+  International transaction revenues increased primarily due to select pricing modifications effective in 2019. International transaction revenues also reflected fluctuations in the volatility of...  
+ ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+  Other revenues increased primarily due to higher revenues from value-added services.  
+ ────────────────────────────────────────────────────────────────────────────────────────
+
+  Client incentives increased mainly due to incentives recognized on long-term customer contracts that were initiated or renewed in the past 12 months and overall growth in global payments volume...  
+ ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+Operating Expenses
+
+The following table sets forth components of our total operating expenses:
+
+                                                    Three Months Ended                2020 vs. 2019      Six Months Ended                2020 vs. 2019                  
+                                                             March 31,                                          March 31,                                               
+                                                                  2020      2019      $                              2020      2019      $                           %  
+                                                                                      Change                                             Change             Change (1)  
+                                     (in millions, except percentages)                                                                                                  
+ ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Personnel                                                          $         $      $                                 $         $      $                          13  
+  Marketing                                                        235       241      (6                              509       517      (8                         (1  
+  Network and processing                                           183       171      12                              364       344      20                          6  
+  Professional fees                                                103       101      2                               209       192      17                          9  
+  Depreciation and amortization                                    192       160      32                              374       319      55                         17  
+  General and administrative                                       269       264      5                               582       540      42                          8  
+  Litigation provision                                               8        22      (14                               8        29      (21                       (73  
+  Total operating expenses                                           $         $      $                                 $         $      $                           9  
+
+  (1)      Figures in the table may not recalculate exactly due to rounding. Percentage changes are calculated based on unrounded numbers.  
+
+  Personnel expenses increased primarily due to continued increase in headcount offset by lower incentive compensation for the three-month comparable period. For the six-month comparable period, ...  
+ ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+  Network and processing expenses increased mainly due to continued technology and processing network investments to support growth.  
+ ──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+  Depreciation and amortization expenses increased primarily due to additional depreciation and amortization from our on-going investments, including acquisitions.  
+
+  General and administrative expenses increased mainly due to reclassification of certain expenses to general and administrative, higher product enhancements costs in support of our business grow...  
+
+  Litigation provision decreased primarily due to lower accruals for uncovered litigation.  
+ ────────────────────────────────────────────────────────────────────────────────────────────
+
+
+Non-operating Income (Expense)
+
+The following table sets forth the components of our non-operating income (expense):
+
+                                            Three Months Ended                               2020 vs. 2019                      Six Months Ended      2020 vs. 2019                  
+                                            March 31,                                                                           March 31,                                            
+                                            2020                                   2019      $                           %      2020                  $                           %  
+                                                                                             Change             Change (1)                            Change             Change (1)  
+                                            (in millions, except percentages)                                                                                                        
+ ─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Interest expense, net                     $                                      $         $                         (16      $                     $                         (20  
+  Investment income and other               23                                     176       (153                      (87      92                    (142                      (61  
+  Total non-operating income (expense)      $                                      $         $                        (367      $                     $                         170  
+
+  (1)      Figures in the table may not recalculate exactly due to rounding. Percentage changes are calculated based on unrounded numbers.  
+
+  Interest expense, net decreased primarily as a result of entering into derivative instruments in fiscal 2019 that lowered the cost of borrowing on a portion of our outstanding debt.  
+
+  Investment income and other decreased primarily due to lower gains on our equity investments and lower interest income on our cash and investments.  
+
+Liquidity and Capital Resources
+
+Cash Flow Data
+
+The following table summarizes our cash flow activity for the periods presented:
+
+                                                                                                      Six Months Ended                                    
+                                                                                                      March 31,                                           
+                                                                                                      2020                              2019              
+                                                                                                      (in millions)                                       
+ ──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Total cash provided by (used in):                                                                                                                       
+  Operating activities                                                                                $                      5,342      $          5,358  
+  Investing activities                                                                                                       2,441      (396              
+  Financing activities                                                                                                      (5,887                (5,486  
+  Effect of exchange rate changes on cash and cash equivalents                                        88                                (171              
+  Increase (decrease) in cash, cash equivalents, restricted cash and restricted cash equivalents      $                      1,984      $           (695  
+
+Operating activities. Cash provided by operating activities for thesix months ended March 31, 2020 was slightly lower than the prior-year comparable period due to higher client incentives and timing of settlement. Partially offset by continued growth in our underlying business and receipt of the $467 million takedown payment associated with the Interchange Multidistrict Litigation. SeeNote 14 - Legal Matters to our unaudited consolidated financial statements.
+
+Investing activities. Cash provided by investing activities for thesix months ended March 31, 2020 increased primarily due to higher sales of investment securities and fewer purchases of investment securities as compared to the prior-year period.
+
+Financing activities. Cash used in financing activities for thesix months ended March 31, 2020 was slightly higher than the prior-year comparable period primarily due to higher share repurchase and higher dividends paid. Partially offset by proceeds received from the issuance of commercial paper. SeeNote 8 - Debt andNote 10 - Stockholders’ Equity to our unaudited consolidated financial statements.
+
+
+Sources of Liquidity
+
+Our primary sources of liquidity are cash on hand, cash flow from operations, our investment portfolio and access to various equity and borrowing arrangements. Funds from operations are maintained in cash and cash equivalents and short-term or long-term available-for-sale investment securities based upon our funding requirements, access to liquidity from these holdings and the returns that these holdings provide. Based on our current cash flow forecasts of our short-term and long-term liquidity 
+needs, we believe that our current and projected sources of liquidity will be sufficient to meet our projected liquidity needs for more than the next 12 months. Our ability to access cost-effective capital could be impacted by global credit market conditions. We will continue to assess our liquidity position and potential sources of supplemental liquidity in view of our operating performance, current economic and capital market conditions and other relevant circumstances.
+
+Commercial paper program. We maintain a commercial paper program to support our working capital requirements and for other general corporate purposes. The carrying amount outstanding atMarch 31, 2020 was$1.0 billion, with a weighted-average interest rate of1.55% and remaining maturities of less than 12 months. SeeNote 8 - Debt to our unaudited consolidated financial statements.
+
+Senior notes. In April 2020, we issued fixed-rate senior notes in an aggregate principal amount of$4.0 billion, with maturities ranging between 7 and 20 years. SeeNote 8 - Debt to our unaudited consolidated financial statements.
+
+Uses of Liquidity
+
+There has been no significant change to our primary uses of liquidity sinceSeptember 30, 2019, except as discussed below.
+
+Common stock repurchases. In January 2020, our board of directors authorized a$9.5 billion share repurchase program. During the six months ended March 31, 2020, we repurchased31 million shares of our class A common stock for$5.5 billion. As ofMarch 31, 2020, our January 2020 share repurchase program had remaining authorized funds of$8.1 billion for share repurchase. SeeNote 10 - Stockholders’ Equity to our unaudited consolidated financial statements.
+
+Dividends. During the six months ended March 31, 2020, we declared and paid$1.3 billion in dividends to holders of our common and preferred stock. OnApril 21, 2020, our board of directors declared a cash dividend in the amount of$0.30 per share of class A common stock (determined in the case of class B and C common stock and UK&I and Europe preferred stock on an as-converted basis), which will be paid onJune 2, 2020, to all holders of record as ofMay 14, 2020. SeeNote 10 - Stockholders’ Equity 
+to our unaudited consolidated financial statements. We expect to continue paying quarterly dividends in cash, subject to approval by the board of directors. All three series of preferred stock and class B and C common stock will share ratably on an as-converted basis in such future dividends.
+
+Senior notes. In December 2015, we issued fixed-rate senior notes in an aggregate principal amount of $16.0 billion, with maturities ranging between 2 and 30 years. A principal payment of $3.0 billion is due on December 14, 2020, for which we have sufficient liquidity. SeeNote 8 - Debt to our unaudited consolidated financial statements.
+
+Acquisition. On January 13, 2020, we entered into a definitive agreement to acquire Plaid, Inc. for $5.3 billion. We will pay approximately $4.9 billion of cash and $0.4 billion of retention equity and deferred equity consideration. This acquisition is subject to customary closing conditions, including ongoing regulatory reviews and approvals, which are expected to be completed by the end of 2020. We intend to fund the acquisition with cash, cash equivalents and investments, as well as through 
+the issuance of new indebtedness.
+
+  ITEM 3.      Quantitative and Qualitative Disclosures about Market Risk  
+ ───────────────────────────────────────────────────────────────────────────
+
+There have been no significant changes to our market risks sinceSeptember 30, 2019.
+
+
+  ITEM 4.      Controls and Procedures  
+ ────────────────────────────────────────
+
+Disclosure controls and procedures. Our management, with the participation of our Chief Executive Officer and Chief Financial Officer, evaluated the effectiveness of the design and operation of the disclosure controls and procedures (as defined in Rules 13a-15(e) and 15d-15(e) under the Securities Exchange Act of 1934, as amended) of Visa Inc. at the end of the period covered by this report and, based on such evaluation, have concluded that the disclosure controls and procedures of Visa Inc. 
+were effective at the reasonable assurance level as of such date.
+
+Changes in internal control over financial reporting. There have been no changes in the internal control over financial reporting of Visa Inc. that occurred during the fiscal period covered by this report that has materially affected, or is reasonably likely to materially affect, our internal control over financial reporting. We have not experienced any material impact to our internal controls over financial reporting although most of our staff are now working remotely due to the COVID-19 
+pandemic. We are continually monitoring and assessing the COVID-19 situation on our internal controls to address impacts to their design, implementation and operating effectiveness.
+
+

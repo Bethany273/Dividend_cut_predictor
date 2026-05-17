@@ -1,0 +1,202 @@
+Item 2. Management’s Discussion and Analysis of Financial Condition and Results of Operations
+
+The following discussion should be read in conjunction with the unaudited condensed consolidated financial statements and accompanying notes contained herein and with the audited consolidated financial statements, accompanying notes, related information and Management’s Discussion and Analysis of Financial Condition and Results of Operations included in our Annual Report on Form 10-K for the year ended December 31, 2019.
+
+Forward-Looking Statements
+
+Some statements in this report, as well as in other materials we file with the Securities and Exchange Commission (SEC) or otherwise release to the public and in materials that we make available on our website, constitute forward-looking statements that are subject to the safe harbor provisions of the Private Securities Litigation Reform Act of 1995. All statements in the future tense and all statements accompanied by words such as “expect,” “likely,” “outlook,” “forecast,” “preliminary,” 
+“would,” “could,” “should,” “position,” “will,” “project,” “intend,” “plan,” “on track,” “anticipate,” “to come,” “may,” “possible,” “assume,” and variations of such words and similar expressions are intended to identify such forward-looking statements. Senior officers may also make verbal statements to analysts, investors, the media and others that are forward-looking. These forward-looking statements include, without limitation, our expected ability to operate and protect our workforce during 
+the COVID-19 pandemic, the execution and effect of our cost savings initiatives, our efforts and initiatives to help us emerge from the pandemic well-positioned, our ongoing efforts to maintain compliance and flexibility under our debt covenants, our liquidity position to continue to operate during these highly uncertain times and plans for future cost savings.
+
+The Company cautions that its forward-looking statements involve risks and uncertainties, and while we believe that our expectations for the future are reasonable in view of currently available information, you are cautioned not to place undue reliance on our forward-looking statements. Actual results or events may differ materially from those indicated as a result of various important factors. Such factors may include, among other things, the extent and duration of the disruption to our 
+business operations caused by the global health crisis associated with the COVID-19 outbreak, including the effects on the financial health of our business partners and customers, on supply chains and our suppliers, on vehicle miles driven as well as other metrics that affect our business, and on access to capital and liquidity provided by the financial and capital markets; the Company’s ability to maintain compliance with its debt covenants and amend such credit facilities as necessary; the 
+Company's ability to successfully integrate acquired businesses into the Company and to realize the anticipated synergies and benefits; the Company's ability to successfully divest businesses; the Company's ability to successfully implement its business initiatives in each of its three business segments; slowing demand for the Company's products; the ability to maintain favorable supplier arrangements and relationships; disruptions in our suppliers' operations, including the impact of COVID-19 
+on our suppliers as well as our supply chain, including potential problems with inventory availability and the potential result of higher cost of product and international freight due to the high demand of products and low supply for an unpredictable period of time; changes in national and international legislation or government regulations or policies, including changes to import tariffs and the unpredictability of such changes, data security policies and requirements as well as privacy 
+legislation; changes in general economic conditions, including unemployment, inflation (including the impact of tariffs) or deflation and the United Kingdom's exit from the European Union, commonly known as Brexit, and the unpredictability of the impact following such exit from the European Union; changes in tax policies; volatile exchange rates; volatility in oil prices; significant cost increases, such as rising fuel and freight expenses; labor shortages and the Company's ability to 
+successfully attract and retain employees in the current labor market; uncertain credit markets and other macroeconomic conditions; competitive product, service and pricing pressures; failure or weakness in our disclosure controls and procedures and internal controls over financial reporting; including as a result of the work from home environment; the uncertainties and costs of litigation; disruptions caused by a failure or breach of the Company's information systems, as well as other risks and
+uncertainties discussed in the Company's Annual Report on Form 10-K for 2019 and Item 1A, risk factors, in this report on Form 10-Q (all of which risks may be amplified by the COVID-19 outbreak) and from time to time in the Company's subsequent filings with the SEC.
+
+Forward-looking statements are only as of the date they are made, and the Company undertakes no duty to update its forward-looking statements except as required by law. You are advised, however, to review any further disclosures we make on related subjects in our subsequent Forms 10-K, 10-Q, 8-K and other reports filed with the SEC.
+
+
+Overview
+
+Genuine Parts Company is a service organization engaged in the global distribution of automotive replacement parts, industrial parts and business products. We have a long tradition of growth dating back to 1928, the year we were founded in Atlanta, Georgia. The Company conducts business in North America, Europe and Australasia from approximately 3,600 locations. At Genuine Parts Company, our mission is to be a world-class service organization and the employer of choice, supplier of choice, 
+valued customer, good corporate citizen and investment of choice. Our strategic financial objectives are intended to align with our mission and drive value for all our stakeholders. Our strategic financial objectives include: (1) top line revenue growth (2) improved operating margin, (3) strong balance sheet and cash flow and (4) effective capital allocation.
+
+The Company's Automotive Parts Group operated in the U.S., Canada, Mexico, France, the U.K., Germany, Poland, the Netherlands, Belgium, Australia and New Zealand as of March 31, 2020, and accounted for 57% of total revenues for the three months ended March 31, 2020. Our Industrial Parts Group operated in the U.S., Canada, Mexico, Australia, New Zealand, Indonesia and Singapore. The Industrial Parts Group accounted for 33% of the Company's total revenues for the three months ended March 31, 2020.
+Our Business Products Group operated in the U.S. as of March 31, 2020, as its Canadian operations were divested, effective January 1, 2020. The Business Products Group accounted for 10% of total revenues for the three months ended March 31, 2020.
+
+COVID-19 Pandemic
+
+The COVID-19 outbreak, which was declared a pandemic by the World Health Organization (“WHO”) on March 11, 2020, continues to evolve rapidly. Our deepest and sincere thoughts go out to all affected by COVID-19, as well as the dedicated healthcare workers and first responders who are on the front lines for all our citizens.
+
+Overall, our business segments face many uncertainties. These uncertainties include the severity of the virus, the duration of the outbreak, governmental, business or other actions taken in response to the pandemic, impacts on our supply chain, the effect on customer demand, store closures or changes to our operations. Our business segments experienced slowing sales trends over the last two weeks of March due to growing pandemic concerns and the expansion of efforts to combat COVID-19 by 
+government authorities, such as “shelter in place” and other similar orders and mandates. We expect the sales environment to slow further due to COVID-19 and the decline in global economic activity during the second quarter, and on a preliminary and estimated basis, the Company has experienced a decrease in total daily sales of approximately 25% in April, excluding divestitures, with our Automotive Group, Industrial Group and Business Products Group down approximately 30%, 10% and 20%, 
+respectively. While the negative impact on our business operations cannot be reasonably estimated at this time, our teams are preparing for multiple scenarios to ensure we continue to protect our employees while also keeping our operations up and running to serve our customers.
+
+We have created a dedicated COVID-19 Taskforce and added enhanced protocols in response to COVID-19, including recommendations and requirements issued by the Centers for Disease Control and Prevention, WHO, and local, state and national health authorities, to protect our employees, customers, suppliers and communities.
+
+Our operations are deemed “essential” across all markets in which we serve. As of March 31, 2020, substantially all operations are open for business, with France and New Zealand mostly closed due to government mandates. Our supply chain partners have been very supportive and they continue to do their part to ensure our service levels to our customers remain strong. We remain in constant communication with our employees regarding changing conditions and protocol.
+
+For further information regarding the impact of COVID-19 on the Company, please see “Results of Operations,” “Financial Condition,” “Liquidity and Capital Resources,” “Changes in Internal Control over Financial Reporting,” item 1A, “Risk Factors,” item 2, “Issuer Repurchase of Equity Securities” and item 5, “Other Information” in this report, which is incorporated herein by reference.
+
+Key Business Metrics
+
+We consider comparable sales, daily sales and number of miles driven to be key business metrics. These metrics should not be considered superior to, as a substitute for or as an alternative to, and should be considered in conjunction with, the GAAP financial measures presented in this report.
+
+Comparable Sales
+
+Our comparable sales growth is a significant driver of our net sales, profitability, cash flow, and overall business results. Comparable sales (also called organic sales or core sales) refer to period-over-period comparisons of our net sales excluding the impact of acquisitions, divestitures and foreign currency. The Company considers this metric useful to investors because it provides greater transparency into management’s view and assessment of the Company’s core ongoing operations. This is a 
+metric that is widely used by analysts, investors and competitors in our industry, although our calculation of the metric may not
+
+
+be comparable to similar measures disclosed by other companies, because not all companies and analysts calculate this metric in the same manner.
+
+Daily Sales
+
+Daily sales is a key metric that represents the amounts invoiced to the Company's customers each day. Daily sales do not represent GAAP-based sales because, among other things, invoices are not always generated at the same time goods and services are delivered to customers and the amounts do not include adjustments for estimates of returns, rebates or other forms of variable consideration. Management uses this metric to monitor demand trends at each of its subsidiaries throughout each month for 
+the purposes of monitoring performance against forecasts and to make operational decisions. The Company considers this metric useful to investors because it provides greater transparency into management’s view and assessment of the Company’s core ongoing operations. The calculation of this metric may not be comparable to similar measures disclosed by other companies, because not all companies and analysts calculate this metric in the same manner.
+
+Number of Miles Driven
+
+The Company considers the number of miles driven, which is an industry-generated metric, to be a key metric because it influences the demand for repair and maintenance products sold within the automotive aftermarket. We believe including this metric is useful to investors because it provides greater transparency into management’s view and assessment of trends in the Automotive Parts Group.
+
+Results of Operations
+
+Overview
+
+As the Company’s automotive, industrial and business products operations are each classified “essential” businesses to the communities in which we serve, the Company has remained substantially open during the COVID-19 pandemic, with the exception of the temporary lockdowns in France and New Zealand due to preemptive government mandates. As an overview of our quarterly results, the Company’s sales and operating environment were severely impacted by the COVID-19 pandemic in the last two weeks of 
+the quarter. Overall, the Company attributes an approximate 3% impact to sales and a 0.7% impact to segment margin, or $0.21 per share, to COVID-19. Despite the challenges of these unprecedented business conditions, our North American industrial operations, as well as our businesses in Australasia, operated well and reported improved profit margins. In addition, the Company improved its total gross margin in the quarter and implemented accelerated cost savings initiatives to more effectively 
+leverage our cost structure.
+
+Sales
+
+Sales for the three months ended March 31, 2020 were $4.6 billion, a 3.7% decrease as compared to $4.7 billion in the same period of the prior year. The decline in sales is due to a 4.8% impact from divestitures, a 3.5% comparable sales decrease due primarily to decreased demand from COVID-19 and a slightly negative foreign currency impact. These items were partially offset by a 5.3% positive impact from acquisitions.
+
+Sales for the Automotive Parts Group decreased 1.6% for the three months ended March 31, 2020, as compared to the same period in the prior year. This group’s decline in revenue for the three months ended March 31, 2020 consisted of an approximate 5.0% decrease in comparable sales, a 1.7% unfavorable foreign currency impact and a 0.6% impact from the sale of Grupo Auto Todo, which closed in March of 2019. These items were mostly offset by a 5.3% benefit from acquisitions.
+
+Sales for the Industrial Parts Group decreased 7.7% for the three months ended March 31, 2020, as compared to the same period in 2019. The decrease in this group’s revenues reflects an approximate 12.4% impact from the September 2019 sale of EIS and a 3.1% decrease in comparable sales. Foreign currency was flat for the three months ended March 31, 2020. These items were partially offset by a 7.8% benefit from acquisitions, including Inenco which closed on July 1, 2019.
+
+Sales for the Business Products Group decreased 2.3% for the three months ended March 31, 2020, compared to the same three month period in 2019, primarily due to a 3.8% negative impact from the sale of SPR Canada in January 2020 and Garland C. Norris in December 2019. This decrease was partially offset by an increase of 1.5% in comparable sales primarily due to the increase in sales of janitorial, sanitization and safety supplies as a result of the COVID-19 pandemic.
+
+Cost of Goods Sold and Operating Expenses
+
+Cost of goods sold for the three months ended March 31, 2020 was $3.1 billion, a 5.3% decrease from $3.2 billion for the same period in 2019. As a percentage of net sales, cost of goods sold was 67.1% for the three months ended March 31, 2020, as compared to 68.2% in the same three month period of 2019. The decrease in cost of goods sold for the three months ended March 31, 2020 primarily relates to the impact of divestitures and the sales decrease due to COVID-19 for these periods as
+
+
+compared to the same three month period of the prior year. The improvement in gross margin is attributable to the favorable impact of divestitures as well as the acquisitions of higher gross margin businesses in the Automotive and Industrial segment. These items and favorable product mix shifts were partially offset by a decrease in supplier incentives due to lower purchasing volumes. The Company’s cost of goods sold includes the total cost of merchandise sold, including freight expenses 
+associated with moving merchandise from our vendors to our distribution centers, retail stores and branches, as well as vendor volume incentives and inventory adjustments. Gross profit as a percentage of net sales may fluctuate based on (i) changes in merchandise costs and related vendor volume incentives or pricing, (ii) variations in product and customer mix, (iii) price changes in response to competitive pressures, (iv) physical inventory and LIFO adjustments, (v) changes in foreign currency 
+exchange rates, and (vi) the impact of tariffs. Tariffs did not have a material impact in the periods presented.
+
+Total operating expenses increased to $1.31 billion for the three months ended March 31, 2020 as compared to $1.27 billion for the same three month period in 2019. As a percentage of net sales, operating expenses increased to 28.8% as compared to 26.8% in the same three month period of the previous year.
+
+The increase in operating expenses as a percentage of net sales for the three months ended March 31, 2020 reflects the effect of rising costs in areas such as freight, insurance, IT and cyber-security. In addition, the Company’s ability to leverage its expenses was negatively impacted due to lower than expected comparable sales relative to the prior year. The Company's ongoing cost control initiatives, as reflected in the decrease in comparable payroll costs in the first quarter of 2020 relative
+to 2019, partially offset these increases in operating expenses.
+
+The Company’s operating expenses are substantially comprised of compensation and benefit-related costs for personnel. Other major expense categories include facility occupancy costs for headquarters, distribution centers and retail store/branch operations, insurance costs, accounting, legal and professional services, technology and digital costs, transportation and delivery costs, travel and advertising. Management’s ongoing cost control measures in these areas have served to improve the 
+Company’s overall cost structure. The Company's recent acquisitions have lower costs of goods sold and higher levels of operating costs as compared to the Company's other businesses; however, the operating profit margins generally remain consistent.
+
+Segment Profit
+
+Segment profit decreased to $276.4 million for the three months ended March 31, 2020, compared to $321.5 million for the same three month period of the prior year, a decrease of 14.0%. As a percentage of net sales, segment profit was 6.1% as compared to 6.8% in the same three month period of 2019. The decrease in segment profit as a percentage of sales for the three months ended March 31, 2020 occurred primarily because the Company’s ability to leverage its expenses was negatively impacted due 
+to lower than expected comparable sales relative to the prior year. In addition, segment expenses were impacted by the effect of rising costs in areas such as freight, insurance, IT and cyber-security. This decrease in segment profit as a percentage of sales was partially offset by the improvement in gross margin for the three months ended March 31, 2020 as compared to the same period in 2019.
+
+As more fully discussed in our 2019 Form 10-K, the Company approved and began to implement certain restructuring actions across its subsidiaries under the 2019 Cost Savings Plan, primarily targeted at simplifying organizational structures and distribution networks. We believe that these actions, coupled with our ongoing focus on driving top line sales growth, will continue to create value for our stakeholders.
+
+The Automotive Parts Group’s segment profit decreased 20.6% in the three months ended March 31, 2020 as compared to the same period of 2019, and its segment profit margin was 5.5% as compared to 6.8% in the same period of the previous year. The decrease in segment profit as a percentage of sales for the three months ended March 31, 2020 is primarily due to the deleveraging of expenses due to lower than expected comparable sales in the U.S., Canadian and European automotive businesses as well as 
+the impact of rising costs. This decrease is partially offset by the improvement in segment margins in Australasia as compared to the same period of the previous year.
+
+The Industrial Parts Group’s segment profit decreased 5.9% in the three months ended March 31, 2020 as compared to the same three month period of 2019, and the segment profit margin for this group improved to 7.5% compared to 7.4% for the same period of the previous year. The improved segment profit margin reflects the benefit of a more efficient operating structure in the North American business as well as the positive impact of acquisitions and sale of EIS.
+
+The Business Products Group’s segment profit decreased 4.8% for the three months ended March 31, 2020, compared to the same three month period in 2019, and the segment profit margin was 4.3% compared to 4.4% for the same period of the previous year. The decrease in segment profit margin for the three months ended March 31, 2020 is primarily due to deleverage of expenses as compared to the same periods in 2019.
+
+
+If there are sustained declines in macroeconomic or business conditions in future periods, including as a result of the COVID-19 pandemic, affecting the projected earnings and cash flows at our reporting units, among other things, there can be no assurance that goodwill at one or more reporting units may not be impaired. Nonetheless, as of March 31, 2020, we believe goodwill is recoverable for all our reporting units.
+
+In particular, we qualitatively assessed whether it was more likely than not that the goodwill of our European automotive reporting unit was impaired. The reporting unit had $1.2 billion in goodwill as of March 31, 2020. The reporting unit primarily operates in the U.K., France, Germany and the Netherlands and these countries have instituted varying levels of social distancing and shelter-in-place mandates in response to the COVID-19 pandemic, including substantially closing business operations 
+in France. The reporting unit is vulnerable to the significantly reduced economic activity caused by these mandates. We are optimistic these conditions are temporary and have not impacted the long-term expectations for the business. The reporting unit is also benefiting from temporary government economic assistance throughout the region. Based on our interim impairment assessment as of March 31, 2020, which included reviewing our previous revenue and operating margin growth forecasts based on 
+our current projections, we have determined that it is not more likely than not that the goodwill is impaired.
+
+Income Taxes
+
+The Company's effective income tax rate was 23.7% for the three months ended March 31, 2020, compared to 24.2% for the same three month period in 2019. The rate decrease is primarily due to geographic income tax rate mix and the impact of one-time transaction and other costs, which was partially offset by a decrease in stock compensation excess tax benefits recorded in the comparable period.
+
+Net Income
+
+For the three months ended March 31, 2020, the Company recorded consolidated net income of $136.5 million, a decrease of 14.8% as compared to consolidated net income of $160.3 million in the same three month period of the prior year. On a per share diluted basis, net income was $0.94, a decrease of 13.8% as compared to $1.09 for the same three month period of 2019.
+
+During the three months ended March 31, 2020, the Company incurred $0.9 million of net expense, which represent restructuring costs and transaction and other costs, primarily incremental costs associated with COVID-19 and divestitures, mostly offset by income from the SPR Fire insurance proceeds. Refer to the acquisitions and divestitures footnote and commitments and contengencies footnote for more information.
+
+Before the impact of realized currency losses, restructuring, transaction and other costs and income, the Company's adjusted net income was $133.4 million, a decrease of 28.7% as compared to adjusted net income of $187.2 million in the same three month period of the prior year. On a per share basis, adjusted net income was $0.92 for the three months ended March 31, 2020, a decrease of 28.1% as compared to $1.28 for the same three month period of 2019. Each of adjusted net income and adjusted 
+diluted net income per common share is a non-GAAP measure (see table below for reconciliation to GAAP net income).
+
+The following table sets forth a reconciliation of net income and diluted net income per common share to adjusted net income and adjusted diluted net income per common share to account for the impact of these adjustments. The Company believes that the presentation of adjusted net income and adjusted diluted net income per common share, which are not calculated in accordance with GAAP, when considered together with the corresponding GAAP financial measures and the reconciliations to those 
+measures, provide meaningful supplemental information to both management and investors that is indicative of the Company's core operations. The Company considers these metrics useful to investors because they provide greater transparency into management’s view and assessment of the Company’s ongoing operating performance by removing items management believes are not representative of our continuing operations and may distort our longer-term operating trends. We believe these measures to be 
+useful to enhance the comparability of our results from period to period and with our competitors, as well as to show ongoing results from operations distinct from items that are infrequent or not associated with the Company’s core operations. The Company does not, nor does it suggest investors should, consider such non-GAAP financial measures, as superior to, in isolation from, or as a substitute for, GAAP financial information.
+
+
+                                                                                                                                   Amounts Per Share Assuming Dilution                                                              
+                                                                      Three Months Ended March 31,                                                                                       Three Months Ended March 31,               
+  (in thousands, except per share data)                               2020                                                         2020                                                  2019                                       
+  GAAP net income                                                     $                                  136,535      160,250      $                                           0.94      $                                    1.09  
+  Adjustments:                                                                                                                                                                                                                      
+  Gain on insurance proceeds related to SPR Fire (1)                                                    (12,283)                   (0.08)                                                —                                          
+  Transaction and other costs (2)                                                                         11,760        7,077      0.08                                                  0.05                                       
+  Restructuring costs (3)                                                                                  1,439                   0.01                                                  —                                          
+  Realized currency loss (4)                                          —                                                27,037      —                                                     0.18                                       
+  Total adjustments                                                   916                                              34,114      0.01                                                  0.23                                       
+  Tax impact of adjustments                                                                              (4,048)      (7,150)      (0.03)                                                (0.04)                                     
+  Adjusted net income                                                 $                                  133,403      187,214      $                                           0.92      $                                    1.28  
+  Weighted average common shares outstanding – assuming dilution                                                                                                            145,623                                        146,694  
+
+The table below clarifies where the items that have been adjusted above to improve comparability of the financial information from period to period are presented in the condensed consolidated statements of income.
+
+                                                  Three Months Ended March 31,                                      
+  (in thousands)                                  2020                                            2019              
+  Line item:                                                                                                        
+ ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Selling, administrative and other expenses      $                                    9,825      $          7,077  
+  Restructuring costs                                                                  1,439      —                 
+  Non-operating (income): Other                                                     (10,348)                27,037  
+  Total adjustments                               $                                      916      $         34,114  
+
+(1) Adjustment reflects insurance recoveries in excess of losses incurred on inventory, property, plant and equipment and other fire-related costs related to the S.P. Richards Headquarters and Distribution Center.
+
+(2) Adjustment reflects (i) $6.0 million of incremental costs associated with COVID-19 and (ii) costs associated with divestitures. COVID-19 related costs include incremental costs incurred relating to fees to cancel marketing events and increased cleaning and sanitization materials, among other things.
+
+(3) Adjustment reflects restructuring costs related to the 2019 Cost Savings Plan announced in the fourth quarter of 2019. The costs are primarily associated with severance and other employee costs, including a voluntary retirement program, and facility and closure costs related to the consolidation of operations.
+
+(4) Adjustment reflects realized currency loss related to the sale Grupo Auto Todo in March 2019.
+
+Financial Condition
+
+The Company’s cash balance of $354.5 million at March 31, 2020 increased $77.5 million, or 28.0%, from December 31, 2019. For the three months ended March 31, 2020, the Company had net cash provided by operating activities of $74.1 million, net cash used in investing activities of $35.5 million and net cash provided by financing activities of $53.5 million. The investing activities consisted primarily of $45.4 million for capital expenditures and $3.8 million for acquisitions and other investing
+activities, slightly offset by $13.8 million proceeds from divestitures and the sale of property, plant and equipment. The financing activities consisted primarily of $261.2 million net proceeds from debt to enhance liquidity in light of the uncertain environment, offset by $110.9 million for dividends paid to the Company’s shareholders and $95.7 million paid for share repurchases.
+
+Accounts receivable increased $70.0 million, or 2.7%, from December 31, 2019. As we continue into 2020 and this uncertain environment, we will be closely monitoring our collection trends. However, collection trends are currently meeting our expectations and we have observed that many of our small and medium-sized customers in the U.S. and international markets are receiving various forms of government assistance. Inventory decreased $132.3 million, or 3.5%, and accounts payable decreased $38.8 
+million, or 0.9% from December 31, 2019. Total debt of $3.6 billion at March 31, 2020 increased $209.2 million, or 6.1%, from December 31, 2019. We continue to negotiate extended payment dates with our vendors. Certain
+
+
+vendors participate in financing arrangements with financial institutions that allow the vendors to receive payment earlier while we pay the financial institution based on the underlying vendor invoice amounts and due dates.
+
+Liquidity and Capital Resources
+
+We have taken action and will continue to take actions intended to increase our cash position and preserve financial flexibility in light of current uncertainty in the global markets resulting from COVID-19. These actions include negotiating appropriate covenant amendments to our credit arrangements due to macro uncertainty and evaluating alternative forms of liquidity to enhance credit capacity, reducing our planned capital expenditures for fiscal 2020 (specifically deferring our growth related
+capital spending), temporarily suspending our share repurchase program, and limiting merger and acquisition activity to select “bolt-on” acquisitions. Additionally, we are taking precautionary measures to conserve liquidity including, but not limited to, reducing our inventory levels and managing replenishment volumes to adjust to the new level of market demand and to the extent available, we are delaying tax payments as allowed by governmental authorities. We have a low level of capital 
+expenditures related to maintenance items, which provides the flexibility to decrease spending as needed to further preserve funds.
+
+We believe that we have sufficient liquidity to manage through the current market disruption caused by COVID-19. We ended the quarter with $1.1 billion of total liquidity (comprising $0.7 billion availability on the revolving credit facility and $0.4 billion of cash and cash equivalents). From time to time, the Company may enter into other credit facilities or financing arrangements to provide additional liquidity and to manage against foreign currency risk. The Company currently believes that 
+the existing lines of credit and cash generated from operations will be sufficient to fund anticipated operations for the foreseeable future.
+
+On April 6, 2020, the Board of Directors declared a regular quarterly cash dividend of seventy-nine cents ($0.79) per share on the Company’s common stock. The dividend is payable July 1, 2020 to shareholders of record June 5, 2020. At this time, we expect to continue to pay dividends in the ordinary course.
+
+Although we expect our borrowing costs to increase in the near term as a result of credit market disruptions caused by the COVID-19 pandemic, we expect to be able to continue to borrow funds at reasonable rates over the long term. Finally, the CARES Act was enacted during March 2020 and includes several significant provisions that we intend to take advantage of, including delaying certain payroll tax payments, mandatory transition tax payments, and estimated income tax payments.
+
+At March 31, 2020, the Company's total average cost of debt was 2.00%, and the Company remained in compliance with all covenants connected with its borrowings, which covenants include, among others, a financial covenant to maintain a certain leverage ratio of consolidated debt to consolidated EBITDA under our credit facility.
+
+On May 1, 2020, the Company entered into an amendment to each of the Amended and Restated Syndicated Credit Facility Agreement and the Notes Purchase Agreement, each dated as of October 30, 2017, to provide additional covenant flexibility on account of the COVID-19 pandemic. In consideration of the increased covenant flexibility, the Company agreed to certain interest rate increases under these facilities. See Part II, Item 5. “Other Information” for detailed information relating to the amended 
+terms of the facilities.
+
+Any failure to comply with our debt covenants or restrictions could result in a default under our financing arrangements or could require us to obtain waivers from our lenders for failure to comply with these restrictions. The occurrence of a default that remains uncured or the inability to secure a necessary consent or waiver could create cross defaults under other debt arrangements and have a material adverse effect on our business, financial condition, results of operations and cash flows.
+

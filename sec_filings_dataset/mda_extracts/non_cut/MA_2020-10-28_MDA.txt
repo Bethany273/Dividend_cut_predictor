@@ -1,0 +1,371 @@
+ITEM 2. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+
+Foreign Currency
+
+Currency Impact (Translational and Transactional)
+
+Our primary revenue functional currencies are the U.S. dollar, euro, Brazilian real and the British pound. Our overall operating results are impacted by currency translation, which represents the effect of translating operating results where the functional currency is different than our U.S. dollar reporting currency.
+
+Our operating results can also be impacted by transactional currency. The impact of the transactional currency represents the effect of converting revenue and expense transactions occurring in a currency other than the functional currency. Changes in currency exchange rates directly impact the calculation of gross dollar volume (“GDV”) and gross euro volume (“GEV”), which are used in the calculation of our domestic assessments, cross-border volume fees and certain volume-related rebates and 
+incentives. In most non-European regions, GDV is calculated based on local currency spending volume converted to U.S. dollars using average exchange rates for the period. In Europe, GEV is calculated based on local currency spending volume converted to euros using average exchange rates for the period. As a result, our domestic assessments, cross-border volume fees and certain volume-related rebates and incentives are impacted by the strengthening or weakening of the U.S. dollar versus 
+non-European local currencies and the strengthening or weakening of the euro versus other European local currencies. For example, our billing in Australia is in the U.S. dollar, however, consumer spend in Australia is in the Australian dollar. The currency transactional impact of converting Australian dollars to our U.S. dollar billing currency will have an impact on the revenue generated. The strengthening or weakening of the U.S. dollar is evident when GDV growth on a U.S. dollar-converted 
+basis is compared to GDV growth on a local currency basis. For the three months ended September 30, 2020, GDV on a U.S. dollar-converted basis was flat, or increased 1% on a local currency basis, versus the comparable period in 2019. For the nine months ended September 30, 2020 GDV on a U.S. dollar-converted basis and on a local currency basis decreased 3% and 0.4%, respectively, versus the comparable period in 2019. Further, the impact from transactional currency occurs in transaction 
+processing revenue, other revenue and operating expenses when the local currency of these items are different than the functional currency.
+
+The translational and transactional impact of currency (“Currency impact”) has been identified in our drivers of change impact tables and has been excluded from our currency-neutral growth rates, which are non-GAAP financial measures. See “Financial Results - Revenue and Operating Expenses” for our drivers of change impact tables and “Non-GAAP Financial Information” for further information on our non-GAAP adjustments.
+
+Foreign Exchange Activity
+
+We incur foreign currency gains and losses from remeasuring monetary assets and liabilities that are in a currency other than the functional currency and from remeasuring foreign exchange derivative contracts (“Foreign Exchange Activity”). The impact of Foreign Exchange Activity has not been eliminated in our currency-neutral results (see “Non-GAAP Financial Information”) and is recorded in general and administrative expenses on the consolidated statement of operations. We manage foreign 
+currency balance sheet remeasurement and transactional currency exposure through our foreign exchange risk management activities, which are discussed further in Note 17 (Derivative and Hedging Instruments) to the consolidated financial statements included in Part I, Item 1. Since we do not designate foreign exchange derivatives as hedging instruments pursuant to the accounting standards for derivative instruments and hedging activities, we record gains and losses on foreign exchange derivatives 
+immediately in current period earnings, with the related hedged item being recognized as the exposures materialize.
+
+Risk of Currency Devaluation
+
+We are exposed to currency devaluation in certain countries. In addition, we are subject to exchange control regulations that restrict the conversion of financial assets into U.S. dollars. While these revenues and assets are not material to us on a consolidated basis, we can be negatively impacted should there be a continued and sustained devaluation of local currencies relative to the U.S. dollar and/or a continued and sustained deterioration of economic conditions in these countries.
+
+MASTERCARD SEPTEMBER 30, 2020 FORM 10-Q33
+
+PART I
+
+ITEM 2. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+
+Financial Results
+
+Revenue
+
+Primary drivers of net revenue, versus the comparable periods in 2019, were as follows:
+
+For the three months ended September 30, 2020, net revenue decreased 14% on both an as reported and a currency-neutral basis reflecting impacts of the COVID-19 outbreak, and includes 1 percentage point of growth from our acquisitions. Gross revenue decreased 9% on both an as reported and a currency-neutral basis, driven by decreased cross-border volumes, partially offset by an increase in gross dollar volume activity, our value-added products and services and the number of switched transactions.
+Rebates and incentives were flat, or increased 2% on a currency-neutral basis, due to new and renewed deals partially offset by a favorable mix of incentive-related volumes.
+
+For the nine months ended September 30, 2020, net revenue decreased 10%, or 9% on a currency-neutral basis reflecting impacts of the COVID-19 outbreak, and includes 1 percentage point of growth from our acquisitions. Gross revenue decreased 6%, or 4% on a currency-neutral basis, driven by decreased cross-border volumes and gross dollar volume activity, partially offset by an increase in our value-added products and services and the number of switched transactions. Rebates and incentives 
+increased 4%, or 6% on a currency-neutral basis, due to new and renewed deals partially offset by a favorable mix of incentive-related volumes.
+
+See Note 3 (Revenue) in Part II, Item 8 of our Annual Report on Form 10-K for the year ended December 31, 2019 for further discussion of how we recognize revenue.
+
+The components of net revenue were as follows:
+
+                                               Three Months Ended September 30,                                                                            
+ ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+                                               ($ in millions)                                                                                             
+  Domestic assessments                         $                                       1,750        1,722         2%        4,907        5,007       (2)%  
+  Cross-border volume fees                     791                                                  1,517      (48)%        2,645        4,154      (36)%  
+  Transaction processing                                                               2,251        2,231         1%        6,352        6,206         2%  
+  Other revenues                                                                       1,143        1,087         5%        3,286        2,891        14%  
+  Gross revenue                                                                        5,935        6,557       (9)%       17,190       18,258       (6)%  
+  Rebates and incentives (contra-revenue)                                            (2,098)      (2,090)         —%      (6,009)      (5,789)         4%  
+  Net revenue                                  $                                       3,837        4,467      (14)%       11,181       12,469      (10)%  
+
+34 MASTERCARD SEPTEMBER 30, 2020 FORM 10-Q
+
+PART I
+
+ITEM 2. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+
+The following table summarizes the drivers of change in net revenue:
+
+                                               Three Months Ended September 30, 2020                                            
+ ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Domestic assessments                                                             1      (3)         4            3         2  
+  Cross-border volume fees                                                      (36)      —        (12)                   (48)  
+  Transaction processing                                                           5      —         (4)                      1  
+  Other revenues                                                                  **      —           4            4         5  
+  Rebates and incentives (contra-revenue)                                        (9)      (1)        10            6         —  
+  Net revenue                                                                    (6)      —         (9)                   (14)  
+
+                                               Nine Months Ended September 30, 2020                                           
+                                               Volume                                                      Other 2            
+ ──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Domestic assessments                         —                                         (3)        2            3       (2)  
+  Cross-border volume fees                     (29)                                      (1)      (6)                   (36)  
+  Transaction processing                       3                                         (1)        —                      2  
+  Other revenues                               **                                        (1)       11            4        14  
+  Rebates and incentives (contra-revenue)      (6)                                       (2)       12            6         4  
+  Net revenue                                  (6)                                       (1)      (4)                   (10)  
+
+Note: Table may not sum due to rounding.
+
+** Not applicable.
+
+1 Represents the translational and transactional impact of currency.
+
+2 Includes impact from pricing, other non-volume based fees and geographical mix.
+
+3 Includes impact of the allocation of revenue to service deliverables, which are primarily recorded in other revenue when services are performed.
+
+4 Includes impacts from cyber and intelligence fees, data analytics and consulting fees and other payment-related products and services.
+
+5 Includes the impact from mix on incentive-related volumes.
+
+6 Includes the impact of new, renewed and expired agreements.
+
+The following tables provide a summary of the trend in volumes and transactions:
+
+                                       Three Months Ended September 30,                                                            Nine Months Ended September 30,  
+                                                                   2020                           2019                                                              
+                                                    Increase/(Decrease)                                                                        Increase/(Decrease)  
+                                                                    USD      Local      USD      Local        USD       Local                                Local  
+ ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Mastercard-branded GDV 1                                           —%         1%      13%        15%       (3)%      (0.4)%                                  13%  
+  Asia Pacific/Middle East/Africa                                  (2)%       (1)%      10%        12%       (5)%        (3)%                                  12%  
+  Canada                                                           (4)%       (3)%       8%         9%       (6)%        (4)%                                   8%  
+  Europe                                                             2%         3%      16%        20%       (2)%          —%                                  19%  
+  Latin America                                                   (22)%       (7)%      14%        18%      (18)%        (3)%                                  16%  
+  United States                                                      4%         4%      12%        12%         2%          2%                                  10%  
+  Cross-border volume 1                                           (35)%      (36)%      13%        16%      (29)%       (29)%                                  16%  
+
+1 Excludes volume generated by Maestro and Cirrus cards.
+
+                             Three Months Ended September 30,                          Nine Months Ended September 30,  
+                             2020                                  2019      2020      2019                             
+                             Increase/(Decrease)                                       Increase/(Decrease)              
+ ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Switched transactions      5%                                     19%        2%      18%                              
+
+MASTERCARD SEPTEMBER 30, 2020 FORM 10-Q35
+
+PART I
+
+ITEM 2. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+
+Operating Expenses
+
+For the three months ended September 30, 2020, operating expenses decreased 4% versus the comparable period in 2019. Adjusted operating expenses decreased 4%, or 5% on a currency-neutral basis, versus the comparable period in 2019. Current period results include growth of 3 percentage points from acquisitions. Excluding acquisitions expenses declined 8% primarily due to reduced spending on advertising and marketing, travel, personnel costs and professional fees, partially offset by 1.5 
+percentage points of growth from foreign exchange activity.
+
+For the nine months ended September 30, 2020, operating expenses decreased 1% versus the comparable period in 2019. Operating expenses decreased 1% on both an as adjusted and a currency-neutral basis, versus the comparable period in 2019, which includes a 4 percentage point increase from acquisitions. Excluding acquisitions, expenses declined 5% primarily due to reduced spending on advertising and marketing, travel and professional fees, partially offset by higher personnel costs to support our 
+continued investment in our strategic initiatives.
+
+The components of operating expenses were as follows:
+
+                                                                     Three Months Ended September 30,                                      Increase (Decrease)      Nine Months Ended September 30,             
+                                                                     2020                                             2019                                                                                      
+ ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+                                                                     ($ in millions)                                                                                                                            
+  General and administrative                                         $                                     1,423      $          (2)%      $                        $                                       2%  
+  Advertising and marketing                                          168                                              227       (26)%      415                      644                                  (36)%  
+  Depreciation and amortization                                      141                                              137          3%      430                      376                                    14%  
+  Provision for litigation                                           —                                                —            **      28                       —                                       **  
+  Total operating expenses                                                                                 1,732                 (4)%                                                                     (1)%  
+  Special Items 1                                                    —                                                —            **      (28)                     —                                       **  
+  Adjusted total operating expenses (excluding Special Items 1)      $                                     1,732      $          (4)%      $                        $                                     (1)%  
+
+Note: Table may not sum due to rounding
+
+** Not meaningful.
+
+1 See “Non-GAAP Financial Information” for further information on our non-GAAP adjustments and the reconciliation to GAAP reported amounts.
+
+The following table summarizes the drivers of changes in operating expenses:
+
+                                     Three Months Ended September 30, 2020             
+                                     Operational                                Total  
+ ───────────────────────────────────────────────────────────────────────────────────────
+  General and administrative         (6)%                                       (2)%   
+  Advertising and marketing          (25)%                                      (26)%  
+  Depreciation and amortization      (1)%                                       3%     
+  Provision for litigation           **                                         **     
+  Total operating expenses           (8)%                                       (4)%   
+
+                                     Nine Months Ended September 30, 2020                                    
+                                     Operational                               Currency Impact 2      Total  
+ ─────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  General and administrative         (2)%                                      (1)%                   2%     
+  Advertising and marketing          (35)%                                     (1)%                   (36)%  
+  Depreciation and amortization      8%                                        —%                     14%    
+  Provision for litigation           **                                        **                     **     
+  Total operating expenses           (5)%                                      (1)%                   (1)%   
+
+Note: Tables may not sum due to rounding.
+
+** Not meaningful.
+
+1 See “Non-GAAP Financial Information” for further information on our non-GAAP adjustments and the reconciliation to GAAP reported amounts.
+
+2 Represents the translational and transactional impact of currency.
+
+36 MASTERCARD SEPTEMBER 30, 2020 FORM 10-Q
+
+PART I
+
+ITEM 2. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+
+General and Administrative
+
+For the three months ended September 30, 2020, general and administrative expenses decreased 2% on both an as reported and a currency-neutral basis, versus the comparable period in 2019. Current period results include growth of 4 percentage points from acquisitions. Excluding acquisitions, expenses declined 6% primarily due to reduced spending on travel, personnel costs and professional fees, partially offset by 2 percentage points of growth from foreign exchange derivative contracts
+
+For the nine months ended September 30, 2020, general and administrative expenses increased 2%, or 3% on a currency-neutral basis, versus the comparable period in 2019. Current period results include growth of 5 percentage points from acquisitions. Excluding acquisitions, expenses declined 2% primarily due to reduced spending on travel, professional fees and 1 percentage point decline from foreign exchange derivative contracts, partially offset by an increase in personnel costs to support our 
+continued investment in our strategic initiatives.
+
+The components of general and administrative expenses were as follows:
+
+                                              Three Months Ended September 30,                                      Increase (Decrease)      Nine Months Ended September 30,             
+                                              2020                                             2019                                                                                      
+ ─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+                                              ($ in millions)                                                                                                                            
+  Personnel                                   $                                       940         $      —%         $                        $                                       8%  
+  Professional fees                           81                                                105      (23)%      258                      293                                  (12)%  
+  Data processing and telecommunications      195                                               171      14%        551                      488                                    13%  
+  Foreign exchange activity 1                 23                                                (2)      **         (10)                     12                                      NM  
+  Other                                       184                                               237      (22)%      669                      790                                  (15)%  
+  General and administrative expenses         $                                     1,423         $      (2)%       $                        $                                       2%  
+
+Note: Table may not sum due to rounding.
+
+** Not meaningful.
+
+1 Foreign exchange activity includes gains and losses on foreign exchange derivative contracts and the impact of remeasurement of assets and liabilities denominated in foreign currencies. See Note 17 (Derivative and Hedging Instruments) to the consolidated financial statements included in Part I, Item 1 for further discussion.
+
+Advertising and Marketing
+
+Advertising and marketing expenses decreased 26% and 36%, or 26% and 35% on a currency-neutral basis, respectively, for the three and nine months ended September 30, 2020, versus the comparable periods in 2019, primarily due to lower advertising and sponsorship spend in response to COVID-19.
+
+Depreciation and Amortization
+
+For the three months ended September 30, 2020, depreciation and amortization expenses increased 3%, or 2% on a currency-neutral basis, versus the comparable period in 2019, due to the impact of acquisitions.
+
+For the nine months ended September 30, 2020, depreciation and amortization expenses increased 14% on both an as reported and a currency-neutral basis, versus the comparable period in 2019. Current period results include growth of 7 percentage points from acquisitions. The remaining increase was primarily due to higher depreciation from capital investments.
+
+Provision for Litigation
+
+There were no litigation charges for the three months ended September 30, 2020. For the nine months ended September 30, 2020, we recorded $28 million related to various litigation settlements and legal costs. There were no litigation charges in the comparable periods in 2019. See “Non-GAAP Financial Information” in this section and Note 15 (Legal and Regulatory Proceedings) to the consolidated financial statements included in Part I, Item 1 of this Report for further discussion.
+
+MASTERCARD SEPTEMBER 30, 2020 FORM 10-Q37
+
+PART I
+
+ITEM 2. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+
+Other Income (Expense)
+
+For the three months ended September 30, 2020, other income (expense) was unfavorable, versus the comparable period in 2019, primarily due to increased interest expense related to our recent debt issuances.
+
+For the nine months ended September 30, 2020, other income (expense) was unfavorable, versus the comparable period in 2019, primarily due to net losses in the current period versus net gains in prior period related to unrealized fair market value adjustments on marketable equity securities, as well as increased interest expense related to our recent debt issuances.
+
+The components of our other income (expense) were as follows:
+
+                                                 Three Months Ended September 30,                                       Increase (Decrease)      Nine Months Ended September 30,             
+                                                 2020                                  2019                                                                                                  
+ ─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+                                                 ($ in millions)                                                                                                                             
+  Investment income                              $                                     $             26      (90)%      $                        $                                    (65)%  
+  Gains (losses) on equity investments, net      (91)                                  (100)                    9%      (190)                    48                                   **     
+  Interest expense                               (105)                                 (63)                  (65)%      (275)                    (160)                                (72)%  
+  Other income (expense), net                    3                                     16                    (82)%      7                        26                                   (73)%  
+  Total other income (expense)                   $                                     $          (121)      (58)%      $                        $                                    **     
+
+Note: Table may not sum due to rounding.
+
+** Not meaningful.
+
+Income Taxes
+
+For the three months ended September 30, 2020, the effective income tax rate was 21.0% versus 16.9% for the comparable period in 2019, primarily due to a discrete tax benefit related to a favorable court ruling in 2019 and certain losses on equity investments that did not provide any tax benefit in the current period. The adjusted effective income tax rate was 20.0% versus 16.8% for the comparable period in 2019, primarily due to a discrete tax benefit related to a favorable court ruling in 
+2019.
+
+For the nine months ended September 30, 2020, the effective income tax rate was 17.3% versus 17.1% for the comparable period in 2019, primarily due to discrete tax benefits related to a favorable court ruling and a reduction to the Company’s transition tax liability in 2019, and certain losses on equity investments that did not provide any tax benefit in the current period, partially offset by a more favorable geographic mix of earnings in the current period. The adjusted effective income tax 
+rate was 17.1% versus 17.4% for the comparable period in 2019, primarily due to a more favorable geographic mix of earnings, partially offset by a discrete tax benefit related to a favorable court ruling in 2019.
+
+Liquidity and Capital Resources
+
+We rely on existing liquidity, cash generated from operations and access to capital to fund our global operations, credit and settlement exposure, capital expenditures, investments in our business and current and potential obligations. The following table summarizes the cash, cash equivalents, investments and credit available to us:
+
+                                                (in billions)                                       
+ ────────────────────────────────────────────────────────────────────────────────────────────────────
+                                                September 30,                December 31,           
+  Cash, cash equivalents and investments 1      $                  10.6      $                 7.7  
+  Unused line of credit                         6.0                          6.0                    
+
+1 Investments include available-for-sale securities and held-to-maturity securities. This amount excludes restricted cash and restricted cash equivalents of $2.2 billion and $2.0 billion at September 30, 2020 and December 31, 2019, respectively.
+
+We believe that our existing cash, cash equivalents and investment securities balances, our cash flow generating capabilities, and our access to capital resources are sufficient to satisfy our future operating cash needs, capital asset purchases, outstanding commitments and other liquidity requirements associated with our existing operations and potential obligations.
+
+Our liquidity and access to capital could be negatively impacted by global credit market conditions. We guarantee the settlement of many of the transactions between our customers. Historically, payments under these guarantees have not been significant; however, historical trends may not be an indication of potential future losses. The risk of loss on these guarantees is specific to individual customers, but may also be driven by regional or global economic conditions, including, but not limited 
+to the health of the financial institutions in a country or region. See Note 16 (Settlement and Other Risk Management) to the consolidated financial statements in Part I, Item 1 for a description of these guarantees.
+
+38 MASTERCARD SEPTEMBER 30, 2020 FORM 10-Q
+
+PART I
+
+ITEM 2. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+
+Our liquidity and access to capital could also be negatively impacted by the outcome of any of the legal or regulatory proceedings to which we are a party. For additional discussion of these and other risks facing our business, see Part I, Item 1A - Risk Factors and Part II, Item 7 (Business Environment) of our Annual Report on Form 10-K for the year ended December 31, 2019, Note 15 (Legal and Regulatory Proceedings) to the consolidated financial statements included in Part I, Item 1 and Part 
+II, Item 1A - Risk Factors of this Report.
+
+Cash Flow
+
+The table below shows a summary of the cash flows from operating, investing and financing activities:
+
+                                                 Nine Months Ended September 30,                         
+                                                 2020                                 2019               
+                                                 (in millions)                                           
+ ─────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Net cash provided by operating activities      $                                    $           5,203  
+  Net cash used in investing activities          (825)                                          (1,180)  
+  Net cash used in financing activities          (777)                                          (5,285)  
+
+Net cash provided by operating activities decreased $232 million for the nine months ended September 30, 2020, versus the comparable period in 2019, primarily due to lower net income adjusted for non-cash items, partially offset by a decrease in litigation payments and lower outstanding accounts receivable in the current period.
+
+Net cash used in investing activities decreased $355 million for the nine months ended September 30, 2020, versus the comparable period in 2019, primarily due to higher prior year acquisitions, partially offset by lower net proceeds from investments in available-for-sale and held-to-maturity securities.
+
+Net cash used in financing activities decreased $4,508 million for the nine months ended September 30, 2020, versus the comparable period in 2019, primarily due to lower repurchases of our Class A common stock and higher net debt proceeds in the current period.
+
+Debt and Credit Availability
+
+In March 2020, we issued $1 billion principal amount of notes due March 2027, $1.5 billion principal amount of notes due March 2030 and $1.5 billion principal amount notes due March 2050. Our total debt outstanding was $12.6 billion and $8.5 billion at September 30, 2020 and December 31, 2019, respectively, with the earliest maturity of $650 million of principal occurring in November 2021.
+
+As of September 30, 2020, we have a commercial paper program (the “Commercial Paper Program”), under which we are authorized to issue up to $6 billion in outstanding notes, with maturities up to 397 days from the date of issuance. In conjunction with the Commercial Paper Program, we have a committed unsecured $6 billion revolving credit facility (the “Credit Facility”) which expires in November 2024.
+
+Borrowings under the Commercial Paper Program and the Credit Facility are to provide liquidity for general corporate purposes, including providing liquidity in the event of one or more settlement failures by our customers. In addition, we may borrow and repay amounts under these facilities for business continuity purposes. We had no borrowings outstanding under the Commercial Paper Program or the Credit Facility at September 30, 2020 and December 31, 2019.
+
+See Note 10 (Debt) to the consolidated financial statements included in Part I, Item 1 for further discussion on our debt and Note 15 (Debt) to the consolidated financial statements included in Part II, Item 8 of our Annual Report on Form 10-K for the year ended December 31, 2019 for further discussion on our debt, the Commercial Paper Program and the Credit Facility.
+
+Dividends
+
+We have historically paid quarterly dividends on our outstanding Class A common stock and Class B common stock. Subject to legally available funds, we intend to continue to pay a quarterly cash dividend. The declaration and payment of future dividends is at the sole discretion of our Board of Directors after taking into account various factors, including our financial condition, operating results, available cash and current and anticipated cash needs.
+
+Aggregate payments for quarterly dividends totaled $1,206 million for the nine months ended September 30, 2020.
+
+On December 4, 2019, our Board of Directors declared a quarterly cash dividend of $0.40 per share paid on February 7, 2020 to holders of record on January 9, 2020 of our Class A common stock and Class B common stock. The aggregate amount of this dividend was $403 million.
+
+On February 4, 2020, our Board of Directors declared a quarterly cash dividend of $0.40 per share payable on May 8, 2020 to holders of record on April 9, 2020 of our Class A common stock and Class B common stock. The aggregate amount of this dividend was $402 million.
+
+On June 16, 2020, our Board of Directors declared a quarterly cash dividend of $0.40 per share payable on August 7, 2020 to holders of record on July 9, 2020 of our Class A common stock and Class B common stock. The aggregate amount of this dividend was $402 million.
+
+MASTERCARD SEPTEMBER 30, 2020 FORM 10-Q39
+
+PART I
+
+ITEM 2. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+
+On September 22, 2020, our Board of Directors declared a quarterly cash dividend of $0.40 per share payable on November 9, 2020 to holders of record on October 9, 2020 of our Class A common stock and Class B common stock. The aggregate amount of this dividend is estimated to be $398 million.
+
+Share Repurchases
+
+Repurchased shares of our common stock are considered treasury stock. In December 2019 and 2018, our Board of Directors approved share repurchase programs authorizing us to repurchase up to $8.0 billion and $6.5 billion, respectively, of our Class A common stock under each plan. The program approved in 2019 became effective in January 2020 after completion of the share repurchase program authorized in 2018. The timing and actual number of additional shares repurchased will depend on a variety of
+factors, including the operating needs of the business, legal requirements, price and economic and market conditions.
+
+The following table summarizes our share repurchase authorizations and repurchase activity of our Class A common stock through September 30, 2020, under the plans approved in 2019 and 2018:
+
+                                                                                          (in millions, except average price data)              
+  Remaining authorization at December 31, 2019                                            $                                              8,304  
+  Dollar value of shares repurchased during the nine months ended September 30, 2020      $                                              3,443  
+  Remaining authorization at September 30, 2020                                           $                                              4,861  
+  Shares repurchased during the nine months ended September 30, 2020                      11.2                                                  
+  Average price paid per share during the nine months ended September 30, 2020            $                                             307.76  
+
+See Note 11 (Stockholders' Equity) to the consolidated financial statements included in Part I, Item 1 for further discussion.
+
+Off-Balance Sheet Arrangements
+
+We have no off-balance sheet debt, other than the commitments presented in the future obligations table in Part II, Item 7 - Liquidity and Capital Resources of our Annual Report on Form 10-K for the year ended December 31, 2019.
+
+Recent Accounting Pronouncements
+
+Refer to Note 1 (Summary of Significant Accounting Policies) to the consolidated financial statements included in Part I, Item 1.
+
+40 MASTERCARD SEPTEMBER 30, 2020 FORM 10-Q
+
+PART I
+

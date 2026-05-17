@@ -1,0 +1,826 @@
+Item 2. Management’s Discussion and Analysis of Financial Condition and Results of Operations
+
+Overview
+
+The continuing market shift to e-commerce and the ongoing economic impacts of the COVID-19 pandemic impacted the mix of demand for our services for the quarter and year-to-date periods. In the third quarter, we continued to experience elevated levels of business-to-consumer shipping demand, while business-to-business activity remained depressed. We also experienced strong volume growth from small and medium-sized businesses largely driven by our U.S. network optimization initiatives and digital 
+platform improvements.
+
+Highlights of our consolidated results for the three and nine months ended September 30, 2020 and 2019, which are discussed in more detail in the sections that follow, include:
+
+                                                                              %                                  %  
+  Revenue (in millions)                 21,238      18,318      2,920      15.9      59,732      53,526       11.6  
+  Operating Expenses (in millions)      18,875      16,190      2,685      16.6      54,085      47,861       13.0  
+  Operating Profit (in millions)                     2,128        235      11.0       5,647       5,665      (0.3)  
+ ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Operating Margin                                                                                                  
+  Net Income (in millions)               1,957       1,750        207      11.8       4,690       4,546        3.2  
+  Basic Earnings Per Share                2.25        2.03       0.22      10.8        5.42        5.26        3.0  
+  Diluted Earnings Per Share              2.24        2.01       0.23      11.4        5.39        5.23        3.1  
+  Average Daily Package Volume          23,855      21,014                 13.5      23,142      20,338       13.8  
+  Average Revenue Per Piece              11.06       11.02       0.04       0.4       10.85       11.10      (2.3)  
+
+• Revenue increased 15.9% (11.6% year to date), driven by growth in business-to-consumer shipments.
+
+• Average daily package volume increased 13.5% (13.8% year to date), driven by business-to-consumer increases in our U.S. Domestic Package segment.
+
+• Operating expenses increased due to volume growth, as well as the shift in customer and product mix described below.
+
+• Operating profit for the quarter increased $235 million or 11.0% driven by strong demand out of Asia in our International Package and Supply Chain and Freight segments. Year to date, operating profit declined $18 million or 0.3%.
+
+• We reported net income of $2.0 billion ($4.7 billion year to date) and diluted earnings per share of $2.24 ($5.39 year to date). Excluding the after-tax impact of transformation strategy costs of $33 million ($151 million year to date), adjusted diluted earnings per share was $2.28 ($5.56 year to date).
+
+• Net cash from operations increased $3.6 billion for the quarter to $9.3 billion year to date.
+
+The U.S. Domestic Package segment experienced strong revenue growth, driven by increased residential deferred and ground volume and the impact of an additional operating day in the quarter. For the third quarter, revenue per piece was flat, as favorable changes in pricing and customer mix were offset by the declines in fuel surcharge rates and an increase in SurePost volume. Year to date, revenue per piece decreased due to changes in customer and product mix and declines in fuel surcharge rates 
+driven by lower fuel prices. The increase in operating expenses for the quarter and year to date was largely driven by increases in compensation and benefits and additional third-party transportation costs. These increases reflected the impact of elevated residential deliveries, which reduce delivery density and result in higher average daily union hours and higher average daily miles driven, as well as the investments we have made to expand weekend operations and improve our ground network. 
+These factors weighed on the segment's operating profit for the quarter and year to date and resulted in a decline in operating margin.
+
+
+UNITED PARCEL SERVICE, INC. AND SUBSIDIARIES
+
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND
+
+RESULTS OF OPERATIONS
+
+We expect the elevated level of residential deliveries in our U.S. Domestic Package segment will continue even as commercial activities resume. We anticipate that our benefits costs will also further increase in the fourth quarter as more recently-hired employees become eligible for coverage. Additionally, our network investments may continue to exceed the associated revenue for the remainder of the year. If we are unable to optimize volume in our network and adjust our pricing and/or costs in 
+response to lower delivery density, we expect operating margins will continue to be compressed.
+
+Our International segment experienced strong revenue growth for the quarter and year to date, driven by continued growth in outbound volume from Asia, as well as growth from e-commerce within Europe. Revenue per piece increased during the quarter due to changes in product mix and favorable currency movements, partially offset by decreases in fuel surcharge rates. The segment reported strong operating profit growth and expanded its operating margin for the quarter. We expect the segment will 
+continue to see strong results for the remainder of the year.
+
+In our Supply Chain & Freight segment, growth for the quarter and year to date was driven by international air freight, with continuing strong outbound demand from Asia as inventory replenishment superseded demand for personal protective equipment during the third quarter. This trend also benefited our ocean freight business, which experienced growth for the quarter. Our healthcare logistics business continued to experience strong growth and our less-than-truckload ("LTL") business improved 
+efficiency and productivity during the quarter. Conversely, our truckload brokerage unit faced continued market challenges, which weighed on operating profit for the segment. We expect that overall conditions in the truckload brokerage market could remain challenging for the remainder of the year with a potential adverse impact on segment performance.
+
+We continue to evaluate the potential impacts of COVID-19 on our business and on overall economic conditions. As global macroeconomic trends continue to evolve, it is possible that we will experience adverse developments in our allowances for credit losses or be required to recognize impairments of goodwill or other long-lived assets. Increases in average daily hours and average daily miles driven within our U.S. Domestic Package segment could continue to drive adverse developments in our 
+casualty self-insurance reserves in the future.
+
+We believe that we remain well positioned for long-term growth, however we cannot reasonably estimate the duration or severity of this pandemic or its ultimate impact on the global economy, our business results or liquidity. For additional information on these risks and uncertainties, see Part II, Item 1A in our Quarterly Report on Form 10-Q for the quarter ended March 31, 2020.
+
+
+UNITED PARCEL SERVICE, INC. AND SUBSIDIARIES
+
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND
+
+RESULTS OF OPERATIONS
+
+Supplemental Information - Items Affecting Comparability
+
+We supplement the reporting of our financial information determined under generally accepted accounting principles (“GAAP”) with certain non-GAAP financial measures including "adjusted" compensation and benefits, operating expenses, operating profit, operating margin, other income (expense), income before income taxes, income tax expense, effective tax rate, net income and earnings per share. We believe that these non-GAAP measures provide additional meaningful information to assist users of our
+financial statements in understanding our financial results and assessing our ongoing performance because they exclude items that may not be indicative of, or are unrelated to, our underlying operations, and may provide a useful baseline for analyzing trends in our underlying businesses. These non-GAAP measures are used internally by management for business unit operating performance analysis, business unit resource allocation and in connection with incentive compensation award determinations.
+
+Adjusted amounts reflect the following:
+
+                                                             Three Months Ended September 30,                        Nine Months Ended September 30,                              
+  Non-GAAP Adjustments                                       2020                                          2019      2020                                          2019           
+ ──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Operating Expenses:                                                                                                                                                             
+  Transformation Strategy Costs                              $                                     44      $         $                                    201      $         207  
+  Total Adjustments to Operating Expenses                    44                                            63        201                                           207            
+  Income Tax Benefit from Transformation Strategy Costs      (11)                                          (16)      (50)                                          (50)           
+  Total Adjustments to Net Income                            $                                     33      $         $                                    151      $         157  
+
+For additional information regarding our transformation strategy costs see note 17 to the unaudited, consolidated financial statements included in this report.
+
+We also supplement the reporting of revenue, revenue per piece and operating profit with non-GAAP measures that exclude the period over period impact of foreign currency exchange rate changes and hedging activities. We believe currency-neutral revenue, revenue per piece and operating profit information allows users of our financial statements to understand growth trends in our products and results. We evaluate the performance of our International Package and Supply Chain & Freight segments on 
+this currency-neutral basis.
+
+Currency-neutral revenue, revenue per piece and operating profit are calculated by dividing current period reported U.S. dollar revenue, revenue per piece and operating profit by the current period average exchange rates to derive current period local currency revenue, revenue per piece and operating profit. The derived amounts are then multiplied by the average foreign exchange rates used to translate the comparable results for each month in the prior year period (including the period over 
+period impact of foreign currency revenue hedging activities). The difference between the current period reported U.S. dollar revenue, revenue per piece and operating profit and the derived current period U.S. dollar revenue, revenue per piece and operating profit is the period over period impact of currency fluctuations.
+
+Non-GAAP financial measures should not be considered in isolation or as a substitute for the related GAAP measures. Our non-GAAP financial measures may differ from similar measures used by other companies.
+
+
+UNITED PARCEL SERVICE, INC. AND SUBSIDIARIES
+
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND
+
+RESULTS OF OPERATIONS
+
+Results of Operations - Segment Review
+
+The results and discussions that follow are reflective of how management monitors and evaluates the performance of our reporting segments.
+
+Certain operating expenses are allocated among our reporting segments using activity-based costing methods. These activity-based costing methods require us to make estimates that impact the amount of each expense that is attributed to each segment. Changes in these estimates would directly impact the amount of expense allocated to each segment and therefore the operating profit of each reporting segment. Our allocation methodologies are refined periodically, as necessary, to reflect changes in 
+our business. Beginning in 2020, we updated our cost allocation methodology for the Ground with Freight Pricing ("GFP") product. The cost associated with GFP that is allocated from the U.S. Domestic Package segment to UPS Freight, within the Supply Chain & Freight segment, was adjusted to better reflect operational activities associated with this product. As a result, expense allocated to UPS Freight for the third quarter increased by $5 million ($7 million year to date). There were no 
+significant changes in our expense allocation methodologies in 2019.
+
+We test goodwill and other indefinite-lived intangible assets for impairment annually at July 1st and between annual tests if an event occurs or circumstances change that would indicate that it is more likely than not that the carrying amount may be impaired. Testing goodwill and other indefinite-lived intangible assets for impairment requires that we make a number of significant assumptions, including assumptions related to future revenues, costs, capital expenditures, working capital and our 
+cost of capital. We also are required to make assumptions relating to our overall business and operating strategy, and the regulatory and market environment. While none of our reporting units incurred any goodwill impairment charges in 2020 or 2019, the excess of fair value above carrying value of certain reporting units within our Supply Chain & Freight segment at July 1, 2020 declined, primarily due to changes in our estimates and assumptions. There were no events or changes in circumstances 
+during the third quarter of 2020 that would indicate the carrying amount of our goodwill may be impaired as of November 2, 2020. However, future changes in estimates or assumptions, whether due to unexpected impacts on our business arising from COVID-19 or otherwise, our transformation activities, the continuing evaluation of our business portfolio, or other actual events or transactions, could increase the likelihood that the goodwill allocated to one or more of our reporting units becomes 
+impaired.
+
+
+UNITED PARCEL SERVICE, INC. AND SUBSIDIARIES
+
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND
+
+RESULTS OF OPERATIONS
+
+U.S. Domestic Package Operations
+
+                                                                                               Nine Months Ended                                      
+                                                                                               September 30,                                          
+                                                                                        %      2020                                                %  
+  Average Daily Package Volume (in thousands):                                                                                                        
+ ──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Next Day Air                                               1,915       1,891        1.3                              1,888       1,771         6.6  
+  Deferred                                                   1,657       1,474       12.4                              1,617       1,413        14.4  
+  Ground                                                    16,803      14,544       15.5                             16,346      14,068        16.2  
+  Total Average Daily Package Volume                        20,375      17,909       13.8                             19,851      17,252        15.1  
+  Average Revenue Per Piece:                                                                                                                          
+  Next Day Air                                               16.85       17.73      (5.0)      $                       16.84       18.21       (7.5)  
+  Deferred                                                                          (3.3)      12.41                                           (4.2)  
+  Ground                                                                              3.1      8.79                                              0.8  
+  Total Average Revenue Per Piece                             9.99        9.99          —      $                        9.85       10.04       (1.9)  
+  Operating Days in Period                                                                     193                                                    
+  Revenue (in millions):                                                                                                                              
+  Next Day Air                                               2,098       2,146      (2.2)      $                       6,137       6,160       (0.4)  
+  Deferred                                                   1,378       1,248       10.4                              3,873       3,494        10.8  
+  Ground                                                     9,749       8,061       20.9                             27,745      23,431        18.4  
+  Total Revenue                                             13,225      11,455       15.5      $                      37,755      33,085        14.1  
+  Operating Expenses (in millions):                                                                                                                   
+  Operating Expenses                                        12,127      10,239       18.4      $                      35,111      29,995        17.1  
+  Transformation Strategy Costs                                                      34.6      (105)                                            45.8  
+  Adjusted Operating Expense                                12,092      10,213       18.4      $                      35,006      29,923        17.0  
+  Operating Profit (in millions) and Operating Margin:                                                                                                
+  Operating Profit                                           1,098       1,216      (9.7)      $                       2,644       3,090      (14.4)  
+  Adjusted Operating Profit                                  1,133       1,242      (8.8)      $                       2,749       3,162      (13.1)  
+  Operating Margin                                                                             7.0                                                    
+  Adjusted Operating Margin                                                                    7.3                                                    
+
+Revenue
+
+The change in overall revenue was due to the following factors:
+
+                                   Volume          Rates /           Fuel      Total Revenue  
+                                               Product Mix      Surcharge             Change  
+  Revenue Change Drivers:                                                                     
+ ──────────────────────────────────────────────────────────────────────────────────────────────
+  Third quarter 2020 vs. 2019        15.5              0.7          (0.7)               15.5  
+  Year-to-date 2020 vs. 2019         16.3            (1.5)          (0.7)               14.1  
+
+Volume
+
+Total volume increased across all products in the third quarter and year-to-date periods, led by strong growth in our deferred and ground services driven by the continuing, elevated demand for residential delivery and one additional operating day. Growth in the third quarter was driven by small- and medium-sized business customers and large retailers. Small- and medium-sized businesses experienced volume growth of 18.7% as a result of the continued growth in e-commerce and our investments to 
+improve both time-in-transit and digital access platforms.
+
+
+UNITED PARCEL SERVICE, INC. AND SUBSIDIARIES
+
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND
+
+RESULTS OF OPERATIONS
+
+Business-to-consumer shipments, which represented approximately 61% of the total U.S. Domestic Package average daily volume in the quarter, as compared to approximately 52% in the third quarter of 2019, grew 33.4% (up 39.4% year to date) driven by continued growth in e-commerce. We believe that the health risks presented by COVID-19, together with ongoing social distancing guidelines, have changed consumer behaviors, accelerating a structural market shift towards e-commerce. Business-to-consumer
+shipments remained significantly elevated throughout the third quarter, although the percentage of average daily volume attributable to business-to-consumer shipments declined relative to the second quarter as commercial activity began to resume. Business-to-business shipments decreased 7.8% in the third quarter (down 10.5% year to date), driven by lower volume in our ground products. The rate of decline improved from 21.9% in the second quarter.
+
+Average daily volume increased in the third quarter and year-to-date periods for both our Next Day Air and Deferred products. This volume growth was driven by residential Next Day and Deferred Package products as e-commerce continued to drive a significant increase in business-to-consumer volume. This growth was slightly offset by declines in Next Day and Second Day Letter volume, as well as declines in business-to-business shipments, due to shifts in customer preferences and the ongoing impacts
+of COVID-19.
+
+Residential Ground and SurePost average daily volume also increased significantly in the third quarter and year-to-date periods, driven by changes in customer mix described above. Ground commercial volume declined overall during the third quarter and year-to-date periods as many businesses remained temporarily closed or continued limited operations in response to COVID-19; however we saw improvement throughout the third quarter as businesses continued to reopen and commercial activity gradually 
+resumed.
+
+Rates and Product Mix
+
+Overall revenue per piece remained flat for the third quarter but decreased year to date due to changes in customer and product mix and fuel surcharge rates, partially offset by changes in base rates. Ground rates and air services rates increased an average net 4.9% beginning in December 2019.
+
+Revenue per piece for our Next Day Air and Deferred products decreased in the third quarter and year-to-date periods. This decrease was primarily driven by the shift in customer and product mix, lower fuel surcharges and a decrease in average billable weight per piece.
+
+Revenue per piece for our Ground products increased for the third quarter and year-to-date periods, primarily due to the shift in customer mix with a substantial increase in volume from small- and medium-sized businesses. This increase was partially offset by a decline in revenue per piece due to the relative increase in non-premium volume, lower fuel surcharges and a decrease in average billable weight per piece.
+
+Fuel Surcharges
+
+We apply a fuel surcharge to domestic air and ground services that is adjusted weekly. The air fuel surcharge is based on the U.S. Department of Energy’s (“DOE”) Gulf Coast spot price for a gallon of kerosene-type jet fuel, while the ground fuel surcharge is based on the DOE’s On-Highway Diesel Fuel price. Effective March 2, 2020, the fuel surcharge rates were raised for all thresholds on U.S. air and ground services. Based on published rates, the average fuel surcharges for domestic Air and 
+Ground products were as follows:
+
+                               Three Months Ended September 30,                Change       Nine Months Ended                Change   
+                                                                                                September 30,                         
+                                                           2020      2019      % Point                   2020      2019      % Point  
+ ──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Next Day Air / Deferred                                   3.8       7.3      (3.5)                      3.9       7.4      (3.5)    
+  Ground                                                    6.5       7.1      (0.6)                      6.7       7.2      (0.5)    
+
+While fluctuations in fuel surcharge percentages can be significant from period to period, fuel surcharges are only one of the many individual components of our pricing structure that impact our overall revenue and yield. Additional components include the mix of services sold, the base price and additional charges for these services and the pricing discounts offered.
+
+Total domestic fuel surcharge revenue decreased by $82 million in the third quarter (down $217 million year to date) as a result of lower fuel surcharge indices, partially offset by increases in package volume and shifts in product mix.
+
+
+UNITED PARCEL SERVICE, INC. AND SUBSIDIARIES
+
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND
+
+RESULTS OF OPERATIONS
+
+Operating Expenses
+
+Operating expenses, and operating expenses excluding the year over year impact of transformation strategy costs, increased in the third quarter, primarily due to increased pickup and delivery costs (up $1.1 billion). Pickup and delivery costs increased as the elevated level of residential volume negatively impacted our delivery density, driving a 21.3% increase in package delivery stops per day and a 12.1% increase in average daily miles driven. In addition, the costs of operating our domestic 
+integrated air and ground network increased $414 million, the costs of package sorting increased $242 million and other indirect operating costs increased $122 million. The increases in expense were driven by several factors:
+
+•Higher employee compensation and benefit costs, largely resulting from:
+
+◦ volume growth, which resulted in an increase in average daily direct union labor hours of 17.3%;
+
+◦ union pay rate increases; and
+
+◦ growth in the overall size of the workforce.
+
+We incurred higher employee benefit expenses due to additional headcount, contractual contribution rate increases to union multiemployer plans, changes in benefit eligibility for certain union employees and higher service costs for our company-sponsored pension and postretirement plans, primarily driven by lower discount rates used to measure the projected benefit obligations of these plans. Workers' compensation expense increased $141 million as a result of additional hours, medical and wage 
+inflation and claims experience.
+
+• Higher third party transportation costs were driven by additional SurePost volume and investments to improve time-in-transit within our U.S. ground network.
+
+• The increases described above were partially offset by a decrease in fuel costs driven by lower prices for jet fuel, diesel and gasoline, as well as alternative fuel tax credits arising from legislation passed in the fourth quarter of 2019.
+
+On a year-to-date basis, operating expenses and operating expenses excluding the year over year impact of transformation strategy costs increased due to pickup and delivery costs (up $3.1 billion), the costs of operating our domestic integrated air and ground network (up $919 million), the costs of package sorting (up $669 million) and other indirect operating costs (up $422 million). These increases were primarily driven by higher volume and lower delivery density which resulted in additional 
+employee headcount, increased compensation and benefit costs and higher self-insurance casualty losses.
+
+Total cost per piece increased 2.5% for the third quarter (up 0.7% year to date). Excluding the impact of transformation strategy costs, adjusted cost per piece increased 2.5% for the third quarter (up 0.6% year to date). Cost per piece increased primarily due to additional residential volume and headcount growth, partially offset by lower fuel costs.
+
+Operating Profit and Margin
+
+As a result of the factors described above, operating profit decreased $118 million in the third quarter (down $446 million year to date), with operating margins decreasing 230 basis points to 8.3% (down 230 basis points to 7.0% year to date). Excluding the year over year impact of transformation strategy costs, adjusted operating profit decreased $109 million in the third quarter (down $413 million year to date), with adjusted operating margins decreasing 220 basis points to 8.6% (down 230 
+basis points to 7.3% year to date).
+
+
+UNITED PARCEL SERVICE, INC. AND SUBSIDIARIES
+
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND
+
+RESULTS OF OPERATIONS
+
+International Package Operations
+
+                                                                                                                                                     Nine Months Ended                                      
+                                                                                                                                                     September 30,                                          
+                                                                                                                                              %      2020                                                %  
+  Average Daily Package Volume (in thousands):                                                                                                                                                              
+ ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Domestic                                                                                                         1,806      1,668         8.3                              1,746       1,661         5.1  
+  Export                                                                                                           1,674      1,437        16.5                              1,545       1,425         8.4  
+  Total Average Daily Package Volume                                                                               3,480      3,105        12.1                              3,291       3,086         6.6  
+  Average Revenue Per Piece:                                                                                                                                                                                
+  Domestic                                                                                                          6.61       6.45         2.5      $                        6.48        6.52       (0.6)  
+  Export                                                                                                                                  (0.3)      28.63                                           (2.3)  
+  Total Average Revenue Per Piece                                                                                  17.37      16.92         2.7      $                       16.88       17.04       (0.9)  
+  Operating Days in Period                                                                                                                           193                                                    
+  Revenue (in millions):                                                                                                                                                                                    
+  Domestic                                                                                                           776        689        12.6      $                       2,183       2,069         5.5  
+  Export                                                                                                           3,153      2,673        18.0                              8,538       7,972         7.1  
+  Cargo and Other                                                                                                                          19.7      454                                               8.9  
+  Total Revenue                                                                                                    4,087      3,494        17.0      $                      11,175      10,458         6.9  
+  Operating Expenses (in millions):                                                                                                                                                                         
+  Operating Expenses                                                                                               3,121      2,827        10.4      $                       8,887       8,600         3.3  
+  Transformation Strategy Costs                                                                                                          (76.9)      (84)                                           (25.0)  
+  Adjusted Operating Expenses                                                                                      3,115      2,801        11.2      $                       8,803       8,488         3.7  
+  Operating Profit (in millions) and Operating Margin:                                                                                                                                                      
+  Operating Profit                                                                                                   966        667        44.8      $                       2,288       1,858        23.1  
+  Adjusted Operating Profit                                                                                          972        693        40.3      $                       2,372       1,970        20.4  
+  Operating Margin                                                                                                                                   20.5                                                   
+  Adjusted Operating Margin                                                                                                                          21.2                                                   
+  Currency Benefit / (Cost) – (in millions)*:                                                                                                                                                               
+  Revenue                                                                                                                                     $                                                          $  
+  Operating Expenses                                                                                                                       (47)                                                         40  
+  Operating Profit                                                                                                                            $                                                          $  
+  * Net of currency hedging; amount represents the change in currency translation compared to the prior year.                                                                                               
+
+The change in revenue was due to the following:
+
+                                   Volume          Rates /           Fuel      Currency      Total Revenue  
+                                               Product Mix      Surcharge                           Change  
+  Revenue Change Drivers:                                                                                   
+ ────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Third quarter 2020 vs. 2019        13.8              3.3          (1.7)      1.6                    17.0  
+  Year-to-date 2020 vs. 2019          7.8              1.0          (1.9)      —                       6.9  
+
+
+UNITED PARCEL SERVICE, INC. AND SUBSIDIARIES
+
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND
+
+RESULTS OF OPERATIONS
+
+Volume
+
+Average daily volume increased in the third quarter and year-to-date periods for both domestic and export products. Business-to-consumer volume continued to increase in the third quarter and year-to-date periods, but the growth has slowed since the second quarter. Business-to-business volume declined in the third quarter and year-to-date periods. Declines in commercial volume in July and September were partially offset by growth in August as the impact of the summer vacation period in Europe was
+muted by COVID-driven travel restrictions and efforts to recover from business shutdowns earlier in the year.
+
+Average daily volume growth for the quarter and year-to-date periods was driven primarily by the retail sector as a result of continuing strength in online consumer demand, slightly offset by lower demand from manufacturing customers.
+
+Export volume increased in the third quarter and year-to-date periods across most major trade lanes, driven primarily by Asia. Volume on the Europe to U.S. and Intra-Europe trade lanes also increased. We experienced volume growth from both our large customers and small- and medium-sized businesses. Export volume growth for the quarter and year-to-date periods was strongest in our non-premium products, such as Worldwide Expedited and Transborder Standard. We also experienced volume growth in our 
+premium Worldwide Express product in the third quarter and year-to-date periods.
+
+Domestic volume also increased in the majority of our markets in the third quarter and year-to-date periods, primarily due to residential growth driven by the online retail sector.
+
+Rates and Product Mix
+
+In December 2019 we implemented an average 4.9% net increase in base and accessorial rates for international shipments originating in the United States. Rate changes for shipments originating outside the U.S. are made throughout the year and vary by geographic market. In response to capacity constraints driven by the COVID-19 pandemic, we implemented a demand surcharge on certain lanes beginning in the first quarter of 2020.
+
+Total revenue per piece increased 2.7% in the third quarter (down 0.9% year to date), of which 1.4% for the quarter was attributable to currency movements. Excluding the impact of currency, revenue per piece increased 1.3% (down 0.9 % year to date), primarily due to product mix, offset by declines in fuel surcharge rates.
+
+Domestic revenue per piece increased 2.5% in the third quarter (down 0.6% year to date), of which 2.8% (0.3% year to date) was attributable to currency movements. Excluding the impact of currency, revenue per piece decreased 0.3% for the quarter and year to date due to declines in fuel surcharge rates.
+
+Export revenue per piece decreased 0.3% in the third quarter (down 2.3% year to date), inclusive of a 1.0% increase for the quarter attributable to currency movements. Excluding the impact of currency, revenue per piece decreased 1.3% (2.3% year to date) primarily driven by declines in fuel surcharge rates.
+
+Fuel Surcharges
+
+We apply fuel surcharges on our international air and ground services. The fuel surcharges for international air services originating inside or outside the U.S. are largely indexed to the DOE's Gulf Coast spot price for a gallon of kerosene-type jet fuel. The fuel surcharges for ground services originating outside the U.S. are indexed to fuel prices in the region or country where the shipment originates.
+
+While fluctuations in fuel surcharge percentages can be significant from period to period, fuel surcharges represent one of the many individual components of our pricing structure that impact our overall revenue and yield. Additional components include the mix of services sold, the base price and extra service charges and the pricing discounts offered. Total international fuel surcharge revenue decreased $55 million in the third quarter ($210 million year to date) due to the declines in fuel 
+surcharge indices and changes in product mix and volume.
+
+
+UNITED PARCEL SERVICE, INC. AND SUBSIDIARIES
+
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND
+
+RESULTS OF OPERATIONS
+
+Operating Expenses
+
+Operating expenses, and operating expenses excluding the year over year impact of transformation strategy costs, increased in the third quarter and year-to-date periods. These increases were primarily due to higher pickup and delivery costs and, for the third quarter, the impact of unfavorable currency exchange rate movements. Pickup and delivery costs increased $164 million for the third quarter ($233 million year to date) due to volume growth that drove additional third-party pickup and 
+delivery expense.
+
+The costs of operating our integrated international air and ground network increased $44 million in the third quarter (down $93 million year to date), as increased block hours were partially offset by lower fuel prices. The remaining increase in operating expenses in the third quarter and year-to-date periods was due to package sorting and other indirect operating costs.
+
+In addition to variability in usage and market prices, the manner in which we purchase fuel also influences the net impact of fuel costs on our results. The majority of our contracts for fuel purchases utilize index-based pricing formulas plus or minus a fixed locational/supplier differential. While many of the indices are aligned, each index may fluctuate at a different pace, driving variability in the prices paid for fuel. Because of this, our operating results may be affected should the 
+market price of fuel suddenly change by a significant amount or change by amounts that do not result in an adjustment in our fuel surcharges, which can significantly affect our earnings either positively or negatively in the short-term.
+
+Operating Profit and Margin
+
+As a result of the factors described above, operating profit increased $299 million in the third quarter ($430 million year to date), with operating margin increasing 450 basis points to 23.6% (270 basis points to 20.5% year to date). Excluding the year over year impact of transformation strategy costs, adjusted operating profit increased for the third quarter and year-to-date periods, with adjusted operating margin increasing 400 basis points to 23.8% (240 basis points to 21.2% year to date).
+
+
+UNITED PARCEL SERVICE, INC. AND SUBSIDIARIES
+
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND
+
+RESULTS OF OPERATIONS
+
+Supply Chain & Freight Operations
+
+                                                                                          Three Months Ended September 30,                                                                      
+                                                                                          2020                                             2019           %                                  %  
+ ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Freight LTL Statistics:                                                                                                                                                                       
+  Revenue (in millions)                                                                   $                                       689      $          (1.4)       1,911      2,040       (6.3)  
+  Revenue Per Hundredweight                                                               $                                     27.69      $            3.7       27.02      26.39         2.4  
+  Shipments (in thousands)                                                                                                      2,371                 (2.9)       6,667      7,064       (5.6)  
+  Shipments Per Day (in thousands)                                                        37.0                                             38.1       (2.9)                              (6.2)  
+  Gross Weight Hauled (in millions of lbs)                                                                                      2,488                 (4.9)       7,073      7,730       (8.5)  
+  Weight Per Shipment (in lbs)                                                                                                  1,049                 (2.1)       1,061      1,094       (3.0)  
+  Operating Days in Period                                                                64                                               64                                                   
+  Revenue (in millions):                                                                                                                                                                        
+  Forwarding                                                                              $                                     1,753      $           19.1       4,897      4,384        11.7  
+  Logistics                                                                                                                     1,040      846         22.9       2,862      2,511        14.0  
+  Freight                                                                                 870                                              852          2.1       2,360      2,486       (5.1)  
+  Other                                                                                   263                                              199         32.2                               13.5  
+  Total Revenue                                                                           $                                     3,926      $           16.5      10,802      9,983         8.2  
+  Operating Expenses (in millions):                                                                                                                                                             
+  Operating Expenses                                                                      $                                     3,627      $           16.1      10,087      9,266         8.9  
+  Transformation Strategy Costs                                                           (3)                                              (11)      (72.7)                             (47.8)  
+  Adjusted Operating Expenses:                                                            $                                     3,624      $           16.4      10,075      9,243         9.0  
+  Operating Profit (in millions) and Operating Margin:                                                                                                                                          
+  Operating Profit                                                                        $                                       299      $           22.0         715        717       (0.3)  
+  Adjusted Operating Profit                                                               $                                       302      $           18.0         727        740       (1.8)  
+  Operating Margin                                                                        7.6                                              7.3                                                  
+  Adjusted Operating Margin                                                               7.7                                              7.6                                                  
+  Currency Benefit / (Cost) – (in millions)*:                                                                                                                                                   
+  Revenue                                                                                                                                                                                       
+  Operating Expenses                                                                                                                                                                            
+  Operating Profit                                                                                                                                                                              
+  * Amount represents the change in currency translation compared to the prior year.                                                                                                            
+
+                                                    Three Months Ended September 30,      Change                  Nine Months Ended                Change              
+                                                                                                                  September 30,                                        
+                                                    2020                                  $                %      2020                   2019      $                %  
+  Transformation Strategy Costs (in millions):                                                                                                                         
+ ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Forwarding                                        $                                     $           (60.0)      $                      $         $           (36.4)  
+  Logistics                                         1                                     (5)         (83.3)      5                      12        (7)         (58.3)  
+  Total Transformation Strategy Costs               $                                     $           (72.7)      $                      $         $           (47.8)  
+
+
+UNITED PARCEL SERVICE, INC. AND SUBSIDIARIES
+
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND
+
+RESULTS OF OPERATIONS
+
+Revenue
+
+Total revenue for the Supply Chain & Freight segment increased $557 million in the third quarter ($819 million year to date).
+
+Overall, Forwarding revenue increased for the third quarter and year to date. In our truckload brokerage business, revenue increased primarily due to volume growth. Our international air freight business experienced growth in revenue driven by strong demand from Asia in the third quarter and overall for the year to date, together with higher market rates and capacity surcharges. Ocean freight forwarding revenue increased in the third quarter, driven by increased volumes out of Asia, but remained
+lower year to date due to the impact of COVID-19 on demand in the first and second quarters. Our North American air freight business experienced revenue declines in both the quarter and year-to-date periods, driven by the impact of COVID-19 on commercial activity.
+
+Within Logistics, our mail services business experienced revenue growth for the third quarter and year to date due to continuing e-commerce growth, which also drove a favorable shift in product mix. In addition, the healthcare sector also experienced revenue growth for the quarter and year-to-date periods, partly resulting from increased demand for healthcare logistics and distribution solutions in response to COVID-19. Revenue from most other market sectors declined due to the impacts of the 
+pandemic on customer demand.
+
+UPS Freight revenue increased in the third quarter as a result of volume growth in our GFP product, which was partly offset by volume and revenue declines in our LTL business. On a year-to-date basis, declines in both LTL and truckload volume drove an overall decline in revenue. This was primarily due to reduced demand in the freight market resulting from the impacts of COVID-19 and was also impacted by revenue management initiatives that drove an increase in revenue per hundredweight.
+
+Revenue for the other businesses within Supply Chain & Freight increased on a quarter and year-to-date basis, driven by revenue growth within UPS Customer Solutions, as well as additional volume from service contracts with the U.S. Postal Service.
+
+Operating Expenses
+
+Total operating expenses for the Supply Chain & Freight segment, and operating expenses excluding the year over year impact of transformation strategy costs, increased in the third quarter and for the year to date.
+
+Forwarding operating expenses increased $287 million in the third quarter ($523 million year to date). Purchased transportation expense increased $303 million in the quarter ($563 million year to date), with increases in both our international air freight forwarding and truckload brokerage businesses. Market rate increases outpaced the overall declines in tonnage and volume within international air freight, while volume growth and higher market rates contributed to the increase in truckload 
+brokerage. For the quarter and year-to-date periods, these increases were slightly offset by the impact of cost management initiatives that were implemented in response to lower volume.
+
+Logistics operating expenses increased $171 million ($319 million year to date), driven by higher purchased transportation expense in mail services as a result of volume growth and carrier rate increases, as well as volume growth in the healthcare sector.
+
+UPS Freight operating expenses increased $5 million in the third quarter, driven by the higher volume in our GFP product. Year-to-date operating expenses decreased $77 million as lower volume and tonnage, primarily in our LTL business, resulted in lower costs to operate our linehaul network, as well as lower pickup and delivery expenses. Operating expenses year to date were also favorably impacted by cost management initiatives and production improvements.
+
+Operating Profit and Margin
+
+As a result of the factors described above, operating profit for the Supply Chain & Freight segment increased $54 million in the third quarter (decreased $2 million year to date). Excluding the year over year impact of transformation strategy costs, adjusted operating profit increased $46 million in the third quarter (decreased $13 million year to date).
+
+
+UNITED PARCEL SERVICE, INC. AND SUBSIDIARIES
+
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND
+
+RESULTS OF OPERATIONS
+
+Consolidated Operating Expenses
+
+                                                                                          Three Months Ended                  Change                                                  
+                                                                                          September 30,                                                                               
+                                                                                          2020                                $                %                                   %  
+  Operating Expenses (in millions):                                                                                                                                                   
+ ──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Compensation and benefits                                                               $                       11,077      $             15.5      32,006      28,206        13.5  
+  Transformation strategy costs                                                           (18)                                23          (56.1)                              (25.5)  
+  Adjusted Compensation and benefits                                                      $                       11,059      $             15.8      31,895      28,057        13.7  
+  Repairs and maintenance                                                                 $                          576      $             18.8       1,693       1,392        21.6  
+  Depreciation and amortization                                                           677                                 90            15.3       1,986       1,730        14.8  
+  Purchased transportation                                                                                         3,937      953           31.9      10,584       8,950        18.3  
+  Fuel                                                                                    618                                 (206)       (25.0)       1,878       2,451      (23.4)  
+  Other occupancy                                                                         376                                 30             8.7       1,114       1,039         7.2  
+  Other expenses                                                                                                   1,614      240           17.5       4,824       4,093        17.9  
+  Total Other expenses                                                                                             7,798                    18.2      22,079      19,655        12.3  
+  Other Transformation strategy costs                                                     (26)                                (4)           18.2                                55.2  
+  Adjusted Total Other expenses                                                           $                        7,772      $             18.2      21,989      19,597        12.2  
+  Total Operating Expenses                                                                $                       18,875      $             16.6      54,085      47,861        13.0  
+  Adjusted Total Operating Expenses                                                       $                       18,831      $             16.8      53,884      47,654        13.1  
+  Currency (Benefit) / Cost - (in millions)*                                                                                                   $                                   $  
+  * Amount represents the change in currency translation compared to the prior year.                                                                                                  
+
+                                                    Three Months Ended                            Nine Months Ended                Change              
+                                                    September 30,                                 September 30,                                        
+                                                    2020                    2019      %           2020                   2019      $           %       
+  Transformation strategy costs (in millions):                                                                                                         
+ ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Compensation                                      $                       $         50.0        $                      $         $           200.0   
+  Benefits                                          9                       35        (74.3)      87                     141       (54)        (38.3)  
+  Other occupancy                                   2                       2         —           6                      6         —           —       
+  Other expenses                                    24                      20        20.0        84                     52        32          61.5    
+  Total Transformation strategy costs               $                       $         (30.2)      $                      $         $           (2.9)   
+
+Compensation and Benefits
+
+Total compensation and benefits, and total compensation and benefits excluding the year over year impact of transformation strategy costs, increased in the third quarter and year-to-date periods.
+
+Total compensation costs increased $833 million or 14.4% ($2.0 billion or 12.0% year to date). Excluding the year over year impact of transformation strategy costs, adjusted total compensation costs increased $830 million ($2.0 billion year to date), driven by higher U.S. Domestic direct labor costs as a result of growth in average daily volume. This volume growth drove additional headcount and an increase in average daily union hours of 17.3% (16.3% year to date). Contractual union wage 
+increases also contributed to the increase in compensation costs for hourly employees. Compensation costs for management employees increased due to salary increases and growth in the overall size of the workforce.
+
+
+UNITED PARCEL SERVICE, INC. AND SUBSIDIARIES
+
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND
+
+RESULTS OF OPERATIONS
+
+Benefits costs increased $654 million or 17.1% ($1.8 billion or 15.6% year to date). Excluding the year over year impact of transformation strategy costs, adjusted benefits costs increased $680 million ($1.8 billion year to date) as a result of:
+
+• Health and welfare costs increased $142 million ($454 million year to date), primarily as a result of increased contributions to multiemployer plans driven by the overall increase in the size of the workforce and contractual rate increases.
+
+• Pension and other postretirement benefits increased $240 million ($591 million year to date) due to higher service cost for company-sponsored plans, primarily driven by a reduction in discount rates, as well as increased contributions to multiemployer plans as a result of contractually-mandated contribution increases and the overall increase in the size of the workforce.
+
+• Vacation, excused absence, payroll taxes and other costs increased $132 million ($376 million year to date), primarily driven by salary increases and growth in the overall size of the workforce.
+
+• Workers' compensation costs increased $166 million ($404 million year to date) driven by an increase in overall hours worked, wage and medical inflation and unfavorable claims trends.
+
+Repairs and Maintenance
+
+The increase in repairs and maintenance expense in the quarter and year-to-date periods was driven by higher aircraft engine maintenance costs, as well as an increase in routine repairs to buildings and facilities and maintenance of our other transportation equipment.
+
+Depreciation and Amortization
+
+Depreciation and amortization expense increased in the quarter and year-to-date periods as a result of the additional investments in facility automation and capacity expansion projects, increases in the size of our vehicle and aircraft fleets and investments in internally developed software.
+
+Purchased Transportation
+
+The overall increase in third-party transportation expense in the quarter and year-to-date periods was primarily driven by the following:
+
+• U.S. Domestic Package expense increased $378 million ($786 million year to date) driven by an increase in SurePost volume that drove approximately $130 million of incremental third-party transportation cost. Volume growth in our other products, as well as investments to improve time-in-transit in our U.S. ground network, also resulted in additional third-party transportation expense.
+
+• Forwarding and Logistics expense increased $423 million ($768 million year to date), primarily due to increased market rates in our international air freight business, as well as volume and rate increases in our mail services and truckload brokerage businesses.
+
+• International Package expense increased $131 million ($188 million year to date) primarily due to volume increases in Asia and Europe that drove higher third party pickup and delivery cost.
+
+
+UNITED PARCEL SERVICE, INC. AND SUBSIDIARIES
+
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND
+
+RESULTS OF OPERATIONS
+
+Fuel
+
+The decrease in fuel expense in the quarter and year-to-date periods was driven by lower prices for jet fuel, diesel and gasoline, as well as the impact of alternative fuel tax credits arising from legislation passed in the fourth quarter of 2019. These decreases were partially offset by higher consumption due to increases in aircraft block hours and miles driven as a result of increased volume.
+
+Other Occupancy
+
+Other occupancy expense, and other occupancy expense excluding the year over year impact of transformation strategy costs, increased in the quarter and year-to-date periods primarily due to additional operating facilities coming into service.
+
+Other Expenses
+
+Other expenses, and other expenses excluding the year over year impact of transformation strategy costs, increased in the quarter and year-to-date periods as a result of the following:
+
+• Other operational expenses, including vehicle and equipment rentals, increased $109 million ($268 million year to date). This included cleaning and other safety supplies related to COVID-19 amounting to $14 million in the third quarter ($80 million year to date).
+
+• Self-insured automobile liability claims increased $10 million in the third quarter ($140 million year to date) as a result of higher average daily miles driven in our U.S. Domestic business and unfavorable claims experience.
+
+• Other increases included reserves for legal contingencies and certain tax positions, outside professional fees, payment processing fees, recruitment costs, telecommunications costs, information technology expenses and allowances for credit losses and other bad debt expense.
+
+Additionally, the year over year change in other expenses was impacted by a prior year gain of $40 million on the sale of surplus international property that did not repeat.
+
+
+UNITED PARCEL SERVICE, INC. AND SUBSIDIARIES
+
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND
+
+RESULTS OF OPERATIONS
+
+Other Income and (Expense)
+
+The following table sets forth investment income and other and interest expense for the three and nine months ended September 30, 2020 and 2019 (in millions):
+
+                                        Three Months Ended September 30,                 Change                 Nine Months Ended      Change             
+                                                                                                                September 30,                             
+                                        2020                                  2019       $               %      2020                   $               %  
+ ──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Investment Income and Other           $                                     $          $            42.6      $                      $            50.4  
+  Interest Expense                      (176)                                 (159)      (17)         10.7      (526)                  (39)          8.0  
+  Total Other Income and (Expense)      $                                     $          $           107.7      $                      $           162.2  
+
+Investment Income and Other
+
+The increase in investment income and other for the third quarter and year-to-date periods was primarily due to an increase in other pension income, which is comprised of expected returns on pension assets net of interest cost on projected benefit obligations. Expected returns on pension assets increased as a result of a higher asset base due to positive asset returns in 2019 and discretionary contributions. Pension interest cost decreased due to the impact of lower year end discount rates that 
+was partially offset by ongoing plan growth and an increase in projected benefit obligations as a result of the year end measurement of our plans. Investment income decreased due to lower yields on invested assets and impairments of certain non-current investments, partially offset by foreign currency gains.
+
+Interest Expense
+
+The increase in interest expense for the third quarter and year-to-date periods was primarily due to additional interest expense from debt issuances since the third quarter of 2019, partially offset by lower effective interest rates on floating rate debt and commercial paper balances.
+
+
+UNITED PARCEL SERVICE, INC. AND SUBSIDIARIES
+
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND
+
+RESULTS OF OPERATIONS
+
+Income Tax Expense
+
+The following table sets forth income tax expense and our effective tax rate for the three and nine months ended September 30, 2020 and 2019 (in millions):
+
+                                     Three Months Ended September 30,                         Change                  Nine Months Ended            
+                                                                                                                      September 30,                
+                                     2020                                           2019      $                %      2020                   2019  
+ ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Income Tax Expense                 $                                     568      $         $             24.6      $                      $     
+  Income Tax Impact of:                                                                                                                            
+  Transformation Strategy Costs      11                                             16        (5)         (31.3)      50                     50    
+  Adjusted Income Tax Expense        $                                     579      $         $             22.7      $                      $     
+  Effective Tax Rate                 22.5                                           20.7                              23.5                   22.3  
+  Adjusted Effective Tax Rate        22.5                                           20.8                              23.6                   22.4  
+
+For additional information on income tax expense and our effective tax rate, see note 16 to the unaudited, consolidated financial statements included in this report.
+
+
+UNITED PARCEL SERVICE, INC. AND SUBSIDIARIES
+
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND
+
+RESULTS OF OPERATIONS
+
+Liquidity and Capital Resources
+
+As of September 30, 2020, we had $9.2 billion in cash, cash equivalents and marketable securities. We believe that these positions, expected cash from operations, access to commercial paper programs and capital markets financing and other available liquidity options will be adequate to fund our operating requirements, planned capital expenditures and pension contributions, transformation strategy costs, debt obligations and planned shareowner returns. We regularly evaluate opportunities to 
+optimize our capital structure, including through issuances of debt to refinance existing debt and to fund ongoing needs.
+
+As previously disclosed and described below, as a result of the ongoing economic uncertainty created by the COVID-19 pandemic, we have deferred certain components of our previously announced capital expenditure program beyond 2020 and have suspended share repurchases under our stock repurchase program.
+
+Cash Flows From Operating Activities
+
+The following is a summary of the significant sources (uses) of cash from operating activities (in millions):
+
+                                                                                       Nine Months Ended September 30,                                       
+                                                                                       2020                                               2019               
+ ─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Net income                                                                           $                                      4,690          $        4,546  
+  Non-cash operating activities (a)                                                                                           4,093                   2,920  
+  Pension and postretirement benefit plan contributions (company-sponsored plans)                                           (1,307)                 (2,321)  
+  Hedge margin receivables and payables                                                (176)                                               389               
+  Income tax receivables and payables                                                  458                                                 901               
+  Changes in working capital and other non-current assets and liabilities                                                     1,461      (696)               
+  Other operating activities                                                           64                                                 (46)               
+  Net cash from operating activities                                                   $                                      9,283          $        5,693  
+
+___________________
+
+(a) Represents depreciation and amortization, gains and losses on derivative transactions and foreign exchange, deferred income taxes, allowances for expected credit losses, amortization of operating lease assets, pension and postretirement benefit plan expense, stock compensation expense, changes in casualty self-insurance reserves and other non-cash items.
+
+Net cash from operating activities increased $3.6 billion year to date. The following factors contributed to this increase:
+
+• Contributions to our company-sponsored pension and U.S. postretirement medical benefit plans totaled $1.3 billion during 2020 as compared to $2.3 billion in 2019. We have made $1.0 billion in discretionary contributions to our qualified, company-sponsored U.S. pension plans during 2020 ($2.0 billion year to date in 2019).
+
+• The net hedge margin collateral received from our derivative counterparties decreased by $565 million year to date due to the change in net fair value of derivative contracts used in our currency and interest rate hedging programs.
+
+• Cash received in respect of income taxes decreased, primarily due to the timing and amount of deductions related to pension contributions.
+
+• Favorable changes in our working capital, largely driven by changes in incentive compensation plan payouts and other compensation-related items. These included deferral of approximately $724 million of employer payroll taxes under the Coronavirus Aid, Relief and Economic Security (CARES) Act that was signed into law on March 27, 2020. Working capital also benefited from the timing of group welfare plan contributions and interest payments on outstanding debt.
+
+The CARES Act includes, among other things, provisions relating to deferral of the employer portion of certain payroll taxes, temporary suspension of federal excise taxes on the transportation of property by air and on commercial purchases of jet aviation fuel and deferral of federal income tax payments. We anticipate that the various provisions of the CARES Act will provide a temporary cash flow benefit in the current year of approximately $1.0 billion.
+
+
+UNITED PARCEL SERVICE, INC. AND SUBSIDIARIES
+
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND
+
+RESULTS OF OPERATIONS
+
+As of September 30, 2020, our total worldwide holdings of cash, cash equivalents and marketable securities were $9.2 billion, of which approximately $2.7 billion was held by foreign subsidiaries. The amount of cash, cash equivalents and marketable securities held by our U.S. and foreign subsidiaries fluctuates throughout the year due to a variety of factors, including the timing of cash receipts and disbursements in the normal course of business. Cash provided by operating activities in the U.S.
+continues to be our primary source of funds to finance domestic operating needs, capital expenditures and shareowner returns, including dividend payments. All cash, cash equivalents and marketable securities held by foreign subsidiaries are generally available for distribution to the U.S. without any U.S. federal income taxes. Any such distributions may be subject to foreign withholding and U.S. state taxes. When amounts earned by foreign subsidiaries are expected to be indefinitely reinvested, 
+no accrual for taxes is provided.
+
+
+UNITED PARCEL SERVICE, INC. AND SUBSIDIARIES
+
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND
+
+RESULTS OF OPERATIONS
+
+Cash Flows From Investing Activities
+
+Our primary sources (uses) of cash from investing activities were as follows (in millions):
+
+                                                                                      Nine Months Ended September 30,                                       
+                                                                                      2020                                              2019                
+ ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Net cash used in investing activities                                               $                                    (3,106)      $          (4,027)  
+  Capital Expenditures:                                                                                                                                     
+  Buildings, facilities and plant equipment                                           $                                    (1,615)      $          (1,916)  
+  Aircraft and parts                                                                  (667)                                                        (1,108)  
+  Vehicles                                                                            (368)                                             (733)               
+  Information technology                                                              (569)                                             (579)               
+                                                                                      $                                    (3,219)      $          (4,336)  
+  Capital Expenditures as a % of revenue                                              5.4                                               8.1                 
+  Other Investing Activities:                                                                                                                               
+  Proceeds from disposals of property, plant and equipment                            $                                         10      $               61  
+  Net change in finance receivables                                                   $                                         24      $                8  
+  Net (purchases), sales and maturities of marketable securities                      $                                        107      $              330  
+  Cash paid for business acquisitions, net of cash and cash equivalents acquired      $                                       (13)      $              (6)  
+  Other investing activities                                                          $                                       (15)      $             (84)  
+
+We have commitments for the purchase of aircraft, vehicles, equipment and real estate to provide for the replacement of existing capacity and anticipated future growth. Future capital spending for anticipated growth and replacement assets will depend on a variety of factors, including economic and industry conditions. Our current investment program includes investments in buildings, facilities and plant equipment. In the first quarter, we announced a reduction in our forecasted capital 
+expenditures for the year of $1.0 billion through deferring certain facility projects and vehicle purchases to future years. We currently anticipate that our capital expenditures will be approximately $5.6 billion in 2020.
+
+Year-to-date capital expenditures on buildings, facilities and plant equipment decreased in our U.S. and international package businesses, largely due to the timing of payments and postponement of certain facility automation and capacity expansion projects. Capital spending on aircraft decreased due to reductions in contract deposits on open aircraft orders and final payments associated with the delivery of aircraft. Capital spending on vehicles decreased due to the timing of vehicle replacement
+projects and changes in vendor payment terms.
+
+Proceeds from the disposal of property, plant and equipment decreased year over year due to a disposal of surplus international property in the third quarter of 2019. The net change in finance receivables was primarily due to reductions in outstanding balances within our finance portfolios. Purchases and sales of marketable securities are largely determined by liquidity needs and the periodic rebalancing of investment types and will fluctuate from period to period.
+
+Cash paid for business acquisitions in 2020 primarily related to the acquisition of area franchise rights for The UPS Store. Cash paid for business acquisitions in 2019 related to the acquisition of area franchise rights for The UPS Store, as well as immaterial acquisitions in our International Small Package and healthcare logistics business units. Other investing activities are impacted by changes in our non-current investments, changes in purchase contract deposits for buildings and various 
+other items.
+
+
+UNITED PARCEL SERVICE, INC. AND SUBSIDIARIES
+
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND
+
+RESULTS OF OPERATIONS
+
+Cash Flows From Financing Activities
+
+Our primary sources (uses) of cash from financing activities were as follows (amounts in millions, except per share data):
+
+                                                         Nine Months Ended September 30,                                       
+                                                         2020                                              2019                
+ ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Net cash used in financing activities                  $                                    (2,556)      $          (1,854)  
+  Share Repurchases:                                                                                                           
+  Cash expended for shares repurchased                   $                                      (224)      $            (751)  
+  Number of shares repurchased                           (2.1)                                             (7.0)               
+  Shares outstanding at period end                       864                                               858                 
+  Percent increase (decrease) in shares outstanding      0.8                                               0.0                 
+  Dividends:                                                                                                                   
+  Dividends declared per share                           $                                       3.03      $             2.88  
+  Cash expended for dividend payments                    $                                    (2,528)      $          (2,397)  
+  Borrowings:                                                                                                                  
+  Net borrowings (repayments) of debt principal          $                                        333      $            1,291  
+  Other Financing Activities:                                                                                                  
+  Cash received for common stock issuances               $                                        214      $              161  
+  Other financing activities                             $                                      (351)      $            (158)  
+  Capitalization:                                                                                                              
+  Total debt outstanding at period end                   $                                     25,718      $           23,901  
+  Total shareowners’ equity at period end                                                       5,606                   5,574  
+  Total capitalization                                   $                                     31,324      $           29,475  
+  Debt to Total Capitalization %                         82.1                                              81.1                
+
+We repurchased a total of 2.1 million shares of class A and class B common stock for $217 million year to date and 7.0 million shares for $753 million in the prior year-to-date period ($224 and $751 million in repurchases for 2020 and 2019, respectively, are reported on the statement of cash flows due to timing of settlements). All of the current year-to-date share repurchases occurred in the three months ended March 31, 2020. As previously disclosed, we have suspended share repurchases under 
+our stock repurchase program. For additional information on our share repurchase activities, see note 12 to the unaudited, consolidated financial statements included in this report.
+
+We increased our quarterly cash dividend payment to $1.01 per share in 2020, compared to $0.96 in 2019. We expect to continue paying regular cash dividends. The declaration of dividends is subject to the discretion of the Board and will depend on various factors, including our net income, financial condition, cash requirements, future prospects and other relevant factors.
+
+Issuances of debt year to date consisted primarily of fixed-rate senior notes of varying maturities totaling $3.5 billion, as well as borrowings under our commercial paper program. These issuances more than satisfy our debt repayment obligations for 2020. Repayments of debt for the year-to-date period included senior notes totaling $990 million, commercial paper and scheduled principal payments on our finance lease obligations. Year-to-date issuances of debt in 2019 consisted primarily of 
+fixed-rate senior notes totaling $3.0 billion. Repayments included fixed-rate senior notes totaling $1.0 billion, commercial paper and scheduled principal payments on our finance lease obligations. We consider the overall fixed and floating interest rate mix of our portfolio and the related overall cost of borrowing when planning for future issuances and non-scheduled repayments of debt.
+
+
+UNITED PARCEL SERVICE, INC. AND SUBSIDIARIES
+
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND
+
+RESULTS OF OPERATIONS
+
+The amount of commercial paper outstanding fluctuates throughout the year based on daily liquidity needs. The following is a summary of our commercial paper program (in millions):
+
+                      Outstanding balance at quarter-end ($)                            Average balance outstanding ($)                 Average interest rate  
+ ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  USD        935      $                                             935      1,791      $                                    1,791                       0.82  
+  EUR        228      $                                             267        509      $                                      572                     (0.40)  
+  Total               $                                           1,202                                                                                        
+
+Cash flows for other financing activities were impacted by several factors. Net cash inflows from the premium
+
+payments and settlements of capped call options for the purchase of UPS class B shares were $0 and $21 million year to date in 2020 and 2019, respectively. Cash outflows related to the repurchase of shares to satisfy tax withholding obligations on vested employee stock awards were $339 and $177 million year to date in 2020 and 2019, respectively. This increase was driven by changes in the vesting schedule for certain of our awards.
+
+Sources of Credit
+
+See note 9 to the unaudited, consolidated financial statements for a discussion of our available credit and the financial covenants that we are subject to as part of our credit agreements.
+
+Contractual Commitments
+
+There have been no material changes to the contractual commitments described in Part II, Item 7 in our Annual Report on Form 10-K for the year ended December 31, 2019, except as described below.
+
+We have contractual obligations and commitments for the purchase of aircraft, vehicles, technology equipment and building and leasehold improvements. In the first quarter of 2020 we announced our plan to defer capital expenditures for certain facilities and revenue equipment to future years. In the third quarter, we renegotiated the timing of delivery of certain vehicles and aircraft. Additionally, we have suspended certain facility projects and deferred others to future years. The following 
+table summarizes the expected cash outflows to satisfy our total purchase commitments, inclusive of these changes, as of September 30, 2020 (in millions):
+
+ ─────────────────────────────────────────────────────────────────────────────────────
+  Purchase Commitments      $1,490      2,595      940      307      150      5,485  
+  Total                     $1,490      2,595      940      307      150      5,485  
+
+Guarantees and Other Off-Balance Sheet Arrangements
+
+Except as disclosed in our Annual Report on Form 10-K for the year ended December 31, 2019, we do not have guarantees or other off-balance sheet financing arrangements, including variable interest entities, which we believe could have a material impact on our financial condition or liquidity.
+
+Legal Proceedings and Contingencies
+
+See note 7 and note 11 to the unaudited, consolidated financial statements for a discussion of judicial proceedings and other matters arising from the conduct of our business activities, and note 16 for a discussion of income tax related matters.
+
+Collective Bargaining Agreements
+
+See note 7 to the unaudited, consolidated financial statements for a discussion of the status of our collective bargaining agreements.
+
+
+UNITED PARCEL SERVICE, INC. AND SUBSIDIARIES
+
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND
+
+RESULTS OF OPERATIONS
+
+Multiemployer Benefit Plans
+
+See note 7 to the unaudited, consolidated financial statements for a discussion of our participation in multiemployer benefit plans.
+
+Recent Accounting Pronouncements
+
+Adoption of New Accounting Standards
+
+See note 2 to the unaudited, consolidated financial statements for a discussion of recently adopted accounting standards.
+
+Accounting Standards Issued But Not Yet Effective
+
+See note 2 to the unaudited, consolidated financial statements for a discussion of accounting standards issued, but not yet effective.
+
+
+UNITED PARCEL SERVICE, INC. AND SUBSIDIARIES
+
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND
+
+RESULTS OF OPERATIONS
+
+Rate Adjustments
+
+On July 23, 2020, we announced an increase to peak surcharges applied to shipments from China Mainland and Hong Kong Special Administrative Region to the United States. This change became effective July 26, 2020.
+
+On August 7, 2020, we announced a general update to peak surcharge information. The effective dates for the various peak surcharges range from April 12, 2020 to November 15, 2020.
+
+On August 20, 2020, we announced a temporary peak surcharge increase on certain international shipments, effective August 30, 2020.
+
+On September 2, 2020, we announced a $0.24 rate increase for all UPS SurePost services, effective October 18, 2020.
+
+On September 25, 2020, we announced a decrease in the amount of peak surcharges applied to certain international shipments. These changes became effective October 4, 2020.
+
+

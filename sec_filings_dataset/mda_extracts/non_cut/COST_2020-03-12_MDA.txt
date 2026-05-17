@@ -1,0 +1,293 @@
+Item 2 - Management’s Discussion and Analysis of Financial Condition and Results of Operations
+
+(amounts in millions, except per share, share, and warehouse count data)
+
+FORWARD-LOOKING STATEMENTS
+
+Certain statements contained in this Report constitute forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995, Section 27A of the Securities Act of 1933, and Section 21E of the Securities Exchange Act of 1934. They include statements that address activities, events, conditions or developments that we expect or anticipate may occur in the future and may relate to such matters as net sales growth, changes in comparable sales, cannibalization of 
+existing locations by new openings, price or fee changes, earnings performance, earnings per share, stock-based compensation expense, warehouse openings and closures, capital spending, the effect of adopting certain accounting standards, future financial reporting, financing, margins, return on invested capital, strategic direction, expense controls, membership renewal rates, shopping frequency, litigation, and the demand for our products and services. Forward-looking statements may also be 
+identified by the words “anticipate,” “believe,” “continue,” “could,” “estimate,” “expect,” “intend,” “may,” “might,” “likely,” “plan,” “potential,” “predict,” “project,” “seek,” “should,” “target,” “will,” “would,” or similar expressions and the negatives of those terms. Such forward-looking statements involve risks and uncertainties that may cause actual events, results, or performance to differ materially from those indicated by such statements. These risks and uncertainties include, but are 
+not limited to, domestic and international economic conditions, including exchange rates, the effects of competition and regulation, uncertainties in the financial markets, consumer and small-business spending patterns and debt levels, breaches of security or privacy of member or business information, conditions affecting the acquisition, development, ownership or use of real estate, capital spending, actions of vendors, rising costs associated with employees (generally including health care 
+costs), energy and certain commodities, geopolitical conditions (including tariffs), the ability to maintain effective internal control over financial reporting, global disease threats, and other risks identified from time to time in our public statements and reports filed with the SEC. Forward-looking statements speak only as of the date they are made, and we do not undertake to update these statements, except as required by law.
+
+This management discussion should be read in conjunction with the management discussion included in our fiscal 2019 Annual Report on Form 10-K, previously filed with the SEC.
+
+OVERVIEW
+
+We operate membership warehouses and e-commerce websites based on the concept that offering low prices on a limited selection of nationally branded and private-label products in a wide range of merchandise categories will produce high sales volumes and rapid inventory turnover. When combined with the operating efficiencies achieved by volume purchasing, efficient distribution and reduced handling of merchandise in no-frills, self-service warehouse facilities, these volumes and turnover enable us
+to operate profitably at significantly lower gross margins (net sales less merchandise costs) than most other retailers.
+
+We believe that the most important driver of our profitability is increasing net sales, particularly comparable sales growth. We define comparable sales as net sales from warehouses open for more than one year, including remodels, relocations and expansions, and sales related to e-commerce websites operating for more than one year. Comparable sales growth is achieved through increasing shopping frequency from new and existing members and the amount they spend on each visit (average ticket). 
+Sales comparisons can also be particularly influenced by certain factors that are beyond our control: fluctuations in currency exchange rates (with respect to the consolidation of the results of our international operations); and changes in the cost of gasoline and associated competitive conditions (primarily impacting our U.S. and Canadian operations). The higher our comparable sales exclusive of these items, the more we can leverage certain of our selling, general and administrative (SG&A) 
+expenses, reducing them as a percentage of sales and enhancing profitability. Generating comparable sales growth is foremost a question of making available to our members the right merchandise at the right prices, a skill that we believe we have repeatedly demonstrated over the long term. Another substantial factor in net sales growth is the health of the economies in which we do business, including the effects of inflation or deflation, especially the United States. Net sales growth and
+
+
+gross margins are also impacted by our competition, which is vigorous and widespread, across a wide range of global, national and regional wholesalers and retailers, including those with e-commerce operations. While we cannot control or reliably predict general economic health or changes in competition, we believe that we have been successful historically in adapting our business to these changes, such as through adjustments to our pricing and merchandise mix, including increasing the 
+penetration of our private-label items and through online offerings.
+
+Our philosophy is to provide our members with quality goods and services at competitive prices. We do not focus in the short term on maximizing prices charged, but instead seek to maintain what we believe is a perception among our members of our “pricing authority” on quality goods - consistently providing the most competitive values. Our investments in merchandise pricing may include reducing prices on merchandise to drive sales or meet competition and holding prices steady despite cost 
+increases instead of passing the increases on to our members, all negatively impacting gross margin as a percentage of net sales (gross margin percentage). We believe our gasoline business draws members, but it generally has a lower gross margin percentage relative to our non-gasoline business. It also has lower SG&A expenses as a percent of net sales compared to our non-gasoline business. A higher penetration of gasoline sales will generally lower our gross margin percentage. Rapidly changing 
+gasoline prices may significantly impact our near-term net sales growth. Generally, rising gasoline prices benefit net sales growth which, given the higher sales base, negatively impacts our gross margin percentage but decreases our SG&A expenses as a percentage of net sales. A decline in gasoline prices has the inverse effect. Additionally, actions in various countries, particularly China and the United States, have created uncertainty with respect to how tariffs will affect the costs of some 
+of our merchandise. The degree of our exposure is dependent on (among other things) the type of goods, rates imposed, and timing of the tariffs. The impact to our net sales and gross margin will be influenced in part by our merchandising and pricing strategies in response to cost increases. While these potential impacts are uncertain, they could have an adverse impact on our results.
+
+We also achieve net sales growth by opening new warehouses. As our warehouse base grows, available and desirable sites become more difficult to secure, and square footage growth becomes a comparatively less substantial component of growth. The negative aspects of such growth, however, including lower initial operating profitability relative to existing warehouses and cannibalization of sales at existing warehouses when openings occur in existing markets, are continuing to decline in significance
+as they relate to the results of our total operations. Our rate of operating floor space square footage growth is generally higher in foreign markets, due to the smaller base in those markets, and we expect that to continue. Our e-commerce business growth, domestically and internationally, has also increased our sales but it generally has a lower gross margin percentage relative to our warehouse business.
+
+The membership format is an integral part of our business and has a significant effect on our profitability. This format is designed to reinforce member loyalty and provide continuing fee revenue. The extent to which we achieve growth in our membership base, increase the penetration of our Executive members, and sustain high renewal rates materially influences our profitability. Our paid membership growth rate may be adversely impacted when warehouse openings occur in existing markets as 
+compared to new markets.
+
+Our financial performance depends heavily on controlling costs. While we believe that we have achieved successes in this area, some significant costs are partially outside our control, particularly health care and utility expenses. With respect to the compensation of our employees, our philosophy is not to seek to minimize their wages and benefits. Rather, we believe that achieving our longer-term objectives of reducing employee turnover and enhancing employee satisfaction requires maintaining 
+compensation levels that are better than the industry average for much of our workforce. This may cause us, for example, to absorb costs that other employers might seek to pass through to their workforces. Because our business operates on very low margins, modest changes in various items in the consolidated statements of income, particularly merchandise costs and selling, general and administrative expenses, can have substantial impacts on net income.
+
+
+Our operating model is generally the same across our U.S., Canada, and Other International operating segments (seeNote 11 to the condensed consolidated financial statements included in Part I, Item 1, of this Report). Certain countries in the Other International segment have relatively higher rates of square footage growth, lower wages and benefits costs as a percentage of country sales, and less or no direct membership warehouse competition.
+
+In discussions of our consolidated operating results, we refer to the impact of changes in foreign currencies relative to the U.S. dollar, which are references to the differences between the foreign-exchange rates we use to convert the financial results of our international operations from local currencies into U.S. dollars for financial reporting purposes. This impact of foreign-exchange rate changes is calculated based on the difference between the current period's currency exchange rates and 
+that of the comparable prior period. The impact of changes in gasoline prices on net sales is calculated based on the difference between the current period's average price per gallon sold and that of the comparable prior period.
+
+Our fiscal year ends on the Sunday closest to August 31. References to the second quarters of2020 and2019 relate to the 12-week fiscal quarters endedFebruary 16, 2020, andFebruary 17, 2019, respectively. References to the first half of2020 and2019 relate to the 24 weeks endedFebruary 16, 2020, andFebruary 17, 2019, respectively. Certain percentages presented are calculated using actual results prior to rounding. Unless otherwise noted, references to net income relate to net income attributable 
+to Costco.
+
+Highlights for the second quarter of2020 as compared to the second quarter of2019 include:
+
+  Net sales increased 10% to $38,256, driven by an increase in comparable sales of 9% and sales at 16 net new warehouses opened since the end of the second quarter of 2019;  
+
+  Membership fee revenue increased 6% to $816, primarily due to sign-ups at existing and new warehouses;  
+
+  Gross margin percentage decreased 31 basis points, primarily in our core merchandise categories driven by a shift in sales penetration to certain lower-margin warehouse ancillary and other busi...  
+
+  SG&A expenses as a percentage of net sales decreased 22 basis points, primarily due to leveraging increased sales and a shift in sales penetration to certain warehouse ancillary and other busin...  
+
+  Net income increased 5% to $931, or $2.10 per diluted share, compared to $889, or $2.01 per diluted share in 2019; and  
+
+  On January 23, 2020, our Board of Directors declared a quarterly cash dividend of $0.65 per share, which was paid on February 21, 2020.  
+
+
+RESULTS OF OPERATIONS
+
+Net Sales
+
+                                                                                                                12 Weeks Ended                        24 Weeks Ended                    
+                                                                                                                  February 16,      February 17,        February 16,      February 17,  
+                                                                                                                          2020              2019                2020              2019  
+ ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Net Sales                                                                                                                  $                 $                   $                 $  
+  Changes in net sales:                                                                                                                                                                 
+  U.S                                                                                                                       10                 9                   8                11  
+  Canada                                                                                                                     9                 1                   6                 3  
+  Other International                                                                                                       12                 4                   9                 6  
+  Total Company                                                                                                             10                 7                   8                 9  
+  Changes in comparable sales:                                                                                                                                                          
+  U.S                                                                                                                        9                 7                   7                 9  
+  Canada                                                                                                                     9                 0                   6                 1  
+  Other International                                                                                                        8                 1                   6                 2  
+  Total Company                                                                                                              9                 5                   7                 7  
+  Changes in comparable sales excluding the impact of changes in foreign currency and gasoline prices (1):                                                                              
+  U.S                                                                                                                        8                 7                   7                 8  
+  Canada                                                                                                                     7                 6                   6                 6  
+  Other International                                                                                                        7                 5                   6                 5  
+  Total Company                                                                                                              8                 7                   6                 7  
+
+_______________
+
+  (1)      Excludes the impact of the revenue recognition standard for the periods ended February 17, 2019.  
+
+Net Sales
+
+Net sales increased$3,628 or10%, and$5,553 or8% during the second quarter and first half of2020, respectively, compared to the second quarter and first half of2019. These increases were attributable to an increase in comparable sales of9% and7% in the second quarter and first half of2020, respectively, and sales at the16 net new warehouses opened since the end of the second quarter of2019.
+
+During the second quarter of2020, changes in gasoline prices positively impacted net sales by$320, or92 basis points, due to a9% increase in the average sales price per gallon. Foreign currencies relative to the U.S. dollar also positively impacted net sales by approximately$85, or25 basis points, compared to the second quarter of2019, attributable to our Canadian and Other International operations.
+
+During the first half of2020, changes in gasoline prices positively impacted net sales by approximately$198, or29 basis points, due to a3% increase in the average price per gallon. Changes in foreign currencies relative to the U.S. dollar negatively impacted net sales by approximately19, or three basis points, compared to the first half of2019, attributable to our Other International operations.
+
+Comparable Sales
+
+Comparable sales increased9% and7% in the second quarter and first half of2020, respectively, and were positively impacted by increases in shopping frequency and average ticket. Comparable sales were also positively impacted by the shift in timing of the Thanksgiving holiday to the second quarter of 2020.
+
+
+Comparable sales for the second quarter and first half of2020 were negatively impacted by cannibalization (established warehouses losing sales to our newly opened locations).
+
+Membership Fees
+
+                                                    12 Weeks Ended                                                 24 Weeks Ended                    
+                                                    February 16,                     February 17,                  February 16,        February 17,  
+                                                    2020                             2019                          2020                2019          
+ ─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Membership fees                                   $                       816      $                    768      $                   $             
+  Membership fees as a percentage of net sales      2.13                             2.22                          2.17                2.21          
+  Total paid members (000s)                                              55,300                        52,700      —                   —             
+  Total cardholders (000s)                                              100,900                        96,300      —                   —             
+
+Membership fees increased6% in both the second quarter and first half of2020. This was primarily due to signups at existing and new warehouses. At the end of the second quarter of2020, our member renewal rates were91% in the U.S. and Canada and88% worldwide.
+
+Gross Margin
+
+                               12 Weeks Ended                                                24 Weeks Ended                          
+                               February 16,                    February 17,                  February 16,                            
+                               2020                            2019                          2020                                    
+ ─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Net sales                    $                   38,256      $                 34,628      $                   74,492      68,939  
+  Less merchandise costs                           34,056                        30,720                          66,289      61,343  
+  Gross margin                 $                    4,200      $                  3,908      $                    8,203       7,596  
+  Gross margin percentage      10.98                           11.29                         11.01                                   
+
+Quarterly Results
+
+The gross margin of our core merchandise categories (food and sundries, hardlines, softlines, and fresh foods), when expressed as a percentage of core merchandise sales (rather than total net sales), decreased 15 basis points primarily in fresh foods and hardlines. The decrease in fresh foods was driven primarily by initial operating losses from our new poultry processing plant while hardlines decreased primarily due to timing of the Thanksgiving holiday, which shifted lower-margin activity into
+the current quarter as compared to the prior year second quarter. These decreases were partially offset by an increase in softlines. This measure eliminates the impact of changes in sales penetration and gross margins from our warehouse ancillary and other businesses.
+
+Total gross margin percentage decreased 31 basis points compared to thesecond quarter of 2019. Excluding the impact of gasoline price inflation on net sales, gross margin as a percentage of adjusted net sales was 11.07%, a decrease of 22 basis points. This was primarily due to a shift in sales penetration to certain lower-margin warehouse ancillary businesses, and losses from our poultry processing plant discussed above.
+
+Gross margin on a segment basis, when expressed as a percentage of the segment's own sales and excluding the impact of changes in gasoline prices on net sales (segment gross margin percentage), decreased in our U.S. and Canadian operations, primarily due to decreases in our core merchandise categories. The segment gross margin percentage in our Other International operations increased, primarily in our core merchandise categories.
+
+
+Year-to-date Results
+
+The gross margin of core merchandise categories, when expressed as a percentage of core merchandise sales, decreased six basis points. This was attributable to a decrease in fresh foods, which was driven primarily by initial operating losses from our new poultry processing plant, partially offset by an increase in softlines.
+
+Total gross margin percentage decreased one basis-point compared to the first half of2019. Excluding the impacts of gasoline price inflation on net sales, gross margin as a percentage of adjusted net sales was 11.04%, an increase of two basis points from the first half of2019. This was primarily due to a nine basis-point increase in our warehouse ancillary and other businesses, as well as a six basis-point increase related to an adjustment in the first quarter of 2019 to our estimate of breakage
+on rewards earned under our co-branded credit card program. These increases were partially offset by a 14 basis-point decrease in our core merchandise categories, primarily due to losses from our poultry processing plant discussed above.
+
+The segment gross margin percentage decreased in our U.S. operations, primarily due to core merchandise categories, partially offset by our warehouse ancillary and other businesses, as well as the breakage adjustment noted above. The segment gross margin percentage in our Canadian operations increased due to increases in our warehouse ancillary and other businesses partially offset by decreases in certain of our core merchandise categories. The segment gross margin percentage in our Other 
+International operations increased, primarily in our core merchandise categories.
+
+Selling, General and Administrative Expenses
+
+                                                  12 Weeks Ended                                              24 Weeks Ended                               
+                                                  February 16,                   February 17,                 February 16,                   February 17,  
+                                                  2020                           2019                         2020                           2019          
+ ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  SG&A expenses                                   $                   3,743      $                 3,464      $                   7,475      $             
+  SG&A expenses as a percentage of net sales      9.78                           10.00                        10.03                          10.06         
+
+Quarterly Results
+
+SG&A expenses as a percentage of net sales decreased 22 basis points compared to the second quarter of 2019. Excluding the impact of gasoline price inflation on net sales, SG&A expenses as a percentage of adjusted net sales was 9.87%, a decrease of 13 basis points compared to the prior year. Costs related to warehouse operations and other businesses, which include e-commerce and travel, decreased 10 basis points, primarily due to leveraging increased sales and a shift in sales penetration to 
+certain warehouse ancillary and other businesses with lower SG&A as a percentage of net sales. This decrease was partially offset by the wage increases and bonding leave benefits for U.S. and Canadian hourly employees effective in March 2019. Stock compensation expense was lower by three basis points.
+
+Year-to-date Results
+
+SG&A expenses as a percentage of net sales decreased three basis points compared to the first half of2019. Excluding the impact of gasoline price inflation on net sales, SG&A expenses as a percentage of adjusted net sales was flat despite the wage increases and bonding leave benefits for U.S. and Canadian hourly employees discussed above. Costs related to warehouse operations and other businesses, which include e-commerce and travel, were lower by two basis points, predominantly in our U.S. 
+operations, due to leveraging increased sales. This decrease was offset by higher central operating costs of two basis points related to maintaining, upgrading and expanding our technology capabilities.
+
+
+Preopening Expense
+
+                                                       12 Weeks Ended                        24 Weeks Ended                    
+                                                       February 16,        February 17,      February 16,        February 17,  
+                                                       2020                2019              2020                2019          
+ ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Preopening expenses                                  $                   $                 $                   $             
+  Warehouse openings, including relocations                                                                                    
+  United States                                        0                   2                 3                   8             
+  Canada                                               0                   0                 1                   2             
+  Other International                                  0                   0                 0                   0             
+  Total warehouse openings, including relocations      0                   2                 4                   10            
+
+Preopening expenses include startup costs related to new warehouses and relocations, developments in new international markets, new manufacturing and distribution facilities, and expansions at existing warehouses. Preopening expenses vary due to the number of warehouse openings, the timing of the openings relative to our quarter-end, whether the warehouse is owned or leased, and whether the opening is in an existing, new or international market. For the remainder of fiscal2020, we expect to 
+open15 warehouses, including two relocations.
+
+Interest Expense
+
+                        12 Weeks Ended                        24 Weeks Ended                    
+                        February 16,        February 17,      February 16,        February 17,  
+                        2020                2019              2020                2019          
+ ────────────────────────────────────────────────────────────────────────────────────────────────
+  Interest expense      $                   $                 $                   $             
+
+Interest expense is primarily related to Senior Notes.
+
+Interest Income and Other, Net
+
+                                               12 Weeks Ended                                        24 Weeks Ended                            
+                                               February 16,                February 17,              February 16,                February 17,  
+                                               2020                        2019                      2020                        2019          
+ ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Interest income                              $                   30      $                 33      $                   62      $             
+  Foreign-currency transaction gains, net      8                           8                         4                           3             
+  Other, net                                   7                           5                         14                          11            
+  Interest income and other, net               $                   45      $                 46      $                   80      $             
+
+Interest income decreased for the second quarter of2020 due to lower interest rates, and increased for the first half of 2020 due to higher average cash and investment balances. Foreign-currency transaction gains, net, include the revaluation or settlement of monetary assets and liabilities by our Canadian and Other International operations and mark-to-market adjustments for forward foreign-exchange contracts. See Derivatives and Foreign Currency sections in Item 8, Note 1 of our Annual Report 
+on Form 10-K, for the fiscal year endedSeptember 1, 2019.
+
+
+Provision for Income Taxes
+
+                                  12 Weeks Ended                                          24 Weeks Ended                             
+                                  February 16,                 February 17,               February 16,                 February 17,  
+                                  2020                         2019                       2020                         2019          
+ ─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Provision for income taxes      $                   330      $                 314      $                   532      $             
+  Effective tax rate              25.9                         25.8                       22.8                         21.9          
+
+The effective tax rate for the first half of2020 and 2019 included discrete net tax benefits of $79 and $90, respectively. Excluding the discrete net tax benefits, which largely related to excess tax benefits from stock compensation, the tax rate was 26.2% and 26.1% for the first half of 2020 and 2019, respectively.
+
+LIQUIDITY AND CAPITAL RESOURCES
+
+The following table summarizes our significant sources and uses of cash and cash equivalents:
+
+                                                 24 Weeks Ended                                            
+                                                 February 16,                    February 17,              
+                                                 2020                            2019                      
+ ───────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Net cash provided by operating activities      $                    2,721      $                  1,958  
+  Net cash used in investing activities                              (1,100                        (1,171  
+  Net cash used in financing activities                              (2,228      (749                      
+
+Our primary sources of liquidity are cash flows generated from warehouse operations, cash and cash equivalents, and short-term investments. Cash and cash equivalents and short-term investments were$8,715 and$9,444 atFebruary 16, 2020, andSeptember 1, 2019, respectively. Of these balances, unsettled credit and debit card receivables represented approximately$1,385 and$1,434 atFebruary 16, 2020, andSeptember 1, 2019, respectively. These receivables generally settle within four days. Cash and cash 
+equivalents were positively impacted by foreign-exchange rate changes of $9 and negatively impacted by $13 in the first half of 2020 and 2019, respectively.
+
+Management believes that our cash position and operating cash flows will be sufficient to meet our liquidity and capital requirements for the foreseeable future. We believe that our U.S. current and projected asset position is sufficient to meet our U.S. liquidity requirements. We no longer consider earnings after 2017 of our non-U.S. consolidated subsidiaries to be indefinitely reinvested.
+
+Cash Flows from Operating Activities
+
+Net cash provided by operating activities totaled$2,721 in the first half of2020, compared to$1,958 in the first half of2019. Cash provided by operations is primarily derived from net sales and membership fees. Cash used in operations generally consists of payments to merchandise suppliers, warehouse operating costs, including payroll and employee benefits, utilities, and credit and debit card processing fees. Cash used in operations also includes payments for income taxes. Changes in our net 
+investment in merchandise inventories (the difference between merchandise inventories and accounts payable) is impacted by several factors, including how fast inventory is sold, payment terms with our suppliers, and the amount of early payments to obtain discounts from suppliers.
+
+Cash Flows from Investing Activities
+
+Net cash used in investing activities totaled$1,100 in the first half of2020, compared to$1,171 in the first half of2019, and is primarily related to capital expenditures. Net cash from investing activities also includes purchases and maturities of short-term investments.
+
+
+Capital Expenditure Plans
+
+Our primary requirements for capital are acquiring land, buildings, and equipment for new and remodeled warehouses. Capital is also required for information systems, manufacturing and distribution facilities, initial warehouse operations, and working capital. In the first half of2020, we spent$1,260 on capital expenditures, and it is our current intention to spend approximately $3,000 during fiscal2020. We opened four new warehouses, including one relocation, in the first half of2020 and plan to
+open15 additional new warehouses, including two relocations, in the remainder of fiscal2020. There can be no assurance that current expectations will be realized; plans are subject to change upon further review of our capital expenditure needs.
+
+Cash Flows from Financing Activities
+
+Net cash used in financing activities totaled$2,228 in the first half of2020, compared to$749 in the first half of2019. Cash flow used in financing activities was primarily related to the $1,200 repayment of our 1.70% Senior Notes, payment of dividends, and withholding taxes on stock-based awards. Dividends totaling $573 were paid during the first half of2020, of which $286 related to the dividend declared in August 2019. Subsequent to the end of the quarter, on February 18, 2020, the Company 
+paid the outstanding principal balance of $500 and associated interest on the1.75% Senior Notes using cash and cash equivalents and short-term investments.
+
+Stock Repurchase Programs
+
+During the first half of2020 and2019, we repurchased262,000 and711,000 shares of common stock, at an average price per share of$299.40 and$213.08, respectively, totaling approximately$79 and$151, respectively. These amounts may differ from the stock repurchase balances in the accompanying condensed consolidated statements of cash flows due to changes in unsettled stock repurchases at the end of a quarter. Purchases are made from time to time, as conditions warrant, in the open market or in block
+purchases, pursuant to plans under SEC Rule 10b5-1. Repurchased shares are retired, in accordance with the Washington Business Corporation Act.
+
+Dividends
+
+OnJanuary 23, 2020, our Board of Directors declared a quarterly dividend of$0.65 per share payable to shareholders of record onFebruary 7, 2020. The dividend was paid subsequent to the end of the quarter onFebruary 21, 2020.
+
+Bank Credit Facilities and Commercial Paper Programs
+
+We maintain bank credit facilities for working capital and general corporate purposes. AtFebruary 16, 2020, we had borrowing capacity under these facilities of $875, including a $400 revolving line of credit, which expires in June 2020. Our international operations maintain $362 of the borrowing capacity under bank credit facilities, of which $146 is guaranteed by the Company. There were no outstanding short-term borrowings under the bank credit facilities at the end of the second quarter of2020
+or at the end of2019.
+
+The Company has letter of credit facilities, for commercial and standby letters of credit, totaling $225. The outstanding commitments under these facilities at the end of the second quarter of2020 totaled $150, most of which were standby letters of credit with expiration dates within one year. The bank credit facilities have various expiration dates, most of which are within one year, and we generally intend to renew these facilities. The amount of borrowings available at any time under our bank
+credit facilities is reduced by the amount of standby and commercial letters of credit outstanding.
+
+
+Contractual Obligations
+
+As of the date of this Report, there were no material changes to our contractual obligations outside the ordinary course of business since the end of our last fiscal year.
+
+Critical Accounting Estimates
+
+The preparation of our consolidated financial statements in accordance with U.S. GAAP requires that we make estimates and judgments. We base these on historical experience and on assumptions that we believe to be reasonable. Our critical accounting policies are discussed in Part II, Item 7, “Management’s Discussion and Analysis of Financial Condition and Results of Operations” section of our Annual Report on Form 10-K, for the fiscal year endedSeptember 1, 2019. There have been no material 
+changes to the critical accounting policies previously disclosed in that Report.
+
+Recent Accounting Pronouncements
+
+See discussion of Recent Accounting Pronouncements inNote 1 to the condensed consolidated financial statements included inPart I, Item 1 of this Report.
+

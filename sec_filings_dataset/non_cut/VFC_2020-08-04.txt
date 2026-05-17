@@ -1,0 +1,1618 @@
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM 10-Q
+
+☑QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+
+For the quarterly period ended June 27, 2020
+
+or
+
+☐TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+
+For the transition period from ________ to ________
+
+Commission file number: 1-5256
+
+V. F. CORPORATION
+
+(Exact name of registrant as specified in its charter)
+
+  Pennsylvania                                                        23-1180120                               
+  (State or other jurisdiction of incorporation or organization)      (I.R.S. employer identification number)  
+
+1551 Wewatta Street
+
+Denver Colorado 80202
+
+(Address of principal executive offices)
+
+( 720 778-4000
+
+(Registrant’s telephone number, including area code)
+
+8505 E. Orchard Road
+
+Greenwood Village Colorado 80111
+
+(Former address, if changed since last report)
+
+  Securities registered pursuant to Section 12(b) of the Act:                                                                                 
+  (Title of each class)                                                 (Trading Symbol(s))      (Name of each exchange on which registered)  
+  Common Stock, without par value, stated capital, $0.25 per share      VFC                      New York Stock Exchange                      
+  0.625% Senior Notes due 2023                                          VFC23                    New York Stock Exchange                      
+  0.250% Senior Notes due 2028                                          VFC28                    New York Stock Exchange                      
+  0.625% Senior Notes due 2032                                          VFC32                    New York Stock Exchange                      
+
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. Yes☑ No☐
+
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files). Yes☑ No☐
+
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See the definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company,” and “emerging growth company” in Rule 12b-2 of the Exchange Act.
+
+  Large accelerated filer                                                                                                                                                                                   Accelerated filer          
+  Non-accelerated filer                                                                                                                                                                                     Smaller reporting company  
+ ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+                                                                                                                                                                                                            Emerging growth company    
+  If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standard...                                 
+
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes☐ No☑
+
+On July 25, 2020, there were 389,648,638
+
+VF CORPORATION
+
+Table of Contents
+
+                                                                                                          PAGE NUMBER  
+  Part I — Financial Information                                                                                    3  
+  Item 1 — Financial Statements (Unaudited)                                                                         3  
+  Consolidated Balance Sheets: June 2020, March 2020 and June 2019                                                  3  
+  Consolidated Statements of Operations: Three months ended June 2020 and June 2019                                 4  
+  Consolidated Statements of Comprehensive Income (Loss): Three months ended June 2020 and June 2019                5  
+  Consolidated Statements of Cash Flows: Three months ended June 2020 and June 2019                                 6  
+  Consolidated Statements of Stockholders’ Equity: Three months ended June 2020 and June 2019                       8  
+  Notes to Consolidated Financial Statements                                                                        9  
+  Item 2 — Management’s Discussion and Analysis of Financial Condition and Results of Operations                   24  
+  Item 3 — Quantitative and Qualitative Disclosures about Market Risk                                              34  
+  Item 4 — Controls and Procedures                                                                                 34  
+  Part II — Other Information                                                                                      35  
+  Item 1 — Legal Proceedings                                                                                       35  
+  Item 1A — Risk Factors                                                                                           35  
+  Item 2 — Unregistered Sales of Equity Securities and Use of Proceeds                                             36  
+  Item 6 — Exhibits                                                                                                37  
+  Signatures                                                                                                       38  
+
+Table of Contents
+
+PART I - FINANCIAL INFORMATION
+
+  ITEM 1 — FINANCIAL STATEMENTS (UNAUDITED).  
+ ──────────────────────────────────────────────
+
+VF CORPORATION
+
+Consolidated Balance Sheets
+
+(Unaudited)
+
+  (In thousands, except share amounts)                                                                                                                                       June 2020                      March 2020                      June 2019                  
+ ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  ASSETS                                                                                                                                                                                                                                                               
+  Current assets                                                                                                                                                                                                                                                       
+  Cash and equivalents                                                                                                                                                       $               2,145,111      $                1,369,028      $                 560,882  
+  Accounts receivable, less allowance for doubtful accounts of: June 2020 - $ 38,179; March 2020 - $ 37,099; June 2019 - $ 19,763                                                              934,984                       1,308,051                      1,211,347  
+  Inventories                                                                                                                                                                                1,402,858                       1,293,912                      1,381,513  
+  Short-term investments                                                                                                                                                                       700,000      —                               —                          
+  Other current assets                                                                                                                                                                         513,049                         444,886                        405,205  
+  Current assets of discontinued operations                                                                                                                                                    565,135                         611,139                        431,908  
+  Total current assets                                                                                                                                                                       6,261,137                       5,027,016                      3,990,855  
+  Property, plant and equipment, net                                                                                                                                                           957,309                         954,406                        826,570  
+  Intangible assets, net                                                                                                                                                                     1,855,764                       1,854,545                      1,917,517  
+  Goodwill                                                                                                                                                                                   1,162,606                       1,156,019                      1,494,502  
+  Operating lease right-of-use assets                                                                                                                                                        1,354,308                       1,273,514                      1,246,985  
+  Other assets                                                                                                                                                                                 887,921                         867,751                        735,275  
+  Other assets of discontinued operations                                                                                                                                    —                              —                                                 190,260  
+  TOTAL ASSETS                                                                                                                                                               $              12,479,045      $               11,133,251      $              10,401,964  
+  LIABILITIES AND STOCKHOLDERS’ EQUITY                                                                                                                                                                                                                                 
+  Current liabilities                                                                                                                                                                                                                                                  
+  Short-term borrowings                                                                                                                                                      $                  19,256      $                1,228,812      $                  67,658  
+  Current portion of long-term debt                                                                                                                                                              1,025                           1,018                          5,068  
+  Accounts payable                                                                                                                                                                             348,932                         407,021                        507,575  
+  Accrued liabilities                                                                                                                                                                        1,254,967                       1,260,252                      1,254,417  
+  Current liabilities of discontinued operations                                                                                                                                                91,283                         126,781                        112,427  
+  Total current liabilities                                                                                                                                                                  1,715,463                       3,023,884                      1,947,145  
+  Long-term debt                                                                                                                                                                             5,609,792                       2,608,269                      2,126,835  
+  Operating lease liabilities                                                                                                                                                                1,104,500                       1,020,651                      1,011,582  
+  Other liabilities                                                                                                                                                                          1,136,692                       1,123,113                      1,139,512  
+  Other liabilities of discontinued operations                                                                                                                               —                              —                                                  25,276  
+  Commitments and contingencies                                                                                                                                                                                                                                        
+  Total liabilities                                                                                                                                                                          9,566,447                       7,775,917                      6,250,350  
+  Stockholders’ equity                                                                                                                                                                                                                                                 
+  Preferred Stock, par value $ 1; shares authorized, 25,000,000; no shares outstanding at June 2020, March 2020 or June 2019                                                 —                              —                               —                          
+  Common Stock, stated value $ 0.25; shares authorized, 1,200,000,000; shares outstanding at June 2020 - 389,641,245; March 2020 - 388,812,158; June 2019 - 397,922,120                         97,410                          97,203                         99,481  
+  Additional paid-in capital                                                                                                                                                                 4,010,817                       4,183,780                      3,988,385  
+  Accumulated other comprehensive income (loss)                                                                                                                                             ( 897,541)                      ( 930,958)                     ( 867,386)  
+  Retained earnings (accumulated deficit)                                                                                                                                                   ( 298,088)                           7,309                        931,134  
+  Total stockholders’ equity                                                                                                                                                                 2,912,598                       3,357,334                      4,151,614  
+  TOTAL LIABILITIES AND STOCKHOLDERS' EQUITY                                                                                                                                 $              12,479,045      $               11,133,251      $              10,401,964  
+
+See notes to consolidated financial statements.
+
+3 VF Corporation Q1 FY21 Form 10-Q
+
+Table of Contents
+
+VF CORPORATION
+
+Consolidated Statements of Operations
+
+(Unaudited)
+
+                                                                    Three Months Ended June                                              
+  (In thousands, except per share amounts)                          2020                                         2019                    
+ ─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Net revenues                                                      $                             1,076,293      $            2,050,654  
+  Costs and operating expenses                                                                                                           
+  Cost of goods sold                                                                                506,951                     896,284  
+  Selling, general and administrative expenses                                                      816,151                   1,058,405  
+  Total costs and operating expenses                                                              1,323,102                   1,954,689  
+  Operating income (loss)                                                                        ( 246,809)                      95,965  
+  Interest income                                                                                     1,313                       6,544  
+  Interest expense                                                                                ( 29,262)                   ( 22,127)  
+  Other income (expense), net                                                                     ( 38,187)                       5,554  
+  Income (loss) from continuing operations before income taxes                                   ( 312,945)                      85,936  
+  Income tax expense (benefit)                                                                    ( 35,203)                      20,663  
+  Income (loss) from continuing operations                                                       ( 277,742)                      65,273  
+  Loss from discontinued operations, net of tax                     ( 7,871)                                                  ( 16,052)  
+  Net income (loss)                                                 $                            ( 285,613)      $               49,221  
+  Earnings (loss) per common share - basic                                                                                               
+  Continuing operations                                             $                               ( 0.71)      $                 0.16  
+  Discontinued operations                                           ( 0.02)                                      ( 0.04)                 
+  Total earnings (loss) per common share - basic                    $                               ( 0.73)      $                 0.12  
+  Earnings (loss) per common share - diluted                                                                                             
+  Continuing operations                                             $                               ( 0.71)      $                 0.16  
+  Discontinued operations                                           ( 0.02)                                      ( 0.04)                 
+  Total earnings (loss) per common share - diluted                  $                               ( 0.73)      $                 0.12  
+  Weighted average shares outstanding                                                                                                    
+  Basic                                                                                             388,695                     396,727  
+  Diluted                                                                                           390,791                     401,914  
+
+See notes to consolidated financial statements.
+
+VF Corporation Q1 FY21 Form 10-Q4
+
+Table of Contents
+
+VF CORPORATION
+
+Consolidated Statements of Comprehensive Income (Loss)
+
+(Unaudited)
+
+                                                               Three Months Ended June                                               
+  (In thousands)                                               2020                                         2019                     
+ ─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Net income (loss)                                            $                            ( 285,613)      $                49,221  
+  Other comprehensive income (loss)                                                                                                  
+  Foreign currency translation and other                                                                                             
+  Gains arising during the period                                                                3,854                       12,829  
+  Reclassification of foreign currency translation losses                                       42,364      —                        
+  Income tax effect                                                                              6,255                        2,943  
+  Defined benefit pension plans                                                                                                      
+  Amortization of net deferred actuarial losses                                                  2,863                        4,019  
+  Amortization of deferred prior service costs (credits)       ( 17)                                        13                       
+  Income tax effect                                            336                                          ( 1,708)                 
+  Derivative financial instruments                                                                                                   
+  Gains (losses) arising during the period                     ( 7,595)                                                      14,774  
+  Income tax effect                                                                              1,530      ( 3,874)                 
+  Reclassification of net (gains) losses realized                                            ( 20,280)                    ( 10,495)  
+  Income tax effect                                                                              4,107                        2,756  
+  Other comprehensive income (loss)                                                             33,417                       21,257  
+  Comprehensive income (loss)                                  $                            ( 252,196)      $                70,478  
+
+See notes to consolidated financial statements.
+
+5 VF Corporation Q1 FY21 Form 10-Q
+
+Table of Contents
+
+VF CORPORATION
+
+Consolidated Statements of Cash Flows
+
+(Unaudited)
+
+                                                                                             Three Months Ended June                                                  
+  (In thousands)                                                                                                2020                        2019                      
+ ──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  OPERATING ACTIVITIES                                                                                                                                                
+  Net income (loss)                                                                                                $        ( 285,613)      $                 49,221  
+  Loss from discontinued operations, net of tax                                                             ( 7,871)                                       ( 16,052)  
+  Income (loss) from continuing operations, net of tax                                                                      ( 277,742)                        65,273  
+  Adjustments to reconcile net income (loss) to cash used by operating activities:                                                                                    
+  Depreciation and amortization                                                                                                 63,026                        62,236  
+  Reduction in the carrying amount of right-of-use assets                                                                      101,772                        92,125  
+  Stock-based compensation                                                                                                       9,686                        33,287  
+  Provision for doubtful accounts                                                                                                8,145                         1,854  
+  Pension expense less than contributions                                                                   ( 3,802)                        ( 2,837)                  
+  Other, net                                                                                                                    32,858                        12,546  
+  Changes in operating assets and liabilities:                                                                                                                        
+  Accounts receivable                                                                                                          372,754                       165,909  
+  Inventories                                                                                                               ( 100,129)                    ( 204,622)  
+  Accounts payable                                                                                                           ( 59,768)                        17,662  
+  Income taxes                                                                                                               ( 65,128)                         6,473  
+  Accrued liabilities                                                                                                        ( 26,917)                    ( 228,548)  
+  Operating lease right-of-use assets and liabilities                                                                        ( 51,579)                    ( 101,052)  
+  Other assets and liabilities                                                                                               ( 13,630)                         3,471  
+  Cash used by operating activities - continuing operations                                                                  ( 10,454)                     ( 76,223)  
+  Cash provided by operating activities - discontinued operations                                                                7,266                        10,043  
+  Cash used by operating activities                                                                         ( 3,188)                                       ( 66,180)  
+  INVESTING ACTIVITIES                                                                                                                                                
+  Purchases of short-term investments                                                                                       ( 700,000)      —                         
+  Capital expenditures                                                                                                       ( 69,191)                     ( 45,387)  
+  Software purchases                                                                                                         ( 13,477)                     ( 13,759)  
+  Other, net                                                                                                  ( 573)                                          62,930  
+  Cash provided (used) by investing activities - continuing operations                                                      ( 783,241)                         3,784  
+  Cash used by investing activities - discontinued operations                                               ( 1,914)                        ( 4,415)                  
+  Cash used by investing activities                                                                                         ( 785,155)      ( 631)                    
+  FINANCING ACTIVITIES                                                                                                                                                
+  Net decrease in short-term borrowings                                                                                   ( 1,209,556)                    ( 585,477)  
+  Payments on long-term debt                                                                                  ( 222)                        ( 1,479)                  
+  Payment of debt issuance costs                                                                                             ( 21,271)      —                         
+  Proceeds from long-term debt                                                                                               2,996,090      —                         
+  Cash dividends paid                                                                                                       ( 186,746)                    ( 202,538)  
+  Cash received from Kontoor Brands, net of cash transferred of $ 126.8 million                                    —                                         906,148  
+  Proceeds from issuance of Common Stock, net of (payments) for tax withholdings                                             ( 15,634)                         7,199  
+  Cash provided by financing activities                                                                                      1,562,661                       123,853  
+  Effect of foreign currency rate changes on cash, cash equivalents and restricted cash                                          4,126                         5,078  
+  Net change in cash, cash equivalents and restricted cash                                                                     778,444                        62,120  
+  Cash, cash equivalents and restricted cash – beginning of year                                                             1,411,322                       556,587  
+  Cash, cash equivalents and restricted cash – end of period                                                       $         2,189,766      $                618,707  
+
+Continued on next page.
+
+See notes to consolidated financial statements.
+
+VF Corporation Q1 FY21 Form 10-Q6
+
+Table of Contents
+
+VF CORPORATION
+
+Consolidated Statements of Cash Flows
+
+(Unaudited)
+
+                                                        Three Months Ended June                                        
+  (In thousands)                                        2020                                        2019               
+ ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Balances per Consolidated Balance Sheets:                                                                            
+  Cash and cash equivalents                             $                            2,145,111      $         560,882  
+  Other current assets                                                                   1,216                  3,909  
+  Current assets of discontinued operations                                             42,986                 45,198  
+  Other assets                                          453                                                     8,718  
+  Total cash, cash equivalents and restricted cash      $                            2,189,766      $         618,707  
+
+See notes to consolidated financial statements.
+
+7 VF Corporation Q1 FY21 Form 10-Q
+
+Table of Contents
+
+VF CORPORATION
+
+Consolidated Statements of Stockholders’ Equity
+
+(Unaudited)
+
+                                                        Three Months Ended June 2020                                                                                                
+ ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+                                                        Common Stock                                                                                                                
+  (In thousands, except share amounts)                  Shares                                             Amounts                                                                  
+  Balance, March 2020                                                                     388,812,158      $             4,183,780      ( 930,958)           7,309       3,357,334  
+  Net income (loss)                                     —                                                  —                                            ( 285,613)      ( 285,613)  
+  Dividends on Common Stock ($ 0.48 per share)          —                                                  —            ( 186,746)                                      ( 186,746)  
+  Stock-based compensation, net                                                               829,087      207              13,783                       ( 19,784)                  
+  Foreign currency translation and other                —                                                  —                                52,473                          52,473  
+  Defined benefit pension plans                         —                                                  —                                 3,182                           3,182  
+  Derivative financial instruments                      —                                                  —                             ( 22,238)                       ( 22,238)  
+  Balance, June 2020                                                                      389,641,245      $             4,010,817      ( 897,541)      ( 298,088)       2,912,598  
+                                                        Three Months Ended June 2019                                                                                                
+                                                        Common Stock                                                                                                                
+  (In thousands, except share amounts)                  Shares                                             Amounts                                                                  
+  Balance, March 2019                                                                     396,824,662      $             3,921,784      ( 902,075)       1,179,601       4,298,516  
+  Adoption of new accounting standard, ASU 2016-02      —                                                  —                                                                        
+  Adoption of new accounting standard, ASU 2018-02      —                                                  —                             ( 61,861)          61,861                  
+  Net income                                            —                                                  —                                                49,221          49,221  
+  Dividends on Common Stock ($ 0.51 per share)          —                                                  —                                            ( 202,538)      ( 202,538)  
+  Stock-based compensation, net                                                             1,097,458      275              66,601                       ( 24,312)          42,564  
+  Foreign currency translation and other                —                                                  —                                15,772                          15,772  
+  Defined benefit pension plans                         —                                                  —                                 2,324                           2,324  
+  Derivative financial instruments                      —                                                  —                                 3,161                           3,161  
+  Spin-off of Jeans Business                            —                                                  —                                75,293      ( 130,208)       ( 54,915)  
+  Balance, June 2019                                                                      397,922,120      $             3,988,385      ( 867,386)         931,134       4,151,614  
+
+See notes to consolidated financial statements.
+
+VF Corporation Q1 FY21 Form 10-Q8
+
+Table of Contents
+
+VF CORPORATION
+
+Notes to Consolidated Financial Statements
+
+(Unaudited)
+
+  NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS                                                                         
+  NOTE 1                                              Basis of Presentation                                           9  
+  NOTE 2                                              Recently Adopted and Issued Accounting Standards               10  
+  NOTE 3                                              Revenues                                                       11  
+  NOTE 4                                              Discontinued Operations                                        12  
+  NOTE 5                                              Inventories                                                    14  
+  NOTE 6                                              Intangible Assets                                              14  
+  NOTE 7                                              Goodwill                                                       14  
+  NOTE 8                                              Leases                                                         14  
+  NOTE 9                                              Short-term Borrowings and Long-term Debt                       15  
+  NOTE 10                                             Pension Plans                                                  15  
+  NOTE 11                                             Capital and Accumulated Other Comprehensive Income (Loss)      16  
+  NOTE 12                                             Stock-based Compensation                                       17  
+  NOTE 13                                             Income Taxes                                                   18  
+  NOTE 14                                             Reportable Segment Information                                 18  
+  NOTE 15                                             Earnings Per Share                                             19  
+  NOTE 16                                             Fair Value Measurements                                        20  
+  NOTE 17                                             Derivative Financial Instruments and Hedging Activities        21  
+  NOTE 18                                             Restructuring                                                  22  
+  NOTE 19                                             Contingencies                                                  23  
+  NOTE 20                                             Subsequent Event s                                             23  
+
+NOTE 1 - BASIS OF PRESENTATION
+
+VF Corporation (together with its subsidiaries, collectively known as “VF” or the “Company”) uses a 52/53 week fiscal year ending on the Saturday closest to March 31 of each year. The Company's current fiscal year runs from March 29, 2020 through April 3, 2021 ("Fiscal 2021"). Accordingly, this Form 10-Q presents our first quarter of Fiscal 2021. For presentation purposes herein, all references to periods ended June 2020 and June 2019 relate to the fiscal periods ended on June 27, 2020 and June 
+29, 2019, respectively. References to March 2020 relate to information as of March 28, 2020.
+On January 21, 2020, VF announced its decision to explore the divestiture of its Occupational Workwear business. The Occupational Workwear business is comprised primarily of the following brands and businesses: Red Kap®, VF Solutions®, Bulwark®, Workrite®, Walls®, Terra®, Kodiak®, Work Authority® and Horace Small®. The business also includes certain Dickies® occupational workwear products that have historically been sold through the business-to-business channel. During the three months ended 
+March 2020, the Company determined that the Occupational Workwear business met the held-for-sale and discontinued operations accounting criteria and expects to divest this business during Fiscal 2021. Accordingly, the Company has reported the results of the Occupational Workwear business and the related cash flows as discontinued operations in the Consolidated Statements of Operations and Consolidated Statements of Cash Flows, respectively. The related held-for-
+sale assets and liabilities have been reported as assets and liabilities of discontinued operations in the Consolidated Balance Sheets. These changes have been applied to all periods presented.
+On May 22, 2019, VF completed the spin-off of its Jeans business, which included the Wrangler®, Lee® and Rock & Republic® brands, as well as the VF OutletTM business, into an independent, publicly traded company. As a result, VF reported the results for the Jeans business and the related cash flows as discontinued operations in the Consolidated Statements of Operations and Consolidated Statements of Cash Flows, respectively. These changes have been applied to all periods presented.
+Certain prior year amounts have been reclassified to conform to the Fiscal 2021 presentation.
+The accompanying unaudited condensed consolidated financial statements have been prepared in accordance with the instructions to Form 10-Q and Rule 10-01 of Regulation S-X and do not include all of the information and notes required by generally accepted accounting principles in the United States of America (“GAAP”) for complete financial statements. Similarly, the March 2020 condensed consolidated balance sheet was derived from audited financial statements but does not include all disclosures 
+required by GAAP. In the opinion of management,
+
+9 VF Corporation Q1 FY21 Form 10-Q
+
+Table of Contents
+
+the accompanying unaudited condensed consolidated financial statements contain all normal and recurring adjustments necessary to fairly state the consolidated financial position, results of operations and cash flows of VF for the interim periods presented. Operating results for the three months ended June 2020 are not necessarily indicative of results that may be expected for any other interim period or for Fiscal 2021. For further information, refer to the consolidated financial statements and 
+notes included in VF’s Annual Report on Form 10-K for the year ended March 28, 2020 (“Fiscal 2020 Form 10-K”).
+
+In preparing the condensed consolidated financial statements, management makes estimates and assumptions that affect amounts reported in the condensed consolidated financial statements and accompanying notes. The duration and severity of the novel coronavirus ("COVID-19") pandemic, which is subject to uncertainty, is having a significant impact on VF's business. Management's estimates and assumptions have contemplated both current and expected impacts related to COVID-19 based on available 
+information. Actual results may differ from those estimates.
+
+NOTE 2 - RECENTLY ADOPTED AND ISSUED ACCOUNTING STANDARDS
+
+Recently Adopted Accounting Standards
+In June 2016, the FASB issued ASU No. 2016-13,"Financial Instruments - Credit Losses (Topic 326): Measurement of Credit Losses on Financial Instruments", which requires entities to use a forward-looking approach based on expected losses to estimate credit losses on certain types of financial instruments, including trade receivables. The FASB has subsequently issued updates to the standard to provide additional clarification on specific topics. The guidance became effective for VF in the first 
+quarter of Fiscal 2021, but did not have a material impact on VF's consolidated financial statements. As a result of the adoption of this guidance, the following significant accounting policy from the Company’s Fiscal 2020 Form 10-K has been updated:
+Accounts Receivable
+Trade accounts receivable are recorded at invoiced amounts, less contractual allowances for trade terms, sales incentive programs and discounts. Royalty receivables are recorded at amounts earned based on the licensees' sales of licensed products, subject in some cases to contractual minimum royalties due from individual licensees. VF maintains an allowance for doubtful accounts for estimated losses that will result from the inability of customers and licensees to make required payments. The 
+allowance is determined based on review of specific customer accounts where collection is doubtful, as well as an assessment of the collectability of total receivables, which are grouped based on similar risk characteristics, considering historical trends, adjusted for current economic conditions and reasonable and supportable forecasts when appropriate. The allowance represents the current estimate of lifetime expected credit losses for all outstanding accounts receivable and reflects the 
+Company's ongoing evaluation of collectability, customer creditworthiness, historical levels of credit losses and future expectations. Receivables are written off against the allowance when it is determined that the amounts will not be recovered.
+In August 2018, the FASB issued ASU No. 2018-13,"Fair Value Measurement (Topic 820): Disclosure Framework - Changes to the Disclosure Requirements for Fair Value Measurement", an update that modifies the disclosure requirements for fair value measurements by removing, modifying or adding certain disclosures. The guidance became effective for VF in the first quarter of Fiscal 2021, but did not have a material impact on VF's disclosures.
+In August 2018, the FASB issued ASU No. 2018-15,"Intangibles - Goodwill and Other - Internal-Use Software (Subtopic 350-40):
+Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract", an update that aligns the requirements for capitalizing implementation costs incurred in a hosting arrangement that is a service contract with the requirements for capitalizing implementation costs incurred to develop or obtain internal-use software. The guidance became effective for VF in the first quarter of Fiscal 2021, but did not have a material impact on VF's consolidated 
+financial statements.
+Recently Issued Accounting Standards
+In August 2018, the FASB issued ASU No. 2018-14,"Compensation - Retirement Benefits - Defined Benefit Plans - General (Subtopic 715-20): Disclosure Framework - Changes to the Disclosure Requirements for Defined Benefit Plans", an update that modifies the annual disclosure requirements for employers who sponsor defined benefit pension or other postretirement plans. The guidance will be effective for VF in Fiscal 2021, but the Company does not expect the adoption of this guidance to have a 
+material impact on VF's disclosures.
+In December 2019, the FASB issued ASU No. 2019-12,"Income Taxes (Topic 740): Simplifying the Accounting for Income Taxes", an update that amends and simplifies the accounting for income taxes by removing certain exceptions in existing guidance and providing new guidance to reduce complexity in certain areas. The guidance will be effective for VF in the first quarter of the year ending April 2, 2022 ("Fiscal 2022") with early adoption permitted. The Company is evaluating the impact that adopting 
+this guidance will have on VF's consolidated financial statements.
+In March 2020, the FASB issued ASU No. 2020-04,"Reference Rate Reform (Topic 848): Facilitation of the Effects of Reference Rate Reform on Financial Reporting", an update that provides optional expedients and exceptions for applying GAAP to contracts, hedging relationships and other transactions affected by reference rate reform if certain criteria are met. The optional guidance is provided to ease the potential burden of accounting for reference rate reform. The guidance is effective and can be
+adopted no later than December 31, 2022. The Company is evaluating the impact that adopting this guidance would have on VF's consolidated financial statements.
+
+VF Corporation Q1 FY21 Form 10-Q10
+
+Table of Contents
+
+NOTE 3 - REVENUES
+
+The following table provides information about accounts receivable, contract assets and contract liabilities:
+
+  (In thousands)                June 2020                   March 2020                     June 2019                 
+ ─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Accounts receivable, net      $              934,984      $               1,308,051      $              1,211,347  
+  Contract assets (a)                            2,487                          1,181                         1,576  
+  Contract liabilities (b)                      45,622                         37,498                        42,196  
+
+(a) Included in the other current assets line item in the Consolidated Balance Sheets.
+
+(b) Included in the accrued liabilities and other liabilities line items in the Consolidated Balance Sheets.
+
+For the three months ended June 2020, the Company recognized $ 35.6
+
+For the three months ended June 2020, revenue recognized from performance obligations satisfied, or partially satisfied, in prior periods was not material.
+
+As of June 2020, the Company expects to recognize $ 62.9
+
+in effect under its licensing agreements and expects such amounts to be recognized over time based on the contractual terms, including $ 15.4
+
+As of June 2020, there were no arrangements with transaction price allocated to remaining performance obligations other than contracts for which the Company has applied the practical expedients and the fixed consideration related to future minimum guarantees discussed above.
+
+Disaggregation of Revenue
+
+The following tables disaggregate our revenues by channel and geography, which provides a meaningful depiction of how the nature, timing and uncertainty of revenues were affected by economic factors. The wholesale channel includes fees generated from sourcing activities as the customers and point-in-time revenue recognition are similar to other wholesale arrangements.
+
+                           Three Months Ended June 2020                                                                              
+  (In thousands)           Outdoor                                                                  Other                            
+ ─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Channel revenues                                                                                                                   
+  Wholesale                $                                 158,506      241,164      117,604      $          1,275        518,549  
+  Direct-to-consumer                                         180,014      324,201       40,615      44                      544,874  
+  Royalty                                                      2,708        5,951        4,211      —                        12,870  
+  Total                    $                                 341,228      571,316      162,430      $          1,319      1,076,293  
+  Geographic revenues                                                                                                                
+  United States            $                                 152,477      265,507      114,632      $              —        532,616  
+  International                                              188,751      305,809       47,798                 1,319        543,677  
+  Total                    $                                 341,228      571,316      162,430      $          1,319      1,076,293  
+
+11 VF Corporation Q1 FY21 Form 10-Q
+
+Table of Contents
+
+Three Months Ended June 2019
+(In thousands) Outdoor Active
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+Channel revenues
+Wholesale $ 341,756 $ 660,142 164,280 2,808 1,168,986
+Direct-to-consumer 266,342 565,887 33,519 3,454 869,202
+Royalty 2,522 6,097 3,847 12,466
+Total $ 610,620 $ 1,232,126 201,646 6,262 2,050,654
+Geographic revenues
+United States $ 303,052 $ 711,205 142,631 - 1,156,888
+International 307,568 520,921 59,015 6,262 893,766
+Total $ 610,620 $ 1,232,126 201,646 6,262 2,050,654
+
+NOTE 4 - DISCONTINUED OPERATIONS
+
+The Company continuously assesses the composition of its portfolio to ensure it is aligned with its strategic objectives and positioned to maximize growth and return to shareholders.
+
+  Discontinued Operations  
+
+Occupational Workwear Business
+
+On January 21, 2020, VF announced its decision to explore the divestiture of its Occupational Workwear business. The Occupational Workwear business is comprised primarily of the following brands and businesses: Red Kap®, VF Solutions®, Bulwark®, Workrite®, Walls®, Terra®, Kodiak®, Work Authority® and Horace Small®. The business also includes certain Dickies® occupational workwear products that have historically been sold through the business-to-business channel.
+
+During the three months ended March 2020, the Company determined the Occupational Workwear business met the held-for-sale and discontinued operations accounting criteria and expects to divest this business during Fiscal 2021. Accordingly, the Company has reported the results of the Occupational Workwear business and the related cash flows as discontinued operations in the Consolidated Statements of Operations and Consolidated Statements of Cash Flows, respectively. The related held-for-sale 
+assets and liabilities have been reported as assets and liabilities of discontinued operations in the Consolidated Balance Sheets.
+
+The results of the Occupational Workwear business were previously reported in the Work segment. The results of the Occupational Workwear business recorded in the loss from discontinued operations, net of tax line item in the Consolidated Statements of Operations were a loss of $ 7.9 32.0 June 2020 and June 2019, respectively.
+
+Certain corporate overhead costs and segment costs previously allocated to the Occupational Workwear business for segment reporting purposes did not qualify for classification within discontinued operations and have been reallocated to continuing operations.
+
+Jeans Business
+
+On May 22, 2019, VF completed the spin-off its Jeans business, which included the Wrangler®, Lee® and Rock & Republic® brands, as well as the VF OutletTM business, into an independent, publicly traded company now operating under the name Kontoor
+
+Brands, Inc. ("Kontoor Brands") and trading under the symbol "KTB" on the New York Stock Exchange. The spin-off was effected through a distribution to VF shareholders of one share of Kontoor Brands common stock for every seven shares of VF common stock held on the record date of May 10, 2019. Accordingly, the Company has reported the results of the Jeans business and the related cash flows as discontinued operations in the Consolidated Statements of Operations and Consolidated Statements of Cash
+Flows, respectively.
+
+In connection with the spin-off, Kontoor Brands entered into a credit agreement with respect to $ 1.55 five 750.0 seven 300.0 five 500.0 1.05 906.1 126.8 54.9 75.3
+
+The results of the Wrangler®, Lee® and Rock & Republic® brands were previously reported in the Jeans segment, the results of the Wrangler® RIGGS brand were previously reported in the Work segment, and the results of the non-VF products sold in VF OutletTM stores were previously reported in the Other category included in the reconciliation of segment revenues and segment profit. The results of the Jeans business recorded in the loss from discontinued operations, net of tax line item in the 
+Consolidated Statement of Operations were a loss of $ 48.0 59.5
+
+In connection with the spin-off of the Jeans business, the Company entered into several agreements with Kontoor Brands that govern the relationship of the parties following the spin-off
+
+VF Corporation Q1 FY21 Form 10-Q12
+
+Table of Contents
+
+including the Separation and Distribution Agreement, the Tax Matters Agreement, the Transition Services Agreement, the VF Intellectual Property License Agreement and the Employee Matters Agreement. Under the terms of the Transition Services Agreement, the Company and Kontoor Brands agreed to provide each other certain transitional services including information technology, information management, human resources,
+
+employee benefits administration, supply chain, facilities, and other limited finance and accounting related services for periods up to 24
+
+Summarized Discontinued Operations Financial Information
+
+The following table summarizes the major line items included for the Occupational Workwear business and the Jeans business that are included in the loss from discontinued operations, net of tax line item in the Consolidated Statements of Operations:
+
+                                                                      Three Months Ended June                                           
+  (In thousands)                                                      2020                                       2019                   
+ ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Net revenues                                                        $                             125,333      $             556,028  
+  Cost of goods sold                                                                                101,470                    342,954  
+  Selling, general and administrative expenses                                                       33,256                    196,466  
+  Interest income, net                                                293                                        33                     
+  Other income (expense), net                                         —                                          ( 623)                 
+  Income (loss) from discontinued operations before income taxes      ( 9,100)                                                  16,018  
+  Income tax expense (benefit) (a)                                    ( 1,229)                                                  32,070  
+  Loss from discontinued operations, net of tax                       $                            ( 7,871)      $           ( 16,052)  
+
+(a) Income tax expense for the three months ended June 2019 includes additional tax expense on nondeductible transaction costs and uncertain tax positions related to the Jeans business.
+
+The following table summarizes the carrying amounts of major classes of assets and liabilities of discontinued operations for each of the periods presented:
+
+  (In thousands)                                    June 2020                   March 2020                   June 2019                 
+ ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Cash and equivalents                              $               42,986      $                39,752      $                 45,198  
+  Accounts receivable, net                                          64,065                       83,650                        94,923  
+  Inventories                                                      258,632                      294,000                       283,619  
+  Other current assets                                              10,027                        6,701                         8,168  
+  Property, plant and equipment, net                                46,697                       44,863                        38,571  
+  Intangible assets, net                                            54,471                       54,471                        63,404  
+  Goodwill                                                          43,530                       43,530                        49,630  
+  Operating lease right-of-use assets                               39,452                       38,941                        34,121  
+  Other assets                                                       5,275                        5,231                         4,534  
+  Total assets of discontinued operations           $              565,135      $               611,139      $                622,168  
+  Accounts payable                                  $               27,810      $                63,380      $                 80,842  
+  Accrued liabilities                                               31,134                       29,699                        31,585  
+  Operating lease liabilities                                       34,462                       35,867                        32,082  
+  Other liabilities                                                  2,284                        2,270                         3,442  
+  Deferred income tax liabilities (a)               ( 4,407)                    ( 4,435)                                    ( 10,248)  
+  Total liabilities of discontinued operations      $               91,283      $               126,781      $                137,703  
+
+(a) Deferred income tax balances reflect VF's consolidated netting by jurisdiction
+
+13 VF Corporation Q1 FY21 Form 10-Q
+
+Table of Contents
+
+NOTE 5 - INVENTORIES
+
+(In thousands) June 2020 March 2020 June 2019
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+Finished products $ 1,314,399 $ 1,201,562 $ 1,290,814
+Work-in-process 64,401 67,603 62,268
+Raw materials 24,058 24,747 28,431
+Total inventories $ 1,402,858 $ 1,293,912 $ 1,381,513
+
+NOTE 6 - INTANGIBLE ASSETS
+
+June 2020
+(In thousands) Weighted Amortization Cost
+Average Method
+Amortization
+Period
+───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+Amortizable intangible assets:
+Customer relationships 18 years Accelerated $ 278,522 144,548 133,974 137,017
+License agreements 19 years Accelerated 7,542 5,019 2,523 2,548
+Other 8 years Straight-line 8,086 5,376 2,710 2,909
+Amortizable intangible assets, net
+Indefinite-lived intangible assets:
+Trademarks and trade names
+Intangible assets, net 1,855,764 1,854,545
+
+Intangible assets increased during the three months ended June 2020 due to the impact of foreign currency fluctuations.
+
+Amortization expense for the three months ended June 2020 was $ 4.4 17.5 16.3 15.2 14.6 14.2
+
+NOTE 7 - GOODWILL
+
+Changes in goodwill are summarized by reportable segment as follows:
+
+  (In thousands)            Outdoor                   Active                   Work                              
+ ─────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Balance, March 2020       $            653,433      $           389,848      $         112,738      1,156,019  
+  Currency translation                     3,931                    2,602      54                         6,587  
+  Balance, June 2020        $            657,364      $           392,450      $         112,792      1,162,606  
+
+Accumulated impairment charges for the Outdoor segment were $323.2million as of June 2020 and March 2020. Noimpairment charges were recorded during the three months ended June 2020.
+
+NOTE 8 - LEASES
+
+The Company leases certain retail locations, office space, distribution facilities, machinery and equipment, and vehicles. The substantial majority of these leases are operating leases. Total lease cost includes operating lease cost, variable lease cost, finance lease cost, short-term lease cost, impairment and gain recognized from sale-leaseback transactions. Components of lease cost were as follows:
+
+Three Months Ended June
+(In thousands) 2020 2019
+─────────────────────────────────────────────────────────────────────────────────────────
+Operating lease cost $ 108,852 $ 99,588
+Other lease costs 14,998 17,904
+Total lease cost $ 123,850 $ 117,492
+
+During the three months ended June 2020 and 2019, the Company paid $ 65.0 102.6 190.2 146.4
+
+VF Corporation Q1 FY21 Form 10-Q14
+
+Table of Contents
+
+NOTE 9 - SHORT-TERM BORROWINGS AND LONG-TERM DEBT
+
+Revolving Credit Facility
+
+In April 2020, VF entered into Amendment No. 1 to its $ 2.25 0.70 0.60 750.0 As of June 2020, VF was in compliance with all covenants.
+
+Senior Notes Issuance
+
+In April 2020, VF issued senior unsecured notes, as outlined in the table below:
+
+  (Dollars in thousands)                                                                                                     
+  Scheduled Maturity          Aggregate Principal                     Effective Annual Interest Rate      Interest Payments  
+  2.050% notes, due 2022      $                        1,000,000                               2.277      Semiannually       
+  2.400% notes, due 2025                                 750,000                               2.603      Semiannually       
+  2.800% notes, due 2027                                 500,000                               2.953      Semiannually       
+  2.950% notes, due 2030                                 750,000                               3.071      Semiannually       
+  Total Issuance              $                        3,000,000                                                             
+
+VF used a portion of the net proceeds from this offering to repay borrowings under its Global Credit Facility. The aggregate outstanding balance of these notes was $2.98billion at June 2020, which was net of unamortized original issue discount and debt issuance costs.
+
+NOTE 10 - PENSION PLANS
+
+The components of pension cost (income) for VF’s defined benefit plans were as follows:
+
+                                                        Three Months Ended June                                          
+  (In thousands)                                        2020                                        2019                 
+ ─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Service cost – benefits earned during the period      $                                3,632      $             3,381  
+  Interest cost on projected benefit obligations                                        11,948                   14,761  
+  Expected return on plan assets                                                     ( 20,539)                ( 23,178)  
+  Amortization of deferred amounts:                                                                                      
+  Net deferred actuarial losses                                                          2,863                    4,019  
+  Deferred prior service costs (credits)                ( 17)                                       13                   
+  Net periodic pension cost (income)                    $                             ( 2,113)      $          ( 1,004)  
+
+The amounts reported in these disclosures have not been segregated between continuing and discontinued operations.
+
+VF has reported the service cost component of net periodic pension cost (income) in operating income and the other components, which include interest cost, expected return on plan assets, and amortization of deferred actuarial losses and prior service costs (credits), in the other income (expense), net line item in the Consolidated Statements of Operations.
+
+VF contributed $ 1.7 15.9
+
+15 VF Corporation Q1 FY21 Form 10-Q
+
+Table of Contents
+
+NOTE 11 - CAPITAL AND ACCUMULATED OTHER COMPREHENSIVE INCOME (LOSS)
+
+Common Stock
+
+During the three months ended June 2020, the Company did no
+
+Common Stock outstanding is net of shares held in treasury which are, in substance, retired. There were noor June 2019. The excess of the cost of treasury shares acquired over the $ 0.25
+
+Accumulated Other Comprehensive Income (Loss)
+
+Comprehensive income (loss) consists of net income (loss) and specified components of other comprehensive income (“OCI”), which relates to changes in assets and liabilities that are not included in net income (loss) under GAAP but are instead deferred and accumulated within a separate component of stockholders’ equity in the balance sheet. VF’s comprehensive income (loss) is presented in the Consolidated Statements of Comprehensive Income (Loss). The deferred components of OCI are reported, net 
+of related income taxes, in accumulated OCI in stockholders’ equity, as follows:
+
+  (In thousands)                                     June 2020                      March 2020                      June 2019                  
+ ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Foreign currency translation and other             $              ( 685,236)      $               ( 737,709)      $              ( 635,901)  
+  Defined benefit pension plans                                     ( 259,290)                      ( 262,472)                     ( 290,468)  
+  Derivative financial instruments                                      46,985                          69,223                         58,983  
+  Accumulated other comprehensive income (loss)      $              ( 897,541)      $               ( 930,958)      $              ( 867,386)  
+
+The changes in accumulated OCI, net of related taxes, were as follows:
+
+                                                                               Three Months Ended June 2020                                                                                                                                                    
+  (In thousands)                                                               Foreign Currency Translation and Other                      Defined Benefit Pension Plans                      Derivative Financial Instruments                                 
+ ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Balance, March 2020                                                          $                                           ( 737,709)      $                                  ( 262,472)      $                                        69,223      ( 930,958)  
+  Other comprehensive income (loss) before reclassifications                                                                   10,109      987                                                ( 6,065)                                                  5,031  
+  Amounts reclassified from accumulated other comprehensive income (loss)                                                      42,364                                              2,195                                            ( 16,173)          28,386  
+  Net other comprehensive income (loss)                                                                                        52,473                                              3,182                                            ( 22,238)          33,417  
+  Balance, June 2020                                                           $                                           ( 685,236)      $                                  ( 259,290)      $                                        46,985      ( 897,541)  
+
+                                                                               Three Months Ended June 2019                                                                                                                                                 
+  (In thousands)                                                               Foreign Currency Translation and Other                      Defined Benefit Pension Plans                      Derivative Financial Instruments                              
+ ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Balance, March 2019                                                          $                                           ( 725,679)      $                                  ( 243,184)      $                                     66,788      ( 902,075)  
+  Adoption of new accounting standard, ASU 2018-02                             ( 9,088)                                                                                        ( 50,402)      ( 2,371)                                           ( 61,861)  
+  Other comprehensive income (loss) before reclassifications                                                                   15,772      ( 823)                                                                                   10,900          25,849  
+  Amounts reclassified from accumulated other comprehensive income (loss)      —                                                                                                   3,147      ( 7,739)                                                      
+  Spin-off of Jeans Business                                                                                                   83,094      794                                                ( 8,595)                                              75,293  
+  Net other comprehensive income (loss)                                                                                        89,778                                          ( 47,284)      ( 7,805)                                              34,689  
+  Balance, June 2019                                                           $                                           ( 635,901)      $                                  ( 290,468)      $                                     58,983      ( 867,386)  
+
+VF Corporation Q1 FY21 Form 10-Q16
+
+Table of Contents
+
+Reclassifications out of accumulated OCI were as follows:
+
+  (In thousands)                                                              Affected Line Item in the Consolidated Statements of Operations      Three Months Ended June                                           
+  Details About Accumulated Other Comprehensive Income (Loss) Components                                                                                                                                             
+ ─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Losses on foreign currency translation and other:                                                                                                                                                                  
+  Liquidation of foreign entities                                             Other income (expense), net                                                                $      ( 42,364)      $                  —  
+  Total before tax                                                                                                                                                              ( 42,364)      —                     
+  Tax (expense) benefit                                                                                                                                                  —                     —                     
+  Net of tax                                                                                                                                                                    ( 42,364)      —                     
+  Amortization of defined benefit pension plans:                                                                                                                                                                     
+  Net deferred actuarial losses                                               Other income (expense), net                                                         ( 2,863)                     ( 4,019)              
+  Deferred prior service (costs) credits                                      Other income (expense), net                                                               17                     ( 13)                 
+  Total before tax                                                                                                                                                ( 2,846)                     ( 4,032)              
+  Tax benefit                                                                                                                                                          651                     885                   
+  Net of tax                                                                                                                                                      ( 2,195)                     ( 3,147)              
+  Gains (losses) on derivative financial instruments:                                                                                                                                                                
+  Foreign exchange contracts                                                  Net revenues                                                                             171                     ( 2,905)              
+  Foreign exchange contracts                                                  Cost of goods sold                                                                                   16,705                    11,105  
+  Foreign exchange contracts                                                  Selling, general and administrative expenses                                                          1,607      716                   
+  Foreign exchange contracts                                                  Other income (expense), net                                                                           1,770                     2,872  
+  Interest rate contracts                                                     Interest expense                                                                          27                     ( 1,293)              
+  Total before tax                                                                                                                                                                 20,280                    10,495  
+  Tax expense                                                                                                                                                     ( 4,107)                     ( 2,756)              
+  Net of tax                                                                                                                                                                       16,173                     7,739  
+  Total reclassifications for the period, net of tax                                                                                                                                                                 
+
+NOTE 12 - STOCK-BASED COMPENSATION
+
+Incentive Equity Awards Granted
+
+During the three months ended June 2020, VF granted stock options to employees and nonemployee members of VF's Board of Directors to purchase 1,679,918 55.74 three years one year ten
+
+The grant date fair value of each option award was calculated using a lattice option-pricing valuation model, which incorporated a range of assumptions for inputs as follows:
+
+                                                    Three Months Ended June 2020  
+ ──────────────────────────────────────────────────────────────────────────────────
+  Expected volatility                               28% to 48%                    
+  Weighted average expected volatility              37%                           
+  Expected term (in years)                          6.2 to 8.0                    
+  Weighted average dividend yield                   2.4%                          
+  Risk-free interest rate                           0.2% to 0.7%                  
+  Weighted average fair value at date of grant      $ 15.78                       
+
+Also during the three months ended June 2020, VF granted 16,775 one year 55.74
+
+VF granted 10,000 four years one 55.74
+
+17 VF Corporation Q1 FY21 Form 10-Q
+
+Table of Contents
+
+In addition, VF granted266,190nonperformance-based RSUs to employees during the three months ended June 2020. These awards vest50% over atwo-year period and50% over afour-year period from the date of grant and each unit entitles the holder tooneshare of VF Common Stock. The fair market value of VF Common Stock at the date the units were granted was $55.74per share.
+
+VF granted50,061restricted shares of VF Common Stock to certain members of management during the three months ended June 2020. These shares vest over periods of up tofour yearsfrom the date of grant. The fair market value of VF Common Stock at the date the shares were granted was $55.74per share.
+
+NOTE 13 - INCOME TAXES
+
+The effective income tax rate for the three months ended June 2020 was 11.2 24.0 1.8 1.8 0.6 2.0 2.0 12.2
+
+VF files a consolidated U.S. federal income tax return, as well as separate and combined income tax returns in numerous state and international jurisdictions. In the U.S., the Internal Revenue Service ("IRS") examinations for tax years through 2015 have been effectively settled. The examination of Timberland’s 2011 tax return is ongoing.
+
+In addition, VF is currently subject to examination by various state and international tax authorities. Management regularly assesses the potential outcomes of both ongoing and future examinations for the current and prior years, and has concluded that VF’s provision for income taxes is adequate. The outcome of any one examination is not expected to have a material impact on VF’s consolidated financial statements. Management believes that some of these audits and negotiations will conclude 
+during the next 12 months.
+
+VF was granted a ruling which lowered the effective income tax rate on taxable earnings for years 2010 through 2014 under Belgium’s excess profit tax regime. In February 2015, the European Union Commission (“EU”) opened a state aid investigation into Belgium’s rulings. On January 11, 2016, the EU announced its decision that these rulings were illegal and
+
+ordered that tax benefits granted under these rulings should be collected from the affected companies, including VF.
+
+On March 22, 2016, the Belgium government filed an appeal seeking annulment of the EU decision. Additionally, on June 21, 2016, VF Europe BVBA filed its own application for annulment of the EU decision.
+
+On December 22, 2016, Belgium adopted a law which entitled the Belgium tax authorities to issue tax assessments, and demand timely payments from companies which benefited from the excess profits regime. On January 10, 2017, VF Europe BVBA received an assessment for € 31.9 31.9 33.9 3.1 3.8
+
+During the three months ended June 2020, the amount of net unrecognized tax benefits and associated interest increased by $ 1.2 166.3 15.7 8.7
+
+VF Corporation Q1 FY21 Form 10-Q18
+
+Table of Contents
+
+NOTE 14 - REPORTABLE SEGMENT INFORMATION
+
+The chief operating decision maker allocates resources and assesses performance based on a global brand view which represents VF's operating segments. The operating segments have been evaluated and combined into reportable segments because they meet the similar economic characteristics and qualitative aggregation criteria set forth in the relevant accounting guidance.
+
+The Company's reportable segments have been identified as: Outdoor, Active and Work. We have included an Other category in the table below for purposes of reconciliation of revenues and profit (loss), but it is not considered a reportable segment. Other includes results primarily related to the sale of non-VF products.
+
+Financial information for VF's reportable segments was as follows:
+
+                                                                    Three Months Ended June                                                
+  (In thousands)                                                    2020                                         2019                      
+ ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Segment revenues:                                                                                                                        
+  Outdoor                                                           $                               341,228      $                610,620  
+  Active                                                                                            571,316                     1,232,126  
+  Work                                                                                              162,430                       201,646  
+  Other                                                                                               1,319                         6,262  
+  Total segment revenues                                            $                             1,076,293      $              2,050,654  
+  Segment profit (loss):                                                                                                                   
+  Outdoor                                                           $                            ( 160,711)      $              ( 80,270)  
+  Active                                                                                              7,136                       307,566  
+  Work                                                                                            ( 11,401)                        15,471  
+  Other                                                             ( 2,361)                                     ( 1,616)                  
+  Total segment profit (loss)                                                                    ( 167,337)                       241,151  
+  Corporate and other expenses (a)                                                               ( 117,659)                    ( 139,632)  
+  Interest expense, net                                                                           ( 27,949)                     ( 15,583)  
+  Income (loss) from continuing operations before income taxes      $                            ( 312,945)      $                 85,936  
+
+(a) Certain corporate overhead and other costs of $ 6.1
+
+NOTE 15 - EARNINGS PER SHARE
+
+Three Months Ended June
+(In thousands, except per share amounts) 2020 2019
+───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+Earnings (loss) per share - basic:
+Income (loss) from continuing operations $ ( 277,742) $ 65,273
+Weighted average common shares outstanding 388,695 396,727
+Earnings (loss) per share from continuing operations $ ( 0.71) $ 0.16
+Earnings (loss) per share - diluted:
+Income (loss) from continuing operations $ ( 277,742) $ 65,273
+Weighted average common shares outstanding 388,695 396,727
+Incremental shares from stock options and other dilutive securities 2,096 5,187
+Adjusted weighted average common shares outstanding 390,791 401,914
+Earnings (loss) per share from continuing operations $ ( 0.71) $ 0.16
+
+Outstanding options to purchase approximately 5.4 1.5
+
+In addition, 0.40.8
+
+19 VF Corporation Q1 FY21 Form 10-Q
+
+Table of Contents
+
+NOTE 16 - FAIR VALUE MEASUREMENTS
+
+Financial assets and financial liabilities measured and reported at fair value are classified in a three-level hierarchy that prioritizes the inputs used in the valuation process. A financial instrument’s categorization within the valuation hierarchy is based on the lowest level of any input that is significant to the fair value measurement. The hierarchy is based on the observability and objectivity of the pricing inputs, as follows:
+• Level 1 - Quoted prices in active markets for identical assets or liabilities.
+• Level 2 - Significant directly observable data (other than Level 1 quoted prices) or significant indirectly observable
+data through corroboration with observable market data. Inputs would normally be (i) quoted prices in active markets for similar assets or liabilities, (ii) quoted prices in inactive markets for identical or similar assets or liabilities, or (iii) information derived from or corroborated by observable market data.
+• Level 3 - Prices or valuation techniques that require significant unobservable data inputs. These inputs would normally be VF’s own data and judgments about assumptions that market participants would use in pricing the asset or liability.
+
+The following table summarizes financial assets and financial liabilities that are measured and recorded in the consolidated financial statements at fair value on a recurring basis:
+
+                                        Total Fair Value                     Fair Value Measurement Using (a)                                                        
+  (In thousands)                                                                                                                  Level 1                   Level 2  
+  June 2020                                                                                                                                                          
+  Financial assets:                                                                                                                                                  
+  Cash equivalents:                                                                                                                                                  
+  Money market funds                    $                     1,476,533      $                                     1,476,533                         —               
+  Time deposits                                                 373,440                                              373,440                                         
+  Short-term investments:                                                                                                                                            
+  Managed income fund                                           500,000                                              500,000                                         
+  Time deposits                                                 200,000                                              200,000                                         
+  Derivative financial instruments                               68,585      —                                                                  68,585               
+  Deferred compensation                                         120,359                                              120,359                                         
+  Financial liabilities:                                                                                                                                             
+  Derivative financial instruments                               15,631      —                                                                  15,631               
+  Deferred compensation                                         126,326      —                                                                 126,326               
+                                        Total Fair Value                     Fair Value Measurement Using (a)                                                        
+  (In thousands)                                                                                                                  Level 1                   Level 2  
+  March 2020                                                                                                                                                         
+  Financial assets:                                                                                                                                                  
+  Cash equivalents:                                                                                                                                                  
+  Money market funds                    $                     1,211,887      $                                     1,211,887                         —               
+  Time deposits                                                   1,932                                                1,932                                         
+  Derivative financial instruments                               91,834      —                                                                  91,834               
+  Deferred compensation                                         105,706                                              105,706                                         
+  Financial liabilities:                                                                                                                                             
+  Derivative financial instruments                               14,531      —                                                                  14,531               
+  Deferred compensation                                         113,289      —                                                                 113,289               
+
+(a) There were no transfers among the levels within the fair value hierarchy during the three months ended June 2020 or the year ended March 2020.
+
+VF’s cash equivalents include money market funds, and time deposits with maturities within three months of their purchase dates, that approximate fair value based on Level 1 measurements. The fair value of derivative financial instruments, which consist of foreign exchange forward contracts, is determined based on observable market inputs (Level 2), including spot and forward exchange rates for foreign currencies, and considers the credit risk of the Company and its counterparties. VF's 
+short-term investments include excess cash invested in a managed income fund, and time deposits with
+
+maturities greater than three months but less than one year from their purchase dates, that approximate fair value based on Level 1 measurements. VF’s deferred compensation assets primarily represent investments held within plan trusts as an economic hedge of the related deferred compensation liabilities. These investments primarily include mutual funds (Level 1) that are valued based on quoted prices in active markets. Liabilities related to VF’s deferred compensation plans are recorded at 
+amounts due to participants, based on the fair value of the participants’ selection of hypothetical investments.
+
+VF Corporation Q1 FY21 Form 10-Q20
+
+Table of Contents
+
+All other financial assets and financial liabilities are recorded in the consolidated financial statements at cost, except life insurance contracts which are recorded at cash surrender value. These other financial assets and financial liabilities include cash held as demand deposits, accounts receivable, short-term borrowings, accounts payable and accrued liabilities. At June 2020 and March 2020, their carrying values approximated fair
+
+value. Additionally, at June 2020 and March 2020, the carrying values of VF’s long-term debt, including the current portion, were $5,610.8million and $2,609.3million, respectively, compared with fair values of $5,899.4million and $2,672.9million at those respective dates. Fair value for long-term debt is a Level 2 estimate based on quoted market prices or values of comparable borrowings.
+
+NOTE 17 - DERIVATIVE FINANCIAL INSTRUMENTS AND HEDGING ACTIVITIES
+
+Summary of Derivative Financial Instruments
+
+All of VF’s outstanding derivative financial instruments are foreign exchange forward contracts. Although derivatives meet the criteria for hedge accounting at the inception of the hedging relationship, a limited number of derivative contracts intended to hedge assets and liabilities are not designated as hedges for accounting purposes. The notional amounts of all outstanding derivative contracts were $ 2.9,$ 2.6 at
+
+March 2020 and $ 3.1 20
+
+The following table presents outstanding derivatives on an individual contract basis:
+
+                                                                                 Fair Value of Derivatives                                                                         Fair Value of Derivatives  
+  (In thousands)                                                                 June 2020                                                          June 2020      March 2020      June 2019                  
+  Foreign currency exchange contracts designated as hedging instruments          $                              53,810      78,298      67,979      $              $               $                          
+  Foreign currency exchange contracts not designated as hedging instruments                                     14,775      13,536      12,372      ( 2,302)       ( 1,849)        ( 2,015)                   
+  Total derivatives                                                              $                              68,585      91,834      80,351      $              $               $                          
+
+VF records and presents the fair values of all of its derivative assets and liabilities in the Consolidated Balance Sheets on a gross basis, even though they are subject to master netting agreements. If VF were to offset and record the asset and liability balances of its foreign exchange forward contracts on a net basis in accordance with the terms of its master netting agreements, the amounts presented in the Consolidated Balance Sheets would be adjusted from the current gross presentation to 
+the net amounts as detailed in the following table:
+
+                                                                   June 2020                                                                                             
+  (In thousands)                                                   Derivative                                                                                            
+                                                                   Asset                                                                                                 
+ ─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Gross amounts presented in the Consolidated Balance Sheets       $                  68,585      ( 15,631)         91,834      ( 14,531)         80,351      ( 11,374)  
+  Gross amounts not offset in the Consolidated Balance Sheets                      ( 15,607)         15,607      ( 14,393)         14,393      ( 11,301)         11,301  
+  Net amounts                                                      $                  52,978          ( 24)         77,441         ( 138)         69,050          ( 73)  
+
+Derivatives are classified as current or noncurrent based on maturity dates, as follows:
+
+  (In thousands)            June 2020                     March 2020                     June 2019              
+ ────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Other current assets      $                 56,428      $                  71,784      $              72,132  
+  Accrued liabilities                      ( 10,103)                      ( 11,378)      ( 8,143)               
+  Other assets                                12,157                         20,050                      8,219  
+  Other liabilities         ( 5,528)                      ( 3,153)                       ( 3,231)               
+
+21 VF Corporation Q1 FY21 Form 10-Q
+
+Table of Contents
+
+Cash Flow Hedges
+
+VF uses derivative contracts primarily to hedge a portion of the exchange risk for its forecasted sales, purchases, production costs, operating costs and intercompany royalties. The effects of cash flow hedging included in VF’s Consolidated Statements of Operations and Consolidated Statements of Comprehensive Income (Loss) are summarized as follows:
+
+  (In thousands)                       Gain (Loss) on Derivatives Recognized in OCI                                      
+                                       Three Months Ended June                                                           
+  Cash Flow Hedging Relationships      2020                                                            2019              
+ ─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Foreign currency exchange            $                                                 ( 7,595)      $         14,774  
+
+  (In thousands)                                    Gain (Loss) Reclassified from Accumulated OCI into Income (Loss)                                          
+                                                    Three Months Ended June                                                                                   
+  Location of Gain (Loss)                           2020                                                                              2019                    
+ ──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Net revenues                                      $                                                                        171      $             ( 2,905)  
+  Cost of goods sold                                                                                                      16,705                      11,105  
+  Selling, general and administrative expenses                                                                             1,607      716                     
+  Other income (expense), net                                                                                              1,770                       2,872  
+  Interest expense                                  27                                                                                ( 1,293)                
+  Total                                             $                                                                     20,280      $               10,495  
+
+Derivative Contracts Not Designated as Hedges
+
+VF uses derivative contracts to manage foreign currency exchange risk on third-party accounts receivable and payable, as well as intercompany borrowings. These contracts are not designated as hedges, and are recorded at fair value in the Consolidated Balance Sheets. Changes in the fair values of these instruments are recognized directly in earnings. Gains or losses on these contracts largely offset the net transaction losses or gains on the related assets and liabilities. In the case of 
+derivative contracts executed on foreign currency exposures that are no longer probable of occurring, VF de-designates these hedges and the fair value changes of these instruments are also recognized directly in earnings. As a result of the COVID-19 pandemic and actions expected to be taken by the Company, certain derivative contracts were de-designated as hedged forecasted transactions were no longer deemed probable of occurring. Accordingly, the Company reclassified amounts from accumulated 
+OCI and recognized a $ 5.0
+
+The changes in fair value of derivative contracts not designated as hedges that have been recognized as gains or losses in VF's Consolidated Statements of Operations were not material for the three months ended June 2020 and June 2019.
+
+Other Derivative Information
+
+At June 2020, accumulated OCI included $ 43.3
+
+Net Investment Hedge
+
+The Company has designated its € 1.850 18.1 8.7
+
+VF Corporation Q1 FY21 Form 10-Q22
+
+Table of Contents
+
+NOTE 18 - RESTRUCTURING
+
+The Company typically incurs restructuring charges related to strategic initiatives and cost optimization of business activities, primarily related to severance and employee-related benefits. During the three months ended June 2020, VF recognized $ 22.5 22.5 8.5 14.0
+
+has not recognized any significant incremental costs related to accruals for the year ended March 2020 or prior periods.
+
+Of the $ 49.9 49.6 0.3
+
+The components of the restructuring charges are as follows:
+
+                                               Three Months Ended June                                   
+  (In thousands)                               2020                                     2019             
+ ─────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Severance and employee-related benefits      $                            18,509      $         2,224  
+  Accelerated depreciation                                                   3,807      —                
+  Contract termination and other               141                                                2,121  
+  Total restructuring charges                  $                            22,457      $         4,345  
+
+Restructuring costs by business segment are as follows:
+
+                           Three Months Ended June                                   
+  (In thousands)           2020                                     2019             
+ ─────────────────────────────────────────────────────────────────────────────────────
+  Outdoor                  $                             4,750      $         4,215  
+  Active                   370                                      20               
+  Work                     429                                      110              
+  Corporate and other                                   16,908      —                
+  Total                    $                            22,457      $         4,345  
+
+The activity in the restructuring accrual for the three-month period ended June 2020 was as follows:
+
+  (In thousands)                  Severance                  Other                  Total                 
+ ──────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Accrual at March 2020           $              38,052      $           2,888      $             40,940  
+  Charges                                        18,509      141                                  18,650  
+  Cash payments                   ( 8,806)                   ( 421)                 ( 9,227)              
+  Adjustments to accruals         173                        —                      173                   
+  Impact of foreign currency      ( 639)                     34                     ( 605)                
+  Accrual at June 2020            $              47,289      $           2,642      $             49,931  
+
+NOTE 19 - CONTINGENCIES
+
+The Company petitioned the U.S. Tax Court to resolve an IRS dispute regarding the timing of income inclusion associated with the 2011 Timberland acquisition. The Company remains confident in our timing and treatment of the income inclusion, and therefore this matter is not reflected in our financial statements. We are vigorously defending our position, and do not expect the resolution to have a material adverse impact on the Company's financial position, results of operations or cash flows. 
+While the IRS argues immediate income inclusion, the Company's position is to include the income over a period of years. As the matter relates to 2011, nearly half of the timing at dispute has passed with the Company including the income, and paying the related tax, on our income tax returns. The Company
+
+notes that should the IRS prevail in this timing matter, the net interest expense would be up to $ 165 136
+
+The Company is currently involved in other legal proceedings that are ordinary, routine litigation incidental to the business. The resolution of any particular proceeding is not currently expected to have a material adverse impact on the Company's financial position, results of operations or cash flows.
+
+NOTE 20 - SUBSEQUENT EVENTS
+
+On July 28, 2020, VF’s Board of Directors declared a quarterly cash dividend of $0.48per share, payable on September 21, 2020 to stockholders of record on September 10, 2020. 400,000
+
+23 VF Corporation Q1 FY21 Form 10-Q
+
+Table of Contents
+
+  ITEM 2 — MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS.  
+ ───────────────────────────────────────────────────────────────────────────────────────────────────
+
+VF Corporation (together with its subsidiaries, collectively known as “VF” or the “Company”) uses a 52/53 week fiscal year ending on the Saturday closest to March 31 of each year. The Company's current fiscal year runs from March 29, 2020 through April 3, 2021 ("Fiscal 2021"). Accordingly, this Form 10-Q presents our first quarter of Fiscal 2021. For presentation purposes herein, all references to periods ended June 2020 and June 2019 relate to the fiscal periods ended on June 27, 2020 and June 
+29, 2019, respectively. References to March 2020 relate to information as of March 28, 2020.
+
+All per share amounts are presented on a diluted basis and all percentages shown in the tables below and the following discussion have been calculated using unrounded numbers. All references to foreign currency amounts below reflect the changes in foreign currency exchange rates from the same period in 2019 and their impact on translating foreign currencies into U.S. dollars. VF’s most significant foreign currency exposure relates to business conducted in euro-based countries. Additionally, VF 
+conducts business in other developed and emerging markets around the world with exposure to foreign currencies other than the euro.
+
+On May 22, 2019, VF completed the spin-off of its Jeans business, which included the Wrangler®, Lee® and Rock & Republic® brands, as well as the VF OutletTM business, into an independent, publicly traded company now operating under the name Kontoor Brands, Inc. ("Kontoor Brands"). As a result, VF reported the results for the Jeans business and the related cash flows as discontinued operations in the Consolidated Statements of Operations and Consolidated Statements of Cash Flows,
+
+respectively. These changes have been applied to all periods presented.
+
+On January 21, 2020, VF announced its decision to explore the divestiture of its Occupational Workwear business. The Occupational Workwear business is comprised primarily of the following brands and businesses: Red Kap®, VF Solutions®, Bulwark®, Workrite®, Walls®, Terra®, Kodiak®, Work Authority® and Horace Small®. The business also includes certain Dickies® occupational workwear products that have historically been sold through the business-to-business channel. During the three months ended 
+March 2020, the Company determined that the Occupational Workwear business met the held-for-sale and discontinued operations accounting criteria and expects to divest this business during Fiscal 2021. Accordingly, the Company has reported the results of the Occupational Workwear business and the related cash flows as discontinued operations in the Consolidated Statements of Operations and Consolidated Statements of Cash Flows, respectively. The related held-for-sale assets and liabilities have 
+been reported as assets and liabilities of discontinued operations in the Consolidated Balance Sheets. These changes have been applied to all periods presented.
+
+Unless otherwise noted, amounts, percentages and discussion for all periods included below reflect the results of operations and financial condition from VF’s continuing operations.
+
+Refer to Note 4 to VF’s consolidated financial statements for additional information on discontinued operations.
+
+  RECENT DEVELOPMENTS  
+
+  Impact of COVID-19  
+
+As the global impact of the novel coronavirus ("COVID-19") continues, VF remains first and foremost focused on a people-first approach that prioritizes the health and well-being of its employees, customers, trade partners and consumers around the world. To help mitigate the spread of COVID-19 and in response to health advisories and governmental actions and regulations, VF has modified its business practices including the temporary closing of offices and retail stores, instituting travel bans 
+and restrictions and implementing health and safety measures including social distancing and quarantines. VF has also implemented measures that are designed to ensure the health, safety and well-being of associates employed in its distribution, fulfillment and manufacturing centers around the world.
+
+During the first quarter, all 265 VF-operated retail stores reopened in the Asia-Pacific region and while store traffic improved, it remained down when compared with the prior year. VF initiated a phased reopening of its retail stores in Europe and North America during the first quarter in accordance with guidance from government entities and public health authorities, to allow proper training and preparation of the retail environment. In Europe, over 90 percent of the 339 VF-operated retail 
+stores reopened during the first quarter, with most of the stores that remained closed located in the United Kingdom. In North America, approximately 75 percent of the 772 VF-operated retail stores reopened during the first quarter. Subsequent to
+
+quarter-end, over 150 additional stores reopened in North America; however, approximately 120 stores have temporarily reclosed due to localized resurgence of COVID-19 outbreaks and resulting health advisories and governmental actions. VF's wholesale customers in all regions have reopened most of their retail stores. VF is continuing to monitor the COVID-19 outbreak globally and will comply with guidance from government entities and public health authorities to prioritize the health and 
+well-being of its employees, customers, trade partners and consumers. As COVID-19 uncertainty continues, additional retail store reclosures may occur.
+
+Consistent with VF’s long-term strategy, the Company’s digital platform remains a high priority through which its brands stay connected with consumer communities while providing experiential content. Many of VF's distribution and fulfillment facilities have remained operational in support of digital consumer engagement w ith its brands and to service retail partners as needed. Prior to the COVID-19 pandemic, consumer spending had started shifting to brand e-commerce sites and other digital 
+platforms, which has accelerated due to changes in the retail landscape resulting from the COVID-19 pandemic.
+
+COVID-19 has also impacted some of VF's suppliers, including third-part y manufacturers, logistics providers and other vendors. At this time, the majority of VF's supply chain is operational. Suppliers are complying with local health advisories
+
+VF Corporation Q1 FY21 Form 10-Q24
+
+Table of Contents
+
+and governmental restrictions which can result in product delays; however, VF is actively working with its suppliers to minimize disruption. VF's distribution centers are operational in accordance with local government guidelines but are experiencing intermittent disruptions while maintaining enhanced health and safety protocols.
+
+In response to COVID-19, various government programs have been announced to provide financial relief to affected businesses including the Coronavirus Aid, Relief, and Economic Security Act ("CARES Act"). The CARES Act, among other things, provides employer payroll tax credits for wages paid to employees unable to work during the COVID-19 pandemic and options to defer payroll tax payments. Other foreign government programs available to VF also provide certain payroll tax credits and wage 
+subsidies. During the first quarter of Fiscal 2021, the Company recognized $50.4 million as a result of relief from the CARES Act and other governmental packages, which were recorded as a
+
+reduction in selling, general and administrative expenses. The Company also intends to defer qualified payroll and other tax payments as permitted by the CARES Act.
+
+The COVID-19 pandemic is ongoing and dynamic in nature, and has driven global uncertainty and disruption. As a result, COVID-19 had a significant negative impact on the Company's business, including the consolidated financial condition, results of operations and cash flows during the first quarter of Fiscal 2021. While we are not able to determine the ultimate length and severity of the COVID-19 pandemic, we expect ongoing disruption to our business operations including retail store closures, 
+both VF-operated and our customers, a reduction in traffic once stores reopen and a highly promotional marketplace, which will continue to have a significant negative impact on our Fiscal 2021 financial performance, including an expected decrease in revenues of less than 25 percent in the second quarter compared to the same period in the prior year.
+
+  Enterprise Protection Strategy  
+
+VF has taken a number of actions to advance its Enterprise Protection Strategy in response to the COVID-19 pandemic.
+
+On April 23, 2020, VF closed its sale of senior unsecured notes, which provided net proceeds to the Company of approximately $2.98 billion. A portion of the net proceeds was used to repay borrowings under the Company's senior unsecured revolving credit facility (the "Global Credit Facility") and the remaining net proceeds will be us ed for general corporate purposes. At June 2020, VF had approximately $2.8 billion of cash and equivalents and short-term investments and approximately $2.2 billion 
+available for borrowing against the Global Credit Facility, subject to certain restrictions including a $750.0 million minimum liquidity requirement.
+
+Other actions VF has taken to support its business in response to the COVID-19 pandemic include the Company's decision to temporarily pause its share repurchase program. The Company currently has $2.8 billion remaining under its current share repurchase authorization. The Company paid a cash dividend of $0.48 per share during the three months ended June 2020 and has declared a cash dividend of $0.48 per share that is payable in the second quarter of Fiscal 2021. Subject to approval by its Board 
+of Directors, VF intends to continue to pay its regularly scheduled dividend and is not contemplating the suspension of its dividend at this time. VF's planned divestiture of the Occupational Workwear business would provide an additional source of cash.
+
+Other actions taken by VF also included a four-month reduction of CEO Steve Rendle's base salary by 50 percent and the base salaries of VF's Executive Leadership Team by 25 percent. In addition, VF's Board of Directors elected to temporarily forgo their cash retainer for the same period.
+
+VF has implemented cost controls to reduce discretionary spending to help mitigate the loss of sales and to conserve cash while continuing to support employees. VF continues to assess its forward inventory purchase commitments to ensure proper matching of supply and demand, which we expect will result in an overall reduction in future commitments from comparable periods in the prior year. As VF continues to actively monitor the situation, we may take further actions that affect our operations.
+
+We believe the Company has sufficient liquidity and flexibility to operate during the disruptions caused by the COVID-19 pandemic and related governmental actions and regulations and health authority advisories and meet its obligations as they become due. However, due to the uncertainty of the duration and severity of the COVID-19 pandemic, governmental actions in response to the pandemic, and the impact on us and our consumers, customers and suppliers, there is no certainty that the measures we
+take will be sufficient to mitigate the risks posed by COVID-19. See Part II, "Item 1A. Risk Factors." below for additional discussion.
+
+  HIGHLIGHTS OF THE FIRST QUARTER OF FISCAL 2021  
+ ──────────────────────────────────────────────────
+
+• Revenues were down 48% to $1.1 billion compared to the three months ended June 2019, primarily due to the negative impact of COVID-19 and a 1% unfavorable impact from foreign currency.
+
+• Active segment revenues decreased 54% to $571.3 million compared to the three months ended June 2019, including a 1% unfavorable impact from foreign currency.
+
+• Outdoor segment revenues decreased 44% to $341.2 million compared to the three months ended June 2019, including a 1% unfavorable impact from foreign currency.
+
+• Direct-to-consumer revenues were down 37% over the 2019 period. E-commerce revenues increased 78% in the current period, including a 3% unfavorable impact from foreign currency. Direct-to-consumer revenues accounted for 51% of net revenues for the three months ended June 2020.
+
+• International revenues decreased 39% compared to the three months ended June 2019, including a 2% unfavorable impact from foreign currency. Greater China revenues were flat in the current period, including a 3% unfavorable impact from foreign currency. International revenues represented 51% of net revenues in the current period.
+
+25 VF Corporation Q1 FY21 Form 10-Q
+
+Table of Contents
+
+• Gross margin decreased 340 basis points to 52.9% compared to the three months ended June 2019, primarily driven by elevated promotional activity to clear excess inventory, partially offset by favorable mix shift toward higher margin businesses and channels.
+
+• Earnings (loss) per share was $(0.71) compared to $0.16 in the 2019 period. The decrease was driven by the negative impact of COVID-19, costs related to specified strategic business decisions and the unfavorable impacts from foreign currency.
+
+  ANALYSIS OF RESULTS OF OPERATIONS  
+
+  Consolidated Statements of Operations  
+
+The following table presents a summary of the changes in net revenues for the three months ended June 2020 from the comparable period in 2019:
+
+  (In millions)                   Three Months Ended June               
+ ────────────────────────────────────────────────────────────────────────
+  Net revenues — 2019             $                            2,050.7  
+  Organic                         (959.2)                               
+  Impact of foreign currency      (15.2)                                
+  Net revenues — 2020             $                            1,076.3  
+
+VF reported a 48% decrease in revenues for the three months ended June 2020 compared to the 2019 period. The revenue decrease was primarily attributable to the negative impact of COVID-19 and included a 1% unfavorable impact from foreign currency. Revenues decreased in both our wholesale and direct-to-consumer channels in the three months ended June 2020. Decreases in the direct-to-consumer channel were driven by declines in our owned retail stores, which were partially offset by significant 
+e-commerce revenue growth during the three months ended June 2020.
+
+Additional details on revenues are provided in the section titled “Information by Reportable Segment.”
+
+The following table presents the percentage relationships to net revenues for components of the Consolidated Statements of Operations:
+
+                                                           Three Months Ended June            
+                                                                              2020      2019  
+ ──────────────────────────────────────────────────────────────────────────────────────────────
+  Gross margin (net revenues less cost of goods sold)                         52.9      56.3  
+  Selling, general and administrative expenses                                75.8      51.6  
+  Operating margin                                                          (22.9)       4.7  
+
+Gross margin decreased 340 basis points in the three months ended June 2020 compared to the 2019 period. Gross margin in the three months ended June 2020 was negatively impacted by elevated promotional activity to clear excess inventory, partially offset by favorable mix shift toward higher margin businesses and channels.
+
+Selling, general and administrative expenses as a percentage of total revenues increased during the three months ended June 2020 compared to the 2019 period, primarily reflecting lower leverage of operating expenses due to decreased revenues as a result of the negative impact of COVID-19. Selling, general and administrative expenses decreased $242.3 million in the three months ended June 2020 compared to the 2019 period, primarily due to cost controls taken in response to COVID-19 and payroll 
+relief from the CARES Act and other governmental packages, partially offset by continued investments in direct-to-consumer and digital strategic growth initiatives. The decrease was also attributable to lower transaction and deal-related costs and lower costs related to the relocation of our global headquarters and certain brands to Denver, Colorado in the three months ended June 2020.
+
+Net interest expense increased $12.4 million during the three months ended June 2020 compared to the 2019 period. The increase in net interest expense in the three months ended June 2020 was primarily due to additional borrowings of long-term debt and lower investment interest rates, partially offset by lower interest rates on borrowings. Total outstanding debt averaged $6.2 billion in the three months ended June 2020 and $2.6 billion in the same period in 2019, with weighted average interest 
+rates of 1.9% and 3.2%, respectively.
+
+Other income (expense), net decreased $43.7 million during the three months ended June 2020 compared to the 2019 period. The decrease was primarily due to $42.4 million expense recorded in the three months ended June 2020 related to the release of currency translation amounts associated with the substantial liquidation of foreign entities in certain countries in South America.
+
+The effective income tax rate for the three months ended June 2020 was 11.2% compared to 24.0% in the 2019 period. The three months ended June 2020 included a net discrete tax expense of $1.8 million, which primarily related to unrecognized tax benefits and interest. The $1.8 million net discrete tax expense in the 2020 period reduced the effective income tax rate by 0.6%. The 2019 period included a discrete tax benefit of $2.0 million related to stock compensation and a discrete tax expense of 
+$2.0 million
+
+VF Corporation Q1 FY21 Form 10-Q26
+
+Table of Contents
+
+related to unrecognized tax benefits and interest. Without discrete items, the effective income tax rate for the three months ended June 2020 decreased by 12.2% compared with the 2019 period primarily due to a higher percentage of income in lower tax rate jurisdictions and losses in the current quarter.
+
+As a result of the above, income (loss) from continuing operations in the three months ended June 2020 was $(277.7) million ($(0.71) per diluted share) compared to $65.3 million ($0.16 per diluted share) in the 2019 period. Refer to additional discussion in the “Information by Reportable Segment” section below.
+
+  Information by Reportable Segment  
+
+VF's reportable segments are: Outdoor, Active and Work. We have included an Other category in the tables below for purposes of reconciliation of revenues and profit (loss), but it is not considered a reportable segment. Included in this Other category are results primarily related to the sale of non-VF products.
+
+Refer to Note 14 to the consolidated financial statements for a summary of results of operations by segment, along with a reconciliation of segment profit (loss) to income (loss) before income taxes.
+
+The following tables present a summary of the changes in segment revenues and profit (loss) in the three months ended June 2020 from the comparable period in 2019:
+
+Segment Revenues:
+
+                                  Three Months Ended June                                                                           
+  (In millions)                   Outdoor                                 Active                    Work        Other      Total    
+ ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Segment revenues — 2019         $                            610.6      $            1,232.1      $           $          $        
+  Organic                         (265.3)                                 (651.8)                   (37.2)      (4.9)      (959.2)  
+  Impact of foreign currency      (4.1)                                   (9.0)                     (2.0)       (0.1)      (15.2)   
+  Segment revenues — 2020         $                            341.2      $              571.3      $           $          $        
+
+Segment Profit (Loss):
+
+                                    Three Months Ended June                                                                           
+  (In millions)                     Outdoor                                   Active                  Work        Other      Total    
+ ──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Segment profit (loss) — 2019      $                             (80.3)      $            307.6      $           $          $        
+  Organic                           (81.9)                                    (299.6)                 (26.8)      (2.0)      (410.3)  
+  Impact of foreign currency        1.5                                       (0.9)                   (0.1)       1.3        1.8      
+  Segment profit (loss) — 2020      $                            (160.7)      $              7.1      $           $          $        
+
+27 VF Corporation Q1 FY21 Form 10-Q
+
+Table of Contents
+
+The following sections discuss the changes in revenues and profitability by segment. For purposes of this analysis, royalty revenues have been included in the wholesale channel for all periods.
+
+Outdoor
+
+                             Three Months Ended June                           
+  (Dollars in millions)                         2020        2019      Percent  
+                                                                      Change   
+ ───────────────────────────────────────────────────────────────────────────────
+  Segment revenues                                 $           $      (44.1)   
+  Segment profit (loss)                      (160.7)      (80.3)               
+  Operating margin                            (47.1)      (13.1)               
+
+The Outdoor segment includes the following brands: The North Face®, Timberland®, Icebreaker®, Smartwool® and Altra®.
+
+Global revenues for Outdoor decreased 44% in the three months ended June 2020 compared to 2019, including a 1% unfavorable impact due to foreign currency. Revenues in the Americas region decreased 51%. Revenues in the Europe region decreased 45%, including a 1% unfavorable impact from foreign currency. Revenues in the Asia-Pacific region decreased 19%, including a 1% unfavorable impact from foreign currency.
+
+Global revenues for The North Face® brand decreased 45% in the three months ended June 2020 compared to the 2019 period. This includes a 1% unfavorable impact from foreign currency in the three months ended June 2020. The decrease was primarily due to the negative impact of COVID-19 in the Americas and Europe regions, partially offset by e-commerce growth.
+
+Global revenues for the Timberland® brand decreased47% in the three months ended June 2020 compared to the 2019 period. The decrease in the three months ended June 2020 was primarily due to the negative impact of COVID-19 and includes an overall 1% unfavorable impact from foreign currency, partially offset by e-commerce growth.
+
+Global direct-to-consumer revenues for Outdoor decreased 32% in the three months ended June 2020 compared to the 2019 period. The decrease was primarily due to the negative impact of COVID-19 and related closures of VF-operated retail stores, partially offset by e-commerce growth across all regions, which increased 97% in the three months ended June 2020, including a 2% unfavorable impact from foreign currency. Global wholesale revenues decreased 53% in the three months ended June 2020 compared 
+to the 2019 period, driven by the negative impact of COVID-19.
+
+Operating margin decreased in the three months ended June 2020 compared to the 2019 period reflecting lower leverage of operating expenses due to decreased revenues, elevated promotional activity, higher product costs and continued investments in direct-to-consumer and digital strategic growth initiatives. The decrease in the three months ended June 2020 was partially offset by a mix-shift to higher margin businesses and channels, cost controls taken in response to COVID-19 and payroll relief 
+from the CARES Act and other governmental packages. The three months ended June 2019 included a gain of approximately $11 million on the sale of office real estate and related assets in connection with the relocation of VF's global headquarters and certain brands to Denver, Colorado.
+
+VF Corporation Q1 FY21 Form 10-Q28
+
+Table of Contents
+
+Active
+
+                             Three Months Ended June                          
+  (Dollars in millions)                         2020       2019      Percent  
+                                                                     Change   
+ ──────────────────────────────────────────────────────────────────────────────
+  Segment revenues                                 $          $      (53.6)   
+  Segment profit                                 7.1      307.6               
+  Operating margin                               1.2       25.0               
+
+The Active segment includes the following brands: Vans®, Kipling®, Napapijri®, Eastpak®, JanSport® and Eagle Creek®.
+
+Global revenues for Active decreased 54% in the three months ended June 2020, compared to the 2019 period, primarily driven by the negative impact of COVID-19. The overall decrease includes a 1% unfavorable impact from foreign currency. Revenues in the Americas region decreased 64%. Revenues in the Europe region decreased 51%, including a 1% unfavorable impact from foreign currency. Revenues in the Asia-Pacific region decreased 9%, with a 3% unfavorable impact from foreign currency.
+
+Vans® brand global revenues decreased 52% in the three months ended June 2020, compared to the 2019 period, including a 1% unfavorable impact from foreign currency. The decrease was primarily due to the negative impact of COVID-19, partially offset by e-commerce growth and growth in Greater China.
+
+Global direct-to-consumer revenues for Active decreased 43% in the three months ended June 2020, compared to the 2019 period, including a 1% unfavorable impact from foreign currency. The decrease in the direct-to-consumer channel was
+
+primarily due to the negative impact of COVID-19 and related closures of VF-operated retail stores, partially offset by e-commerce growth across all regions, which increased 75%, including a 3% unfavorable impact from foreign currency. Wholesale revenues decreased 63% in the three months ended June 2020, primarily due to the negative impact of COVID-19, and included a 1% unfavorable impact from foreign currency.
+
+Operating margin decreased in the three months ended June 2020 compared to the 2019 period reflecting lower leverage of operating expenses due to decreased revenues, elevated promotional activity and continued investments in direct-to-consumer and digital strategic growth initiatives. The decrease in the three months ended June 2020 was partially offset by a mix-shift to higher margin businesses and channels, lower product costs, cost controls taken in response to COVID-19 and payroll relief 
+from the CARES Act and other governmental packages.
+
+Work
+
+                             Three Months Ended June                         
+  (Dollars in millions)                         2020      2019      Percent  
+                                                                    Change   
+ ─────────────────────────────────────────────────────────────────────────────
+  Segment revenues                                 $         $      (19.4)   
+  Segment profit (loss)                       (11.4)      15.5               
+  Operating margin                             (7.0)       7.7               
+
+The Work segment includes the following brands: Dickies® and Timberland PRO®.
+
+Global Work revenues decreased 19% in the three months ended June 2020 compared to the 2019 period, including a 1% unfavorable impact due to foreign currency. The revenue decrease was primarily due to the negative impact of COVID-19. Revenues in the Americas region decreased 20%. Revenues in the Europe region decreased 35%, including a 1% unfavorable impact from foreign currency. Revenues in the Asia-Pacific region decreased 2%, including a 3% unfavorable impact from foreign currency.
+
+Dickies® brand global revenues decreased 16% in the three months ended June 2020, compared to the 2019 period, including a 1% unfavorable impact from foreign currency. The
+
+decrease in the three months ended June 2020 was primarily due to the negative impact of COVID-19 in the Americas region, partially offset by growth in Greater China and e-commerce growth.
+
+Operating margin decreased in the three months ended June 2020 compared to the 2019 period reflecting lower leverage of operating expenses due to decreased revenues and certain higher product costs, partially offset by cost controls taken in response to COVID-19.
+
+29 VF Corporation Q1 FY21 Form 10-Q
+
+Table of Contents
+
+  Reconciliation of Segment Profit (Loss) to Income (Loss) Before Income Taxes  
+
+There are two types of costs necessary to reconcile total segment profit (loss), as discussed in the preceding paragraphs, to consolidated income (loss) from continuing operations before income taxes. These costs are (i) corporate and other expenses, discussed below, and (ii) interest expense, net, which was discussed in the “Consolidated Statements of Operations” section.
+
+                                    Three Months Ended June                         
+  (Dollars in millions)             2020                         2019      Percent  
+                                                                           Change   
+ ────────────────────────────────────────────────────────────────────────────────────
+  Corporate and other expenses      $                            $         (15.7)   
+  Interest expense, net             27.9                         15.6      79.4     
+
+Corporate and other expenses are those that have not been allocated to the segments for internal management reporting, including (i) information systems and shared service costs, (ii) corporate headquarters costs, and (iii) certain other income and expenses. The decrease in the three months ended June 2020 was attributed to cost controls to reduce discretionary spending, lower transaction and deal-related costs and lower costs related to the relocation of our global headquarters and
+
+certain brands to Denver, Colorado in the three months ended June 2020. The decrease was partially offset by a $42.4 million expense recorded in the three months ended June 2020 related to the release of currency translation amounts associated with the substantial liquidation of foreign entities in certain countries in South America and increased costs related to cost optimization activity indirectly related to the strategic review of the Occupational Workwear business.
+
+  International Operations  
+
+International revenues decreased 39% in the three months ended June 2020 compared to the 2019 period primarily due to the negative impact of COVID-19. Foreign currency negatively impacted international revenue growth by 2% in the three months ended June 2020. Revenues in Europe decreased 48% in the three months ended June 2020, including a 1% unfavorable impact from foreign currency in the three months ended June 2020. In the Asia-Pacific region, revenues decreased 12% in the three months ended 
+June 2020. Foreign currency negatively
+
+impacted revenues in the Asia-Pacific region by 3% in the three months ended June 2020. Revenues in Greater China were flat, including a 3% unfavorable impact from foreign currency. Revenues in the Americas (non-U.S.) region decreased 71% in the three months ended June 2020, including a 2% unfavorable impact from foreign currencies. International revenues were 51% and 44% of total revenues in the three-month periods ended June 2020 and 2019, respectively.
+
+  Direct-to-Consumer Operations  
+
+Direct-to-consumer revenues decreased 37% in the three months ended June 2020. The decrease in direct-to-consumer revenues was primarily due to the negative impact of COVID-19 and related closures of VF-operated retail stores. Our e-commerce business grew 78% in the three months ended June 2020, including a 3% unfavorable impact from foreign currency. The e-commerce growth occurred across all regions and partially offset the declines in our other direct-to-consumer operations for the three 
+months ended June 2020. There were 1,376 VF-owned retail stores at June 2020 compared to 1,386 at June 2019. Direct-to-consumer revenues were 51% of total revenues for the three-month period ended June 2020 compared to 42% in the2019 period.
+
+VF Corporation Q1 FY21 Form 10-Q30
+
+Table of Contents
+
+  ANALYSIS OF FINANCIAL CONDITION  
+
+  Consolidated Balance Sheets  
+
+The following discussion refers to significant changes in balances at June 2020 compared to March 2020:
+
+• Decrease in accounts receivable - primarily due to lower wholesale shipments resulting from the negative impact of COVID-19.
+
+•Increase in inventories - primarily due to the seasonality of the business and decreased consumer demand resulting from the negative impact of COVID-19, partially offset by lower inventory purchases as part of our inventory management to ensure proper matching of supply and demand.
+
+• Increase in short-term investments - due to new investments entered into during June 2020.
+
+• Increase in other current assets - primarily due to higher prepaid income taxes.
+
+• Increase in operating lease right-of-use assets - primarily due to the commencement of a new distribution center lease in Europe during the period.
+
+•Decrease in short-term borrowings - due to net repayment of borrowings under the Global Credit Facility using a portion of the net proceeds from the issuance of senior unsecured fixed-rate notes in April 2020.
+
+•Decrease in accounts payable - due to the timing of payments to vendors and an overall reduction in purchases and spending resulting from the COVID-19 impact.
+
+•Increase in long-term debt - due to the issuance of $3.0 billion of senior unsecured fixed-rate notes in April 2020.
+
+• Increase in operating lease liabilities - primarily due to the commencement of a new distribution center lease in Europe during the period.
+
+The following discussion refers to significant changes in balances at June 2020 compared to June 2019:
+
+• Decrease in accounts receivable - primarily due to lower wholesale shipments resulting from the negative impact of COVID-19.
+
+• Increase in short-term investments - due to new inv estments entered into during June 2020.
+
+• Increase in other current assets - primarily due to higher prepaid income taxes.
+
+• Increase in property, plant and equipment - primarily related to capital spending associated with the construction of distribution centers and leasehold improvements in VF's new global headquarters in Denver, Colorado.
+
+•Decrease in goodwill - primarily due to a $323.2 million goodwill impairment charge related to the Timberland reporting unit in the fourth quarter of Fiscal 2020.
+
+• Increase in operating lease right-of-use assets - primarily due to new and renewed retail store leases and a new distribution center lease in Europe that commenced during the period.
+
+• Increase in other assets - primarily due to an increase in deferred tax assets associated with the enactment of certain provisions of Switzerland's Federal Act on Tax Reform and AHV Financing.
+
+• Decrease i n short-term borrowings - due to net repayment of commercial paper borrowings.
+
+•Decrease in accounts payable - driven by the timing of payments to vendors and an overall reduction in purchases and spending resulting from the COVID-19 impact.
+
+•Increase in long-term debt - due to the issuance of $3.0 billion fixed-rate notes in April 2020 and the issuance of €1.0 billion euro-denominated fixed-rate notes in February 2020, partially offset by the full redemption of $500.0 million of VF's outstanding 2021 notes in March 2020.
+
+•Increase in operating lease liabilities - due to new and renewed retail store leases and a new distribution center lease in Europe that commenced during the period.
+
+  Liquidity and Capital Resources  
+
+The financial condition of VF is reflected in the following:
+
+                                     June         March          June  
+  (Dollars in millions)              2020          2020          2019  
+ ───────────────────────────────────────────────────────────────────────
+  Working capital                $4,071.8      $1,518.8      $1,724.2  
+  Current ratio                  3.5 to 1      1.5 to 1      1.9 to 1  
+  Net debt to total capital         63.1%         53.4%         41.7%  
+
+The increase in the current ratio at June 2020 compared to March 2020 was primarily due to a net increase in current assets driven by higher cash balances due to proceeds from long-term debt, as discussed in the "Cash Provided by Financing Activities" section below, higher short-term investments and inventory balances and a net decrease in current liabilities driven by lower short-term borrowings, as discussed in the "Consolidated Balance Sheets" section above. The increase in the current ratio
+
+at June 2020 compared to June 2019 was primarily due to a net increase in current assets driven by higher cash balances due to proceeds from long-term debt, as discussed in the "Cash Provided by Financing Activities" section below and higher short-term investments, as discussed in the "Consolidated Balance Sheets" section above.
+
+31 VF Corporation Q1 FY21 Form 10-Q
+
+Table of Contents
+
+For the ratio of net debt to total capital, net debt is defined as short-term and long-term borrowings, in addition to operating lease liabilities, net of unrestricted cash of VF and its subsidiaries. Total capital is defined as net debt plus stockholders’ equity. The increase in the net debt to total capital ratio at June 2020 compared to both March 2020 and June 2019 was attributed to the increase in long-term debt, as discussed in the "Consolidated Balance Sheets" section above and decreases 
+in stockholders' equity. The increase in the net debt to total capital ratio at June 2020 compared to March 2020 was partially offset by the decrease in short-term borrowings, as discussed in the "Consolidated Balance Sheets" section above. The decrease in stockholders' equity at June 2020 compared to March 2020 was driven by the net loss for the period and payments of dividends. The decrease in stockholders' equity at June 2020 compared to June 2019 was driven by payments of dividends,
+
+share repurchases and stock-based compensation activity, partially offset by net income.
+
+VF’s primary source of liquidity is its expected annual cash flow from operating activities. Cash from operations is typically lower in the first half of the calendar year as inventory builds to support peak sales periods in the second half of the calendar year. Cash provided by operating activities in the second half of the calendar year is substantially higher as inventories are sold and accounts receivable are collected. Additionally, direct-to-consumer sales are highest in the fourth quarter
+of the calendar year. VF's additional sources of liquidity include available borrowing capacity against its Global Credit Facility, remaining net proceeds from recent borrowings of long-term debt and international lines of credit.
+
+In summary, our cash flows from continuing operations were as follows:
+
+                                                    Three Months Ended June                                         
+  (In thousands)                                    2020                                        2019                
+ ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Cash used by operating activities                 $                             (10,454)      $         (76,223)  
+  Cash provided (used) by investing activities                                   (783,241)                   3,784  
+  Cash provided by financing activities                                          1,562,661                 123,853  
+
+Cash Used by Operating Activities
+
+Cash flow related to operating activities is dependent on net income (loss), adjustments to net income (loss) and changes in working capital. The decrease in cash used by operating activities in the three months ended June 2020 compared to June 2019 is primarily due to a decrease in net cash usage for working capital, partially offset by lower earnings for the periods compared.
+
+Cash Provided (Used) by Investing Activities
+
+The increase in cash used by investing activities in the three months ended June 2020 related primarily to purchases of short-term investments of $700.0 million. The three months ended June 2019 included $63.7 million from the sale of office real estate and related assets in connection with the relocation of VF's global headquarters and certain brands to Denver, Colorado. Capital expenditures increased $23.8 million in the three months ended June 2020 compared to the 2019 period.
+
+Cash Provided by Financing Activities
+
+The increase in cash provided by financing activities during the three months ended June 2020 was primarily due to the net proceeds from long-term debt issuance of $3.0 billion fixed-rate notes, which was partially offset by a $624.1 million net decrease in short-term borrowings for the periods compared. The increase was also partially offset by $906.1 million of cash received from Kontoor Brands, net of cash transferred, in the three months ended June 2019.
+
+VF did not purchase shares of its Common Stock in the open market during the three months ended June 2020 or the three months ended June 2019 under the share repurchase program authorized by VF's Board of Directors.
+
+In response to the COVID-19 outbreak and to preserve financial liquidity, VF has made the decision to temporarily pause its share repurchase program. As of the end of June 2020, the Company had $2.8 billion remaining for future repurchases
+
+under its share repurchase program. VF will continue to evaluate its use of capital, giving first priority to enterprise protection and then to business acquisitions and direct shareholder return in the form of dividends and share repurchases.
+
+VF relies on its ability to generate cash flows to finance its ongoing operations. In addition, VF has significant liquidity from its available cash and investment balances and credit facilities. VF maintains a $2.25 billion senior unsecured revolving line of credit (the “Global Credit Facility”) that expires December 2023. VF may request an unlimited number of one year extensions so long as each extension does not cause the remaining life of the Global Credit Facility to exceed five years, 
+subject to stated terms and conditions. The Global Credit Facility may be used to borrow funds in both U.S. dollar and certain non-U.S. dollar currencies, and has a $50.0 million letter of credit sublimit. In addition, the Global Credit Facility supports VF’s U.S. commercial paper program for short-term, seasonal working capital requirements and general corporate purposes, including share repurchases and acquisitions. Outstanding short-term balances may vary from period to period depending on 
+the level of corporate requirements.
+
+In April 2020, VF entered into an amendment to the Global Credit Facility that resulted in certain changes to the restrictive covenants, including an increase to the consolidated indebtedness to consolidated capitalization financial ratio covenant to 70% and a revision to the calculation of consolidated indebtedness to be net of unrestricted cash. As of June 2020, t he covenant calculation includes cash and equivalents and short-term investments, and excludes consolidated operating lease 
+liabilities. In addition, the amendment requires VF and its subsidiaries to maintain minimum liquidity in the form of unrestricted cash and unused financing commitments of not less than $750.0 million. As of June 2020, VF was in compliance with all covenants.
+
+VF has a commercial paper program that allows for borrowings of up to $2.25 billion to the extent that it has borrowing capacity
+
+VF Corporation Q1 FY21 Form 10-Q32
+
+Table of Contents
+
+under the Global Credit Facility. As of June 2020, there were no commercial paper borrowings. Standby letters of credit issued as of June 2020 were $22.0 million, leaving approximately $2.2 billion available for borrowing against the Global Credit Facility at June 2020. Additionally, VF had approximately $2.8 billion of cash and equivalents and short-term investments at June 2020.
+
+VF has $92.1 million of international lines of credit with various banks, which are uncommitted and may be terminated at any time by either VF or the banks. Total outstanding balances under these arrangements were $13.2 million at June 2020.
+
+On April 23, 2020, VF closed its sale of senior unsecured notes including $1.0 billion of 2.050% notes due April 2022, $750.0 million of 2.400% notes due April 2025, $500.0 million of 2.800% notes due April 2027 and $750.0 million of 2.950% notes due April 2030. The net proceeds received by the Company were approximately $2.98 billion. A portion of the net proceeds was used to repay $2.0 billion of outstanding borrowings under the Global Credit Facility resulting from actions taken by VF to 
+strengthen the Company's cash position in response to the COVID-19 pandemic, and the remaining net proceeds will be used for general corporate purposes.
+
+VF’s favorable credit agency ratings allow for access to additional liquidity at competitive rates. At the end of June 2020, VF’s long-term debt ratings were ‘A’ by Standard & Poor’s Ratings Services and ‘A3’ by Moody’s Investors Service, both with 'negative' outlooks, and commercial paper ratings by those rating agencies were ‘A-1’ and ‘Prime-2’, respectively. In April 2020, Standard & Poor's Ratings Services revised VF's credit rating outlook to 'negative' from 'stable' to reflect the risk 
+that extended economic stress from the COVID-19 pandemic on operating performance could result in a downgrade due to prolonged credit measure deterioration. Similarly, in April 2020, Moody's Investor Services also revised VF's credit rating outlook to 'negative'. There have been no subsequent changes in the credit rating outlooks.
+
+None of VF’s long-term debt agreements contain acceleration of maturity clauses based solely on changes in credit ratings. However, if there were a change in control of VF, and as a result of the change in control the 2023, 2028, 2032 and 2037 notes were rated below investment grade by recognized rating
+
+agencies, VF would be obligated to repurchase the notes at 101% of the aggregate principal amount, plus any accrued and unpaid interest, if required to by the respective holders of the notes.
+
+The Company paid a cash dividend of $0.48 per share ($186.7 million) during the three months ended June 2020 and the Company has declared a cash dividend o f $0.48 p er share that is payable in the second quarter of Fiscal 2021. Subject to approval by its Board of Directors, VF intends to continue to pay its regularly scheduled dividend and is not contemplating the suspension of its dividend at this time.
+
+Management’s Discussion and Analysis in the Fiscal 2020 Form 10-K provided a table summarizing VF’s contractual obligations and commercial commitments at the end of Fiscal 2020 that would require the use of funds. As of June 2020, there have been no material changes in the amounts disclosed in the Fiscal 2020 Form 10-K, except as noted below:
+
+• Inventory purchase obligations decreased by approximately $310 million at the end of June 2020 primarily due to the timing of sourcing activities and the impact of COVID-19.
+
+• In addition to operating lease liabilities recorded in VF's Consolidated Balance Sheet, the Company has entered into approximately $200 million of leases that have not yet commenced, including over $150 million related to a distribution center lease that is expected to begin during Fiscal 2021 with a lease term of 15 years.
+
+• VF's required principal payments on long-term debt increased during the period due to the issuance of senior unsecured notes with an aggregate principal value of $3.0 billion.
+
+There continues to be significant uncertainty about the duration and extent of the impact of COVID-19 and we expect there will be a significant negative impact to our Fiscal 2021 cash flows. However, management believes that VF has sufficient liquidity and flexibility to operate during and after the disruptions caused by the COVID-19 pandemic and related governmental actions and regulations and health authority advisories and meet its current and long-term obligations as they become due.
+
+  Recent Accounting Pronouncements  
+
+Refer to Note 2 to VF’s consolidated financial statements for information on recently issued and adopted accounting standards.
+
+  Critical Accounting Policies and Estimates  
+
+Management has chosen accounting policies it considers to be appropriate to accurately and fairly report VF’s operating results and financial position in conformity with generally accepted accounting principles in the United States of America. Our critical accounting policies are applied in a consistent manner. Significant accounting policies are summarized in Note 1 to the consolidated financial statements included in the Fiscal 2020 Form 10-K.
+
+The application of these accounting policies requires management to make estimates and assumptions about future events and apply judgments that affect the reported amounts of assets, liabilities, revenues, expenses, contingent assets and liabilities, and related disclosures. These estimates, assumptions and judgments are based on historical experience, current trends and other factors believed to be reasonable under
+
+the circumstances. Management evaluates these estimates and assumptions, and may retain outside consultants to assist in the evaluation. If actual results ultimately differ from previous estimates, the revisions are included in results of operations in the period in which the actual amounts become known.
+
+The accounting policies that involve the most significant estimates, assumptions and management judgments used in preparation of the consolidated financial statements, or are the most sensitive to change from outside factors, are discussed in Management’s Discussion and Analysis in the Fiscal 2020 Form 10-K.
+
+Except as disclosed in Note 2 to VF's consolidated financial statements, there have been no material changes in VF's accounting policies.
+
+33 VF Corporation Q1 FY21 Form 10-Q
+
+Table of Contents
+
+  Cautionary Statement on Forward-looking Statements  
+
+From time to time, VF may make oral or written statements, including statements in this quarterly report that constitute “forward-looking statements” within the meaning of the federal securities laws. These include statements concerning plans, objectives, projections and expectations relating to VF’s operations or economic performance and assumptions related thereto. Forward-looking statements are made based on management’s expectations and beliefs concerning future events impacting VF and 
+therefore involve a number of risks and uncertainties. Forward-looking statements are not guarantees, and actual results could differ materially from those expressed or implied in the forward-looking statements.
+
+Potential risks and uncertainties that could cause the actual results of operations or financial condition of VF to differ materially from those expressed or implied by forward-looking statements include, but are not limited to: risks arising from the widespread outbreak of an illness or any other communicable disease, or any other public health crisis, including the coronavirus (COVID-19) global pandemic; the level of consumer demand for apparel, footwear and accessories; disruption to VF’s 
+distribution system; the financial strength of VF’s customers; fluctuations in the price, availability and quality of raw materials and contracted products; disruption and volatility in the global capital and credit markets; VF’s response to changing fashion trends, evolving consumer preferences and changing patterns of consumer behavior; intense competition from online retailers; manufacturing and product innovation; increasing pressure on margins; VF’s ability to implement its business 
+strategy; VF’s ability to grow its international and direct-to-consumer businesses; retail industry changes and challenges; VF’s and its vendors’ ability to maintain the strength and security of information technology systems; the risk that
+
+VF’s facilities and systems and those of our third-party service providers may be vulnerable to and unable to anticipate or detect data security breaches and data or financial loss; VF’s ability to properly collect, use, manage and secure consumer and employee data; foreign currency fluctuations; stability of VF’s manufacturing facilities and foreign suppliers; continued use by VF’s suppliers of ethical business practices; VF’s ability to accurately forecast demand for products; continuity of 
+members of VF’s management; VF’s ability to protect trademarks and other intellectual property rights; possible goodwill and other asset impairment; maintenance by VF’s licensees and distributors of the value of VF’s brands; VF’s ability to execute and integrate acquisitions; changes in tax laws and liabilities; legal, regulatory, political and economic risks; the risk of economic uncertainty associated with the exit of the United Kingdom from the European Union (“Brexit”) or any other similar 
+referendums that may be held; adverse or unexpected weather conditions; VF's indebtedness and its ability to obtain financing on favorable terms, if needed, could prevent VF from fulfilling its financial obligations; climate change and increased focus on sustainability issues; and risks associated with the spin-off of our Jeanswear business completed on May 22, 2019, including the risk that VF will not realize all of the expected benefits of the spin-off; the risk that the spin-off will not be 
+tax-free for U.S. federal income tax purposes; and the risk that there will be a loss of synergies from separating the businesses that could negatively impact the balance sheet, profit margins or earnings of VF. More information on potential factors that could affect VF’s financial results is included from time to time in VF’s public reports filed with the Securities and Exchange Commission, including VF’s Annual Report on Form 10-K.
+
+  ITEM 3 — QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK.  
+ ────────────────────────────────────────────────────────────────────────
+
+There have been no significant changes in VF’s market risk exposures from what was disclosed in Item 7A in the Fiscal 2020 Form 10-K.
+
+  ITEM 4 — CONTROLS AND PROCEDURES.  
+ ─────────────────────────────────────
+
+Disclosure controls and procedures:
+
+Under the supervision of the Chief Executive Officer and Chief Financial Officer, a Disclosure Committee comprising various members of management has evaluated the effectiveness of the disclosure controls and procedures at VF and its subsidiaries as of the end of the period covered by this quarterly report (the “Evaluation Date”). Based on this evaluation, the Chief Executive Officer and Chief Financial Officer have concluded as of the Evaluation Date that such controls and procedures were 
+effective.
+
+Changes in internal control over financial reporting:
+
+There have been no changes during the last fiscal quarter that have materially affected, or are reasonably likely to materially affect, VF's internal control over financial reporting. We have not experienced any material impact to our internal controls over financial reporting despite the fact that most of our employees are working remotely due to the COVID-19 pandemic. We are continually monitoring and assessing the COVID-19 situation on our internal controls to minimize the impact on their 
+design and operating effectiveness.
+
+VF Corporation Q1 FY21 Form 10-Q34
+
+Table of Contents
+
+PART II - OTHER INFORMATION
+
+  ITEM 1 — LEGAL PROCEEDINGS.  
+ ───────────────────────────────
+
+Information on VF’s legal proceedings is set forth under Part I, "Item 3. Legal Proceedings” in the Fiscal 2020 Form 10-K. There have been no material changes to the legal proceedings from those described in the Fiscal 2020 Form 10-K.
+
+  ITEM 1A — RISK FACTORS.  
+ ───────────────────────────
+
+In addition to the other information set forth in this report and in our other reports and statements that we file with the Securities and Exchange Commission, including our quarterly reports on Form 10-Q, careful consideration should be given to the factors discussed in Part I, “Item 1A. Risk Factors” in the Fiscal2020 Form 10-K, as updated and supplemented below, which could materially affect our business, financial condition and future results. The risks described in the Fiscal2020 Form 10-K 
+are not the only risks facing the Company. Additional risks and uncertainties not currently known to us or that we currently deem to be immaterial also may materially adversely affect our business, financial condition and operating results.
+
+Other than the risks identified below, there have been no material changes to the risk factors identified in Part I, “Item 1A. Risk Factors” in the Fiscal2020 Form 10-K.
+
+The recent coronavirus (COVID-19) global pandemic has and will continue to materially and adversely affect our business, financial condition and results of operations.
+
+Our business has been, and will continue to be, impacted by the effects of the COVID-19 global pandemic in countries and territories where we operate and our employees, suppliers, third-party service providers, consumers or customers are located. These effects include recommendations or mandates from governmental authorities to close businesses, require staged reopening, limit travel, prevent large gatherings, and require individuals to follow self-quarantine, curfew, shelter-in-place, and 
+stay-at-home orders. The countries and territories in which our products are made, manufactured, distributed or sold are in varying stages of restrictions and reopening to address the COVID-19 pandemic. Certain jurisdictions have begun reopening following precautionary measures such as limited operating hours and limited occupancy levels, only to return to further restrictions and closures in the face of a rising number of COVID-19 cases. There is significant uncertainty around retail store 
+openings and the extent to which stores may remain open if and where there is a resurgence in COVID-19, and the duration and severity of any related restrictions. Some of the impacts of the COVID-19 pandemic on our business have included, and could continue to include, the following:
+
+• significant reductions in demand and significant volatility in demand for our products by consumers and customers resulting in reduced orders, order cancellations, lower revenues, higher discounts, increased inventories, decreased value of inventories and lower gross margins, which continue to be caused by, among other things: the inability of consumers to purchase our products due to illness, quarantine or other restrictions or out of fear of exposure to COVID-19, phased reopenings and 
+reclosures of our owned stores as well as stores of our customers or reduced store hours across the Americas, Europe and Asia Pacific due to a resurgence of COVID-19, significant declines in consumer retail store traffic to stores that have reopened, or financial hardship and unemployment, shifts in demand away from consumer discretionary products and reduced options for marketing and
+
+promotion of products or other restrictions in connection with the COVID-19 pandemic;
+
+• significant uncertainty and turmoil in global economic and financial market conditions causing, among other things: decreased consumer confidence and decreased consumer spending, now and in the mid and long-term, inability to access financing in the credit and capital markets (including the commercial paper market) at reasonable rates (or at all) in the event we, our customers or suppliers find it desirable to do so, increased exposure to fluctuations in foreign currency exchange rates 
+relative to the U.S. Dollar, and volatility in the availability and prices for commodities and raw materials we use for our products and in our supply chain;
+
+• inability to meet our consumers’ and customers’ needs for inventory production and fulfillment due to disruptions in our supply chain and increased costs associated with mitigating the effects of the pandemic caused by, among other things: reduction or loss of workforce due to illness, quarantine or other restrictions or facility closures, scarcity of and/or increased prices for raw materials, scrutiny or embargoing of goods produced in infected areas, and increased freight and logistics 
+costs, expenses and times; failure of third parties on which we rely, including our suppliers, customers, distributors, service providers and commercial banks, to meet their obligations to us or to timely meet those obligations, or significant disruptions in their ability to do so, which may be caused by their own financial or operational difficulties, including business failure or insolvency and collectability of existing receivables;
+
+• significant changes in the conditions in markets in which we do business, including quarantines, governmental or regulatory actions, closures or other restrictions, including voluntarily adopted practices, that limit or close our operating and manufacturing facilities and restrict our employees’ ability to perform necessary business functions, including operations necessary for the design, development, production, distribution, sale, marketing and support of our products and increase the 
+likelihood of litigation;
+
+• increased costs, including increased employee costs, such as for expanded benefits and essential employee incentives, and increased operating costs, including those associated with provision of personal protective equipment and compliance with governmental or public health organization mandates or guidance, allowances or extended payment terms for customers, inventory write-offs, all of which have negatively impacted our profitability;
+
+• increased risk to the health, safety and wellness, including mental and emotional health, of our employees due to the virus or the impact of related restrictions; and
+
+35 VF Corporation Q1 FY21 Form 10-Q
+
+Table of Contents
+
+• amplified data security risks as a result of more employees working remotely, including increased demand on our information technology resources and systems, increased phishing and other cybersecurity attacks, and an increase in the number of points of potential attack, such as laptops and mobile devices.
+
+These impacts have placed, and will continue to place, limitations on our ability to execute our business plan and materially and adversely affect our business, financial condition and results of operations. We continue to monitor the situation
+
+and may adjust our current policies and procedures as more information and guidance become available regarding the evolving situation. The impact of COVID-19 may also exacerbate other risks discussed in the “Risk Factors” section of the Fiscal2020 Form 10-K, any of which could have a material effect on us. The extent of the impact of the COVID-19 pandemic will depend on future developments, including the duration, severity and any resurgences of COVID-19, which are uncertain and cannot be 
+predicted. This situation is dynamic and changing rapidly and additional impacts may arise that we are not aware of currently.
+
+  ITEM 2 — UNREGISTERED SALES OF EQUITY SECURITIES AND USE OF PROCEEDS.  
+ ─────────────────────────────────────────────────────────────────────────
+
+(c)Issuer purchases of equity securities:
+
+The following table sets forth VF's repurchases of our Common Stock during the fiscal quarter ended June 27, 2020 under the share repurchase program authorized by VF’s Board of Directors in 2017.
+
+  First Quarter Fiscal 2021      Total          Weighted        Total Number of          Dollar Value                           
+                                 Number of      Average         Shares Purchased         of Shares that May                     
+                                 Shares         Price Paid      as Part of Publicly      Yet be Purchased                       
+                                 Purchased      per Share       Announced Programs       Under the Program                      
+  March 29 - April 25, 2020      —              $               —                        $                       2,836,975,339  
+  April 26 - May 23, 2020        —              —               —                                                2,836,975,339  
+  May 24 - June 27, 2020         —              —               —                                                2,836,975,339  
+ ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Total                          —                              —                                                               
+
+VF will continue to evaluate future share repurchases, considering funding required for enterprise protection and business acquisitions, VF’s Common Stock price and levels of stock option exercises.
+
+VF Corporation Q1 FY21 Form 10-Q36
+
+Table of Contents
+
+  ITEM 6 — EXHIBITS.  
+ ──────────────────────
+
+  31.1          Certification of Steven E. Rendle, Chairman, President and Chief Executive Officer, pursuant to 15 U.S.C. Section 10A, as adopted pursuant to Section 302 of the Sarbanes-Oxley Act of 2002    
+  31.2          Certification of Scott A. Roe, Executive Vice President and Chief Financial Officer, pursuant to 15 U.S.C. Section 10A, as adopted pursuant to Section 302 of the Sarbanes-Oxley Act of 2002   
+  32.1          Certification of Steven E. Rendle, Chairman, President and Chief Executive Officer, pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002   
+  32.2          Certification of Scott A. Roe, Executive Vice President and Chief Financial Officer, pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002  
+  101. INS      XBRL Instance Document - the instance document does not appear in the Interactive Data File because its XBRL tags are embedded within the Inline XBRL document                                 
+  101. SCH      XBRL Taxonomy Extension Schema Document                                                                                                                                                        
+  101. CAL      XBRL Taxonomy Extension Calculation Linkbase Document                                                                                                                                          
+  101. DEF      XBRL Taxonomy Extension Definition Linkbase Document                                                                                                                                           
+  101. LAB      XBRL Taxonomy Extension Label Linkbase Document                                                                                                                                                
+  101. PRE      XBRL Taxonomy Extension Presentation Linkbase Document                                                                                                                                         
+  104           Cover Page Interactive Data File - the cover page interactive data file does not appear in the Interactive Data File because its XBRL tags are embedded within the Inline XBRL document        
+
+37 VF Corporation Q1 FY21 Form 10-Q
+
+Table of Contents
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
+
+  V.F. CORPORATION                                                               
+  (Registrant)                                                                   
+  By:                   /s/ Scott A. Roe                                         
+                        Scott A. Roe                                             
+                        Executive Vice President and Chief Financial Officer     
+  By:                   /s/ Bryan H. McNeill                                     
+                        Bryan H. McNeill                                         
+                        Vice President, Controller and Chief Accounting Officer  
+
+VF Corporation Q1 FY21 Form 10-Q38
